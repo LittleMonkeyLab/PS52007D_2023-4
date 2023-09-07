@@ -1,0 +1,16 @@
+---
+title: "Lecture03: Didn't touch it!"
+author: "Dr. Gordon Wright"
+date: "December 12, 2022"
+footer: "[🔗 Quarto Lectures](https://www.bbc.co.uk)"
+categories: "Lecture"
+---
+
+# Slide content
+
+## Übersicht des Disputationsvortrags
+
+## References
+
+::: {#refs}
+:::
