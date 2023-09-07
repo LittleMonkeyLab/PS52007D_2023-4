@@ -1,6 +1,0 @@
----
-title: "Welcome to Research Methods in Year 2"
-author: "Dr. Gordon Wright"
----
-
-c

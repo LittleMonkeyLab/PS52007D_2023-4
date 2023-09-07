@@ -1,6 +1,0 @@
----
-title: "index"
-author: "Dr. Gordon Wright"
----
-
-a

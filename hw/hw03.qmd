@@ -1,7 +1,0 @@
----
-title: "IS03: Funky Stuff"
-date: "December 21, 2022"
-categories: "Homework"
----
-
-Add instructions. 
