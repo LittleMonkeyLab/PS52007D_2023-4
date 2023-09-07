@@ -1,0 +1,122 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+  - /downloads
+  - /datasets
+  - /readings
+modulecode: PS52007D
+bibliography:
+- references.bib
+- textbook.bib
+csl: apa7.csl
+citeproc: true
+website:
+  title: Research Methods in Psychology 23/24
+  image: brain_icon.png
+  google-analytics: G-KS294259KL
+  site-url: https://quarto.org
+  repo-url: https://github.com/LittleMonkeyLab/PS52007D_23-24
+  issue-url: https://github.com/LittleMonkeyLab/PS52007D_23-24/issues/new/choose
+  repo-actions:
+  - edit
+  - issue
+  page-footer:
+    left: |
+      Content {{< fa brands creative-commons >}} 2023 by Dr. Gordon Wright <br>
+      All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
+      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+    right: |
+      Made with ❤️, {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      [View the source at {{< fa brands github >}} GitHub](https://github.com/LittleMonkeyLab/PS52007D_23-24)
+    background: '#ececec'
+  navbar:
+    background: '#ececec'
+    logo: images/LMLLOGO.png
+    search: false
+    left:
+    - text: Home
+      file: index.qmd
+    - text: Syllabus
+      file: syllabus.qmd
+    - text: Schedule
+      file: schedule.qmd
+    right:
+    - syllabus.qmd
+    - schedule.qmd
+    - text: "Weeks"
+      file: weeks/index.qmd
+    - text: "Lectures"
+      file: lectures/index.qmd
+    - text: "Labs"
+      file: labs/index.qmd
+    - text: "Extras"
+      file: hw/index.qmd
+    - text: "Mini-Diss"
+      file: Mini-Diss/index.qmd
+  sidebar:
+    background: '#ececec'
+    collapse-level: 1
+    logo: images/LMLLOGO.png
+    style: docked
+    tools:
+    - icon: github
+      href: https://github.com/LittleMonkeyLab/PS52007D_23-24
+      text: GitHub
+    - icon: cloud-fill
+      href: https://learn.gold.ac.uk/course/view.php?id=24607
+      text: ModuleVLE
+    contents:
+    - section: Weeks
+      contents: weeks/*
+    - section: Materials
+    - auto: Lecture**.qmd
+    - auto: Lab**.qmd
+    - section: Independent Study
+    - auto: hw**.qmd
+    - section: Textbook
+    - auto: textbook/*.qmd
+format:
+  html:
+    theme:
+      light:
+      - simplex
+      - LMLweb.scss
+    mainfont: Atkinson Hyperlegible
+    monofont: Fira Code
+    toc: true
+    code-fold: true
+    code-overflow: wrap
+    embed-resources: true
+    standalone: true
+    css:
+    - include/webex.css
+    - LMLstyles.css
+    include-after-body: include/webex.js
+    
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 300px
+  pdf:
+    mainfont: Atkinson Hyperlegible
+    sansfont: Atkinson Hyperlegible
+    monofont: Fira Code
+    toc: false
+    template-partials:
+    - partials/before-body.tex
+    - partials/title.tex
+    include-in-header:
+      text: |
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[L]{today}
+        \fancyhead[C]{Central}
+        \fancyhead[R]{Right}
+        \fancyfoot[R]{PS51234X - Research Methods}
+        \fancyfoot[C]{\thepage}
+        \renewcommand{\headrulewidth}{0.4pt}
+        \renewcommand{\footrulewidth}{0.4pt}
+execute:
+  freeze: true
