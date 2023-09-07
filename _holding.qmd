@@ -1,0 +1,214 @@
+---
+title: webexercises + Snippets holdingroom
+---
+
+::: {.content-hidden unless-format="revealjs"}
+<!-- #1SlidesOnly xPDF+Web-->
+## sectionheader
+content
+:::
+
+::: {.content-hidden unless-format="pdf"}
+<!-- #2PDFOnly xSlides+Web-->
+## sectionheader
+content
+:::
+
+
+::: {.content-visible when-format="html"}
+```{=html}
+<iframe src="https://ps52007dslides.littlemonkeylab.com/lectures/Lecture01/Lecture01.html" width="100%" height="400" style="border:1px solid black;">
+</iframe>
+```
+If you prefer to view the demo in a standalone browser you can do that
+[here](http://ps52007dslides.littlemonkeylab.com/labs/Lab02/Lab02.html){target="_blank"}.
+Check out the [source
+code](https://github.com/quarto-dev/quarto-web/blob/main/docs/presentations/revealjs/demo/index.qmd)
+for them demo to see how the slides were created.
+:::
+
+## Conditional Content x2
+This is visible everywhere.
+
+::: {.content-hidden unless-format="revealjs"}
+<!-- #1SlidesOnly xPDF+Web-->
+## 1SlidesOnly xPDF+Web
+1This is section one on the slides ONLY
+> to be sure
+
+## section 3 - hidden?
+testings
+
+:::
+
+::: {.content-hidden unless-format="pdf"}
+<!-- #2PdfOnly xWeb+Slides-->
+## 2PdfOnly xWeb+Slides
+2This is section one on the pdf ONLY
+> to be sure
+
+## section 3 - hidden?
+testings
+
+:::
+
+::: {.content-visible when-format="html" unless-format="revealjs"}
+<!-- #3Websiteonly XPDF+Slides-->
+## 3Websiteonly XPDF+Slides
+3This is section one on the website ONLY
+> to be sure
+
+## section 3
+testings
+
+:::
+
+::: {.content-hidden when-format="html" unless-format="revealjs"}
+<!-- #4Slides+PDF xWeb-->
+
+## 4Slides+PDF xWeb
+4This is section oNEVER on the web
+> to be sure
+
+## section 3
+testings
+
+:::
+
+::: {.content-hidden when-format="revealjs"}
+<!-- #5PDF+WEB xSlides-->
+## 5PDF+WEB xSlides
+5This is section one on the website ONLY
+> to be sure
+
+## section 3
+testings
+
+:::
+
+::: {.content-hidden when-format="pdf"}
+<!-- #6SLIDES+WEB xpdf -->
+## 6SLIDES+WEB xpdf
+6This is section one on the pdf ONLY
+> for the hell of it
+
+## section 3
+testings
+:::
+
+
+## General section
+
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(webexercises)
+```
+
+## Example Questions
+
+### Fill-In-The-Blanks (`fitb()`)
+
+Create fill-in-the-blank questions using `fitb()`, providing the answer as the first argument.
+
+- 2 + 2 is `r fitb(4)`
+- What is the letter after D? `r fitb("E", ignore_case = TRUE)`
+
+If you want to ignore differences in whitespace use, use the argument `ignore_ws = TRUE` (which is the default) and include spaces in your answer anywhere they could be acceptable.
+
+- How do you load the tidyverse package? `r fitb(c("library( tidyverse )", "library( \"tidyverse\" )", "library( 'tidyverse' )"), ignore_ws = TRUE, width = "20")`
+
+You can set more than one possible correct answer by setting the answers as a vector.
+
+- Type a vowel: `r fitb(c("A", "E", "I", "O" , "U"), ignore_case = TRUE)`
+
+You can use regular expressions to test answers against more complex rules.
+
+- Type any 3 letters: `r fitb("^[a-zA-Z]{3}$", width = 3, regex = TRUE)`
+
+### Multiple Choice (`mcq()`)
+
+- "Never gonna give you up, never gonna: `r mcq(c("let you go", "turn you down", "run away", answer = "let you down"))`"
+- "I `r mcq(c(answer = "bless the rains", "guess it rains", "sense the rain"))` down in Africa" -Toto
+
+### True or False (`torf()`)
+
+- True or False? You can permute values in a vector using `sample()`. `r torf(TRUE)`
+
+### Longer MCQs (`longmcq()`)
+
+When your answers are very long, sometimes a drop-down select box gets formatted oddly. You can use `longmcq()` to deal with this. Since the answers are long, It's probably best to set up the options inside an R chunk with `echo=FALSE`. 
+
+**What is a p-value?**
+
+```{r}
+opts_p <- c(
+   "the probability that the null hypothesis is true",
+   answer = "the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true",
+   "the probability of making an error in your conclusion"
+)
+```
+
+`r longmcq(opts_p)`
+
+**What is true about a 95% confidence interval of the mean?**
+
+```{r}
+# use sample() to randomise the order
+opts_ci <- sample(c(
+  answer = "if you repeated the process many times, 95% of intervals calculated in this way contain the true mean",
+  "there is a 95% probability that the true mean lies within this range",
+  "95% of the data fall within this range"
+))
+```
+
+`r longmcq(opts_ci)`
+
+## Checked sections
+
+Create sections with the class `webex-check` to add a button that hides feedback until it is pressed. Add the class `webex-box` to draw a box around the section (or use your own styles).
+
+::: {.webex-check .webex-box}
+
+I am going to learn a lot: `r torf(TRUE)`
+
+```{r, results='asis'}
+opts <- c(
+   "the probability that the null hypothesis is true",
+   answer = "the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true",
+   "the probability of making an error in your conclusion"
+)
+
+cat("What is a p-value?", longmcq(opts))
+```
+
+:::
+
+
+
+## Hidden solutions and hints
+
+You can fence off a solution area that will be hidden behind a button using `hide()` before the solution and `unhide()` after, each as inline R code.  Pass the text you want to appear on the button to the `hide()` function.
+
+If the solution is a code chunk, instead of using `hide()` and `unhide()`, simply set the `webex.hide` chunk option to TRUE, or set it to the string you wish to display on the button.
+
+**Recreate the scatterplot below, using the built-in `cars` dataset.**
+
+```{r}
+with(cars, plot(speed, dist))
+```
+
+
+`r hide("I need a hint")`
+
+See the documentation for `plot()` (`?plot`)
+
+`r unhide()`
+
+<!-- note: you could also just set webex.hide to TRUE -->
+
+```{r, echo = TRUE, eval = FALSE}
+#| webex.hide: "Click here to see the solution"
+plot(cars$speed, cars$dist)
+```
