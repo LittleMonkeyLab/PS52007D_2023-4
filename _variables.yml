@@ -1,33 +1,32 @@
 author: Andrew Heiss
 
 instructor:
-  name: Dr. Andrew Heiss
-  name_no_title: Andrew Heiss
-  email: aheiss@gsu.edu
-  url: "https://www.andrewheiss.com"
-  twitter: andrewheiss
-  github: andrewheiss
-  office: "357 Andrew Young School"
+  name: Dr. Gordon Wright
+  name_no_title: Gordon Wright
+  email: g.wright@gold.ac.uk
+  url: "www.littlemonkeylab.com"
+  twitter: drdeception
+  github: LittleMonkeyLab
+  office: "Whitehead 200/1"
   contact_policy: >-
-    E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!
-  appointment_url: https://calendly.com/andrewheiss/
+    E-mail is the best ways to get in contact with me. I will try to respond to all course-related e-mails within 24 hours. Any questions relating to the course, coursework or anything not personal/confidential in nature should be submitted to the Course Forum. This benefits all students. So, if you email me about the course, don't be surprised if you get a brief 'Please post this to the Forum' message!   Office hours are advertised on the module VLE page.
 
 course:
-  number: "PMAP 8521"
-  semester: "Spring 2023"
-  days: "Thursdays"
-  time: "7:15–9:45 PM"
-  location: "Aderhold Learning Center 204"
-  dates: "January 9–May 2, 2023"
-  github: "https://www.github.com/andrewheiss/evalsp23.classes.andrewheiss.com"
-  url: "https://evalsp23.classes.andrewheiss.com"
+  number: "PS52007D"
+  semester: "Academic Year 2023-4"
+  days: "Monday Lecture | Tuesday Labs"
+  time: "10am"
+  location: "PSH LG02"
+  dates: "October to March, 2023-4"
+  github: "https://www.github.com/littlemonkeylab/PS52007D_2023-4"
+  url: "https://littlemonkeylab.com/PS52007D_2023-4"
   copyright_year: "2023"
-  slack: "https://gsuevalsp2023.slack.com"
+  # slack: "https://gsuevalsp2023.slack.com"
 
 university:
-  name: Georgia State University
-  url: "https://www.gsu.edu"
+  name: Goldsmiths, University of London
+  url: "https://www.gold.ac.uk"
 
 school:
-  name: Andrew Young School of Policy Studies
-  url: "https://aysps.gsu.edu/"
+  name: Department of Psychology
+  url: "https://gold.ac.uk/psychology"
