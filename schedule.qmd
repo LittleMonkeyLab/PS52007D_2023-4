@@ -1,6 +1,9 @@
 ---
 title: "Schedule"
 format: html
+sidebar: false
+toc: false
+page-layout: full
 listing:
   - id: schedule
     contents:
@@ -105,19 +108,19 @@ d |>
       "", 
       {
         temp_date <- as.Date(date, format="%m/%d/%Y")
-        paste(wday(temp_date, label = TRUE, abbr = FALSE), ", ", format(temp_date, "%d %B"))
+        paste0(wday(temp_date, label = TRUE, abbr = FALSE), ", ", format(temp_date, "%d %B"))
       }
     )
   ) |>
   gt() |>
   text_transform(cells_body(columns = c(prepare)), fn = conditional_transform_fn("magnifying-glass")) |>
-  text_transform(cells_body(columns = c(slides)), fn = conditional_transform_fn("person-chalkboard")) |>
+  text_transform(cells_body(columns = c(lecture)), fn = conditional_transform_fn("person-chalkboard")) |>
   text_transform(cells_body(columns = c(lab)), fn = conditional_transform_fn("users-gear")) |>
   text_transform(cells_body(columns = c(reading)), fn = conditional_transform_fn("bookmark")) |>
   text_transform(cells_body(columns = c(minidiss)), fn = conditional_transform_fn("book-journal-whills")) |>
-  sub_missing(columns = c(date, what, topic, notes), missing_text = "") |>
-  cols_align(align = "center", columns = c(week, prepare, slides, lab, reading, minidiss)) |>
-  cols_align(align = "left", columns = c(date, what, topic, notes)) |>
+  sub_missing(columns = c(date, topic, notes), missing_text = "") |>
+  cols_align(align = "center", columns = c(week, date, prepare, lecture, lab, reading, minidiss)) |>
+  cols_align(align = "left", columns = c(topic, notes)) |>
   tab_style(
     style = cell_borders(
       sides = "right",
@@ -125,7 +128,7 @@ d |>
       style = "solid"
     ),
     locations = cells_body(
-      columns = c(week, prepare, slides, lab, reading, minidiss)
+      columns = c(week, date, topic, prepare, lecture, lab, reading, minidiss)
     )
   ) |>
   # Setting text size for 'notes' column
@@ -137,20 +140,28 @@ d |>
     )
   ) |>
   
+  # Setting column widths for specified columns
   tab_style(
-    style = htmltools::css(font_size = "0.75em"),
+    style = htmltools::css(width = "5%"),
     locations = cells_body(
-      columns = everything()
+      columns = c(prepare, lecture, lab, reading, minidiss)
     )
   ) |>
   
   # Setting column widths for specified columns
   tab_style(
-    style = htmltools::css(width = "5%"),
+    style = htmltools::css(width = "10%"),
     locations = cells_body(
-      columns = c(prepare, slides, lab, reading, minidiss)
+      columns = c(week, date)
     )
-  )
+  ) |>
+  
+  tab_style(
+    style = htmltools::css(font_size = "0.75em"),
+    locations = cells_body(
+      columns = everything()
+    )
+  ) 
 
 ```
 :::
