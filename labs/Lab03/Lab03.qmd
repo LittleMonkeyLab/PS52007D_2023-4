@@ -1,7 +1,0 @@
----
-title: "Lab03: Observation studies"
-date: "December 30, 2022"
-categories: "Lab"
----
-
-Add instructions for lab 3!! 

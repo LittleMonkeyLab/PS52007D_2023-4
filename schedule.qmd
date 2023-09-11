@@ -1,5 +1,6 @@
 ---
 title: "Schedule"
+format: html
 listing:
   - id: schedule
     contents:
@@ -22,14 +23,9 @@ editor: visual
 library(tidyverse)
 library(knitr)
 library(kableExtra)
+library(fontawesome)
 
-withr::with_dir(here::here(), {
-  schedule_nested <- targets::tar_read(schedule_page_data)
-  targets::tar_load(schedule_ical_file)
-})
 
-base_url <- yaml::read_yaml(here::here("_quarto.yml"))$website$`site-url`
-ical_url_absolute <- paste0(base_url, "/", schedule_ical_file)
 ```
 
 Here's your roadmap for the year!
@@ -37,27 +33,22 @@ Here's your roadmap for the year!
 Every class session has four important sections. You should read about
 the details for each using the main menu at the top of this webpage.
 
--   [**Week Overview**](/weeks/index.html)
-    (<i class="fas fa-binoculars"></i>): This page overviews the weeks
+-   [**Prepare**](/prepare/index.html)
+    (<i class="fas fa-magnifying-glass"></i>): This page overviews the
+    weeks
 
--   [**Lectures**](/lectures/index.html)
+-   [**Lecture slides**](/lectures/index.html)
     (<i class="fas fa-chalkboard-teacher"></i>): This page is for
     lectures
 
--   [**Labs**](/labs/index.html) (<i class="fas fa-laptop-code"></i>):
-    This page is about labs
+-   [**Lab activities**](/reading/index.html)
+    (<i class="fas fa-users-gear"></i>): This page is about labs
 
--   [**Extras**](/Extras/index.html) (<i class="fas fa-gift"></i>): This
-    page is about Extras
-
--   [**Coursework**](/coursework/index.html)
-    (<i class="fas fa-pencil-ruler"></i>): This page contains the
-    instructions for either the session exercise (1--3 brief tasks), or
-    for the two mini projects and final project. **Assignments are due
-    by 11:59 PM on the day they're listed.**
+-   [**Reading**](/Extras/index.html) (<i class="fas fa-bookmark"></i>):
+    This page is about Extras
 
 -   [**Mini-Diss**](/Mini-Diss/index.html)
-    (<i class="fas fa-book-bookmark"></i>): This page contains an
+    (<i class="fas fa-book-journal-whills"></i>): This page contains an
     interactive lesson that teaches you the principles and code you need
     to know. Go through these after doing the content.
 
@@ -67,85 +58,99 @@ the details for each using the main menu at the top of this webpage.
 ::: card-body
 **tl;dr**: You should follow this general process each week:
 
--   Check out the overview (<i class="fas fa-binoculars"></i>) page and
-    do any thinking/reading/prep suggested if you have the chance
+-   Check out the overview (<i class="fas fa-magnifying-glass"></i>)
+    page and do any thinking/reading/prep suggested if you have the
+    chance
 -   Come to the lecture (<i class="fas fa-chalkboard-teacher"></i>) page
--   Attend the lab (<i class="fas fa-laptop-code"></i>) and get cracking
--   Complete the coursework (<i class="fas fa-pencil-ruler"></i>) on
-    time
+-   Attend the lab (<i class="fas fa-users-gear"></i>) and get cracking
 -   Use the plentiful Mini-Diss resources
-    (<i class="fas fa-book-bookmark"></i>) to help you smash the MD
--   Use the extras (<i class="fas fa-gift"></i>) to keep you in tip top
-    spirit
+    (<i class="fas fa-book-journal-whills"></i>) to help you smash the
+    MD
 :::
 :::
 :::
 :::
-
-------------------------------------------------------------------------
 
 ## Weekly schedule
 
-::: {#schedule}
-:::
+```{r iinstall, echo=FALSE, message=FALSE, warning=FALSE}
+library(googlesheets4)
+library(gt)
+library(tidyverse)
+library(lubridate)
+library(dplyr)
+gs4_deauth()
+d <- read_sheet("https://docs.google.com/spreadsheets/d/1C03QNEp_foGSRXncI68DKEpIC1NqLDhv1TffH3hQCA8/edit?usp=sharing", sheet = "draft1")
+```
 
-## Coursework
-
-Here are some assessment items
-
-### Homework
-
-2 hrs per week
-
-### Labs
-
-2 hrs per week
-
-### Exams
-
-2 hrs face to face
-
-::: callout-tip
-## Subscribe!
-
-You can subscribe to this calendar URL in Outlook, Google Calendar, or
-Apple Calendar:
-
-::: grid
-::: {.g-col-12 .g-col-md-2}
-<p class="download-btn">
-
-<a class="btn btn-danger btn-sm" href="/`r schedule_ical_file`" role="button">{{< fa calendar-alt >}}
-Download</a>
-
-</p>
-:::
-
-::: {.g-col-12 .g-col-md-10}
-<p><input class="form-control" type="text" value="`r ical_url_absolute`" onclick="this.select()" readonly></p>
-:::
-:::
-:::
-
-```{r build-table, include=FALSE}
-show_table <- function(group_id) {
-  # Add a heading
-  cat(as.character(paste("\n\n###", schedule_nested$group[[group_id]], "\n\n")))
-  
-  # Make the table
-  tbl <- schedule_nested$data[[group_id]] %>% 
-    kbl(escape = FALSE, align = "rlcccc", table.attr = 'class="schedule-table"') %>% 
-    kable_styling() %>% 
-    column_spec(1, width = "20%", extra_css = "padding-right: 20px;") %>% 
-    column_spec(2, width = "48%") %>% 
-    column_spec(3:6, width = "8%")
-  
-  cat(tbl)
+::: column-screen-right
+```{r transformations, echo=FALSE}
+# Function for conditional text transformation
+conditional_transform_fn <- function(icon_name) {
+  function(x) {
+    ifelse(is.na(x) | x == "", "",
+           ifelse(grepl("FUTURE", x), fontawesome::fa(icon_name, fill_opacity = 0.25),
+                  glue::glue("<a href = {'http://researchmethods.littlemonkeylab.com'}{x}{'.html'}>{fontawesome::fa(icon_name)}</a>")
+           )
+    )
+  }
 }
-```
 
-```{r show-table, echo=FALSE, results="asis"}
-walk(seq(1, nrow(schedule_nested)), ~show_table(.x))
-```
+# Main Code
+d |>
+  mutate(
+    week = ifelse(is.na(week), "", week),
+    date = ifelse(
+      is.na(date) | date == "", 
+      "", 
+      {
+        temp_date <- as.Date(date, format="%m/%d/%Y")
+        paste(wday(temp_date, label = TRUE, abbr = FALSE), ", ", format(temp_date, "%d %B"))
+      }
+    )
+  ) |>
+  gt() |>
+  text_transform(cells_body(columns = c(prepare)), fn = conditional_transform_fn("magnifying-glass")) |>
+  text_transform(cells_body(columns = c(slides)), fn = conditional_transform_fn("person-chalkboard")) |>
+  text_transform(cells_body(columns = c(lab)), fn = conditional_transform_fn("users-gear")) |>
+  text_transform(cells_body(columns = c(reading)), fn = conditional_transform_fn("bookmark")) |>
+  text_transform(cells_body(columns = c(minidiss)), fn = conditional_transform_fn("book-journal-whills")) |>
+  sub_missing(columns = c(date, what, topic, notes), missing_text = "") |>
+  cols_align(align = "center", columns = c(week, prepare, slides, lab, reading, minidiss)) |>
+  cols_align(align = "left", columns = c(date, what, topic, notes)) |>
+  tab_style(
+    style = cell_borders(
+      sides = "right",
+      color = "#D3D3D3",
+      style = "solid"
+    ),
+    locations = cells_body(
+      columns = c(week, prepare, slides, lab, reading, minidiss)
+    )
+  ) |>
+  # Setting text size for 'notes' column
+  
+  tab_style(
+    style = htmltools::css(font_size = "0.9em"),
+    locations = cells_body(
+      columns = c(notes)
+    )
+  ) |>
+  
+  tab_style(
+    style = htmltools::css(font_size = "0.75em"),
+    locations = cells_body(
+      columns = everything()
+    )
+  ) |>
+  
+  # Setting column widths for specified columns
+  tab_style(
+    style = htmltools::css(width = "5%"),
+    locations = cells_body(
+      columns = c(prepare, slides, lab, reading, minidiss)
+    )
+  )
 
+```
 :::

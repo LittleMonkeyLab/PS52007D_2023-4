@@ -20,13 +20,11 @@ course-logo: images/LMLLOGO.png
 
 -   {{< fa user >}}  
     [{{< var instructor.name >}}](%7B%7B%3C%20var%20instructor.url%20%3E%7D%7D)
--   {{< fa university >}}   {{< var instructor.office >}}
+-   {{< fa university >}}   Office: {{< var instructor.office >}}
 -   {{< fa envelope >}}  
-    <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
+    [{{< var instructor.email >}}](mailto:g.wright@gold.ac.uk)
 -   {{< fa brands twitter >}}  
     [{{< var instructor.twitter >}}](https://www.twitter.com/%7B%7B%3C%20var%20instructor.twitter%20%3E%7D%7D)
--   {{< fa calendar-check >}}   [Schedule an
-    appointment](%7B%7B%3C%20var%20instructor.appointment_url%20%3E%7D%7D)
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -34,7 +32,7 @@ course-logo: images/LMLLOGO.png
 
 -   {{< fa calendar >}}   {{< var course.days >}}
 -   {{< fa calendar-alt >}}   {{< var course.dates >}}
--   {{< fa clock >}}   {{< var course.time >}}
+-   {{< fa clock >}}   Office Hours: TBC
 -   {{< fa map >}}   {{< var course.location >}}
 :::
 
@@ -46,4 +44,7 @@ course-logo: images/LMLLOGO.png
 :::
 :::
 
-s
+[{{< fa folder >}}](www.bbc.co.uk) {{< fa folder >}}
+
+{{< fa chess-pawn >}}
+{{< fa folder >}} {{< fa folder >}}

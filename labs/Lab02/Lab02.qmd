@@ -1,7 +1,0 @@
----
-title: "Lab02: Observation studies"
-date: "December 23, 2022"
-categories: "Lab"
----
-
-Add instructions for Lab 02
