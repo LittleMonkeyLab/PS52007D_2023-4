@@ -2,7 +2,8 @@
 
 // fonts
 @import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
-@import url('https://fonts.googleapis.com/css2?family=Delius+Unicase&display=swap');
+@import 'https://fonts.googleapis.com/css2?family=Fira+Code&display=swap';
+@import url(https://use.fontawesome.com/releases/v6.1.1/css/all.css);
 
 // Custom colours and variables
 
@@ -10,15 +11,18 @@ $link-color: #4f7c8d;
 $jet: #131516;
 $accent: #107895;
 $accent2: #9a2515;
-$right-arrow: "\2192"; // Unicode character for right arrow
-$spyglass: "\2315"; // Unicode character for spyglass
-$font-family-sans-serif: "Atkinson Hyperlegible", sans-serif;
+$accent3: #FF000D;
+
+/* Text emphasis colours by Gordon */
+$highlight: Yellow;
+
+$font-family-sans-serif: "Atkinson Hyperlegible";
+$font-family-monospace: "Fira Code";
 $presentation-heading-color: #004a82;
 $presentation-title-slide-text-align: "left";
 $code-block-font-size: 0.9em;
 
 $border-color-left: #0dcaf0 !default;
-$icon: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">  <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/></svg>') !default;
 
 $background-color: #bfe4eb !default;
 
@@ -26,6 +30,7 @@ $background-color: #bfe4eb !default;
 
 // general
 $body-bg: #fff;
+$title-color: #fff;
 $body-color: #000000;
 $link-color: #88398a;
 $presentation-font-size-root: 35px;
@@ -47,6 +52,7 @@ h3 {
   font-size: 1.1em;
 }
 
+/* .takeaway on a h2 and the whole page changes */
 .reveal .takeaway h2 {
   font-size: 1.7em;
   font-weight: normal;
@@ -203,7 +209,7 @@ h3 {
   background-color: $body-bg;
   position: absolute;
   top: 0%;
-  left: 5%;
+  left: 0%;
   width: 5%;
   font-size: 0.5em;
 }
@@ -236,16 +242,7 @@ h3 {
   text-align: center;
 }
 
-.shout { /*-- note: also not final (or accessible)! Just wanted something that isn't normal text - altering Header3 could also work here --*/
-  color: #FF744E;
-  font-size: 1.5em;
-  font-weight: bold;
-}
 
-.question {
-  font-color: #FF744E;
-  font-style: italic;
-}
 
 .reveal .slide .demo {
   border: 3px solid #c7cfcf;
@@ -270,7 +267,7 @@ h3 {
 .reveal .slide-logo {
 bottom: 0;
 right: 30px !important;
-max-height: 150px !important;
+max-height: 50px !important;
 height: auto !important;
 width: auto !important;
 }
@@ -302,6 +299,7 @@ reveal .calloutphoto {
   right: 10px !important;
   top: unset !important;
   color: $body-color !important;
+  font-size: 1em !important;
 }
 
 iframe.reveal-demo {
@@ -324,26 +322,7 @@ iframe.reveal-demo {
   bottom: 100px;
 }
 
-div.callout-tweet.callout {
-  border-left-color: $border-color-left;
-}
 
-div.callout-tweet.callout-style-default>.callout-header {
-  background-color: $background-color;
-}
-
-.callout-tweet.icon .callout-icon {
-  display: unset !important;
-}
-
-div.callout-tweet.icon.callout-captioned .callout-icon::before {
-  background-image: $icon;
-}
-
-.callout-tweet.icon.callout-style-default div.callout-icon-container {
-  padding-top: 0.1em;
-  padding-right: 0.35em;
-}
 
 // title and headings
 
@@ -352,14 +331,14 @@ div.callout-tweet.icon.callout-captioned .callout-icon::before {
 }
 
 .title {
-  color: $body-color;
+  color: $title-color;
   font-size: 1.4em;
   font-weight: 350;
   line-height: 0;
 }
 
 .subtitle {
-  color: $accent;
+  color: $title-color;
   font-style: italic;
 }
 
@@ -373,7 +352,7 @@ div.callout-tweet.icon.callout-captioned .callout-icon::before {
 
 .author,
 .quarto-title-author-name {
-  color: $body-color;
+  color: $title-color;
 }
 
 .quarto-title-authors {
@@ -410,56 +389,31 @@ div.callout-tweet.icon.callout-captioned .callout-icon::before {
 
 // alerts etc.
 
+.shout { /*-- note: also not final (or accessible)! Just wanted something that isn't normal text - altering Header3 could also work here --*/
+  color:  $accent3;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.question {
+  font-color: springgreen;
+  font-style: italic;
+}
 .alert {
-  color: $accent2;
+  color: $accent3;
 }
 
-.fg {
-  color: var(--col, $jet);
+.takeaway {
+  background-color: plum;
 }
 
-.bg {
-  background-color: var(--col, #fff);
-  padding: 0.1em;
-  border-radius: 5px;
-  display: inline-block;
+.highlight {
+  background-color: $highlight;
 }
+
+
 
 // lists
-
-// Unordered lists
-
-.reveal ul {
-  font-weight: 300;
-  padding-left: 16px;
-
-  li::marker {
-    color: mix($accent, white, 70%);
-  }
-}
-
-.reveal ul ul {
-  list-style: none;
-}
-  li:before {
-    content: $right-arrow;
-    color: mix($accent, white, 60%);
-    display: inline-block;
-    width: 1em;
-    margin-left: -1em;
-    margin-right: 0.5em;
-  }
-
-
-// Ordered lists
-
-.reveal ol {
-  font-weight: 300;
-  padding-left: 16px;
-}
-  li::marker {
-    color: $accent;
-  }
 
 
 // Move "hamburger" menu button to top right
@@ -499,9 +453,9 @@ div.callout-tweet.icon.callout-captioned .callout-icon::before {
 
 .button {
   display: inline-block;
-  padding: 6px 12px;
+  padding: 6px 8px;
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 400;
   line-height: 1.42857143;
   text-align: center;
@@ -521,7 +475,3 @@ div.callout-tweet.icon.callout-captioned .callout-icon::before {
   border-color: #0056b3;
 }
 
-.button::before {
-  content: $spyglass ;
-  margin-right: 5px;
-}

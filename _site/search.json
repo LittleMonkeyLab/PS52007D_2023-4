@@ -149,16 +149,16 @@
   {
     "objectID": "content/lectures/lecture03/lecture03.slides.html#übersicht-des-disputationsvortrags",
     "href": "content/lectures/lecture03/lecture03.slides.html#übersicht-des-disputationsvortrags",
-    "title": "Lecture03: Didn’t touch it!",
+    "title": "Lecture 03:  Didn’t touch it!",
     "section": "Übersicht des Disputationsvortrags",
-    "text": "Übersicht des Disputationsvortrags"
+    "text": "Übersicht des Disputationsvortrags\nHere is some content along the top of the page\n.shout .alert .fg .bg .button .button-success .takeaway\nordered list\n\none\ntwo\nthree"
   },
   {
     "objectID": "content/lectures/lecture03/lecture03.slides.html#references",
     "href": "content/lectures/lecture03/lecture03.slides.html#references",
-    "title": "Lecture03: Didn’t touch it!",
+    "title": "Lecture 03:  Didn’t touch it!",
     "section": "References",
-    "text": "References\n\n\n\n\n\n🔗 Quarto Lectures"
+    "text": "References\n\n\n\n🔗 VLE\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155"
   },
   {
     "objectID": "content/lectures/lecture02/lecture02.html",
@@ -172,14 +172,14 @@
     "href": "content/lectures/index.html",
     "title": "Welcome to Research Methods in Year 2",
     "section": "",
-    "text": "c"
+    "text": "text\n\n\n\ntest\n\n\n\ntestings"
   },
   {
     "objectID": "content/lectures/lecture01/lecture01.html",
     "href": "content/lectures/lecture01/lecture01.html",
     "title": "Lecture01: Psych Science",
     "section": "",
-    "text": "Bird et al. (2010)\nwho says (wright201?)\n\n\nshout question takeaway\nquote-source\nmidi\nlarge\n\nkapow!!\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet with icon\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout\n\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout\n\n\n\n\n\nHere are my tests of callout blocks.\nSee the documentation.\n\n\n\n\n\n\n\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDo do this!\n\n\n\n\n\n\n\n\n\n\n\nTip With Caption\n\n\n\nThis is an example of a callout with a caption.\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! minimal appearance.\n\n\n\n\n\n\n\n\n\n\nHere we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here.\n\n\n\n\n\n\n\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary\n\n\n\n\n\n\n\n\n\ntext - div cleft\n\n\ntext - div cright\n\n\n\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here.\n\n\n\n\n\n\n\nThe Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo\n\n\n\n\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3\n\n\n\n\n\n\nItem 1\nItem 2\nItem 3\n\n\n\n\n\nWrite mathematical symbols and equations using Latex.\n\n\n\n\n\n\n\n\n\n\nVallout note\n\n\n\n\n\n\n\nLeft column\n\nRight column\n\n\n\n\n\n\n\nI would like to have text here\nSentence becomes longer, it should automatically stay in their column\n\nand here\nMore text\n\n\n\n\n\nmonkeys\npuppies\n\n\n\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML"
+    "text": "Bird et al. (2010)\nwho says (wright201?)\n\n\nshout question takeaway\nquote-source\nmidi\nlarge\n\nkapow!!\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet with icon\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout\n\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout\n\n\n\n\n\nHere are my tests of callout blocks.\nSee the documentation.\n\n\n\n\n\n\n\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDo do this!\n\n\n\n\n\n\n\n\n\n\n\nTip With Caption\n\n\n\nThis is an example of a callout with a caption.\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! minimal appearance.\n\n\n\n\n\n\n\n\n\n\nHere we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here.\n\n\n\n\n\n\n\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary\n\n\n\n\n\n\n\n\n\ntext - div cleft\n\n\ntext - div cright\n\n\n\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here.\n\n\n\n\n\n\n\nThe Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo\n\n\n\n\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3\n\n\n\n\n\n\nItem 1\nItem 2\nItem 3\n\n\n\n\n\nWrite mathematical symbols and equations using Latex.\n\n\n\n\n\n\n\n\n\n\nVallout note\n\n\n\n\n\n\n\nLeft column\n\nRight column\n\n\n\n\n\n\n\nI would like to have text here\nSentence becomes longer, it should automatically stay in their column\n\nand here\nMore text\n\n\n\n\n\nmonkeys\npuppies\n\n\n\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n\njust stuff\n\n\n\njust stuff {.takeaway}\n\n\n\n\nquoteboxt\n\nquoteboxtl\n\n\n\nHere’s some good old text\n\ncleft stuff Gullibility has started to be studied due to the fact it gives valuable insights into human behaviour, cognition, and decision-making processes. Gullibility study has practical applications within different fields, such as psychology, sociology, marketing, and public policy. The study of factors affecting gullibility has also been conducted to create a precise psychological profile of individuals prone to being gullible. Therefore, emotional intelligence (Baker et al., 2013; Young et al., 2015), social intelligence (Hart et al., 2021; Teunisse et al., 2020) trust (Baker et al., 2013; Hamby et al., 2021; Rotter, 1967; Rotter, 1980; Teunisse et al., 2020: Yamagishi et al., 1999), personality factors (Begue et al., 2015; George et al., 2020; Gore et al., 2012; Peace et al., 2011; Teunisse et al., 2020), facial representation (Jaeger & Meral, 2022) and overall poor decision-making mechanisms have been included. The benefit of studying gullibility lies in the need to determine and safeguard individuals who are likely to fall for deceptive speech, online as well as face to face.\n\n\ncright stuff\ntrust (Baker et al., 2013; Hamby et al., 2021; Rotter, 1967; Rotter, 1980; Teunisse et al., 2020: Yamagishi et al., 1999), personality factors (Begue et al., 2015; George et al., 2020; Gore et al., 2012; Peace et al., 2011; Teunisse et al., 2020), facial representation (Jaeger & Meral, 2022) and overall poor decision-making mechanisms have been included. The benefit of studying gullibility lies in the need to determine and safeguard individuals who are likely to fall for deceptive speech, online as well as face to face.\n\n\n\n\n\nBird, G., Silani, G., Brindley, R., White, S., Frith, U., & Singer, T. (2010). Empathic brain responses in insula are modulated by levels of alexithymia but not autism. Brain, 133(5), 1515–1525. https://doi.org/10.1093/brain/awq060"
   },
   {
     "objectID": "content/lectures/lecture01/lecture01.html#css-tests",
@@ -284,7 +284,7 @@
     "href": "content/lectures/lecture01/lecture01.html#refs",
     "title": "Lecture01: Psych Science",
     "section": "Refs",
-    "text": "Refs\n\n\n\n\nBird, G., Silani, G., Brindley, R., White, S., Frith, U., & Singer, T. (2010). Empathic brain responses in insula are modulated by levels of alexithymia but not autism. Brain, 133(5), 1515–1525. https://doi.org/10.1093/brain/awq060"
+    "text": "Refs"
   },
   {
     "objectID": "content/lectures/lecture01/lecture01.slides.html#css-tests",
@@ -403,7 +403,7 @@
     "href": "content/lectures/lecture01/lecture01.slides.html#refs",
     "title": "Lecture01: Psych Science",
     "section": "Refs",
-    "text": "Refs\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website\n\n\n\nBird, G., Silani, G., Brindley, R., White, S., Frith, U., & Singer, T. (2010). Empathic brain responses in insula are modulated by levels of alexithymia but not autism. Brain, 133(5), 1515–1525. https://doi.org/10.1093/brain/awq060"
+    "text": "Refs"
   },
   {
     "objectID": "content/minidiss/index.html",
@@ -537,5 +537,530 @@
     "title": "Prepare for WeekXX",
     "section": "",
     "text": "Upcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#subtitle-of-lecture",
+    "href": "content/lectures/index.slides.html#subtitle-of-lecture",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "subtitle of lecture",
+    "text": "subtitle of lecture\ntext"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#slide-2",
+    "href": "content/lectures/index.slides.html#slide-2",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Slide 2",
+    "text": "Slide 2\ntest"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#slide-three",
+    "href": "content/lectures/index.slides.html#slide-three",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Slide three",
+    "text": "Slide three\ntestings"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#column-layout---source",
+    "href": "content/lectures/index.slides.html#column-layout---source",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "2 column layout - source",
+    "text": "2 column layout - source\n\n\n\noriginal stuff\n\n\nStuff"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#column-layout--visual",
+    "href": "content/lectures/index.slides.html#column-layout--visual",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "2 column layout -visual",
+    "text": "2 column layout -visual\n\n\ninitial stuff\n\nmore stuff"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#column-layout---source-1",
+    "href": "content/lectures/index.slides.html#column-layout---source-1",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "3 column layout - source",
+    "text": "3 column layout - source"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#columns",
+    "href": "content/lectures/index.slides.html#columns",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Columns",
+    "text": "Columns\n::: columns ::: {.column width=“30%”}  :::\n\n\n(greenspan?) 2009 model is a cornerstone in gullibility research and even inspired the creation of the only existing gullibility scale (Teunisse et al., 2020). But let’s not mince words: the model lacks empirical backbone, having never been subjected to validity or reliability tests. Greenspan identifies four key players in the drama of gullibility: situation, cognition, personality, and state. Situation is all about the deceiver’s skill in crafting a compelling tale. Cognition tackles the victim’s mental state—think cognitive load or mood. State zeroes in on the victim’s physical and mental readiness to critically engage, while personality zooms in on trust and agreeableness."
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#content",
+    "href": "content/lectures/index.slides.html#content",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "🗣 Content",
+    "text": "🗣 Content\nThis is what will be discussed today.\nAlways good to explain the agenda so audience can have clear expectations.\n\n\nTherse are animated bullet points:\n\n\n   📜 Point one\n   🧫 Point two\n   🚀 Point three\n\n\n\n…You can use Font Awesome symbols as well r fa(\"font-awesome\", fill = \"steelblue\")."
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#fragments",
+    "href": "content/lectures/index.slides.html#fragments",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Fragments",
+    "text": "Fragments\nIncremental text display and animation with fragments:\n\n\nFade in\n\n\nSlide up while fading in\n\n\nSlide left while fading in\n\n\nFade in then semi out\n\n\n\nStrike\n\n\nHighlight red\n\n\nLearn more: Fragments"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#chalkboard",
+    "href": "content/lectures/index.slides.html#chalkboard",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Chalkboard",
+    "text": "Chalkboard\n\nFree form drawing and slide annotations\n\n\n\n\n\n\n\nUse the chalkboard button at the bottom left of the slide to toggle the chalkboard.\n\n\n\n\n\n\n\n\n\nUse the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.\n\n\n\nYou can also press b to toggle the chalkboard or c to toggle the notes canvas.\n\nLearn more: Chalkboard"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#slide-backgrounds",
+    "href": "content/lectures/index.slides.html#slide-backgrounds",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Slide Backgrounds",
+    "text": "Slide Backgrounds\nSet the background attribute on a slide to change the background color (all CSS color formats are supported).\nDifferent background transitions are available via the background-transition option.\n\nLearn more: Slide Backgrounds"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#media-backgrounds",
+    "href": "content/lectures/index.slides.html#media-backgrounds",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Media Backgrounds",
+    "text": "Media Backgrounds\nYou can also use the following as a slide background:\n\nAn image: background-image\nA video: background-video\nAn iframe: background-iframe\n\n\nLearn more: Media Backgrounds"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#absolute-position",
+    "href": "content/lectures/index.slides.html#absolute-position",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Absolute Position",
+    "text": "Absolute Position\nPosition images or other elements at precise locations\n\n\n\nLearn more: Absolute Position"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#auto-animate",
+    "href": "content/lectures/index.slides.html#auto-animate",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Auto-Animate",
+    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#auto-animate-1",
+    "href": "content/lectures/index.slides.html#auto-animate-1",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Auto-Animate",
+    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate\n\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#column-layout---source-2",
+    "href": "content/lectures/index.slides.html#column-layout---source-2",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "3 column layout - source",
+    "text": "3 column layout - source"
+  },
+  {
+    "objectID": "content/lectures/index.slides.html#columns-1",
+    "href": "content/lectures/index.slides.html#columns-1",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Columns",
+    "text": "Columns\n\n\n\n\n\n\n\n\nGreenspan’s 2009 model is a cornerstone in gullibility research and even inspired the creation of the only existing gullibility scale (Teunisse et al., 2020)."
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#takeaway",
+    "href": "content/lectures/lecture01/lecture01.slides.html#takeaway",
+    "title": "Lecture01: Psych Science",
+    "section": "takeaway",
+    "text": "takeaway\njust stuff"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#takeaway-1",
+    "href": "content/lectures/lecture01/lecture01.slides.html#takeaway-1",
+    "title": "Lecture01: Psych Science",
+    "section": "takeaway",
+    "text": "takeaway\njust stuff {.takeaway}"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#quoteboxes",
+    "href": "content/lectures/lecture01/lecture01.slides.html#quoteboxes",
+    "title": "Lecture01: Psych Science",
+    "section": "Quoteboxes",
+    "text": "Quoteboxes\n\nquoteboxt\n\nquoteboxtl"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#cleft-cright",
+    "href": "content/lectures/lecture01/lecture01.slides.html#cleft-cright",
+    "title": "Lecture01: Psych Science",
+    "section": "cleft cright",
+    "text": "cleft cright\nHere’s some good old text\n\ncleft stuff Gullibility has started to be studied due to the fact it gives valuable insights into human behaviour, cognition, and decision-making processes. Gullibility study has practical applications within different fields, such as psychology, sociology, marketing, and public policy. The study of factors affecting gullibility has also been conducted to create a precise psychological profile of individuals prone to being gullible. Therefore, emotional intelligence (Baker et al., 2013; Young et al., 2015), social intelligence (Hart et al., 2021; Teunisse et al., 2020) trust (Baker et al., 2013; Hamby et al., 2021; Rotter, 1967; Rotter, 1980; Teunisse et al., 2020: Yamagishi et al., 1999), personality factors (Begue et al., 2015; George et al., 2020; Gore et al., 2012; Peace et al., 2011; Teunisse et al., 2020), facial representation (Jaeger & Meral, 2022) and overall poor decision-making mechanisms have been included. The benefit of studying gullibility lies in the need to determine and safeguard individuals who are likely to fall for deceptive speech, online as well as face to face.\n\n\ncright stuff\ntrust (Baker et al., 2013; Hamby et al., 2021; Rotter, 1967; Rotter, 1980; Teunisse et al., 2020: Yamagishi et al., 1999), personality factors (Begue et al., 2015; George et al., 2020; Gore et al., 2012; Peace et al., 2011; Teunisse et al., 2020), facial representation (Jaeger & Meral, 2022) and overall poor decision-making mechanisms have been included. The benefit of studying gullibility lies in the need to determine and safeguard individuals who are likely to fall for deceptive speech, online as well as face to face.\n\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website\n\n\n\nBird, G., Silani, G., Brindley, R., White, S., Frith, U., & Singer, T. (2010). Empathic brain responses in insula are modulated by levels of alexithymia but not autism. Brain, 133(5), 1515–1525. https://doi.org/10.1093/brain/awq060"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.html",
+    "href": "content/lectures/lecture03/lecture03.html",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "",
+    "text": "Subtitle?\n\n\nHere is some content along the top of the page\n.shout .alert .fg .bg .button .button-success .takeaway\nordered list\n\none\ntwo\nthree\n\n\n\n\nSlide with image and commentary in two columns\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.html#übersicht-des-disputationsvortrags",
+    "href": "content/lectures/lecture03/lecture03.html#übersicht-des-disputationsvortrags",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "",
+    "text": "Here is some content along the top of the page\n.shout .alert .fg .bg .button .button-success .takeaway\nordered list\n\none\ntwo\nthree"
+  },
+  {
+    "objectID": "content/lectures/index.html#subtitle-of-lecture",
+    "href": "content/lectures/index.html#subtitle-of-lecture",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "",
+    "text": "text"
+  },
+  {
+    "objectID": "content/lectures/index.html#slide-2",
+    "href": "content/lectures/index.html#slide-2",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "",
+    "text": "test"
+  },
+  {
+    "objectID": "content/lectures/index.html#slide-three",
+    "href": "content/lectures/index.html#slide-three",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "",
+    "text": "testings"
+  },
+  {
+    "objectID": "content/lectures/index.html#column-layout---source",
+    "href": "content/lectures/index.html#column-layout---source",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "2 column layout - source",
+    "text": "2 column layout - source\n\n\n\noriginal stuff\n\n\nStuff"
+  },
+  {
+    "objectID": "content/lectures/index.html#column-layout--visual",
+    "href": "content/lectures/index.html#column-layout--visual",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "2 column layout -visual",
+    "text": "2 column layout -visual\n\n\ninitial stuff\n\nmore stuff"
+  },
+  {
+    "objectID": "content/lectures/index.html#column-layout---source-1",
+    "href": "content/lectures/index.html#column-layout---source-1",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "3 column layout - source",
+    "text": "3 column layout - source"
+  },
+  {
+    "objectID": "content/lectures/index.html#columns",
+    "href": "content/lectures/index.html#columns",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Columns",
+    "text": "Columns\n::: columns ::: {.column width=“30%”}  :::\n\n\n(greenspan?) 2009 model is a cornerstone in gullibility research and even inspired the creation of the only existing gullibility scale (Teunisse et al., 2020). But let’s not mince words: the model lacks empirical backbone, having never been subjected to validity or reliability tests. Greenspan identifies four key players in the drama of gullibility: situation, cognition, personality, and state. Situation is all about the deceiver’s skill in crafting a compelling tale. Cognition tackles the victim’s mental state—think cognitive load or mood. State zeroes in on the victim’s physical and mental readiness to critically engage, while personality zooms in on trust and agreeableness."
+  },
+  {
+    "objectID": "content/lectures/index.html#column-layout---source-2",
+    "href": "content/lectures/index.html#column-layout---source-2",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "3 column layout - source",
+    "text": "3 column layout - source"
+  },
+  {
+    "objectID": "content/lectures/index.html#columns-1",
+    "href": "content/lectures/index.html#columns-1",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Columns",
+    "text": "Columns\n\n\n\n\n\n\n\n\nGreenspan’s 2009 model is a cornerstone in gullibility research and even inspired the creation of the only existing gullibility scale (Teunisse et al., 2020)."
+  },
+  {
+    "objectID": "content/lectures/index.html#content",
+    "href": "content/lectures/index.html#content",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "🗣 Content",
+    "text": "🗣 Content\nThis is what will be discussed today.\nAlways good to explain the agenda so audience can have clear expectations.\n\n\nTherse are animated bullet points:\n\n\n   📜 Point one\n   🧫 Point two\n   🚀 Point three\n\n\n\n…You can use Font Awesome symbols as well r fa(\"font-awesome\", fill = \"steelblue\")."
+  },
+  {
+    "objectID": "content/lectures/index.html#fragments",
+    "href": "content/lectures/index.html#fragments",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Fragments",
+    "text": "Fragments\nIncremental text display and animation with fragments:\n\n\nFade in\n\n\nSlide up while fading in\n\n\nSlide left while fading in\n\n\nFade in then semi out\n\n. . .\n\nStrike\n\n\nHighlight red\n\n\nLearn more: Fragments"
+  },
+  {
+    "objectID": "content/lectures/index.html#chalkboard",
+    "href": "content/lectures/index.html#chalkboard",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Chalkboard",
+    "text": "Chalkboard\n\nFree form drawing and slide annotations\n\n\n\n\n\n\n\nUse the chalkboard button at the bottom left of the slide to toggle the chalkboard.\n\n\n\n\n\n\n\n\n\nUse the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.\n\n\n\nYou can also press b to toggle the chalkboard or c to toggle the notes canvas.\n\nLearn more: Chalkboard"
+  },
+  {
+    "objectID": "content/lectures/index.html#slide-backgrounds",
+    "href": "content/lectures/index.html#slide-backgrounds",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Slide Backgrounds",
+    "text": "Slide Backgrounds\nSet the background attribute on a slide to change the background color (all CSS color formats are supported).\nDifferent background transitions are available via the background-transition option.\n\nLearn more: Slide Backgrounds"
+  },
+  {
+    "objectID": "content/lectures/index.html#media-backgrounds",
+    "href": "content/lectures/index.html#media-backgrounds",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Media Backgrounds",
+    "text": "Media Backgrounds\nYou can also use the following as a slide background:\n\nAn image: background-image\nA video: background-video\nAn iframe: background-iframe\n\n\nLearn more: Media Backgrounds"
+  },
+  {
+    "objectID": "content/lectures/index.html#absolute-position",
+    "href": "content/lectures/index.html#absolute-position",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Absolute Position",
+    "text": "Absolute Position\nPosition images or other elements at precise locations\n\n\n\nLearn more: Absolute Position"
+  },
+  {
+    "objectID": "content/lectures/index.html#auto-animate",
+    "href": "content/lectures/index.html#auto-animate",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Auto-Animate",
+    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
+  },
+  {
+    "objectID": "content/lectures/index.html#auto-animate-1",
+    "href": "content/lectures/index.html#auto-animate-1",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "Auto-Animate",
+    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#takeaway",
+    "href": "content/lectures/lecture01/lecture01.html#takeaway",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "just stuff"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#takeaway-1",
+    "href": "content/lectures/lecture01/lecture01.html#takeaway-1",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "just stuff {.takeaway}"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#quoteboxes",
+    "href": "content/lectures/lecture01/lecture01.html#quoteboxes",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "quoteboxt\n\nquoteboxtl"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#cleft-cright",
+    "href": "content/lectures/lecture01/lecture01.html#cleft-cright",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "Here’s some good old text\n\ncleft stuff Gullibility has started to be studied due to the fact it gives valuable insights into human behaviour, cognition, and decision-making processes. Gullibility study has practical applications within different fields, such as psychology, sociology, marketing, and public policy. The study of factors affecting gullibility has also been conducted to create a precise psychological profile of individuals prone to being gullible. Therefore, emotional intelligence (Baker et al., 2013; Young et al., 2015), social intelligence (Hart et al., 2021; Teunisse et al., 2020) trust (Baker et al., 2013; Hamby et al., 2021; Rotter, 1967; Rotter, 1980; Teunisse et al., 2020: Yamagishi et al., 1999), personality factors (Begue et al., 2015; George et al., 2020; Gore et al., 2012; Peace et al., 2011; Teunisse et al., 2020), facial representation (Jaeger & Meral, 2022) and overall poor decision-making mechanisms have been included. The benefit of studying gullibility lies in the need to determine and safeguard individuals who are likely to fall for deceptive speech, online as well as face to face.\n\n\ncright stuff\ntrust (Baker et al., 2013; Hamby et al., 2021; Rotter, 1967; Rotter, 1980; Teunisse et al., 2020: Yamagishi et al., 1999), personality factors (Begue et al., 2015; George et al., 2020; Gore et al., 2012; Peace et al., 2011; Teunisse et al., 2020), facial representation (Jaeger & Meral, 2022) and overall poor decision-making mechanisms have been included. The benefit of studying gullibility lies in the need to determine and safeguard individuals who are likely to fall for deceptive speech, online as well as face to face.\n\n\n\n\n\nBird, G., Silani, G., Brindley, R., White, S., Frith, U., & Singer, T. (2010). Empathic brain responses in insula are modulated by levels of alexithymia but not autism. Brain, 133(5), 1515–1525. https://doi.org/10.1093/brain/awq060"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.html#references",
+    "href": "content/lectures/lecture03/lecture03.html#references",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "",
+    "text": "Slide with image and commentary in two columns\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#references-1",
+    "href": "content/lectures/lecture03/lecture03.slides.html#references-1",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "References",
+    "text": "References\nThis is normal text"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#references-2",
+    "href": "content/lectures/lecture03/lecture03.slides.html#references-2",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "References",
+    "text": "References\nSlide with image and commentary in two columns\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3\n\n\n\n\n\n\n🔗 VLE"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#heading-2",
+    "href": "content/lectures/lecture03/lecture03.slides.html#heading-2",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Heading 2",
+    "text": "Heading 2\nHeading 2 copy\nHeading 3\nHeading 3 copy\nHeading 4\nHeading 4 copy\nHeading 5\nHeading 5 copy\nHeading 6\nHeading 6 copy\n.shout .alert .fg .bg .button .button-success .takeaway\nordered list\n\none\ntwo\nthree"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#heading-2---new-slide-title",
+    "href": "content/lectures/lecture03/lecture03.slides.html#heading-2---new-slide-title",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Heading 2 - new slide title",
+    "text": "Heading 2 - new slide title\nHeading 2 copy\nHeading 3 - italic emphasis\nHeading 3 copy\nHeading 4 - Maroon emphasis\nHeading 4 copy\nHeading 5 - Just heading colour\nHeading 5 copy\nHeading 6 - same a 5\nHeading 6 copy"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#spans-for-text-accentuation",
+    "href": "content/lectures/lecture03/lecture03.slides.html#spans-for-text-accentuation",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Spans for text accentuation",
+    "text": "Spans for text accentuation\n.shout $accent3(red) 1.5em and Bold\n.alert $accent3(red) no change to font size\n.fg .bg\n.button\n.button-success .takeaway\nordered list\n\none\ntwo\nthree"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#spans-for-text-accentuation---available-in-source-mode",
+    "href": "content/lectures/lecture03/lecture03.slides.html#spans-for-text-accentuation---available-in-source-mode",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Spans for text accentuation - available in source mode",
+    "text": "Spans for text accentuation - available in source mode\n.shout $accent3(red) 1.5em and Bold\n.alert $accent3(red) no change to font size\n.fg .bg\n.button $accent1 whitetext button for link\n.button-success\n.takeaway\n.highlight"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#citations",
+    "href": "content/lectures/lecture03/lecture03.slides.html#citations",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Citations",
+    "text": "Citations\nCohen (1992) In text citation @Cohen1992\n(Cohen, 1992) not in-text citation `(Cohen, 1992)\njust type `@` and a search box comes up for your Zotero library or a .bib file associated with the project"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#imagecontent-2-column",
+    "href": "content/lectures/lecture03/lecture03.slides.html#imagecontent-2-column",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Image|content 2 column",
+    "text": "Image|content 2 column\nSlide with image and commentary in two columns and some explanatory text above\ntext text text text text text text text text text text text\ntext text text text text text text text text text text text\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#imagecontent-2-column-1",
+    "href": "content/lectures/lecture03/lecture03.slides.html#imagecontent-2-column-1",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Image|content 2 column",
+    "text": "Image|content 2 column\nSlide with image and commentary in two columns and some explanatory text above\n\ntext text text text text text text text text text text text text text text text text\n\n\ntext text text text text text text text text text text text text text text text text\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#imagecontent-2-column-with-pauses",
+    "href": "content/lectures/lecture03/lecture03.slides.html#imagecontent-2-column-with-pauses",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Image|content 2 column (with pauses)",
+    "text": "Image|content 2 column (with pauses)\nSlide with image and commentary in two columns and some explanatory text above\n\ntext text text text text text text text text text text\n\n\ntext text text text text text text text text text text text\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#callouts",
+    "href": "content/lectures/lecture03/lecture03.slides.html#callouts",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Callouts",
+    "text": "Callouts"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#note-callouts",
+    "href": "content/lectures/lecture03/lecture03.slides.html#note-callouts",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Note Callouts",
+    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nNote simple\n\n\ncontent\n\n\n\n\n\n\nNote minimal\n\n\ncontent"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#warning-callouts",
+    "href": "content/lectures/lecture03/lecture03.slides.html#warning-callouts",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Warning Callouts",
+    "text": "Warning Callouts\n\n\n\n\n\n\nWarning default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nWarning simple\n\n\ncontent\n\n\n\n\n\n\nWarning minimal\n\n\ncontent"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#tip-callouts",
+    "href": "content/lectures/lecture03/lecture03.slides.html#tip-callouts",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Tip Callouts",
+    "text": "Tip Callouts\n\n\n\n\n\n\nTip default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nTip simple\n\n\ncontent\n\n\n\n\n\n\nTip minimal\n\n\ncontent"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#important-callouts",
+    "href": "content/lectures/lecture03/lecture03.slides.html#important-callouts",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Important Callouts",
+    "text": "Important Callouts\n\n\n\n\n\n\nImportant default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nImportant simple\n\n\ncontent\n\n\n\n\n\n\nImportant minimal\n\n\ncontent"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#caution-callouts",
+    "href": "content/lectures/lecture03/lecture03.slides.html#caution-callouts",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Caution Callouts",
+    "text": "Caution Callouts\n\n\n\n\n\n\nCaution default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nCaution simple\n\n\ncontent\n\n\n\n\n\n\nCaution minimal\n\n\ncontent"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#icons-by-fontawesome",
+    "href": "content/lectures/lecture03/lecture03.slides.html#icons-by-fontawesome",
+    "title": "Lecture 03:  Didn’t touch it!",
+    "section": "Icons by FontAwesome",
+    "text": "Icons by FontAwesome\nThese are cool  but they do need a full render e.g. $ quarto render in order to be seen.\nThey can also be used in pdfs\n\nFontawesome\n\n\n\n\n\n\ninput\noutput\n\n\n\n\n{{&lt; fa magnifying-glass &gt;}}\n Prepare\n\n\n{{&lt; fa chalkboard-teacher &gt;}}\n Lecture\n\n\n{{&lt; fa users-gear &gt;}}\n Lab\n\n\n{{&lt; fa bookmark &gt;}}\n Reading\n\n\n{{&lt; fa book-journal-whills &gt;}}\n Mini-Dissertation"
+  },
+  {
+    "objectID": "content/labs/lab03/lab03.labslides.html#heading-2---new-slide-title",
+    "href": "content/labs/lab03/lab03.labslides.html#heading-2---new-slide-title",
+    "title": "Lab 03:  Didn’t touch it!",
+    "section": "Heading 2 - new slide title",
+    "text": "Heading 2 - new slide title\nHeading 2 copy\nHeading 3 - italic emphasis\nHeading 3 copy\nHeading 4 - Maroon emphasis\nHeading 4 copy\nHeading 5 - Just heading colour\nHeading 5 copy\nHeading 6 - same a 5\nHeading 6 copy"
+  },
+  {
+    "objectID": "content/labs/lab03/lab03.labslides.html#spans-for-text-accentuation---available-in-source-mode",
+    "href": "content/labs/lab03/lab03.labslides.html#spans-for-text-accentuation---available-in-source-mode",
+    "title": "Lab 03:  Didn’t touch it!",
+    "section": "Spans for text accentuation - available in source mode",
+    "text": "Spans for text accentuation - available in source mode\n.shout $accent3(red) 1.5em and Bold\n.alert $accent3(red) no change to font size\n.fg .bg\n.button $accent1 whitetext button for link\n.button-success\n.takeaway\n.highlight"
+  },
+  {
+    "objectID": "content/labs/lab03/lab03.labslides.html#citations",
+    "href": "content/labs/lab03/lab03.labslides.html#citations",
+    "title": "Lab 03:  Didn’t touch it!",
+    "section": "Citations",
+    "text": "Citations\nCohen (1992) In text citation @Cohen1992\n(Cohen, 1992) not in-text citation `(Cohen, 1992)\njust type `@` and a search box comes up for your Zotero library or a .bib file associated with the project"
+  },
+  {
+    "objectID": "content/labs/lab03/lab03.labslides.html#imagecontent-2-column",
+    "href": "content/labs/lab03/lab03.labslides.html#imagecontent-2-column",
+    "title": "Lab 03:  Didn’t touch it!",
+    "section": "Image|content 2 column",
+    "text": "Image|content 2 column\nSlide with image and commentary in two columns and some explanatory text above\ntext text text text text text text text text text text text\ntext text text text text text text text text text text text\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "content/labs/lab03/lab03.labslides.html#imagecontent-2-column-with-pauses",
+    "href": "content/labs/lab03/lab03.labslides.html#imagecontent-2-column-with-pauses",
+    "title": "Lab 03:  Didn’t touch it!",
+    "section": "Image|content 2 column (with pauses)",
+    "text": "Image|content 2 column (with pauses)\nSlide with image and commentary in two columns and some explanatory text above\n\ntext text text text text text text text text text text\n\n\ntext text text text text text text text text text text text\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "content/labs/lab03/lab03.labslides.html#callouts",
+    "href": "content/labs/lab03/lab03.labslides.html#callouts",
+    "title": "Lab 03:  Didn’t touch it!",
+    "section": "Callouts",
+    "text": "Callouts"
+  },
+  {
+    "objectID": "content/labs/lab03/lab03.labslides.html#note-callouts",
+    "href": "content/labs/lab03/lab03.labslides.html#note-callouts",
+    "title": "Lab 03:  Didn’t touch it!",
+    "section": "Note Callouts",
+    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nNote simple\n\n\ncontent\n\n\n\n\n\n\nNote minimal\n\n\ncontent"
+  },
+  {
+    "objectID": "content/labs/lab03/lab03.labslides.html#warning-callouts",
+    "href": "content/labs/lab03/lab03.labslides.html#warning-callouts",
+    "title": "Lab 03:  Didn’t touch it!",
+    "section": "Warning Callouts",
+    "text": "Warning Callouts\n\n\n\n\n\n\nWarning default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nWarning simple\n\n\ncontent\n\n\n\n\n\n\nWarning minimal\n\n\ncontent"
+  },
+  {
+    "objectID": "content/labs/lab03/lab03.labslides.html#tip-callouts",
+    "href": "content/labs/lab03/lab03.labslides.html#tip-callouts",
+    "title": "Lab 03:  Didn’t touch it!",
+    "section": "Tip Callouts",
+    "text": "Tip Callouts\n\n\n\n\n\n\nTip default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nTip simple\n\n\ncontent\n\n\n\n\n\n\nTip minimal\n\n\ncontent"
+  },
+  {
+    "objectID": "content/labs/lab03/lab03.labslides.html#important-callouts",
+    "href": "content/labs/lab03/lab03.labslides.html#important-callouts",
+    "title": "Lab 03:  Didn’t touch it!",
+    "section": "Important Callouts",
+    "text": "Important Callouts\n\n\n\n\n\n\nImportant default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nImportant simple\n\n\ncontent\n\n\n\n\n\n\nImportant minimal\n\n\ncontent"
+  },
+  {
+    "objectID": "content/labs/lab03/lab03.labslides.html#caution-callouts",
+    "href": "content/labs/lab03/lab03.labslides.html#caution-callouts",
+    "title": "Lab 03:  Didn’t touch it!",
+    "section": "Caution Callouts",
+    "text": "Caution Callouts\n\n\n\n\n\n\nCaution default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nCaution simple\n\n\ncontent\n\n\n\n\n\n\nCaution minimal\n\n\ncontent"
+  },
+  {
+    "objectID": "content/labs/lab03/lab03.labslides.html#icons-by-fontawesome",
+    "href": "content/labs/lab03/lab03.labslides.html#icons-by-fontawesome",
+    "title": "Lab 03:  Didn’t touch it!",
+    "section": "Icons by FontAwesome",
+    "text": "Icons by FontAwesome\nThese are cool  but they do need a full render e.g. $ quarto render in order to be seen.\nThey can also be used in pdfs\n\nFontawesome\n\n\n\n\n\n\ninput\noutput\n\n\n\n\n{{&lt; fa magnifying-glass &gt;}}\n Prepare\n\n\n{{&lt; fa chalkboard-teacher &gt;}}\n Lecture\n\n\n{{&lt; fa users-gear &gt;}}\n Lab\n\n\n{{&lt; fa bookmark &gt;}}\n Reading\n\n\n{{&lt; fa book-journal-whills &gt;}}\n Mini-Dissertation"
+  },
+  {
+    "objectID": "content/labs/lab03/lab03.labslides.html#references",
+    "href": "content/labs/lab03/lab03.labslides.html#references",
+    "title": "Lab 03:  Didn’t touch it!",
+    "section": "References",
+    "text": "References\n\n\n\n🔗 VLE\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155"
   }
 ]

@@ -1,6 +1,274 @@
 ---
 title: "Welcome to Research Methods in Year 2"
 author: "Dr. Gordon Wright"
+
+format: revealjs
 ---
 
-c
+# Title of Lecture
+
+![](images/RevealKeyBoardShortcuts.png)
+
+## subtitle of lecture
+
+text
+
+## Slide 2
+
+test
+
+## Slide three
+
+testings
+
+# PART 1 With `code` {.center .center-x}
+
+<!--# Section Title -->
+
+## 2 column layout - source
+
+::: {layout-ncol="2"}
+original stuff
+
+Stuff
+:::
+
+## 2 column layout -visual
+
+::: columns
+::: {.column width="50%"}
+initial stuff
+:::
+
+::: {.column width="50%"}
+more stuff
+:::
+:::
+
+# 
+
+## 3 column layout - source
+
+## Columns
+
+::: columns ::: {.column width="30%"}
+![](images/Pasted%20image%2020230531173247.png){fig-align="left"} :::
+
+::: {.column width="70%"}
+::: smaller
+@greenspan 2009 model is a cornerstone in gullibility research and even
+inspired the creation of the only existing gullibility scale (Teunisse
+et al., 2020). But let's not mince words: the model lacks empirical
+backbone, having never been subjected to validity or reliability tests.
+Greenspan identifies four key players in the drama of gullibility:
+situation, cognition, personality, and state. Situation is all about the
+deceiver's skill in crafting a compelling tale. Cognition tackles the
+victim's mental state---think cognitive load or mood. State zeroes in on
+the victim's physical and mental readiness to critically engage, while
+personality zooms in on trust and agreeableness.
+:::
+:::
+
+## 3 column layout - source
+
+## Columns
+
+::: columns
+::: {.column width="70%"}
+![](images/Pasted%20image%2020230531173247.png){fig-align="left"}
+:::
+
+::: {.column width="30%"}
+Greenspan's 2009 model is a cornerstone in gullibility research and even
+inspired the creation of the only existing gullibility scale (Teunisse
+et al., 2020).
+:::
+:::
+
+## 🗣 Content
+
+This is what will be discussed today.
+
+Always good to explain the agenda so audience can have clear
+expectations.
+
+::: {.fragment .fade}
+<h3>Therse are animated bullet points:</h3>
+
+-      📜 Point one
+-      🧫 Point two
+-      🚀 Point three
+:::
+
+::: {.fragment .fade}
+...You can use [Font Awesome](https://fontawesome.com/) symbols as well
+`r fa("font-awesome", fill = "steelblue")`.
+:::
+
+## Fragments
+
+Incremental text display and animation with fragments:
+
+<br/>
+
+::: {.fragment .fade-in}
+Fade in
+:::
+
+::: {.fragment .fade-up}
+Slide up while fading in
+:::
+
+::: {.fragment .fade-left}
+Slide left while fading in
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+Fade in then semi out
+:::
+
+. . .
+
+::: {.fragment .strike}
+Strike
+:::
+
+::: {.fragment .highlight-red}
+Highlight red
+:::
+
+::: footer
+Learn more:
+[Fragments](https://quarto.org/docs/presentations/revealjs/advanced.html#fragments)
+:::
+
+## Chalkboard {chalkboard-buttons="true"}
+
+::: {style="margin-bottom: 0.9em;"}
+Free form drawing and slide annotations
+:::
+
+::: {layout="[1, 20]"}
+![](images/presentation-chalkboard.png){width="41"}
+
+Use the chalkboard button at the bottom left of the slide to toggle the
+chalkboard.
+:::
+
+::: {layout="[1, 20]"}
+![](images/presentation-notes-canvas.png){width="41"}
+
+Use the notes canvas button at the bottom left of the slide to toggle
+drawing on top of the current slide.
+:::
+
+You can also press `b` to toggle the chalkboard or `c` to toggle the
+notes canvas.
+
+::: footer
+Learn more:
+[Chalkboard](https://quarto.org/docs/presentations/revealjs/presenting.html#chalkboard)
+:::
+
+## Slide Backgrounds {background="#43464B"}
+
+Set the `background` attribute on a slide to change the background color
+(all CSS color formats are supported).
+
+Different background transitions are available via the
+`background-transition` option.
+
+::: footer
+Learn more: [Slide
+Backgrounds](https://quarto.org/docs/presentations/revealjs/#color-backgrounds)
+:::
+
+## Media Backgrounds {background="#43464B" background-image="images/milky-way.jpeg"}
+
+You can also use the following as a slide background:
+
+-   An image: `background-image`
+
+-   A video: `background-video`
+
+-   An iframe: `background-iframe`
+
+::: footer
+Learn more: [Media
+Backgrounds](https://quarto.org/docs/presentations/revealjs/#image-backgrounds)
+:::
+
+## Absolute Position
+
+Position images or other elements at precise locations
+
+![](./images/kitten-450-250.jpeg){.absolute .fragment top="150"
+right="80" width="450"}
+
+![](./images/kitten-300-200.jpeg){.absolute .fragment bottom="110"
+left="120" width="300"}
+
+::: footer
+Learn more: [Absolute
+Position](https://quarto.org/docs/presentations/revealjs/advanced.html#absolute-position)
+:::
+
+## Auto-Animate {auto-animate="true" auto-animate-easing="ease-in-out"}
+
+Automatically animate matching elements across slides with Auto-Animate.
+
+::: r-hstack
+::: {data-id="box1" auto-animate-delay="0" style="background: #2780e3; width: 200px; height: 150px; margin: 10px;"}
+:::
+
+::: {data-id="box2" auto-animate-delay="0.1" style="background: #3fb618; width: 200px; height: 150px; margin: 10px;"}
+:::
+
+::: {data-id="box3" auto-animate-delay="0.2" style="background: #e83e8c; width: 200px; height: 150px; margin: 10px;"}
+:::
+:::
+
+::: footer
+Learn more:
+[Auto-Animate](https://quarto.org/docs/presentations/revealjs/advanced.html#auto-animate)
+:::
+
+## Auto-Animate {auto-animate="true" auto-animate-easing="ease-in-out"}
+
+Automatically animate matching elements across slides with Auto-Animate.
+
+::: r-stack
+::: {data-id="box1" style="background: orange; width: 350px; height: 350px; border-radius: 200px;"}
+:::
+
+::: {data-id="box2" style="background: #3fb618; width: 250px; height: 250px; border-radius: 200px;"}
+:::
+
+::: {data-id="box3" style="background: #e83e8c; width: 150px; height: 150px; border-radius: 200px;"}
+:::
+:::
+
+::: footer
+Learn more:
+[Auto-Animate](https://quarto.org/docs/presentations/revealjs/advanced.html#auto-animate)
+:::
+
+## Slide light
+
+This has `code` with a light background.
+
+A [hyperlink](https://posit.co)
+
+```{r}
+library(ggplot2)
+
+mtcars |> 
+  ggplot(aes(x = disp, y = mpg)) +
+  geom_point()
+```
+
+## Slide dark {background-color="#17212B"}
+
+This has `code` with a dark background.
+
+A [hyperlink](https://posit.co)

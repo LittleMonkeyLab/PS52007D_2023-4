@@ -1,15 +1,11 @@
-#LECTURES
-
-
-
-
+# Lecture Slides
+# Title Page Indigo "#4B0082" with white text (see scss $title-color variable)
 # output format options - change these as required
 format:
   revealjs:
     theme: _resources/templates/lectures.scss
     mainfont: Atkinson Hyperlegible
-    # logo: "images/logo.png"
-    footer: "PS51234X Psych Lectures [VLE](https://bbc.co.uk/)"
+    logo: "images/rmlogo.png"
     slide-number: c/t
     menu: true
     controls: true
@@ -17,9 +13,11 @@ format:
     controls-layout: edges
     show-slide-number: all
     title-slide-attributes:
-      data-background-color: "pink"
+      data-background-color: "#4B0082" #indigo
+
+    
     preview-links: true
-    # standalone: false
+
     embed-resources: true
     margin: 0.2
     smaller: false

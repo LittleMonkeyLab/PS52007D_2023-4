@@ -13,7 +13,7 @@ bibliography:
 - textbook.bib
 csl: apa7.csl
 citeproc: true
-
+date-format: "dddd, DD MMMM, YYYY"
 
     
 website:

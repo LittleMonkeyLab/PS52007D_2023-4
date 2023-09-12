@@ -3,8 +3,12 @@ title: "Lecture01: Psych Science"
 subtitle: "Example lecture"
 date: "August 29, 2022"
 footer: "[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstudio-conf-2022.github.io/teach-ds-course-website)"
-logo: "images/logo.png"
+logo: "/images/brain2.png"
 categories: "Lecture"
+format: 
+  pdf: default
+  html: default
+  revealjs: default
 ---
 
 # Welcome!
@@ -257,3 +261,55 @@ Customize the appearance of the slides using
 Specify the theme and/or Sass file (.scss) in the YAML
 
 ## Refs
+
+## takeaway {.takeaway}
+
+just stuff
+
+## takeaway
+
+just stuff {.takeaway}
+
+## Quoteboxes {.quotebox-transparent}
+
+::: quotebox-transparent-low
+quoteboxt
+:::
+
+quoteboxtl
+
+## cleft cright
+
+Here's some good old text
+
+::: cleft
+cleft stuff Gullibility has started to be studied due to the fact it
+gives valuable insights into human behaviour, cognition, and
+decision-making processes. Gullibility study has practical applications
+within different fields, such as psychology, sociology, marketing, and
+public policy. The study of factors affecting gullibility has also been
+conducted to create a precise psychological profile of individuals prone
+to being gullible. Therefore, emotional intelligence (Baker et al.,
+2013; Young et al., 2015), social intelligence (Hart et al., 2021;
+Teunisse et al., 2020) trust (Baker et al., 2013; Hamby et al., 2021;
+Rotter, 1967; Rotter, 1980; Teunisse et al., 2020: Yamagishi et al.,
+1999), personality factors (Begue et al., 2015; George et al., 2020;
+Gore et al., 2012; Peace et al., 2011; Teunisse et al., 2020), facial
+representation (Jaeger & Meral, 2022) and overall poor decision-making
+mechanisms have been included. The benefit of studying gullibility lies
+in the need to determine and safeguard individuals who are likely to
+fall for deceptive speech, online as well as face to face.
+:::
+
+::: cright
+cright stuff
+
+trust (Baker et al., 2013; Hamby et al., 2021; Rotter, 1967; Rotter,
+1980; Teunisse et al., 2020: Yamagishi et al., 1999), personality
+factors (Begue et al., 2015; George et al., 2020; Gore et al., 2012;
+Peace et al., 2011; Teunisse et al., 2020), facial representation
+(Jaeger & Meral, 2022) and overall poor decision-making mechanisms have
+been included. The benefit of studying gullibility lies in the need to
+determine and safeguard individuals who are likely to fall for deceptive
+speech, online as well as face to face.
+:::
