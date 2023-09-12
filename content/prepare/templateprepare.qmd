@@ -75,7 +75,7 @@ role="button"} [See all CHIP Topics covered to date](www.bbc.co.uk){.btn
 
 ------------------------------------------------------------------------
 
-## 📆 Save The Date {{< fa thumbs-up >}}
+## 📆 Save The Date {{< fa calendar >}}
 
 ::: {.callout .info}
 **Upcoming Events:** Describe any upcoming activities or events that
@@ -94,5 +94,3 @@ might be of interest.
 | `{{{< fa envelope title="An envelope" >}}}`        | {{< fa envelope title="An envelope" >}} |
 
 {{< fa thumbs-up >}}
-
-{{< fa calendar >}}
