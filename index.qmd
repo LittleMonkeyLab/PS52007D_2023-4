@@ -46,5 +46,4 @@ course-logo: images/LMLLOGO.png
 
 [{{< fa folder >}}](www.bbc.co.uk) {{< fa folder >}}
 
-{{< fa chess-pawn >}}
-{{< fa folder >}} {{< fa folder >}}
+{{< fa chess-pawn >}} {{< fa folder >}} {{< fa folder >}}

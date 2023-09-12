@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  preview:
+    port: 4200
   resources:
   - /downloads
   - /datasets
@@ -11,6 +13,9 @@ bibliography:
 - textbook.bib
 csl: apa7.csl
 citeproc: true
+
+
+    
 website:
   title: Research Methods in Psychology 23/24
   image: brain_icon.png

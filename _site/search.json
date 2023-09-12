@@ -1,68 +1,5 @@
 [
   {
-    "objectID": "labs/lab03/lab03.html",
-    "href": "labs/lab03/lab03.html",
-    "title": "Lab03: Observation studies",
-    "section": "",
-    "text": "Add instructions for lab 3!!"
-  },
-  {
-    "objectID": "labs/lab02/lab02.html",
-    "href": "labs/lab02/lab02.html",
-    "title": "Lab02: Observation studies",
-    "section": "",
-    "text": "Add instructions for Lab 02"
-  },
-  {
-    "objectID": "labs/index.html",
-    "href": "labs/index.html",
-    "title": "index",
-    "section": "",
-    "text": "b"
-  },
-  {
-    "objectID": "labs/lab01/lab01.html",
-    "href": "labs/lab01/lab01.html",
-    "title": "Lab01: Intro to lab work",
-    "section": "",
-    "text": "Add instructions For Lab 01!!\nWill only appear in HTML.\nGeneral content\nWill not appear in PDF.\ntestings (bird2014?) Wright & Rains (2014)\n\n\n\n\nReferences\n\nWright, K. B., & Rains, S. A. (2014). Weak tie support preference and preferred coping styles as predictors of perceived credibility within health-related computer-mediated support groups. Health Communication, 29(3), 281–287. https://doi.org/10.1080/10410236.2012.751084"
-  },
-  {
-    "objectID": "labs/lab01/lab01.labs.html#references",
-    "href": "labs/lab01/lab01.labs.html#references",
-    "title": "Lab01: Intro to lab work",
-    "section": "",
-    "text": "Add instructions For Lab 01!!\nWill only appear in HTML.\nGeneral content\nWill not appear in PDF.\ntestings (bird2014?) Wright & Rains (2014)\n\n\nPS51234X Psych Labs VLE\n\n\n\nWright, K. B., & Rains, S. A. (2014). Weak tie support preference and preferred coping styles as predictors of perceived credibility within health-related computer-mediated support groups. Health Communication, 29(3), 281–287. https://doi.org/10.1080/10410236.2012.751084"
-  },
-  {
-    "objectID": "weeks/index.html",
-    "href": "weeks/index.html",
-    "title": "index",
-    "section": "",
-    "text": "g"
-  },
-  {
-    "objectID": "weeks/week01.html",
-    "href": "weeks/week01.html",
-    "title": "Week 01",
-    "section": "",
-    "text": "Lecture\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nLab\n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nIndependent Study\n\n\n\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\n\n\nIS01: Pet Names\n\n\nWed, Dec 14\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nTextbook\n\n\n\n\n\nTitle\n\n\nTopic\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nOther Readings and Resources\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 1 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data"
-  },
-  {
-    "objectID": "weeks/week03.html",
-    "href": "weeks/week03.html",
-    "title": "Week 03",
-    "section": "",
-    "text": "Lecture\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nLab\n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nIndependent Study\n\n\n\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\n\n\nIS03: Funky Stuff\n\n\nWed, Dec 21\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings and other resources\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 3 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data\n\n\n\n\n\n\n\n\n\n\n\n\n\nTitle\n\n\nTopic\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "weeks/week02.html",
-    "href": "weeks/week02.html",
-    "title": "Week 02",
-    "section": "",
-    "text": "Lecture\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nLab\n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nIndependent Study\n\n\n\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\n\n\nIS02: Data visualization\n\n\nWed, Dec 21\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings and other resources\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 2 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data\n\n\n\n\n\n\n\n\n\n\n\n\n\nTitle\n\n\nTopic\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "hw/hw03.html",
     "href": "hw/hw03.html",
     "title": "IS03: Funky Stuff",
@@ -112,11 +49,368 @@
     "text": "a"
   },
   {
-    "objectID": "coursework/index.html",
-    "href": "coursework/index.html",
+    "objectID": "content/labs/lab03/lab03.html",
+    "href": "content/labs/lab03/lab03.html",
+    "title": "Lab03: Observation studies",
+    "section": "",
+    "text": "Add instructions for lab 3!!"
+  },
+  {
+    "objectID": "content/labs/lab02/lab02.html",
+    "href": "content/labs/lab02/lab02.html",
+    "title": "Lab02: Observation studies",
+    "section": "",
+    "text": "Add instructions for Lab 02"
+  },
+  {
+    "objectID": "content/labs/index.html",
+    "href": "content/labs/index.html",
+    "title": "index",
+    "section": "",
+    "text": "b"
+  },
+  {
+    "objectID": "content/labs/lab01/lab01.html",
+    "href": "content/labs/lab01/lab01.html",
+    "title": "Lab01: Intro to lab work",
+    "section": "",
+    "text": "Add instructions For Lab 01!!\nWill only appear in HTML.\nGeneral content\nWill not appear in PDF.\ntestings (bird2014?) Wright & Rains (2014)\n\n\n\n\nReferences\n\nWright, K. B., & Rains, S. A. (2014). Weak tie support preference and preferred coping styles as predictors of perceived credibility within health-related computer-mediated support groups. Health Communication, 29(3), 281–287. https://doi.org/10.1080/10410236.2012.751084"
+  },
+  {
+    "objectID": "content/labs/lab01/lab01.labs.html#references",
+    "href": "content/labs/lab01/lab01.labs.html#references",
+    "title": "Lab01: Intro to lab work",
+    "section": "",
+    "text": "Add instructions For Lab 01!!\nWill only appear in HTML.\nGeneral content\nWill not appear in PDF.\ntestings (bird2014?) Wright & Rains (2014)\n\n\nPS51234X Psych Labs VLE\n\n\n\nWright, K. B., & Rains, S. A. (2014). Weak tie support preference and preferred coping styles as predictors of perceived credibility within health-related computer-mediated support groups. Health Communication, 29(3), 281–287. https://doi.org/10.1080/10410236.2012.751084"
+  },
+  {
+    "objectID": "content/prepare/index.html",
+    "href": "content/prepare/index.html",
+    "title": "index",
+    "section": "",
+    "text": "g"
+  },
+  {
+    "objectID": "content/prepare/week01.html",
+    "href": "content/prepare/week01.html",
+    "title": "Week 01",
+    "section": "",
+    "text": "Lecture\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nLab\n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nIndependent Study\n\n\n\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nTextbook\n\n\n\n\n\nTitle\n\n\nTopic\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nOther Readings and Resources\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 1 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data"
+  },
+  {
+    "objectID": "content/prepare/week03.html",
+    "href": "content/prepare/week03.html",
+    "title": "Week 03",
+    "section": "",
+    "text": "Lecture\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nLab\n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nIndependent Study\n\n\n\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings and other resources\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 3 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data\n\n\n\n\n\n\n\n\n\n\n\n\n\nTitle\n\n\nTopic\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/prepare/week02.html",
+    "href": "content/prepare/week02.html",
+    "title": "Week 02",
+    "section": "",
+    "text": "Lecture\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nLab\n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nIndependent Study\n\n\n\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings and other resources\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 2 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data\n\n\n\n\n\n\n\n\n\n\n\n\n\nTitle\n\n\nTopic\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/coursework/index.html",
+    "href": "content/coursework/index.html",
     "title": "index",
     "section": "",
     "text": "coursework"
+  },
+  {
+    "objectID": "content/readings/week01.html",
+    "href": "content/readings/week01.html",
+    "title": "Research Methods in Second Year",
+    "section": "",
+    "text": "Create fill-in-the-blank questions using fitb(), providing the answer as the first argument.\n\n2 + 2 is \nWhat is the letter after D? \n\nIf you want to ignore differences in whitespace use, use the argument ignore_ws = TRUE (which is the default) and include spaces in your answer anywhere they could be acceptable.\n\nHow do you load the tidyverse package? \n\nYou can set more than one possible correct answer by setting the answers as a vector.\n\nType a vowel: \n\nYou can use regular expressions to test answers against more complex rules.\n\nType any 3 letters: \n\n\n\n\n\n“Never gonna give you up, never gonna: let you goturn you downrun awaylet you down”\n“I bless the rainsguess it rainssense the rain down in Africa” -Toto\n\n\n\n\n\nTrue or False? You can permute values in a vector using sample(). TRUEFALSE\n\n\n\n\nWhen your answers are very long, sometimes a drop-down select box gets formatted oddly. You can use longmcq() to deal with this. Since the answers are long, It’s probably best to set up the options inside an R chunk with echo=FALSE.\nWhat is a p-value?\n\n the probability that the null hypothesis is true the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true the probability of making an error in your conclusion\n\nWhat is true about a 95% confidence interval of the mean?\n\n if you repeated the process many times, 95% of intervals calculated in this way contain the true mean there is a 95% probability that the true mean lies within this range 95% of the data fall within this range"
+  },
+  {
+    "objectID": "content/readings/week01.html#example-questions",
+    "href": "content/readings/week01.html#example-questions",
+    "title": "Research Methods in Second Year",
+    "section": "",
+    "text": "Create fill-in-the-blank questions using fitb(), providing the answer as the first argument.\n\n2 + 2 is \nWhat is the letter after D? \n\nIf you want to ignore differences in whitespace use, use the argument ignore_ws = TRUE (which is the default) and include spaces in your answer anywhere they could be acceptable.\n\nHow do you load the tidyverse package? \n\nYou can set more than one possible correct answer by setting the answers as a vector.\n\nType a vowel: \n\nYou can use regular expressions to test answers against more complex rules.\n\nType any 3 letters: \n\n\n\n\n\n“Never gonna give you up, never gonna: let you goturn you downrun awaylet you down”\n“I bless the rainsguess it rainssense the rain down in Africa” -Toto\n\n\n\n\n\nTrue or False? You can permute values in a vector using sample(). TRUEFALSE\n\n\n\n\nWhen your answers are very long, sometimes a drop-down select box gets formatted oddly. You can use longmcq() to deal with this. Since the answers are long, It’s probably best to set up the options inside an R chunk with echo=FALSE.\nWhat is a p-value?\n\n the probability that the null hypothesis is true the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true the probability of making an error in your conclusion\n\nWhat is true about a 95% confidence interval of the mean?\n\n if you repeated the process many times, 95% of intervals calculated in this way contain the true mean there is a 95% probability that the true mean lies within this range 95% of the data fall within this range"
+  },
+  {
+    "objectID": "content/readings/week01.html#checked-sections",
+    "href": "content/readings/week01.html#checked-sections",
+    "title": "Research Methods in Second Year",
+    "section": "Checked sections",
+    "text": "Checked sections\nCreate sections with the class webex-check to add a button that hides feedback until it is pressed. Add the class webex-box to draw a box around the section (or use your own styles).\n\nI am going to learn a lot: TRUEFALSE\nWhat is a p-value?\n\n the probability that the null hypothesis is true the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true the probability of making an error in your conclusion"
+  },
+  {
+    "objectID": "content/readings/week01.html#hidden-solutions-and-hints",
+    "href": "content/readings/week01.html#hidden-solutions-and-hints",
+    "title": "Research Methods in Second Year",
+    "section": "Hidden solutions and hints",
+    "text": "Hidden solutions and hints\nYou can fence off a solution area that will be hidden behind a button using hide() before the solution and unhide() after, each as inline R code. Pass the text you want to appear on the button to the hide() function.\nIf the solution is a code chunk, instead of using hide() and unhide(), simply set the webex.hide chunk option to TRUE, or set it to the string you wish to display on the button.\nRecreate the scatterplot below, using the built-in cars dataset.\n\n\n\n\n\n\n\nI need a hint\n\nSee the documentation for plot() (?plot)\n\n\n\n\n\nClick here to see the solution\n\n\nCode\nplot(cars$speed, cars$dist)"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#übersicht-des-disputationsvortrags",
+    "href": "content/lectures/lecture03/lecture03.slides.html#übersicht-des-disputationsvortrags",
+    "title": "Lecture03: Didn’t touch it!",
+    "section": "Übersicht des Disputationsvortrags",
+    "text": "Übersicht des Disputationsvortrags"
+  },
+  {
+    "objectID": "content/lectures/lecture03/lecture03.slides.html#references",
+    "href": "content/lectures/lecture03/lecture03.slides.html#references",
+    "title": "Lecture03: Didn’t touch it!",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n🔗 Quarto Lectures"
+  },
+  {
+    "objectID": "content/lectures/lecture02/lecture02.html",
+    "href": "content/lectures/lecture02/lecture02.html",
+    "title": "Lecture02: Like it when I found it!",
+    "section": "",
+    "text": "Slide content\nhere is another Bird et al. (2007)\n\n\n\n\n\nReferences\n\nBird, G., Brindley, R., Leighton, J., & Heyes, C. (2007). General processes, rather than \"goals,\" explain imitation errors. Journal of Experimental Psychology: Human Perception and Performance J Exp Psychology Hum Percept Perform, 33(5), 1158–1169. https://doi.org/10.1037/0096-1523.33.5.1158"
+  },
+  {
+    "objectID": "content/lectures/index.html",
+    "href": "content/lectures/index.html",
+    "title": "Welcome to Research Methods in Year 2",
+    "section": "",
+    "text": "c"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html",
+    "href": "content/lectures/lecture01/lecture01.html",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "Bird et al. (2010)\nwho says (wright201?)\n\n\nshout question takeaway\nquote-source\nmidi\nlarge\n\nkapow!!\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet with icon\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout\n\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout\n\n\n\n\n\nHere are my tests of callout blocks.\nSee the documentation.\n\n\n\n\n\n\n\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDo do this!\n\n\n\n\n\n\n\n\n\n\n\nTip With Caption\n\n\n\nThis is an example of a callout with a caption.\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! minimal appearance.\n\n\n\n\n\n\n\n\n\n\nHere we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here.\n\n\n\n\n\n\n\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary\n\n\n\n\n\n\n\n\n\ntext - div cleft\n\n\ntext - div cright\n\n\n\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here.\n\n\n\n\n\n\n\nThe Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo\n\n\n\n\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3\n\n\n\n\n\n\nItem 1\nItem 2\nItem 3\n\n\n\n\n\nWrite mathematical symbols and equations using Latex.\n\n\n\n\n\n\n\n\n\n\nVallout note\n\n\n\n\n\n\n\nLeft column\n\nRight column\n\n\n\n\n\n\n\nI would like to have text here\nSentence becomes longer, it should automatically stay in their column\n\nand here\nMore text\n\n\n\n\n\nmonkeys\npuppies\n\n\n\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#css-tests",
+    "href": "content/lectures/lecture01/lecture01.html#css-tests",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "shout question takeaway\nquote-source\nmidi\nlarge\n\nkapow!!\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet with icon\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout\n\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#another-page",
+    "href": "content/lectures/lecture01/lecture01.html#another-page",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "Here are my tests of callout blocks.\nSee the documentation.\n\n\n\n\n\n\n\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDo do this!"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#continued",
+    "href": "content/lectures/lecture01/lecture01.html#continued",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "Tip With Caption\n\n\n\nThis is an example of a callout with a caption.\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! minimal appearance."
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#example-slide",
+    "href": "content/lectures/lecture01/lecture01.html#example-slide",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "Here we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here."
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#additional-theme-classes",
+    "href": "content/lectures/lecture01/lecture01.html#additional-theme-classes",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "Special classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#slide",
+    "href": "content/lectures/lecture01/lecture01.html#slide",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "text - div cleft\n\n\ntext - div cright\n\n\n\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here."
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#sec-summary",
+    "href": "content/lectures/lecture01/lecture01.html#sec-summary",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "The Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#bullet-point-list",
+    "href": "content/lectures/lecture01/lecture01.html#bullet-point-list",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "Unordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#incremental-list",
+    "href": "content/lectures/lecture01/lecture01.html#incremental-list",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "Item 1\nItem 2\nItem 3"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#equations",
+    "href": "content/lectures/lecture01/lecture01.html#equations",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "Write mathematical symbols and equations using Latex.\n\n\n\n\n\n\n\n\n\n\nVallout note"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#columns-as-normal",
+    "href": "content/lectures/lecture01/lecture01.html#columns-as-normal",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "Left column\n\nRight column"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#columns-2",
+    "href": "content/lectures/lecture01/lecture01.html#columns-2",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "I would like to have text here\nSentence becomes longer, it should automatically stay in their column\n\nand here\nMore text"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#columns-3",
+    "href": "content/lectures/lecture01/lecture01.html#columns-3",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "monkeys\npuppies"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#themes",
+    "href": "content/lectures/lecture01/lecture01.html#themes",
+    "title": "Lecture01: Psych Science",
+    "section": "",
+    "text": "Customize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.html#refs",
+    "href": "content/lectures/lecture01/lecture01.html#refs",
+    "title": "Lecture01: Psych Science",
+    "section": "Refs",
+    "text": "Refs\n\n\n\n\nBird, G., Silani, G., Brindley, R., White, S., Frith, U., & Singer, T. (2010). Empathic brain responses in insula are modulated by levels of alexithymia but not autism. Brain, 133(5), 1515–1525. https://doi.org/10.1093/brain/awq060"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#css-tests",
+    "href": "content/lectures/lecture01/lecture01.slides.html#css-tests",
+    "title": "Lecture01: Psych Science",
+    "section": "CSS Tests",
+    "text": "CSS Tests\nshout question takeaway\nquote-source\nmidi\nlarge\n\nkapow!!\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet with icon\n\n\n\n\n\n\n\n\n\n\nSome wild callout\n\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#another-page",
+    "href": "content/lectures/lecture01/lecture01.slides.html#another-page",
+    "title": "Lecture01: Psych Science",
+    "section": "another page",
+    "text": "another page\nHere are my tests of callout blocks.\nSee the documentation.\n\n\n\n\n\n\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDo do this!"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#continued",
+    "href": "content/lectures/lecture01/lecture01.slides.html#continued",
+    "title": "Lecture01: Psych Science",
+    "section": "continued",
+    "text": "continued\n\n\n\n\n\n\nTip With Caption\n\n\nThis is an example of a callout with a caption.\n\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\nDon’t do that! minimal appearance."
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#clean-templates",
+    "href": "content/lectures/lecture01/lecture01.slides.html#clean-templates",
+    "title": "Lecture01: Psych Science",
+    "section": "clean templates",
+    "text": "clean templates"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#example-slide",
+    "href": "content/lectures/lecture01/lecture01.slides.html#example-slide",
+    "title": "Lecture01: Psych Science",
+    "section": "Example slide",
+    "text": "Example slide\nThis is a subtitle\nHere we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here."
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#additional-theme-classes",
+    "href": "content/lectures/lecture01/lecture01.slides.html#additional-theme-classes",
+    "title": "Lecture01: Psych Science",
+    "section": "Additional theme classes",
+    "text": "Additional theme classes\nSome extra things you can do with the clean theme\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#want-more",
+    "href": "content/lectures/lecture01/lecture01.slides.html#want-more",
+    "title": "Lecture01: Psych Science",
+    "section": "Want more?",
+    "text": "Want more?"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#slide",
+    "href": "content/lectures/lecture01/lecture01.slides.html#slide",
+    "title": "Lecture01: Psych Science",
+    "section": "slide",
+    "text": "slide\n\ntext - div cleft\n\n\ntext - div cright\n\nSee our longer demo slides\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here."
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#sec-summary",
+    "href": "content/lectures/lecture01/lecture01.slides.html#sec-summary",
+    "title": "Lecture01: Psych Science",
+    "section": "Summary",
+    "text": "Summary\nA minimal and elegant presentation theme\nThe Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#bullet-point-list",
+    "href": "content/lectures/lecture01/lecture01.slides.html#bullet-point-list",
+    "title": "Lecture01: Psych Science",
+    "section": "Bullet point list",
+    "text": "Bullet point list\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#incremental-list",
+    "href": "content/lectures/lecture01/lecture01.slides.html#incremental-list",
+    "title": "Lecture01: Psych Science",
+    "section": "Incremental list",
+    "text": "Incremental list\n\n\nItem 1\nItem 2\nItem 3"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#equations",
+    "href": "content/lectures/lecture01/lecture01.slides.html#equations",
+    "title": "Lecture01: Psych Science",
+    "section": "Equations",
+    "text": "Equations\nWrite mathematical symbols and equations using Latex.\n\n\n\n\n\n\n\n\n\nVallout note"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#columns-as-normal",
+    "href": "content/lectures/lecture01/lecture01.slides.html#columns-as-normal",
+    "title": "Lecture01: Psych Science",
+    "section": "Columns as normal",
+    "text": "Columns as normal\n\n\nLeft column\n\nRight column"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#columns-2",
+    "href": "content/lectures/lecture01/lecture01.slides.html#columns-2",
+    "title": "Lecture01: Psych Science",
+    "section": "Columns 2",
+    "text": "Columns 2\n\n\nI would like to have text here\nSentence becomes longer, it should automatically stay in their column\n\nand here\nMore text"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#columns-3",
+    "href": "content/lectures/lecture01/lecture01.slides.html#columns-3",
+    "title": "Lecture01: Psych Science",
+    "section": "Columns 3",
+    "text": "Columns 3\nmonkeys\npuppies"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#themes",
+    "href": "content/lectures/lecture01/lecture01.slides.html#themes",
+    "title": "Lecture01: Psych Science",
+    "section": "Themes",
+    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML"
+  },
+  {
+    "objectID": "content/lectures/lecture01/lecture01.slides.html#refs",
+    "href": "content/lectures/lecture01/lecture01.slides.html#refs",
+    "title": "Lecture01: Psych Science",
+    "section": "Refs",
+    "text": "Refs\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website\n\n\n\nBird, G., Silani, G., Brindley, R., White, S., Frith, U., & Singer, T. (2010). Empathic brain responses in insula are modulated by levels of alexithymia but not autism. Brain, 133(5), 1515–1525. https://doi.org/10.1093/brain/awq060"
+  },
+  {
+    "objectID": "content/minidiss/index.html",
+    "href": "content/minidiss/index.html",
+    "title": "Mini_diss resources",
+    "section": "",
+    "text": "Here is some stuff\nenjoy the shit out of it."
   },
   {
     "objectID": "index.html",
@@ -154,13 +448,6 @@
     "text": "Hidden solutions and hints\nYou can fence off a solution area that will be hidden behind a button using hide() before the solution and unhide() after, each as inline R code. Pass the text you want to appear on the button to the hide() function.\nIf the solution is a code chunk, instead of using hide() and unhide(), simply set the webex.hide chunk option to TRUE, or set it to the string you wish to display on the button.\nRecreate the scatterplot below, using the built-in cars dataset.\n\n\n\n\n\n\n\nI need a hint\n\nSee the documentation for plot() (?plot)\n\n\n\n\n\nClick here to see the solution\n\n\nCode\nplot(cars$speed, cars$dist)"
   },
   {
-    "objectID": "Mini-Diss/index.html",
-    "href": "Mini-Diss/index.html",
-    "title": "Mini_diss resources",
-    "section": "",
-    "text": "Here is some stuff\nenjoy the shit out of it."
-  },
-  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus",
@@ -189,265 +476,6 @@
     "text": "Course community\n\nInclusive community"
   },
   {
-    "objectID": "lectures/lecture03/lecture03.slides.html#übersicht-des-disputationsvortrags",
-    "href": "lectures/lecture03/lecture03.slides.html#übersicht-des-disputationsvortrags",
-    "title": "Lecture03: Didn’t touch it!",
-    "section": "Übersicht des Disputationsvortrags",
-    "text": "Übersicht des Disputationsvortrags"
-  },
-  {
-    "objectID": "lectures/lecture03/lecture03.slides.html#references",
-    "href": "lectures/lecture03/lecture03.slides.html#references",
-    "title": "Lecture03: Didn’t touch it!",
-    "section": "References",
-    "text": "References\n\n\n\n\n\n🔗 Quarto Lectures"
-  },
-  {
-    "objectID": "lectures/lecture02/lecture02.html",
-    "href": "lectures/lecture02/lecture02.html",
-    "title": "Lecture02: Like it when I found it!",
-    "section": "",
-    "text": "Slide content\nhere is another Bird et al. (2007)\n\n\n\n\n\nReferences\n\nBird, G., Brindley, R., Leighton, J., & Heyes, C. (2007). General processes, rather than \"goals,\" explain imitation errors. Journal of Experimental Psychology: Human Perception and Performance J Exp Psychology Hum Percept Perform, 33(5), 1158–1169. https://doi.org/10.1037/0096-1523.33.5.1158"
-  },
-  {
-    "objectID": "lectures/index.html",
-    "href": "lectures/index.html",
-    "title": "Welcome to Research Methods in Year 2",
-    "section": "",
-    "text": "c"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html",
-    "href": "lectures/lecture01/lecture01.html",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "Bird et al. (2010)\nwho says (wright201?)\n\n\nshout question takeaway\nquote-source\nmidi\nlarge\n\nkapow!!\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet with icon\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout\n\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout\n\n\n\n\n\nHere are my tests of callout blocks.\nSee the documentation.\n\n\n\n\n\n\n\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDo do this!\n\n\n\n\n\n\n\n\n\n\n\nTip With Caption\n\n\n\nThis is an example of a callout with a caption.\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! minimal appearance.\n\n\n\n\n\n\n\n\n\n\nHere we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here.\n\n\n\n\n\n\n\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary\n\n\n\n\n\n\n\n\n\ntext - div cleft\n\n\ntext - div cright\n\n\n\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here.\n\n\n\n\n\n\n\nThe Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo\n\n\n\n\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3\n\n\n\n\n\n\nItem 1\nItem 2\nItem 3\n\n\n\n\n\nWrite mathematical symbols and equations using Latex.\n\n\n\n\n\n\n\n\n\n\nVallout note\n\n\n\n\n\n\n\nLeft column\n\nRight column\n\n\n\n\n\n\n\nI would like to have text here\nSentence becomes longer, it should automatically stay in their column\n\nand here\nMore text\n\n\n\n\n\nmonkeys\npuppies\n\n\n\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#css-tests",
-    "href": "lectures/lecture01/lecture01.html#css-tests",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "shout question takeaway\nquote-source\nmidi\nlarge\n\nkapow!!\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet with icon\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout\n\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#another-page",
-    "href": "lectures/lecture01/lecture01.html#another-page",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "Here are my tests of callout blocks.\nSee the documentation.\n\n\n\n\n\n\n\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDo do this!"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#continued",
-    "href": "lectures/lecture01/lecture01.html#continued",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "Tip With Caption\n\n\n\nThis is an example of a callout with a caption.\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! minimal appearance."
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#example-slide",
-    "href": "lectures/lecture01/lecture01.html#example-slide",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "Here we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here."
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#additional-theme-classes",
-    "href": "lectures/lecture01/lecture01.html#additional-theme-classes",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "Special classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#slide",
-    "href": "lectures/lecture01/lecture01.html#slide",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "text - div cleft\n\n\ntext - div cright\n\n\n\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here."
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#sec-summary",
-    "href": "lectures/lecture01/lecture01.html#sec-summary",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "The Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#bullet-point-list",
-    "href": "lectures/lecture01/lecture01.html#bullet-point-list",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "Unordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#incremental-list",
-    "href": "lectures/lecture01/lecture01.html#incremental-list",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "Item 1\nItem 2\nItem 3"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#equations",
-    "href": "lectures/lecture01/lecture01.html#equations",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "Write mathematical symbols and equations using Latex.\n\n\n\n\n\n\n\n\n\n\nVallout note"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#columns-as-normal",
-    "href": "lectures/lecture01/lecture01.html#columns-as-normal",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "Left column\n\nRight column"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#columns-2",
-    "href": "lectures/lecture01/lecture01.html#columns-2",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "I would like to have text here\nSentence becomes longer, it should automatically stay in their column\n\nand here\nMore text"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#columns-3",
-    "href": "lectures/lecture01/lecture01.html#columns-3",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "monkeys\npuppies"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#themes",
-    "href": "lectures/lecture01/lecture01.html#themes",
-    "title": "Lecture01: Psych Science",
-    "section": "",
-    "text": "Customize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.html#refs",
-    "href": "lectures/lecture01/lecture01.html#refs",
-    "title": "Lecture01: Psych Science",
-    "section": "Refs",
-    "text": "Refs\n\n\n\n\nBird, G., Silani, G., Brindley, R., White, S., Frith, U., & Singer, T. (2010). Empathic brain responses in insula are modulated by levels of alexithymia but not autism. Brain, 133(5), 1515–1525. https://doi.org/10.1093/brain/awq060"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#css-tests",
-    "href": "lectures/lecture01/lecture01.slides.html#css-tests",
-    "title": "Lecture01: Psych Science",
-    "section": "CSS Tests",
-    "text": "CSS Tests\nshout question takeaway\nquote-source\nmidi\nlarge\n\nkapow!!\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet\n\n\nTweet from the callout tweet with icon\n\n\n\n\n\n\n\n\n\n\nSome wild callout\n\n\n\n\n\n\n\n\n\n\n\n\nSome wild callout"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#another-page",
-    "href": "lectures/lecture01/lecture01.slides.html#another-page",
-    "title": "Lecture01: Psych Science",
-    "section": "another page",
-    "text": "another page\nHere are my tests of callout blocks.\nSee the documentation.\n\n\n\n\n\n\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\n\n\n\nDo do this!"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#continued",
-    "href": "lectures/lecture01/lecture01.slides.html#continued",
-    "title": "Lecture01: Psych Science",
-    "section": "continued",
-    "text": "continued\n\n\n\n\n\n\nTip With Caption\n\n\nThis is an example of a callout with a caption.\n\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t do that! simple appearance.\n\n\n\n\n\n\n\n\n\nDon’t do that! minimal appearance."
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#clean-templates",
-    "href": "lectures/lecture01/lecture01.slides.html#clean-templates",
-    "title": "Lecture01: Psych Science",
-    "section": "clean templates",
-    "text": "clean templates"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#example-slide",
-    "href": "lectures/lecture01/lecture01.slides.html#example-slide",
-    "title": "Lecture01: Psych Science",
-    "section": "Example slide",
-    "text": "Example slide\nThis is a subtitle\nHere we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here."
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#additional-theme-classes",
-    "href": "lectures/lecture01/lecture01.slides.html#additional-theme-classes",
-    "title": "Lecture01: Psych Science",
-    "section": "Additional theme classes",
-    "text": "Additional theme classes\nSome extra things you can do with the clean theme\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#want-more",
-    "href": "lectures/lecture01/lecture01.slides.html#want-more",
-    "title": "Lecture01: Psych Science",
-    "section": "Want more?",
-    "text": "Want more?"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#slide",
-    "href": "lectures/lecture01/lecture01.slides.html#slide",
-    "title": "Lecture01: Psych Science",
-    "section": "slide",
-    "text": "slide\n\ntext - div cleft\n\n\ntext - div cright\n\nSee our longer demo slides\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here."
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#sec-summary",
-    "href": "lectures/lecture01/lecture01.slides.html#sec-summary",
-    "title": "Lecture01: Psych Science",
-    "section": "Summary",
-    "text": "Summary\nA minimal and elegant presentation theme\nThe Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#bullet-point-list",
-    "href": "lectures/lecture01/lecture01.slides.html#bullet-point-list",
-    "title": "Lecture01: Psych Science",
-    "section": "Bullet point list",
-    "text": "Bullet point list\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#incremental-list",
-    "href": "lectures/lecture01/lecture01.slides.html#incremental-list",
-    "title": "Lecture01: Psych Science",
-    "section": "Incremental list",
-    "text": "Incremental list\n\n\nItem 1\nItem 2\nItem 3"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#equations",
-    "href": "lectures/lecture01/lecture01.slides.html#equations",
-    "title": "Lecture01: Psych Science",
-    "section": "Equations",
-    "text": "Equations\nWrite mathematical symbols and equations using Latex.\n\n\n\n\n\n\n\n\n\nVallout note"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#columns-as-normal",
-    "href": "lectures/lecture01/lecture01.slides.html#columns-as-normal",
-    "title": "Lecture01: Psych Science",
-    "section": "Columns as normal",
-    "text": "Columns as normal\n\n\nLeft column\n\nRight column"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#columns-2",
-    "href": "lectures/lecture01/lecture01.slides.html#columns-2",
-    "title": "Lecture01: Psych Science",
-    "section": "Columns 2",
-    "text": "Columns 2\n\n\nI would like to have text here\nSentence becomes longer, it should automatically stay in their column\n\nand here\nMore text"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#columns-3",
-    "href": "lectures/lecture01/lecture01.slides.html#columns-3",
-    "title": "Lecture01: Psych Science",
-    "section": "Columns 3",
-    "text": "Columns 3\nmonkeys\npuppies"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#themes",
-    "href": "lectures/lecture01/lecture01.slides.html#themes",
-    "title": "Lecture01: Psych Science",
-    "section": "Themes",
-    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML"
-  },
-  {
-    "objectID": "lectures/lecture01/lecture01.slides.html#refs",
-    "href": "lectures/lecture01/lecture01.slides.html#refs",
-    "title": "Lecture01: Psych Science",
-    "section": "Refs",
-    "text": "Refs\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website\n\n\n\nBird, G., Silani, G., Brindley, R., White, S., Frith, U., & Singer, T. (2010). Empathic brain responses in insula are modulated by levels of alexithymia but not autism. Brain, 133(5), 1515–1525. https://doi.org/10.1093/brain/awq060"
-  },
-  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule",
@@ -455,17 +483,59 @@
     "text": "Here’s your roadmap for the year!\nEvery class session has four important sections. You should read about the details for each using the main menu at the top of this webpage."
   },
   {
-    "objectID": "schedule.html#httpslittlemonkeylab.comresearchmethodsweeksweek02.html",
-    "href": "schedule.html#httpslittlemonkeylab.comresearchmethodsweeksweek02.html",
-    "title": "Schedule",
-    "section": "https://littlemonkeylab.com/researchmethods/weeks/week02.html",
-    "text": "https://littlemonkeylab.com/researchmethods/weeks/week02.html"
-  },
-  {
     "objectID": "schedule.html#weekly-schedule",
     "href": "schedule.html#weekly-schedule",
     "title": "Schedule",
     "section": "Weekly schedule",
     "text": "Weekly schedule\n\n\n\n\n\n\n  \n    \n    \n      week\n      date\n      topic\n      prepare\n      lecture\n      lab\n      reading\n      minidiss\n      notes\n    \n  \n  \n    1\nMonday, 02 October\nWOOHOO!\n\n\n\n\n\n\n    2\nMonday, 09 October\nHello R!\n\n\n\n\n\nGot some spicy notes for you here my darlings\n    3\nMonday, 16 October\nVisualizing various types of data\n\n\n\n\n\n\n    4\nMonday, 23 October\nstuff\n\n\n\n\n\nAnd how about here? THis is some badass\n    5\nMonday, 30 October\nmore stuff\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    6\nMonday, 13 November\nData visualization\n\n\n\n\n\n\n    7\nMonday, 20 November\nWorking with multiple data frames\n\n\n\n\n\n\n    8\nMonday, 27 November\nData wrangling\n\n\n\n\n\n\n    9\nMonday, 04 December\nData types and classes\n\n\n\n\n\n\n    10\nMonday, 11 December\nData tidying\n\n\n\n\n\n\n    Winter Break\n\n\n\n\n\n\n\n\n    11\nMonday, 08 January\ngreat\n\n\n\n\n\n\n    12\nMonday, 15 January\nData science ethics - Misrepresentation\n\n\n\n\n\n\n    13\nMonday, 22 January\nNo lab - Fall break\n\n\n\n\n\n\n    14\nMonday, 29 January\nWeb scraping\n\n\n\n\n\n\n    15\nMonday, 05 February\nFunctions + iteration\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    16\nMonday, 19 February\nProbability + Simpson's Parado\n\n\n\n\n\n\n    17\nMonday, 26 February\nModels with multiple predictors\n\n\n\n\n\n\n    18\nMonday, 04 March\nPredicting a numerical outcome\n\n\n\n\n\n\n    19\nMonday, 11 March\ngoodness\n\n\n\n\n\n\n    20\nMonday, 18 March\ncrikey"
+  },
+  {
+    "objectID": "content/prepare/templateprepare.html",
+    "href": "content/prepare/templateprepare.html",
+    "title": "Prepare for WeekXX",
+    "section": "",
+    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2\n\n\n\n\n\n\n\n\n\nTask 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2\n\n\n\n\n\n\n\n\n\n\n\n\nCHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\nActivity 1: Description\nActivity 2: Description\n\n\n\n\n\n\nEmployability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUpcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
+  },
+  {
+    "objectID": "content/prepare/templateprepare.html#introduction-lecture-preview",
+    "href": "content/prepare/templateprepare.html#introduction-lecture-preview",
+    "title": "Prepare for WeekXX",
+    "section": "",
+    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2"
+  },
+  {
+    "objectID": "content/prepare/templateprepare.html#lab-sessions",
+    "href": "content/prepare/templateprepare.html#lab-sessions",
+    "title": "Prepare for WeekXX",
+    "section": "",
+    "text": "Task 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2"
+  },
+  {
+    "objectID": "content/prepare/templateprepare.html#CHIPTopics",
+    "href": "content/prepare/templateprepare.html#CHIPTopics",
+    "title": "Prepare for WeekXX",
+    "section": "",
+    "text": "CHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date"
+  },
+  {
+    "objectID": "content/prepare/templateprepare.html#mini-dissertation-skills-checkpoints",
+    "href": "content/prepare/templateprepare.html#mini-dissertation-skills-checkpoints",
+    "title": "Prepare for WeekXX",
+    "section": "",
+    "text": "Activity 1: Description\nActivity 2: Description"
+  },
+  {
+    "objectID": "content/prepare/templateprepare.html#tips-hacks-and-guides",
+    "href": "content/prepare/templateprepare.html#tips-hacks-and-guides",
+    "title": "Prepare for WeekXX",
+    "section": "",
+    "text": "Employability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games."
+  },
+  {
+    "objectID": "content/prepare/templateprepare.html#save-the-date",
+    "href": "content/prepare/templateprepare.html#save-the-date",
+    "title": "Prepare for WeekXX",
+    "section": "",
+    "text": "Upcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
   }
 ]
