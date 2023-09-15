@@ -5,7 +5,7 @@ format:
   revealjs:
     theme: _resources/templates/labs.scss
     mainfont: Atkinson Hyperlegible
-    logo: "images/rmlogo.png"
+    # logo: "images/rmlogo.png"
     slide-number: c/t
     menu: true
     controls: true
@@ -17,6 +17,10 @@ format:
 
     
     preview-links: true
+
+    filters: 
+      - reveal-header
+      - fontawesome
 
     embed-resources: true
     margin: 0.2

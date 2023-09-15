@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+.inline {
+  background-color: #f7f7f7;
+  border:solid 1px #B0B0B0;
+}
+.error {
+	font-weight: bold;
+	color: #FF0000;
+}
+.warning {
+	font-weight: bold;
+}
+.message {
+	font-style: italic;
+}
+.source, .output, .warning, .error, .message {
+	padding: 0 1em;
+  border:solid 1px #F7F7F7;
+}
+.source {
+  background-color: #f5f5f5;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+.hl.num {
+  color: #AF0F91;
+}
+.hl.str {
+  color: #317ECC;
+}
+.hl.com {
+  color: #AD95AF;
+  font-style: italic;
+}
+.hl.opt {
+  color: #000000;
+}
+.hl.std {
+  color: #585858;
+}
+.hl.kwa {
+  color: #295F94;
+  font-weight: bold;
+}
+.hl.kwb {
+  color: #B05A65;
+}
+.hl.kwc {
+  color: #55aa55;
+}
+.hl.kwd {
+  color: #BC5A65;
+  font-weight: bold;
+}
+</style>
+  <title>Psychology Quiz</title>
+  <script src="https://cdn.jsdelivr.net/npm/jspsych@6.3.1/jspsych.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jspsych@6.3.1/plugins/jspsych-html-keyboard-response.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jspsych@6.3.1/plugins/jspsych-survey-multi-choice.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jspsych@6.3.1/plugins/jspsych-survey-text.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/jspsych@6.3.1/css/jspsych.css" rel="stylesheet" type="text/css"></link>
+
+  <script src="https://www.gstatic.com/firebasejs/9.6.8/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.6.8/firebase-firestore.js"></script>
+
+  <style>
+    .correct-answer {
+      color: green;
+    }
+
+    .incorrect-answer {
+      color: red;
+    }
+  </style>
+</head>
+<body></body>
+
+<script>
+  // Initialize Firebase
+  const firebaseConfig = {
+    apiKey: "your-api-key",
+    authDomain: "your-auth-domain",
+    projectId: "your-project-id",
+    storageBucket: "your-storage-bucket",
+    messagingSenderId: "your-messaging-sender-id",
+    appId: "your-app-id"
+  };
+
+  const app = firebase.initializeApp(firebaseConfig);
+  const db = firebase.firestore(app);
+
+  const instruction = {
+    type: 'html-keyboard-response',
+    stimulus: 'In this lesson, we will discuss the importance of understanding human behavior in various settings. Studying psychology allows us to gain insights into the human mind, predict behavior, and improve the quality of life for individuals and society as a whole. Press any key to continue.'
+  };
+
+  const userIdQuestion = {
+    type: 'survey-text',
+    questions: [
+      {
+        prompt: "Please enter your unique identifier:",
+        placeholder: "User ID",
+        required: true,
+        columns: 15
+      }
+    ],
+    on_finish: function(data) {
+      const userId = JSON.parse(data.response)["Q0"];
+      // You can add user ID verification here
+    }
+  };
+
+  let startTime;
+  let wrongAttempts = 0;
+
+  const question = {
+    type: 'survey-multi-choice',
+    questions: [
+      {
+        prompt: "Which of the following is a key reason for studying psychology?",
+        options: [
+          "To predict and understand human behavior.",
+          "To become a famous philosopher.",
+          "To learn how to perform magic tricks.",
+          "To win at poker every time."
+        ],
+        required: true
+      }
+    ],
+    on_start: function() {
+      startTime = performance.now();
+    },
+    on_finish: function(data) {
+      const response = JSON.parse(data.response)["Q0"];
+      const correctAnswer = "To predict and understand human behavior.";
+      const isCorrect = response === correctAnswer;
+      const endTime = performance.now();
+      const timeSpent = endTime - startTime;
+
+      if (!isCorrect) {
+        wrongAttempts++;
+        jsPsych.addNodeToEndOfTimeline(question);
+      } else {
+        const feedback = '<p class="correct-answer

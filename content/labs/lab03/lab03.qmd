@@ -12,7 +12,16 @@ categories: "Lab"
 format: 
   pdf: default
   html: default
-  revealjs: default
+  revealjs: 
+    header-logo: "/images/rmlogo.png"
+    header: "Research Methods Lab 03"
+    hide-from-titleSlide: "text"
+filters:
+  - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
   # Title page populated by content above
 ---
 
@@ -23,6 +32,10 @@ Heading 1 copy - This is a subtitle to the section header
 ## Heading 2 - new slide title
 
 Heading 2 copy
+
+::: footer
+Custom footer text
+:::
 
 ### Heading 3 - italic emphasis
 

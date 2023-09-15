@@ -12,7 +12,16 @@ categories: "Lecture"
 format: 
   pdf: default
   html: default
-  revealjs: default
+  revealjs: 
+    header-logo: "/images/rmlogo.png"
+    header: "Research Methods Lab 03"
+    hide-from-titleSlide: "text"
+filters:
+  - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
   # Title page populated by content above
 ---
 
