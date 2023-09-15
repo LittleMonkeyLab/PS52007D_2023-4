@@ -37,7 +37,7 @@ Every class session has four important sections. You should read about
 the details for each using the main menu at the top of this webpage.
 
 -   [**Prepare**](/prepare/index.html)
-    (<i class="fas fa-magnifying-glass"></i>): This page overviews the
+    (<i class="fas fa-binoculars"></i>): This page overviews the
     weeks
 
 -   [**Lecture slides**](/lectures/index.html)
@@ -45,13 +45,13 @@ the details for each using the main menu at the top of this webpage.
     lectures
 
 -   [**Lab activities**](/reading/index.html)
-    (<i class="fas fa-users-gear"></i>): This page is about labs
+    (<i class="fas fa-users"></i>): This page is about labs
 
 -   [**Reading**](/Extras/index.html) (<i class="fas fa-bookmark"></i>):
     This page is about Extras
 
 -   [**Mini-Diss**](/Mini-Diss/index.html)
-    (<i class="fas fa-book-journal-whills"></i>): This page contains an
+    (<i class="fas fa-book"></i>): This page contains an
     interactive lesson that teaches you the principles and code you need
     to know. Go through these after doing the content.
 
@@ -61,13 +61,13 @@ the details for each using the main menu at the top of this webpage.
 ::: card-body
 **tl;dr**: You should follow this general process each week:
 
--   Check out the overview (<i class="fas fa-magnifying-glass"></i>)
+-   Check out the overview (<i class="fas fa-binoculars"></i>)
     page and do any thinking/reading/prep suggested if you have the
     chance
 -   Come to the lecture (<i class="fas fa-chalkboard-teacher"></i>) page
--   Attend the lab (<i class="fas fa-users-gear"></i>) and get cracking
+-   Attend the lab (<i class="fas fa-users"></i>) and get cracking
 -   Use the plentiful Mini-Diss resources
-    (<i class="fas fa-book-journal-whills"></i>) to help you smash the
+    (<i class="fas fa-book"></i>) to help you smash the
     MD
 :::
 :::
@@ -113,11 +113,11 @@ d |>
     )
   ) |>
   gt() |>
-  text_transform(cells_body(columns = c(prepare)), fn = conditional_transform_fn("magnifying-glass")) |>
+  text_transform(cells_body(columns = c(prepare)), fn = conditional_transform_fn("binoculars")) |>
   text_transform(cells_body(columns = c(lecture)), fn = conditional_transform_fn("person-chalkboard")) |>
-  text_transform(cells_body(columns = c(lab)), fn = conditional_transform_fn("users-gear")) |>
+  text_transform(cells_body(columns = c(lab)), fn = conditional_transform_fn("users")) |>
   text_transform(cells_body(columns = c(reading)), fn = conditional_transform_fn("bookmark")) |>
-  text_transform(cells_body(columns = c(minidiss)), fn = conditional_transform_fn("book-journal-whills")) |>
+  text_transform(cells_body(columns = c(minidiss)), fn = conditional_transform_fn("book")) |>
   sub_missing(columns = c(date, topic, notes), missing_text = "") |>
   cols_align(align = "center", columns = c(week, date, prepare, lecture, lab, reading, minidiss)) |>
   cols_align(align = "left", columns = c(topic, notes)) |>

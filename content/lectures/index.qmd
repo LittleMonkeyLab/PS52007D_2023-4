@@ -2,7 +2,9 @@
 title: "Welcome to Research Methods in Year 2"
 author: "Dr. Gordon Wright"
 
-format: revealjs
+format: 
+  revealjs: default
+  pdf: default
 ---
 
 # Title of Lecture
@@ -101,8 +103,7 @@ expectations.
 :::
 
 ::: {.fragment .fade}
-...You can use [Font Awesome](https://fontawesome.com/) symbols as well
-`r fa("font-awesome", fill = "steelblue")`.
+...You ca
 :::
 
 ## Fragments
@@ -142,29 +143,6 @@ Learn more:
 [Fragments](https://quarto.org/docs/presentations/revealjs/advanced.html#fragments)
 :::
 
-## Chalkboard {chalkboard-buttons="true"}
-
-::: {style="margin-bottom: 0.9em;"}
-Free form drawing and slide annotations
-:::
-
-::: {layout="[1, 20]"}
-![](images/presentation-chalkboard.png){width="41"}
-
-Use the chalkboard button at the bottom left of the slide to toggle the
-chalkboard.
-:::
-
-::: {layout="[1, 20]"}
-![](images/presentation-notes-canvas.png){width="41"}
-
-Use the notes canvas button at the bottom left of the slide to toggle
-drawing on top of the current slide.
-:::
-
-You can also press `b` to toggle the chalkboard or `c` to toggle the
-notes canvas.
-
 ::: footer
 Learn more:
 [Chalkboard](https://quarto.org/docs/presentations/revealjs/presenting.html#chalkboard)
@@ -183,7 +161,7 @@ Learn more: [Slide
 Backgrounds](https://quarto.org/docs/presentations/revealjs/#color-backgrounds)
 :::
 
-## Media Backgrounds {background="#43464B" background-image="images/milky-way.jpeg"}
+## Media Backgrounds {background="#43464B"}
 
 You can also use the following as a slide background:
 
@@ -201,12 +179,6 @@ Backgrounds](https://quarto.org/docs/presentations/revealjs/#image-backgrounds)
 ## Absolute Position
 
 Position images or other elements at precise locations
-
-![](./images/kitten-450-250.jpeg){.absolute .fragment top="150"
-right="80" width="450"}
-
-![](./images/kitten-300-200.jpeg){.absolute .fragment bottom="110"
-left="120" width="300"}
 
 ::: footer
 Learn more: [Absolute
@@ -253,22 +225,4 @@ Learn more:
 [Auto-Animate](https://quarto.org/docs/presentations/revealjs/advanced.html#auto-animate)
 :::
 
-## Slide light
-
-This has `code` with a light background.
-
-A [hyperlink](https://posit.co)
-
-```{r}
-library(ggplot2)
-
-mtcars |> 
-  ggplot(aes(x = disp, y = mpg)) +
-  geom_point()
-```
-
-## Slide dark {background-color="#17212B"}
-
-This has `code` with a dark background.
-
-A [hyperlink](https://posit.co)
+## 

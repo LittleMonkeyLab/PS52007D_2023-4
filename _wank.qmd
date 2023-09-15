@@ -39,11 +39,11 @@ d |>
     )
   ) |>
   gt() |>
-  text_transform(cells_body(columns = c(prepare)), fn = conditional_transform_fn("magnifying-glass")) |>
+  text_transform(cells_body(columns = c(prepare)), fn = conditional_transform_fn("binoculars")) |>
   text_transform(cells_body(columns = c(slides)), fn = conditional_transform_fn("person-chalkboard")) |>
-  text_transform(cells_body(columns = c(lab)), fn = conditional_transform_fn("users-gear")) |>
+  text_transform(cells_body(columns = c(lab)), fn = conditional_transform_fn("users")) |>
   text_transform(cells_body(columns = c(reading)), fn = conditional_transform_fn("bookmark")) |>
-  text_transform(cells_body(columns = c(minidiss)), fn = conditional_transform_fn("book-journal-whills")) |>
+  text_transform(cells_body(columns = c(minidiss)), fn = conditional_transform_fn("book")) |>
   sub_missing(columns = c(date, what, topic, notes), missing_text = "") |>
   cols_align(align = "center", columns = c(week, prepare, slides, lab, reading, minidiss)) |>
   cols_align(align = "left", columns = c(date, what, topic, notes)) |>
