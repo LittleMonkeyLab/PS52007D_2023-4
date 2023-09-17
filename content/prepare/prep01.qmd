@@ -15,6 +15,60 @@ categories:
   - "Week 1"
 params:
   class: "prep01"
+listing:
+  - id: lecture-listing
+    contents:
+      - content/lectures/lec01.qmd
+    type: table
+    fields: [title, date, image]
+    date-format: "ddd, MMM DD"
+    field-display-names:
+      title: "Topic"
+      date: "Date"
+    sort: [filename]
+    sort-ui: false
+    filter-ui: false
+  - id: lab-listing
+    contents:
+      - content/labs/lab01.qmd
+    type: table
+    fields: [title, date, image]
+    date-format: "ddd, MMM DD"
+    field-display-names:
+      title: "Title"
+      date: "Date"
+    sort: [date]
+    sort-ui: false
+    filter-ui: false  
+  - id: readings-listing
+    contents:
+      - content/readings/read01.qmd
+      # - ../labs/Lab01.qmd
+    type: table
+    fields: [title, date, image]
+    date-format: "ddd, MMM DD"
+    field-display-names:
+      categories: "Readings"
+      title: "Title"
+      date: "Due"
+    sort: [date]
+    sort-ui: false
+    filter-ui: false
+  - id: minidiss-listing
+    contents:
+      - content/minidiss/minidiss01.qmd
+      # - ../labs/Lab01.qmd
+    type: table
+    fields: [title, subtitle, image]
+    date-format: "ddd, MMM DD"
+    field-display-names:
+      categories: "MiniDiss"
+      title: "Title"
+      subtitle: "Topic"
+    sort: [date]
+    sort-ui: false
+    filter-ui: false
+tbl-colwidths: [10,50,40]
 format: 
   # pdf: default
   # pptx: default
@@ -37,6 +91,9 @@ embed-resources: true
 
 ## Introduction & Lecture Preview
 
+::: {#lecture-listing}
+:::
+
 ::: {.callout .primary}
 **Key Focus:** Briefly describe the key focus of this week's lecture.
 :::
@@ -48,7 +105,13 @@ embed-resources: true
     -   [Reading 1](#)
     -   [Reading 2](#)
 
+::: {#readings-listing}
+:::
+
 ------------------------------------------------------------------------
+
+::: {#lab-listing}
+:::
 
 ## Lab Sessions
 
@@ -86,14 +149,10 @@ role="button"} [See all CHIP Topics covered to date](www.bbc.co.uk){.btn
 .btn-success .btn role="button"}
 :::
 
-------------------------------------------------------------------------
-
-## Mini-Dissertation Skills & Checkpoints
-
--   **Activity 1**: Description
--   **Activity 2**: Description
-
-------------------------------------------------------------------------
+|                                                                        |
+|:-----------------------------------------------------------------------|
+| ::: {#minidiss-listing} ::: \## Mini-Dissertation Skills & Checkpoints |
+| \- **Activity 1**: Description - **Activity 2**: Description           |
 
 ## Tips, Hacks, and Guides
 

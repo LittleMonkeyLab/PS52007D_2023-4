@@ -41,22 +41,18 @@ website:
     logo: images/LMLLOGO.png
     search: false
     left:
-    - text: Home
+    - text: Module Overview
       file: index.qmd
-    - text: Syllabus
-      file: syllabus.qmd
     - text: Schedule
       file: schedule.qmd
     right:
-    - syllabus.qmd
-    - schedule.qmd
-    - text: "Weeks"
+    - text: "Prepare"
       file: content/prepare/index.qmd
     - text: "Lectures"
       file: content/lectures/index.qmd
     - text: "Labs"
       file: content/labs/index.qmd
-    - text: "Extras"
+    - text: "Readings"
       file: content/readings/index.qmd
     - text: "Mini-Diss"
       file: content/minidiss/index.qmd

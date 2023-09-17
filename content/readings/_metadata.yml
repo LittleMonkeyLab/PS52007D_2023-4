@@ -6,6 +6,6 @@ format:
       - LMLweb.scss
     mainfont: "Atkinson Hyperlegible"
     monofont: "Fira Code"
-    css: "/PS52007D_2023-4/include/webex.css"
-    include-after-body: "/PS52007D_2023-4/include/webex.js"
+    css: "/include/webex.css"
+    include-after-body: "/include/webex.js"
     toc: true
