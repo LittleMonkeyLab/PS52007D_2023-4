@@ -24,8 +24,8 @@ format:
   #   header-logo: "/images/rmlogo.png"
   #   header: "Research Methods Lab 01 - Short Title" # Replace it
   #   hide-from-titleSlide: "text"
-filters:
-  - reveal-header
+# filters:
+#   - reveal-header
 execute:
  echo: false
  freeze: auto
