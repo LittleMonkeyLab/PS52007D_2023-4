@@ -96,7 +96,7 @@ format:
     linkcolor: red
     code-overflow: wrap
     embed-resources: true
-    standalone: true
+
     css:
     - include/webex.css
     - LMLstyles.css

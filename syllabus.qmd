@@ -1,10 +1,199 @@
 ---
 title: "Syllabus"
+params:
+  class: "lecture01"
 ---
 
-**Syllabus title**
+# Course Information
 
-<hr>
+::: {style="width:600px"}
+| Instructor                                                                                      | Course                                                                                          |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| <i class="fas fa-user"></i> John Paul Helveston                                                 | <i class="far fa-calendar"></i> {{< var weekday >}}                                             |
+| <i class="fas fa-university"></i> Science & Engineering Hall, 2830                              | <i class="fa fa-map-marker-alt"></i> [{{< var room >}}](%7B%7B%3C%20var%20room_url%20%3E%7D%7D) |
+| <i class="fas fa-phone"></i> +1 (202) 994-7173                                                  | <i class="far fa-calendar-alt"></i> {{< var dates >}}                                           |
+| <i class="fas fa-envelope"></i> [{{< var email >}}](mailto:%7B%7B%3C%20var%20email%20%3E%7D%7D) | <i class="far fa-clock"></i> {{< var time >}}                                                   |
+| <i class="fab fa-twitter"></i> [\@JohnHelveston](https://twitter.com/JohnHelveston)             | <i class="fab fa-slack"></i> [Slack](%7B%7B%3C%20var%20slack%20%3E%7D%7D){target="_blank"}      |
+:::
+
+# Remote attendance / class recording
+
+You should plan to attend class in person. I will only open a zoom for
+virtual attendance on an individual case-by-case basis for specific
+excusable absences (e.g. illness, family matters, etc.). Lectures will
+**not** be recorded. In-person attendance is critical as we will spend a
+lot of time working on problems and writing code during class. If you
+have any questions or need special accommodations, send me a message on
+slack and we can discuss.
+
+# Course Description
+
+## GW Bulletin Description (short)
+
+Introduction to exploratory data analysis using the [R programming
+language](https://www.r-project.org/); data visualization, data
+cleaning, exploratory analysis, information communication, rmarkdown,
+reproducibility.
+
+## Unofficial Description
+
+```         
+```
+
+## Prerequisites
+
+```         
+```
+
+# Learning Objectives
+
+```         
+```
+
+# Pep Talk!
+
+Working in and learning a programming language can be as challenging as
+learning a new spoken language. Hadley Wickham (chief data scientist at
+RStudio and author of many amazing R packages you'll be using) [made
+this wise
+observation](https://r-posts.com/advice-to-young-and-old-programmers-a-conversation-with-hadley-wickham/):
+
+> It's easy when you start out programming to get really frustrated and
+> think, "Oh it's me, I'm really stupid," or, "I'm not made out to
+> program." But, that is absolutely not the case. Everyone gets
+> frustrated. I still get frustrated occasionally when writing R code.
+> It's just a natural part of programming. So, it happens to everyone
+> and gets less and less over time. Don't blame yourself. Just take a
+> break, do something fun, and then come back and try again later.
+
+If you're finding yourself taking way too long hitting your head against
+a wall and not understanding, **take a break**, talk to classmates, ask
+questions in Slack, and try it again later.
+
+**I promise, you can do this**
+
+## Quizzes
+
+There will be 5 quizzes given about once every other week immediately at
+the beginning of class. You will not be told in advance when there is a
+quiz, and make up quizzes will not be available if you miss it (except
+for excused absences). Please show up on time to class each week to
+ensure that you do not miss a quiz.
+
+Quizzes will cover material presented in previous classes and
+assignments during the weeks since the most-recent quiz. Quizzes are
+**short** (5-10 minutes) and are designed to test for fluency and to
+demonstrate where additional study is needed. **Quizzes are
+low-stakes** - your worst one is dropped, and the rest count for a small
+portion of your final grade. If you do poorly on one or two, use that as
+feedback on where you need additional improvement.
+
+> **Why quiz at all?** Research shows that giving small quizzes
+> throughout a class can dramatically help with *retention*. It's a
+> phenomenon known as the "retrieval effect" - basically, you have to
+> *practice* remembering things, otherwise your brain won't remember
+> them. The phenomenon and research on it is explained in detail in the
+> book ["Make It Stick: The Science of Successful
+> Learning,"](https://www.hup.harvard.edu/catalog.php?isbn=9780674729018)
+> by Brown, Roediger, and McDaniel.
+
+## Homework
+
+Students will be responsible for two types of assignments throughout the
+semester:
+
+-   **Weekly Assignments**: Each week, students will be assigned
+    specific readings and exercises to prepare for the next class
+    period. Students will need to submit responses that include a
+    thoughtful reflection on these concepts each week.
+-   **Mini Projects**: There will be three mini projects throughout the
+    semester designed to provide hands-on experience with the material
+    covered in class by working with and exploring real data sets and /
+    or creating visualizations. While students may work with their peers
+    on these assignments, each student must submit their own work.
+    Credit for each assignment will be allocated according to a rubric
+    provided in the assignment description.
+
+## Final Project
+
+Throughout the semester, students will work in teams of 2-3 students
+towards a final project of an exploratory data analysis. At the end of
+the semester, each student will submit a report of their analysis in the
+form of an html web page and create a 5 to 10-minute video presentation
+of their results. To make the overall project more manageable, it will
+be broken down into several separate "milestone" deliverables due
+throughout the semester, including a proposal, progress report,
+presentation video, and final report.
+
+View the [final project overview](project-final/0-overview.qmd) page for
+more details.
+
+## Final Interview
+
+Rather than have a final exam, each student will have a 10-minute
+interview by the instructor. The interview will be focused on the final
+project the student worked and will contain questions related to
+concepts covered during the course. Students will be provided a list of
+questions and the grading rubric ahead of the interview.
+
+# Grading
+
+## Category Breakdown
+
+Final grades will be calculated as follows:
+
+::: {style="width:550px"}
+| Item                           | Weight | Notes                     |
+|--------------------------------|--------|---------------------------|
+| Weekly HW                      | 12 %   |                           |
+| Quizzes                        | 8 %    | 5 quizzes, lowest dropped |
+| Mini Project 1                 | 8 %    | Individual assignments    |
+| Mini Project 2                 | 8 %    |                           |
+| Mini Project 3                 | 8 %    |                           |
+| Final Project: Proposal        | 9 %    | Teams of 2-3 students     |
+| Final Project: Progress Report | 12 %   |                           |
+| Final Project: Report          | 16 %   |                           |
+| Final Project: Presentation    | 9 %    |                           |
+| Final Interview                | 10 %   | Individual interview      |
+:::
+
+Here's a visual breakdown by category:
+
+```{r grade-breakdown, echo=FALSE, fig.height=3, fig.align='left'}
+library(viridis)
+library(ggrepel)
+library(magrittr)
+library(dplyr)
+library(forcats)
+library(cowplot)
+
+df <- data.frame(
+    category = c(
+      'Weekly HW', 'Quizzes', 'Mini Projects', 'Final Project',  'Interview'),
+    percent = c(6, 12, 27, 45, 10)) %>%
+    arrange(desc(percent)) %>%
+    mutate(
+      cumpercent = cumsum(percent),
+      label_y = cumpercent - (percent / 2),
+      category = fct_reorder(category, percent))
+
+ggplot(df) +
+    geom_col(aes(x = "", y = percent, fill = category),
+             width = 1.1, alpha = 0.8) +
+    geom_label(data = filter(df, category %in% c(
+               'Mini Projects', 'Final Project')),
+               aes(x = "", y = label_y, label = category)) +
+    geom_label_repel(data = filter(df, category %in% c(
+                     'Quizzes', 'Interview', 'Weekly HW')),
+                     aes(x = "", y = label_y, label = category),
+                     direction = 'y', label.padding = 0.25, segment.size = 0) +
+    coord_flip() +
+    scale_y_continuous(expand = expansion(mult = c(0, 0.05))) +
+    scale_fill_viridis(discrete = TRUE) +
+    theme_minimal_vgrid() +
+    theme(legend.position = 'none') +
+    labs(y = 'Percent of final grade', x = NULL)
+```
 
 ## Course Learning Objectives
 
@@ -15,10 +204,11 @@ By the end of the term, you will...
 
 ## Textbooks
 
-All books are freely available online. Hardcopies are also available for purchase.
+All books are freely available online. Hardcopies are also available for
+purchase.
 
 |                                                                         |                          |                                   |
-|------------------------------------|------------------|------------------|
+|-------------------------------------------------------------------------|--------------------------|-----------------------------------|
 | [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) | Çetinkaya-Rundel, Hardin | OpenIntro Inc., 1st Edition, 2021 |
 
 ## Course community

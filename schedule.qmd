@@ -37,8 +37,7 @@ Every class session has four important sections. You should read about
 the details for each using the main menu at the top of this webpage.
 
 -   [**Prepare**](/prepare/index.html)
-    (<i class="fas fa-binoculars"></i>): This page overviews the
-    weeks
+    (<i class="fas fa-binoculars"></i>): This page overviews the weeks
 
 -   [**Lecture slides**](/lectures/index.html)
     (<i class="fas fa-chalkboard-teacher"></i>): This page is for
@@ -51,9 +50,9 @@ the details for each using the main menu at the top of this webpage.
     This page is about Extras
 
 -   [**Mini-Diss**](/Mini-Diss/index.html)
-    (<i class="fas fa-book"></i>): This page contains an
-    interactive lesson that teaches you the principles and code you need
-    to know. Go through these after doing the content.
+    (<i class="fas fa-book"></i>): This page contains an interactive
+    lesson that teaches you the principles and code you need to know. Go
+    through these after doing the content.
 
 ::: {.row .d-flex .justify-content-center}
 ::: {.col-12 .col-sm-10 .col-md-6}
@@ -61,14 +60,12 @@ the details for each using the main menu at the top of this webpage.
 ::: card-body
 **tl;dr**: You should follow this general process each week:
 
--   Check out the overview (<i class="fas fa-binoculars"></i>)
-    page and do any thinking/reading/prep suggested if you have the
-    chance
+-   Check out the overview (<i class="fas fa-binoculars"></i>) page and
+    do any thinking/reading/prep suggested if you have the chance
 -   Come to the lecture (<i class="fas fa-chalkboard-teacher"></i>) page
 -   Attend the lab (<i class="fas fa-users"></i>) and get cracking
--   Use the plentiful Mini-Diss resources
-    (<i class="fas fa-book"></i>) to help you smash the
-    MD
+-   Use the plentiful Mini-Diss resources (<i class="fas fa-book"></i>)
+    to help you smash the MD
 :::
 :::
 :::
@@ -86,7 +83,6 @@ gs4_deauth()
 d <- read_sheet("https://docs.google.com/spreadsheets/d/1C03QNEp_foGSRXncI68DKEpIC1NqLDhv1TffH3hQCA8/edit?usp=sharing", sheet = "draft1")
 ```
 
-::: column-screen-right
 ```{r transformations, echo=FALSE}
 # Function for conditional text transformation
 conditional_transform_fn <- function(icon_name) {
@@ -164,4 +160,3 @@ d |>
   ) 
 
 ```
-:::

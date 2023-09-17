@@ -1,6 +1,31 @@
 ---
-title: "index"
-author: "Dr. Gordon Wright"
+title: "Week XX: <br> Replace it!"
+subtitle: "This is a meaningful subtitle"
+description: "w/c 2nd October"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/02/2023"
+date-format: long
+footer: "[🔗 VLE](https://www.bbc.co.uk)"
+categories: "Lecture"
+listing:
+  id: activity-listing
+  contents:
+    - "content/lectures/*.qmd"
+    - "content/labs/*.qmd"
+    - "content/readingss/*.qmd"
+    - "content/minidiss/*.qmd"
+  type: table
+  include:
+    categories: [Week 1]
+format: 
+  pdf: default
+  html: default
 ---
 
-g
+# THis is tezting weeek01
+
+::: {#activity-listing}
+:::
