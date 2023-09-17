@@ -89,10 +89,10 @@ embed-resources: true
 
 # Week 01
 
-<iframe src="https://ps52007d.littlemonkeylab.com/content/lectures/lec01.slides.html#/title-slide" height="200" width="300" title="Iframe Example">
+```{=html}
 
-</iframe>
-
+<iframe width="780" height="500" src="https://quarto.org/" title="Quarto Documentation"></iframe>
+```
 ## Introduction & Lecture Preview
 
 ::: {#lecture-listing}
@@ -176,7 +176,7 @@ might be of interest.
 :::
 
 | Shortcode                                          | Icon                                    |
-|----------------------------------------------------|-----------------------------------------|
+|----------------------------------------|--------------------------------|
 | `{{{< fa thumbs-up >}}}`                           | {{< fa thumbs-up >}}                    |
 | `{{{< fa folder >}}}`                              | {{< fa folder >}}                       |
 | `{{{< fa chess-pawn >}}}`                          | {{< fa chess-pawn >}}                   |

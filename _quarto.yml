@@ -81,10 +81,7 @@ website:
       contents: content/minidiss/*
 format:
   html:
-    theme:
-      light:
-      - simplex
-      - LMLweb.scss
+    theme: simplex
     mainfont: Atkinson Hyperlegible
     monofont: Fira Code
     toc: true
@@ -95,9 +92,9 @@ format:
 
     css:
     - include/webex.css
-    - LMLstyles.css
+    # - LMLstyles.css
     include-after-body: include/webex.js
-    df-print: kable
+    # df-print: kable
     filters: 
       - fontawesome
       - reveal-header
