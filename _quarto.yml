@@ -47,15 +47,15 @@ website:
       file: schedule.qmd
     right:
     - text: "Prepare"
-      file: content/prepare/index.qmd
+      file: prepare/index.qmd
     - text: "Lectures"
-      file: content/lectures/index.qmd
+      file: lectures/index.qmd
     - text: "Labs"
-      file: content/labs/index.qmd
+      file: labs/index.qmd
     - text: "Readings"
-      file: content/readings/index.qmd
+      file: readings/index.qmd
     - text: "Mini-Diss"
-      file: content/minidiss/index.qmd
+      file: minidiss/index.qmd
   sidebar:
     background: '#ececec'
     collapse-level: 1
@@ -70,15 +70,15 @@ website:
       text: ModuleVLE
     contents:
     - section: Prepare
-      contents: content/prepare/*
+      contents: prepare/*
     - section: Lectures
-      contents: content/lectures/*
+      contents: lectures/*
     - section: Labs
-      contents: content/labs/*
+      contents: labs/*
     - section: Readings
-      contents: content/readings/*
+      contents: readings/*
     - section: MiniDiss
-      contents: content/minidiss/*
+      contents: minidiss/*
 format:
   html:
     theme: simplex

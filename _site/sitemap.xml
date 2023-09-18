@@ -1,71 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://quarto.org/content/labs/lab01.labslides.html</loc>
-    <lastmod>2023-09-18T15:05:27.242Z</lastmod>
+    <loc>https://quarto.org/labs/lab01.labslides.html</loc>
+    <lastmod>2023-09-18T17:24:40.533Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto.org/content/labs/lab01.html</loc>
-    <lastmod>2023-09-18T15:05:28.538Z</lastmod>
+    <loc>https://quarto.org/labs/lab01.html</loc>
+    <lastmod>2023-09-18T17:24:42.123Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto.org/content/labs/index.html</loc>
-    <lastmod>2023-09-18T15:05:30.516Z</lastmod>
+    <loc>https://quarto.org/labs/index.html</loc>
+    <lastmod>2023-09-18T17:24:44.259Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto.org/content/labs/index.labslides.html</loc>
-    <lastmod>2023-09-18T15:05:33.602Z</lastmod>
+    <loc>https://quarto.org/labs/index.labslides.html</loc>
+    <lastmod>2023-09-18T17:24:47.331Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto.org/content/prepare/index.html</loc>
-    <lastmod>2023-09-18T15:05:36.283Z</lastmod>
+    <loc>https://quarto.org/prepare/index.html</loc>
+    <lastmod>2023-09-18T17:24:49.713Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto.org/content/prepare/prep01.html</loc>
-    <lastmod>2023-09-18T15:05:40.898Z</lastmod>
+    <loc>https://quarto.org/prepare/prep01.html</loc>
+    <lastmod>2023-09-18T17:28:25.290Z</lastmod>
   </url>
   <url>
     <loc>https://quarto.org/content/coursework/index.html</loc>
-    <lastmod>2023-09-18T15:05:43.075Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quarto.org/content/readings/index.html</loc>
-    <lastmod>2023-09-18T15:05:47.736Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quarto.org/content/readings/read01.html</loc>
-    <lastmod>2023-09-18T15:05:55.124Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quarto.org/content/lectures/lec01.slides.html</loc>
-    <lastmod>2023-09-18T15:06:02.134Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quarto.org/content/lectures/lec01.html</loc>
-    <lastmod>2023-09-18T15:06:03.466Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quarto.org/content/lectures/index.html</loc>
-    <lastmod>2023-09-18T15:06:06.686Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quarto.org/content/lectures/index.slides.html</loc>
-    <lastmod>2023-09-18T15:06:09.809Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quarto.org/content/minidiss/minidiss01.html</loc>
-    <lastmod>2023-09-18T15:06:11.355Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quarto.org/content/minidiss/index.html</loc>
-    <lastmod>2023-09-18T15:06:18.277Z</lastmod>
+    <lastmod>2023-09-18T17:24:56.462Z</lastmod>
   </url>
   <url>
     <loc>https://quarto.org/index.html</loc>
-    <lastmod>2023-09-18T15:06:28.669Z</lastmod>
+    <lastmod>2023-09-18T17:25:05.296Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.org/readings/index.html</loc>
+    <lastmod>2023-09-18T17:25:06.901Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.org/readings/read01.html</loc>
+    <lastmod>2023-09-18T17:25:11.797Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.org/lectures/lec00.slides.html</loc>
+    <lastmod>2023-09-18T17:25:16.795Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.org/lectures/lec00.html</loc>
+    <lastmod>2023-09-18T17:25:18.104Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.org/lectures/lec01.slides.html</loc>
+    <lastmod>2023-09-18T17:25:20.178Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.org/lectures/lec01.html</loc>
+    <lastmod>2023-09-18T17:25:21.462Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.org/lectures/index.html</loc>
+    <lastmod>2023-09-18T17:25:24.143Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.org/lectures/index.slides.html</loc>
+    <lastmod>2023-09-18T17:25:27.240Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.org/minidiss/minidiss01.html</loc>
+    <lastmod>2023-09-18T17:25:28.860Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quarto.org/minidiss/index.html</loc>
+    <lastmod>2023-09-18T17:25:35.814Z</lastmod>
   </url>
   <url>
     <loc>https://quarto.org/schedule.html</loc>
-    <lastmod>2023-09-18T15:06:34.865Z</lastmod>
+    <lastmod>2023-09-18T17:25:37.556Z</lastmod>
   </url>
 </urlset>

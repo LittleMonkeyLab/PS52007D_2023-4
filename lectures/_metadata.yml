@@ -1,0 +1,66 @@
+# Lecture Slides
+# Title Page Indigo "#4B0082" with white text (see scss $title-color variable)
+# output format options - change these as required
+format:
+  revealjs:
+    theme: _resources/templates/lectures.scss
+    mainfont: Atkinson Hyperlegible
+    # logo: "images/rmlogo.png"
+    slide-number: c/t
+    menu: true
+    controls: true
+    navigation-mode: linear
+    controls-layout: edges
+    show-slide-number: all
+    title-slide-attributes:
+      data-background-color: "#4B0082" #indigo
+      data-background-image: "/images/LMLLOGO.png"
+      data-background-position: right
+      data-background-size: 3.2em
+
+    filters: 
+      - reveal-header
+      - fontawesome
+    
+    preview-links: true
+
+    embed-resources: true
+    margin: 0.2
+    smaller: false
+    pdf-page-height-offset: -2
+    max-width: 90%
+    max-scale: 2.0
+    pdf-max-pages-per-slide: 1
+    output-ext: slides.html
+  pptx:
+    reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
+    output-ext: pptx
+  # pdf: 
+  #   pdf-engine: lualatex
+  #   theme: _resources/templates/lecturespdf.scss
+  #   template: _resources/templates/latex.tex
+  #   # template: _resources/templates/latex-colour.tex
+  #   # fontsize: 12pt # 10, 11, or 12
+  #   mainfont: Atkinson Hyperlegible # font used for main text throughout document
+  #   sansfont: Atkinson Hyperlegible
+  #   monofont: Fira Code
+  #   classoption:
+  #     - landscape
+  #   papersize: a4
+  #   pagestyle: empty
+  #   cosmiclatte: false # set true to turn on an off-white page background colour
+  html:
+    theme: _resources/templates/lectures.scss
+    output-ext: html
+  docx:
+    reference-doc: _resources/templates/custom-reference-doc.docx
+
+  # markdown: default
+
+
+
+
+editor: visual
+
+execute:
+  freeze: true

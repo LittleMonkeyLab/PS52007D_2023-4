@@ -1,0 +1,36 @@
+---
+title: "Readings for Research Methods"
+subtitle: "This is a meaningful subtitle"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/02/2023"
+date-format: long
+license: "CC BY-NC-SA"
+footer: "[🔗 VLE](https://www.bbc.co.uk)"
+citations-hover: true
+categories: 
+  - "Readings"
+  - "Induction"
+params:
+  class: "read00"
+format: 
+  pdf: default
+  # pptx: default
+  html: default
+  # docx: default
+  # revealjs: 
+  #   header-logo: "/images/rmlogo.png"
+  #   header: "Research Methods Lab 01 - Short Title" # Replace it
+  #   hide-from-titleSlide: "text"
+# filters:
+#   - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+This is what readings is all about!

@@ -1,0 +1,477 @@
+/*-- scss:defaults --*/
+
+// fonts
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Fira+Code&display=swap';
+@import url(https://use.fontawesome.com/releases/v6.1.1/css/all.css);
+
+// Custom colours and variables
+
+$link-color: #4f7c8d;
+$jet: #131516;
+$accent: #107895;
+$accent2: #9a2515;
+$accent3: #FF000D;
+
+/* Text emphasis colours by Gordon */
+$highlight: Yellow;
+
+$font-family-sans-serif: "Atkinson Hyperlegible";
+$font-family-monospace: "Fira Code";
+$presentation-heading-color: #004a82;
+$presentation-title-slide-text-align: "left";
+$code-block-font-size: 0.9em;
+
+$border-color-left: #0dcaf0 !default;
+
+$background-color: #bfe4eb !default;
+
+
+
+// general
+$body-bg: #fff;
+$title-color: #fff;
+$body-color: #000000;
+$link-color: #88398a;
+$presentation-font-size-root: 35px;
+
+/*-- scss:rules --*/
+
+h1 {
+  font-weight: bold;
+  font-size: 1.6em;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 1.3em;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+/* .takeaway on a h2 and the whole page changes */
+.reveal .takeaway h2 {
+  font-size: 1.7em;
+  font-weight: normal;
+  color: #0F1620;
+  text-align: center;
+}
+
+.reveal .takeaway {
+  background-color: #e1ecf7;
+  text-align: center;
+}
+
+.reveal .slide .quotebox-transparent {
+  border: 2px solid #FFFFFF;
+  padding: 1em;
+  background: rgb(231, 231, 232, 0.75);
+  position: absolute;
+  left: 15%;
+  width: 70%;
+  color: #0F1620;
+  font-size: 1.1em;
+}
+
+.reveal .slide .quotebox-transparent-low {
+  border: 2px solid #FFFFFF;
+  padding: 1em;
+  background: rgb(231, 231, 232, 0.75);
+  position: absolute;
+  left: 15%;
+  bottom: 1%;
+  width: 70%;
+  color: #0F1620;
+  font-size: 1.1em;
+}
+
+.reveal .slide .quotebox-transparent-wide-high {
+  border: 2px solid #FFFFFF;
+  padding: 1em;
+  background: rgb(231, 231, 232, 0.75);
+  position: absolute;
+  left: 0%;
+  bottom: 65%;
+  width: 95%;
+  color: #0F1620;
+  font-size: 1.1em;
+}
+
+.cleft {
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:50%;
+  z-index:-10;
+}
+
+.cright {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  text-align: right;
+  z-index:-10;
+  width:50%;
+}
+
+.reveal .slide .quotebox-transparent-bottom-right {
+  border: 2px solid #FFFFFF;
+  padding: 0.5em;
+  background: rgb(231, 231, 232, 0.75);
+  position: absolute;
+  right: 0%;
+  bottom: 0%;
+  width: auto;
+  color: #0F1620;
+  font-size: 1.1em;
+}
+
+.reveal .slide .quotebox-opaque {
+  border: 2px solid #FFFFFF;
+  padding: 1em;
+  background: rgb(231, 231, 232, 0.95);
+  position: absolute;
+  left: 15%;
+  width: 70%;
+  color: #0F1620;
+  font-size: 1.1em;
+}
+
+
+.reveal .slide .footerbox {
+  border: 2px solid #000000;
+  text-align: left;
+  padding: 0.5em;
+  background: 	#D3D3D3;
+  position: absolute;
+  bottom: 0%;
+  left: 5%;
+  width: 90%;
+  color: #0F1620;
+  font-size: 0.8em;
+}
+
+.reveal .slide .refbox {
+  border: 2px solid #000000;
+  text-align: left;
+  padding-left: 36px;
+  text-indent: -32px;
+  background: 	#D3D3D3;
+  position: absolute;
+  bottom: 0%;
+  left: 5%;
+  width: 90%;
+  color: #0F1620;
+  font-size: 0.5em;
+}
+
+.container{
+  display: grid;
+  grid-auto-flow: column;
+}
+
+
+
+.sectioncounter {
+  color: $presentation-heading-color;
+  font-family: $presentation-heading-font;
+  background-color: $body-bg;
+  position: absolute !important;
+  bottom: 0% !important;
+  left: 5% !important;
+  width: 10% !important;
+  color: #0F1620 !important;
+  font-size: 0.5em !important;
+}
+
+
+.reveal .slide .bulletbox {
+  padding: 0.5em;
+  height: 300px;
+}
+
+.reveal .borderbox img {
+  border: 5px solid #ececec;
+}
+
+/* alignment */
+
+.reveal .centered {
+  text-align: center;
+}
+
+.sectionhead {
+  color: $presentation-heading-color;
+  font-family: $presentation-heading-font;
+  background-color: $body-bg;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 5%;
+  font-size: 0.5em;
+}
+
+/* font sizes */
+
+.reveal .larger {
+  font-size: 3em;
+}
+
+.reveal .large {
+  font-size: 1.5em;
+}
+
+.reveal .midi {
+  font-size: 1.2em;
+}
+
+.reveal .quote-source {
+  font-size: 0.9em;
+}
+
+.reveal .small {
+  font-size: 0.75em;
+}
+
+/* unused */
+
+.reveal .h3center h3 {
+  text-align: center;
+}
+
+
+
+.reveal .slide .demo {
+  border: 3px solid #c7cfcf;
+  color: white;
+  font-size: 0.75em;
+  padding-left: 0.5em;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+  background: #607576;
+}
+
+.reveal .slide .illustration {
+  border: 3px solid #FF744E;
+  color: black;
+  font-size: 0.75em;
+  padding-left: 0.5em;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+  background: #FAE3E3;
+}
+
+.reveal .slide-logo {
+bottom: 0;
+right: 30px !important;
+max-height: 50px !important;
+height: auto !important;
+width: auto !important;
+}
+
+.reveal .footer {
+  font-size: 1em !important;
+  font-family: $presentation-heading-font !important;
+}
+
+reveal .calloutphoto {
+  --emoji: unset;
+  --icon: "\f083"; /* copied front FontAwesome */
+  --icon-color: #c50a50;
+}
+
+.slide-logo {
+  display: block !important;
+  position: fixed !important;
+  top: 0 !important;
+  right: 10px !important;
+  max-height: auto !important;
+  height: auto !important;
+  width: auto !important;
+  color: $body-color !important;
+}
+
+.slide-number, .reveal.has-logo .slide-number {
+  bottom: 10px !important;
+  right: 10px !important;
+  top: unset !important;
+  color: $body-color !important;
+  font-size: 1em !important;
+}
+
+iframe.reveal-demo {
+  width: 100%;
+  height: 350px;
+  outline: none;
+}
+
+
+.slide-deck {
+  border: 3px solid #dee2e6;
+  width: 100%;
+  height: 475px;
+}
+
+
+.reveal .bottomgap {
+  position: absolute !important;
+  right: 0px;
+  bottom: 100px;
+}
+
+
+
+// title and headings
+
+#title-slide {
+  text-align: left;
+}
+
+.title {
+  color: $title-color;
+  font-size: 1.4em;
+  font-weight: 350;
+  line-height: 0;
+}
+
+.subtitle {
+  color: $title-color;
+  font-style: italic;
+}
+
+.institute,
+.quarto-title-affiliation,
+.quarto-title-author-email {
+  font-style: italic;
+  // font-size: 80%;
+  // color: #7F7F7F;
+}
+
+.author,
+.quarto-title-author-name {
+  color: $title-color;
+}
+
+.quarto-title-authors {
+  display: flex;
+  justify-content: left;
+}
+
+.quarto-title-author {
+  padding-left: 0em;
+  padding-right: 0em;
+  width: 100%;
+}
+
+
+
+
+.reveal h2 {
+  font-weight: 350;
+  font-size: 1.4em;
+}
+
+.reveal h3 {
+  color: $accent;
+  font-style: italic;
+  font-weight: 350;
+  font-size: 0.95em;
+}
+
+.reveal h4 {
+  color: $accent2;
+  font-weight: 350;
+  margin-top: 1.25em;
+}
+
+// alerts etc.
+
+.shout { /*-- note: also not final (or accessible)! Just wanted something that isn't normal text - altering Header3 could also work here --*/
+  color:  $accent3;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.question {
+  font-color: springgreen;
+  font-style: italic;
+}
+.alert {
+  color: $accent3;
+}
+
+.takeaway {
+  background-color: plum;
+}
+
+.highlight {
+  background-color: $highlight;
+}
+
+
+
+// lists
+
+
+// Move "hamburger" menu button to top right
+
+.reveal .slide-menu-button {
+  position: fixed;
+  top: 6px;
+  right: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  pointer-events: none;
+}
+
+.reveal .slide-menu-button > * {
+  pointer-events: auto;
+}
+
+
+// Same for chalkboard buttons (with an offset)
+
+.reveal .slide-chalkboard-buttons {
+  position: fixed;
+  top: 12px;
+  right: 24px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  pointer-events: none;
+}
+
+.reveal .slide-chalkboard-buttons > * {
+  pointer-events: auto;
+}
+
+// Beamer-style button link environment
+
+.button {
+  display: inline-block;
+  padding: 6px 8px;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  background-color: $accent;
+  border: 1px solid $accent;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: all 0.2s ease-in-out;
+}
+
+.button:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
