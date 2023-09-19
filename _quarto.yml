@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  post-render: 
+    - "scripts/post_render.R"
+    
   # preview:
   #   port: 4200
   resources:
@@ -35,9 +38,9 @@ website:
     right: |
       Made with ❤️, {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
       [View the source at {{< fa brands github >}} GitHub](https://github.com/LittleMonkeyLab/PS52007D_23-24)
-    background: '#ececec'
+    background: '#BE3455'
   navbar:
-    background: '#ececec'
+    background: '#BE3455'
     logo: images/LMLLOGO.png
     search: false
     left:
@@ -47,17 +50,17 @@ website:
       file: schedule.qmd
     right:
     - text: "Prepare"
-      file: prepare/index.qmd
+      file: overview/index.qmd
     - text: "Lectures"
-      file: lectures/index.qmd
-    - text: "Labs"
-      file: labs/index.qmd
-    - text: "Readings"
+    #   file: slides/week**/lectures/index.qmd
+    # - text: "Labs"
+    #   file: labs/index.qmd
+    # - text: "Readings"
       file: readings/index.qmd
     - text: "Mini-Diss"
       file: minidiss/index.qmd
   sidebar:
-    background: '#ececec'
+    background: '#BE3455'
     collapse-level: 1
     logo: images/LMLLOGO.png
     style: docked
@@ -69,12 +72,12 @@ website:
       href: https://learn.gold.ac.uk/course/view.php?id=24607
       text: ModuleVLE
     contents:
-    - section: Prepare
-      contents: prepare/*
-    - section: Lectures
-      contents: lectures/*
-    - section: Labs
-      contents: labs/*
+    - section: Overview
+      contents: overview/*
+    # - section: Lectures
+    #   contents: lectures/*
+    # - section: Labs
+    #   contents: labs/*
     - section: Readings
       contents: readings/*
     - section: MiniDiss
@@ -108,21 +111,18 @@ format:
     sansfont: Atkinson Hyperlegible
     monofont: Fira Code
     toc: false
-    template-partials:
-    - partials/before-body.tex
-    - partials/title.tex
+    # template-partials:
+    # - partials/before-body.tex
+    # - partials/title.tex
     include-in-header:
       text: |
         \usepackage{fancyhdr}
         \pagestyle{fancy}
-        \fancyhead[L]{today}
-        \fancyhead[C]{Central}
-        \fancyhead[R]{Right}
-        \fancyfoot[R]{PS51234X - Research Methods}
         \fancyfoot[C]{\thepage}
         \renewcommand{\headrulewidth}{0.4pt}
         \renewcommand{\footrulewidth}{0.4pt}
-    include-before-body: |
+    include-before-body: 
+      text: |
         \raggedright
 execute:
   freeze: true

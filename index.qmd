@@ -52,7 +52,7 @@ dkghasdlkg
 
 ::: {style="width:600px"}
 | Instructor                                                                                                 | Course                                                |
-|------------------------------------|------------------------------------|
+|-----------------------------------------------|-------------------------|
 | <i class="fas fa-user"></i> Dr. Gordon Wright                                                              | <i class="far fa-calendar"></i> Lecture: Mondays      |
 | <i class="fas fa-university"></i> Whitehead 200/1                                                          | <i class="fa fa-map-marker-alt"></i> PSH LG02 10-11am |
 | <i class="fas fa-talk"></i> Office Hours:                                                                  | <i class="far fa-calendar-alt"></i> Labs : Tuesdays   |
@@ -169,8 +169,7 @@ be broken down into several separate "milestone" deliverables due
 throughout the semester, including a proposal, progress report,
 presentation video, and final report.
 
-View the [Mini-Dissertation Overview](content/minidiss/index.qmd) page
-for more details.
+View the Mini-Dissertation Overview page for more details.
 
 ## Final Interview
 

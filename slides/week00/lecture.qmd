@@ -1,0 +1,312 @@
+---
+title: "Lecture 00: <br> Induction Week"
+subtitle: "Module Overview and Coursework Requirements"
+image: "lecture.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "09/25/2023"
+date-format: long
+license: "CC BY-NC-SA"
+# footer: "[🔗 VLE](https://learn.gold.ac.uk/course/view.php?id=27676)"
+citations-hover: true
+categories: 
+  - "Lecture"
+  - "Week 0"
+params:
+  class: "lec00"
+  stub: "https://ps52007d.littlemonkeylab.com/"
+format: 
+  # pdf: default
+  pptx: default
+  html: default
+  docx: default
+  revealjs: 
+    title-slide-attributes: 
+      data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
+      data-footer: "Viva Magenta 2023 Pantone Color of the year #BE3455"
+    header-logo: "/images/rmlogo.png"
+    header: "Research Methods Lecture 00 - Induction Week Overview" # Replace it
+    hide-from-titleSlide: "text"
+    slide-number: c/t
+filters:
+  - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+```{r, echo=FALSE}
+path_slides <- file.path(params$class, "index.html")
+path_pdf <- file.path(params$class, paste0(params$class, ".pdf"))
+path_notes <- file.path(params$class, paste0(params$class, ".pptx"))
+```
+
+# Show Attendance QR Code
+
+# Heading 1 - Section Head
+
+This is a subtitle to the section header
+
+## Heading 2 - new slide title
+
+Heading 2 copy
+
+### Heading 3 - italic emphasis
+
+## Spans for text accentuation - available in source mode
+
+[.shout]{.shout} accent3(red) 1.5em and Bold
+
+[.alert]{.alert} accent3(red) no change to font size
+
+[.fg]{.fg} [.bg]{.bg}
+
+[.button]{.button} accent1 whitetext button for link
+
+[.button-success]{.button-success}
+
+[.takeaway]{.takeaway}
+
+[.highlight]{.highlight}
+
+## Citations
+
+@wright2012
+
+@Cohen1992 In text citation `@Cohen1992`
+
+[@Cohen1992] not in-text citation \`[@Cohen1992]
+
+just type \`\@\` and a search box comes up for your Zotero library or a
+.bib file associated with the project
+
+## Image\|content 2 column
+
+Slide with image and commentary in two columns and some explanatory text
+above
+
+text text text text text text text text text text text text
+
+text text text text text text text text text text text text
+
+::: columns
+::: {.column width="60%"}
+![](images/TestImage.png)
+:::
+
+::: {.column width="40%"}
+Here is some text
+
+-   Bullet 1
+
+-   Bullet 2
+
+-   Bullet 3
+:::
+:::
+
+## Callouts
+
+## Note Callouts
+
+::: callout-note
+## Note default
+
+content
+:::
+
+::: {.callout-note appearance="simple"}
+## Note simple
+
+content
+:::
+
+::: {.callout-note appearance="minimal"}
+## Note minimal
+
+content
+:::
+
+## Icons by FontAwesome
+
+These are cool {{< fa user >}} but they do need a full render e.g.
+`$ quarto render` in order to be seen.
+
+They can also be used in pdfs
+
+| input                             |                output                 |
+|:----------------------------------|:-------------------------------------:|
+| `{{{< fa binoculars >}}}`         |     {{< fa binoculars >}} Prepare     |
+| `{{{< fa chalkboard-teacher >}}}` | {{< fa chalkboard-teacher >}} Lecture |
+| `{{{< fa users >}}}`              |         {{< fa users >}} Lab          |
+| `{{{< fa bookmark >}}}`           |      {{< fa bookmark >}} Reading      |
+| `{{{< fa book >}}}`               |   {{< fa book >}} Mini-Dissertation   |
+
+: Fontawesome {.striped .sm}
+
+# Induction Overview
+
+## Welcome back and welcome to Research Methods!
+
+## This year you become Scientists!
+
+This year, in Research Methods, you will perform your first piece of
+REAL psychological research
+
+In groups, you will:
+
+::: small
+-   Identify an area of psychological research
+-   Review and critique the literature in this area
+-   Develop a testable hypothesis
+-   Design a 2x2 ANOVA experiment unique to you (within your group
+    design)
+-   Obtain Ethical Approval for your experiment
+-   Collect REAL data
+-   Analyse these data
+-   Write up the results in APA format
+:::
+
+## A full overview will be given in the first lecture!
+
+Do not worry! It's going to be a great adventure!
+
+## A 'warm up' for your Y3 Dissertation
+
+::: small
+-   The same 20-week timeline
+-   The same skills and techniques you will need
+-   Careful step-by-step guidance and support in the lab setting
+-   Scaled-down experiments and write-ups
+-   The security of working in a group
+-   Tips and advice from world-class researchers
+-   Opportunity to think carefully about your final year Dissertation,
+    and how to crush it!!
+:::
+
+## Support and guidance
+
+-   Gordon Wright (Module Coordinator and floating Enthusiast in Chief)
+-   7 gobsmackingly amazing Lab Tutors
+-   Your Personal Tutor and your PT group
+-   AND EACH OTHER!!
+
+This is a team-sport
+
+## me
+
+I will be in every Research Methods lecture and I have a Student Hour
+from 3-4 every Monday, before we all go to the Design & Analysis
+lecture. Yup! Me too!
+
+Available at g.wright\@gold.ac.uk
+
+I genuinely could not imagine anything I would rather do than this.
+Please talk to me! Help me get to know you!
+
+## Module weighting and assessment
+
+Research Methods is a core module with a 30 credit weighting
+
+This means that in order to progress to Y3, you must pass all 3
+assessment elements:
+
+-   ::: takeaway
+    -   Critical Proposal 1,800 words (15%)
+
+    -   Mini-Dissertation 2,500 words (70%)
+
+    -   CHIP Learning Log 1,200 words (15%)
+    :::
+
+## A friendly warning
+
+::: callout-warning
+## Warning
+
+All coursework is [INDIVIDUAL]{.shout} and subject to normal plagiarism
+and collusion rules
+:::
+
+## Module structure
+
+1 x 1 hr Lecture per week (Monday)
+
+1 x 2 hr Lab per week (Tuesday)
+
+4 x Personal Tutor meetings across the year
+
+## Weekly Structure
+
+Each week there will be a very brief '**Preparation**' designed to
+introduce the main topics of the week
+
+**Lecture** (slides a week ahead and recording posted afterwards)
+
+**Labs**
+
+-   Broad structure, but for you to use to advantage
+-   Attendance QR code up for 15 minutes, and the first 15 minutes is
+    for you to get yourself sorted out as a group
+-   Your Lab Tutor will give a 10-15 minute overview of what you could
+    be doing, and a survey of the resources/materials provided
+-   If you need support, make yourself known as your Lab Tutor (or I)
+    tour the lab(s)
+-   You can (and should) ask any questions that occur to you. The labs
+    are for this purpose. Your Lab Tutor will not be responding to
+    emails outside of lab sessions
+-   Lots can be achieved in the labs, but independent study and
+    coordinated group work will be required
+
+[NO EXAM]{.shout}
+
+## Coursework
+
+The courseworks ALL require critical reflection and metacognitive
+practice. This will be discussed in a number of lectures, but it
+contributes to effective learning and your integration of the skills and
+experience of doing this research exercise.
+
+## Time management and teamwork
+
+..will both be required.
+
+I ask you to see both as an opportunity to develop these important
+skills.
+
+You will see we have some ideas to make this more relevant to careers
+and employability
+
+It is easier to 'keep up than to catch up'.
+
+## Resources
+
+We will be releasing a series of valuable resources to help you through
+every step of the process
+
+These will have value for your final year dissertation too.
+
+Contribution to and comment on these is welcome and hoped for!
+
+Open Educational Resources will be used extensively, and most core
+readings are available online via the library.
+
+<!-- ## Prelude 1 -->
+
+<!-- We are starting off very easy. A short questionnaire to allow us to get -->
+
+<!-- to know you a little better, which we will use to develop the first -->
+
+<!-- lecture, and the course more generally. -->
+
+## Thank you for your time
+
+And have an amazing year!
+
+The Research Methods Team
+
+## References

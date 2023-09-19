@@ -89,7 +89,7 @@ conditional_transform_fn <- function(icon_name) {
   function(x) {
     ifelse(is.na(x) | x == "", "",
            ifelse(grepl("FUTURE", x), fontawesome::fa(icon_name, fill_opacity = 0.25),
-                  glue::glue("<a href = {'http://researchmethods.littlemonkeylab.com'}{x}{'.html'}>{fontawesome::fa(icon_name)}</a>")
+                  glue::glue("<a href = {'http://ps52007d.littlemonkeylab.com'}{x}{'.html'}>{fontawesome::fa(icon_name)}</a>")
            )
     )
   }

@@ -1,0 +1,1024 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Methods in Psychology",
+    "section": "",
+    "text": "dkghasdlkg"
+  },
+  {
+    "objectID": "index.html#gw-bulletin-description-short",
+    "href": "index.html#gw-bulletin-description-short",
+    "title": "Research Methods in Psychology",
+    "section": "GW Bulletin Description (short)",
+    "text": "GW Bulletin Description (short)\nIntroduction to exploratory data analysis using the R programming language; data visualization, data cleaning, exploratory analysis, information communication, rmarkdown, reproducibility."
+  },
+  {
+    "objectID": "index.html#unofficial-description",
+    "href": "index.html#unofficial-description",
+    "title": "Research Methods in Psychology",
+    "section": "Unofficial Description",
+    "text": "Unofficial Description"
+  },
+  {
+    "objectID": "index.html#prerequisites",
+    "href": "index.html#prerequisites",
+    "title": "Research Methods in Psychology",
+    "section": "Prerequisites",
+    "text": "Prerequisites"
+  },
+  {
+    "objectID": "index.html#quizzes",
+    "href": "index.html#quizzes",
+    "title": "Research Methods in Psychology",
+    "section": "Quizzes",
+    "text": "Quizzes\nThere will be 5 quizzes given about once every other week immediately at the beginning of class. You will not be told in advance when there is a quiz, and make up quizzes will not be available if you miss it (except for excused absences). Please show up on time to class each week to ensure that you do not miss a quiz.\nQuizzes will cover material presented in previous classes and assignments during the weeks since the most-recent quiz. Quizzes are short (5-10 minutes) and are designed to test for fluency and to demonstrate where additional study is needed. Quizzes are low-stakes - your worst one is dropped, and the rest count for a small portion of your final grade. If you do poorly on one or two, use that as feedback on where you need additional improvement.\n\nWhy quiz at all? Research shows that giving small quizzes throughout a class can dramatically help with retention. It’s a phenomenon known as the “retrieval effect” - basically, you have to practice remembering things, otherwise your brain won’t remember them. The phenomenon and research on it is explained in detail in the book “Make It Stick: The Science of Successful Learning,” by Brown, Roediger, and McDaniel."
+  },
+  {
+    "objectID": "index.html#homework",
+    "href": "index.html#homework",
+    "title": "Research Methods in Psychology",
+    "section": "Homework",
+    "text": "Homework\nStudents will be responsible for two types of assignments throughout the semester:\n\nWeekly Assignments: Each week, students will be assigned specific readings and exercises to prepare for the next class period. Students will need to submit responses that include a thoughtful reflection on these concepts each week.\nMini Projects: There will be three mini projects throughout the semester designed to provide hands-on experience with the material covered in class by working with and exploring real data sets and / or creating visualizations. While students may work with their peers on these assignments, each student must submit their own work. Credit for each assignment will be allocated according to a rubric provided in the assignment description."
+  },
+  {
+    "objectID": "index.html#final-project",
+    "href": "index.html#final-project",
+    "title": "Research Methods in Psychology",
+    "section": "Final Project",
+    "text": "Final Project\nThroughout the semester, students will work in teams of 2-3 students towards a final project of an exploratory data analysis. At the end of the semester, each student will submit a report of their analysis in the form of an html web page and create a 5 to 10-minute video presentation of their results. To make the overall project more manageable, it will be broken down into several separate “milestone” deliverables due throughout the semester, including a proposal, progress report, presentation video, and final report.\nView the Mini-Dissertation Overview page for more details."
+  },
+  {
+    "objectID": "index.html#final-interview",
+    "href": "index.html#final-interview",
+    "title": "Research Methods in Psychology",
+    "section": "Final Interview",
+    "text": "Final Interview\nRather than have a final exam, each student will have a 10-minute interview by the instructor. The interview will be focused on the final project the student worked and will contain questions related to concepts covered during the course. Students will be provided a list of questions and the grading rubric ahead of the interview."
+  },
+  {
+    "objectID": "index.html#category-breakdown",
+    "href": "index.html#category-breakdown",
+    "title": "Research Methods in Psychology",
+    "section": "Category Breakdown",
+    "text": "Category Breakdown\nFinal grades will be calculated as follows:\n\n\n\n\nItem\nWeight\nNotes\n\n\n\n\nWeekly HW\n12 %\n\n\n\nQuizzes\n8 %\n5 quizzes, lowest dropped\n\n\nMini Project 1\n8 %\nIndividual assignments\n\n\nMini Project 2\n8 %\n\n\n\nMini Project 3\n8 %\n\n\n\nFinal Project: Proposal\n9 %\nTeams of 2-3 students\n\n\nFinal Project: Progress Report\n12 %\n\n\n\nFinal Project: Report\n16 %\n\n\n\nFinal Project: Presentation\n9 %\n\n\n\nFinal Interview\n10 %\nIndividual interview\n\n\n\n\nHere’s a visual breakdown by category:\n\n\nLoading required package: viridisLite\n\n\nLoading required package: ggplot2\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union"
+  },
+  {
+    "objectID": "index.html#course-learning-objectives",
+    "href": "index.html#course-learning-objectives",
+    "title": "Research Methods in Psychology",
+    "section": "Course Learning Objectives",
+    "text": "Course Learning Objectives\nBy the end of the term, you will…\n\nlearn studd\nlearn more stuff"
+  },
+  {
+    "objectID": "index.html#textbooks",
+    "href": "index.html#textbooks",
+    "title": "Research Methods in Psychology",
+    "section": "Textbooks",
+    "text": "Textbooks\nAll books are freely available online. Hardcopies are also available for purchase.\n\n\n\nIntroduction to Modern Statistics\nÇetinkaya-Rundel, Hardin\nOpenIntro Inc., 1st Edition, 2021"
+  },
+  {
+    "objectID": "index.html#course-community",
+    "href": "index.html#course-community",
+    "title": "Research Methods in Psychology",
+    "section": "Course community",
+    "text": "Course community\n\nInclusive community"
+  },
+  {
+    "objectID": "slides/week01/lecture.slides.html#heading-2---new-slide-title",
+    "href": "slides/week01/lecture.slides.html#heading-2---new-slide-title",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Heading 2 - new slide title",
+    "text": "Heading 2 - new slide title\nHeading 2 copy\nHeading 3 - italic emphasis"
+  },
+  {
+    "objectID": "slides/week01/lecture.slides.html#spans-for-text-accentuation---available-in-source-mode",
+    "href": "slides/week01/lecture.slides.html#spans-for-text-accentuation---available-in-source-mode",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Spans for text accentuation - available in source mode",
+    "text": "Spans for text accentuation - available in source mode\n.shout accent3(red) 1.5em and Bold\n.alert accent3(red) no change to font size\n.fg .bg\n.button accent1 whitetext button for link\n.button-success\n.takeaway\n.highlight"
+  },
+  {
+    "objectID": "slides/week01/lecture.slides.html#citations",
+    "href": "slides/week01/lecture.slides.html#citations",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Citations",
+    "text": "Citations\nWright et al. (2012)\nCohen (1992) In text citation @Cohen1992\n(Cohen, 1992) not in-text citation `(Cohen, 1992)\njust type `@` and a search box comes up for your Zotero library or a .bib file associated with the project"
+  },
+  {
+    "objectID": "slides/week01/lecture.slides.html#imagecontent-2-column",
+    "href": "slides/week01/lecture.slides.html#imagecontent-2-column",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Image|content 2 column",
+    "text": "Image|content 2 column\nSlide with image and commentary in two columns and some explanatory text above\ntext text text text text text text text text text text text\ntext text text text text text text text text text text text\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "slides/week01/lecture.slides.html#callouts",
+    "href": "slides/week01/lecture.slides.html#callouts",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Callouts",
+    "text": "Callouts"
+  },
+  {
+    "objectID": "slides/week01/lecture.slides.html#note-callouts",
+    "href": "slides/week01/lecture.slides.html#note-callouts",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Note Callouts",
+    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nNote simple\n\n\ncontent\n\n\n\n\n\n\nNote minimal\n\n\ncontent"
+  },
+  {
+    "objectID": "slides/week01/lecture.slides.html#icons-by-fontawesome",
+    "href": "slides/week01/lecture.slides.html#icons-by-fontawesome",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Icons by FontAwesome",
+    "text": "Icons by FontAwesome\nThese are cool  but they do need a full render e.g. $ quarto render in order to be seen.\nThey can also be used in pdfs\n\nFontawesome\n\n\n\n\n\n\ninput\noutput\n\n\n\n\n{{&lt; fa binoculars &gt;}}\n Prepare\n\n\n{{&lt; fa chalkboard-teacher &gt;}}\n Lecture\n\n\n{{&lt; fa users &gt;}}\n Lab\n\n\n{{&lt; fa bookmark &gt;}}\n Reading\n\n\n{{&lt; fa book &gt;}}\n Mini-Dissertation"
+  },
+  {
+    "objectID": "slides/week01/lecture.slides.html#references",
+    "href": "slides/week01/lecture.slides.html#references",
+    "title": "Lecture 01:  Replace it!",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 01 - Short Title\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
+  },
+  {
+    "objectID": "slides/week01/lecture.html#heading-2---new-slide-title",
+    "href": "slides/week01/lecture.html#heading-2---new-slide-title",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Heading 2 - new slide title",
+    "text": "Heading 2 - new slide title\nHeading 2 copy\n\nHeading 3 - italic emphasis"
+  },
+  {
+    "objectID": "slides/week01/lecture.html#spans-for-text-accentuation---available-in-source-mode",
+    "href": "slides/week01/lecture.html#spans-for-text-accentuation---available-in-source-mode",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Spans for text accentuation - available in source mode",
+    "text": "Spans for text accentuation - available in source mode\n.shout accent3(red) 1.5em and Bold\n.alert accent3(red) no change to font size\n.fg .bg\n.button accent1 whitetext button for link\n.button-success\n.takeaway\n.highlight"
+  },
+  {
+    "objectID": "slides/week01/lecture.html#citations",
+    "href": "slides/week01/lecture.html#citations",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Citations",
+    "text": "Citations\nWright et al. (2012)\nCohen (1992) In text citation @Cohen1992\n(Cohen, 1992) not in-text citation `(Cohen, 1992)\njust type `@` and a search box comes up for your Zotero library or a .bib file associated with the project"
+  },
+  {
+    "objectID": "slides/week01/lecture.html#imagecontent-2-column",
+    "href": "slides/week01/lecture.html#imagecontent-2-column",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Image|content 2 column",
+    "text": "Image|content 2 column\nSlide with image and commentary in two columns and some explanatory text above\ntext text text text text text text text text text text text\ntext text text text text text text text text text text text\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "slides/week01/lecture.html#callouts",
+    "href": "slides/week01/lecture.html#callouts",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Callouts",
+    "text": "Callouts"
+  },
+  {
+    "objectID": "slides/week01/lecture.html#note-callouts",
+    "href": "slides/week01/lecture.html#note-callouts",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Note Callouts",
+    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\n\ncontent\n\n\n\n\n\n\n\n\nNote simple\n\n\n\ncontent\n\n\n\n\n\n\n\n\nNote minimal\n\n\n\ncontent"
+  },
+  {
+    "objectID": "slides/week01/lecture.html#icons-by-fontawesome",
+    "href": "slides/week01/lecture.html#icons-by-fontawesome",
+    "title": "Lecture 01:  Replace it!",
+    "section": "Icons by FontAwesome",
+    "text": "Icons by FontAwesome\nThese are cool  but they do need a full render e.g. $ quarto render in order to be seen.\nThey can also be used in pdfs\n\nFontawesome\n\n\n\n\n\n\ninput\noutput\n\n\n\n\n{{&lt; fa binoculars &gt;}}\n Prepare\n\n\n{{&lt; fa chalkboard-teacher &gt;}}\n Lecture\n\n\n{{&lt; fa users &gt;}}\n Lab\n\n\n{{&lt; fa bookmark &gt;}}\n Reading\n\n\n{{&lt; fa book &gt;}}\n Mini-Dissertation"
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#heading-2---new-slide-title",
+    "href": "slides/week01/lab.slides.html#heading-2---new-slide-title",
+    "title": "Lab 01:  Replace it!",
+    "section": "Heading 2 - new slide title",
+    "text": "Heading 2 - new slide title\nHeading 2 copy\nHeading 3 - italic emphasis"
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#spans-for-text-accentuation---available-in-source-mode",
+    "href": "slides/week01/lab.slides.html#spans-for-text-accentuation---available-in-source-mode",
+    "title": "Lab 01:  Replace it!",
+    "section": "Spans for text accentuation - available in source mode",
+    "text": "Spans for text accentuation - available in source mode\n.shout accent3(red) 1.5em and Bold\n.alert accent3(red) no change to font size\n.fg .bg\n.button accent1 whitetext button for link\n.button-success\n.takeaway\n.highlight"
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#citations",
+    "href": "slides/week01/lab.slides.html#citations",
+    "title": "Lab 01:  Replace it!",
+    "section": "Citations",
+    "text": "Citations\nWright et al. (2012)\nCohen (1992) In text citation @Cohen1992\n(Cohen, 1992) not in-text citation `(Cohen, 1992)\njust type `@` and a search box comes up for your Zotero library or a .bib file associated with the project"
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#imagecontent-2-column",
+    "href": "slides/week01/lab.slides.html#imagecontent-2-column",
+    "title": "Lab 01:  Replace it!",
+    "section": "Image|content 2 column",
+    "text": "Image|content 2 column\nSlide with image and commentary in two columns and some explanatory text above\ntext text text text text text text text text text text text\ntext text text text text text text text text text text text\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#callouts",
+    "href": "slides/week01/lab.slides.html#callouts",
+    "title": "Lab 01:  Replace it!",
+    "section": "Callouts",
+    "text": "Callouts"
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#note-callouts",
+    "href": "slides/week01/lab.slides.html#note-callouts",
+    "title": "Lab 01:  Replace it!",
+    "section": "Note Callouts",
+    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nNote simple\n\n\ncontent\n\n\n\n\n\n\nNote minimal\n\n\ncontent"
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#icons-by-fontawesome",
+    "href": "slides/week01/lab.slides.html#icons-by-fontawesome",
+    "title": "Lab 01:  Replace it!",
+    "section": "Icons by FontAwesome",
+    "text": "Icons by FontAwesome\nThese are cool  but they do need a full render e.g. $ quarto render in order to be seen.\nThey can also be used in pdfs\n\nFontawesome\n\n\n\n\n\n\ninput\noutput\n\n\n\n\n{{&lt; fa binoculars &gt;}}\n Prepare\n\n\n{{&lt; fa chalkboard-teacher &gt;}}\n Lecture\n\n\n{{&lt; fa users &gt;}}\n Lab\n\n\n{{&lt; fa bookmark &gt;}}\n Reading\n\n\n{{&lt; fa book &gt;}}\n Mini-Dissertation"
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#references",
+    "href": "slides/week01/lab.slides.html#references",
+    "title": "Lab 01:  Replace it!",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 01 - Short Title\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
+  },
+  {
+    "objectID": "slides/week01/lab.html#heading-2---new-slide-title",
+    "href": "slides/week01/lab.html#heading-2---new-slide-title",
+    "title": "Lab 01:  Replace it!",
+    "section": "Heading 2 - new slide title",
+    "text": "Heading 2 - new slide title\nHeading 2 copy\n\nHeading 3 - italic emphasis"
+  },
+  {
+    "objectID": "slides/week01/lab.html#spans-for-text-accentuation---available-in-source-mode",
+    "href": "slides/week01/lab.html#spans-for-text-accentuation---available-in-source-mode",
+    "title": "Lab 01:  Replace it!",
+    "section": "Spans for text accentuation - available in source mode",
+    "text": "Spans for text accentuation - available in source mode\n.shout accent3(red) 1.5em and Bold\n.alert accent3(red) no change to font size\n.fg .bg\n.button accent1 whitetext button for link\n.button-success\n.takeaway\n.highlight"
+  },
+  {
+    "objectID": "slides/week01/lab.html#citations",
+    "href": "slides/week01/lab.html#citations",
+    "title": "Lab 01:  Replace it!",
+    "section": "Citations",
+    "text": "Citations\nWright et al. (2012)\nCohen (1992) In text citation @Cohen1992\n(Cohen, 1992) not in-text citation `(Cohen, 1992)\njust type `@` and a search box comes up for your Zotero library or a .bib file associated with the project"
+  },
+  {
+    "objectID": "slides/week01/lab.html#imagecontent-2-column",
+    "href": "slides/week01/lab.html#imagecontent-2-column",
+    "title": "Lab 01:  Replace it!",
+    "section": "Image|content 2 column",
+    "text": "Image|content 2 column\nSlide with image and commentary in two columns and some explanatory text above\ntext text text text text text text text text text text text\ntext text text text text text text text text text text text\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "slides/week01/lab.html#callouts",
+    "href": "slides/week01/lab.html#callouts",
+    "title": "Lab 01:  Replace it!",
+    "section": "Callouts",
+    "text": "Callouts"
+  },
+  {
+    "objectID": "slides/week01/lab.html#note-callouts",
+    "href": "slides/week01/lab.html#note-callouts",
+    "title": "Lab 01:  Replace it!",
+    "section": "Note Callouts",
+    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\n\ncontent\n\n\n\n\n\n\n\n\nNote simple\n\n\n\ncontent\n\n\n\n\n\n\n\n\nNote minimal\n\n\n\ncontent"
+  },
+  {
+    "objectID": "slides/week01/lab.html#icons-by-fontawesome",
+    "href": "slides/week01/lab.html#icons-by-fontawesome",
+    "title": "Lab 01:  Replace it!",
+    "section": "Icons by FontAwesome",
+    "text": "Icons by FontAwesome\nThese are cool  but they do need a full render e.g. $ quarto render in order to be seen.\nThey can also be used in pdfs\n\nFontawesome\n\n\n\n\n\n\ninput\noutput\n\n\n\n\n{{&lt; fa binoculars &gt;}}\n Prepare\n\n\n{{&lt; fa chalkboard-teacher &gt;}}\n Lecture\n\n\n{{&lt; fa users &gt;}}\n Lab\n\n\n{{&lt; fa bookmark &gt;}}\n Reading\n\n\n{{&lt; fa book &gt;}}\n Mini-Dissertation"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#heading-2---new-slide-title",
+    "href": "slides/week00/lecture.slides.html#heading-2---new-slide-title",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Heading 2 - new slide title",
+    "text": "Heading 2 - new slide title\nHeading 2 copy\nHeading 3 - italic emphasis"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#spans-for-text-accentuation---available-in-source-mode",
+    "href": "slides/week00/lecture.slides.html#spans-for-text-accentuation---available-in-source-mode",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Spans for text accentuation - available in source mode",
+    "text": "Spans for text accentuation - available in source mode\n.shout accent3(red) 1.5em and Bold\n.alert accent3(red) no change to font size\n.fg .bg\n.button accent1 whitetext button for link\n.button-success\n.takeaway\n.highlight"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#citations",
+    "href": "slides/week00/lecture.slides.html#citations",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Citations",
+    "text": "Citations\nWright et al. (2012)\nCohen (1992) In text citation @Cohen1992\n(Cohen, 1992) not in-text citation `(Cohen, 1992)\njust type `@` and a search box comes up for your Zotero library or a .bib file associated with the project"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#imagecontent-2-column",
+    "href": "slides/week00/lecture.slides.html#imagecontent-2-column",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Image|content 2 column",
+    "text": "Image|content 2 column\nSlide with image and commentary in two columns and some explanatory text above\ntext text text text text text text text text text text text\ntext text text text text text text text text text text text\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#callouts",
+    "href": "slides/week00/lecture.slides.html#callouts",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Callouts",
+    "text": "Callouts"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#note-callouts",
+    "href": "slides/week00/lecture.slides.html#note-callouts",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Note Callouts",
+    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nNote simple\n\n\ncontent\n\n\n\n\n\n\nNote minimal\n\n\ncontent"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#icons-by-fontawesome",
+    "href": "slides/week00/lecture.slides.html#icons-by-fontawesome",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Icons by FontAwesome",
+    "text": "Icons by FontAwesome\nThese are cool  but they do need a full render e.g. $ quarto render in order to be seen.\nThey can also be used in pdfs\n\nFontawesome\n\n\n\n\n\n\ninput\noutput\n\n\n\n\n{{&lt; fa binoculars &gt;}}\n Prepare\n\n\n{{&lt; fa chalkboard-teacher &gt;}}\n Lecture\n\n\n{{&lt; fa users &gt;}}\n Lab\n\n\n{{&lt; fa bookmark &gt;}}\n Reading\n\n\n{{&lt; fa book &gt;}}\n Mini-Dissertation"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#welcome-back-and-welcome-to-research-methods",
+    "href": "slides/week00/lecture.slides.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#this-year-you-become-scientists",
+    "href": "slides/week00/lecture.slides.html#this-year-you-become-scientists",
+    "title": "Lecture 00:  Induction Week",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group design)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "slides/week00/lecture.slides.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecture 00:  Induction Week",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#a-warm-up-for-your-y3-dissertation",
+    "href": "slides/week00/lecture.slides.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecture 00:  Induction Week",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#support-and-guidance",
+    "href": "slides/week00/lecture.slides.html#support-and-guidance",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#me",
+    "href": "slides/week00/lecture.slides.html#me",
+    "title": "Lecture 00:  Induction Week",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do than this. Please talk to me! Help me get to know you!"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#module-weighting-and-assessment",
+    "href": "slides/week00/lecture.slides.html#module-weighting-and-assessment",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#a-friendly-warning",
+    "href": "slides/week00/lecture.slides.html#a-friendly-warning",
+    "title": "Lecture 00:  Induction Week",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#module-structure",
+    "href": "slides/week00/lecture.slides.html#module-structure",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#weekly-structure",
+    "href": "slides/week00/lecture.slides.html#weekly-structure",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Preparation’ designed to introduce the main topics of the week\nLecture (slides a week ahead and recording posted afterwards)\nLabs\n\nBroad structure, but for you to use to advantage\nAttendance QR code up for 15 minutes, and the first 15 minutes is for you to get yourself sorted out as a group\nYour Lab Tutor will give a 10-15 minute overview of what you could be doing, and a survey of the resources/materials provided\nIf you need support, make yourself known as your Lab Tutor (or I) tour the lab(s)\nYou can (and should) ask any questions that occur to you. The labs are for this purpose. Your Lab Tutor will not be responding to emails outside of lab sessions\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#coursework",
+    "href": "slides/week00/lecture.slides.html#coursework",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#time-management-and-teamwork",
+    "href": "slides/week00/lecture.slides.html#time-management-and-teamwork",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#resources",
+    "href": "slides/week00/lecture.slides.html#resources",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#thank-you-for-your-time",
+    "href": "slides/week00/lecture.slides.html#thank-you-for-your-time",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#references",
+    "href": "slides/week00/lecture.slides.html#references",
+    "title": "Lecture 00:  Induction Week",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 00 - Induction Week Overview\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#heading-2---new-slide-title",
+    "href": "slides/week00/lecture.html#heading-2---new-slide-title",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Heading 2 - new slide title",
+    "text": "Heading 2 - new slide title\nHeading 2 copy\n\nHeading 3 - italic emphasis"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#spans-for-text-accentuation---available-in-source-mode",
+    "href": "slides/week00/lecture.html#spans-for-text-accentuation---available-in-source-mode",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Spans for text accentuation - available in source mode",
+    "text": "Spans for text accentuation - available in source mode\n.shout accent3(red) 1.5em and Bold\n.alert accent3(red) no change to font size\n.fg .bg\n.button accent1 whitetext button for link\n.button-success\n.takeaway\n.highlight"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#citations",
+    "href": "slides/week00/lecture.html#citations",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Citations",
+    "text": "Citations\nWright et al. (2012)\nCohen (1992) In text citation @Cohen1992\n(Cohen, 1992) not in-text citation `(Cohen, 1992)\njust type `@` and a search box comes up for your Zotero library or a .bib file associated with the project"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#imagecontent-2-column",
+    "href": "slides/week00/lecture.html#imagecontent-2-column",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Image|content 2 column",
+    "text": "Image|content 2 column\nSlide with image and commentary in two columns and some explanatory text above\ntext text text text text text text text text text text text\ntext text text text text text text text text text text text\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#callouts",
+    "href": "slides/week00/lecture.html#callouts",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Callouts",
+    "text": "Callouts"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#note-callouts",
+    "href": "slides/week00/lecture.html#note-callouts",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Note Callouts",
+    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\n\ncontent\n\n\n\n\n\n\n\n\nNote simple\n\n\n\ncontent\n\n\n\n\n\n\n\n\nNote minimal\n\n\n\ncontent"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#icons-by-fontawesome",
+    "href": "slides/week00/lecture.html#icons-by-fontawesome",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Icons by FontAwesome",
+    "text": "Icons by FontAwesome\nThese are cool  but they do need a full render e.g. $ quarto render in order to be seen.\nThey can also be used in pdfs\n\nFontawesome\n\n\n\n\n\n\ninput\noutput\n\n\n\n\n{{&lt; fa binoculars &gt;}}\n Prepare\n\n\n{{&lt; fa chalkboard-teacher &gt;}}\n Lecture\n\n\n{{&lt; fa users &gt;}}\n Lab\n\n\n{{&lt; fa bookmark &gt;}}\n Reading\n\n\n{{&lt; fa book &gt;}}\n Mini-Dissertation"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#welcome-back-and-welcome-to-research-methods",
+    "href": "slides/week00/lecture.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#this-year-you-become-scientists",
+    "href": "slides/week00/lecture.html#this-year-you-become-scientists",
+    "title": "Lecture 00:  Induction Week",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group design)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "slides/week00/lecture.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecture 00:  Induction Week",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#a-warm-up-for-your-y3-dissertation",
+    "href": "slides/week00/lecture.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecture 00:  Induction Week",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#support-and-guidance",
+    "href": "slides/week00/lecture.html#support-and-guidance",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#me",
+    "href": "slides/week00/lecture.html#me",
+    "title": "Lecture 00:  Induction Week",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do than this. Please talk to me! Help me get to know you!"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#module-weighting-and-assessment",
+    "href": "slides/week00/lecture.html#module-weighting-and-assessment",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#a-friendly-warning",
+    "href": "slides/week00/lecture.html#a-friendly-warning",
+    "title": "Lecture 00:  Induction Week",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#module-structure",
+    "href": "slides/week00/lecture.html#module-structure",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#weekly-structure",
+    "href": "slides/week00/lecture.html#weekly-structure",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Preparation’ designed to introduce the main topics of the week\nLecture (slides a week ahead and recording posted afterwards)\nLabs\n\nBroad structure, but for you to use to advantage\nAttendance QR code up for 15 minutes, and the first 15 minutes is for you to get yourself sorted out as a group\nYour Lab Tutor will give a 10-15 minute overview of what you could be doing, and a survey of the resources/materials provided\nIf you need support, make yourself known as your Lab Tutor (or I) tour the lab(s)\nYou can (and should) ask any questions that occur to you. The labs are for this purpose. Your Lab Tutor will not be responding to emails outside of lab sessions\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#coursework",
+    "href": "slides/week00/lecture.html#coursework",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "slides/week00/lecture.html#time-management-and-teamwork",
+    "href": "slides/week00/lecture.html#time-management-and-teamwork",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "slides/week00/lecture.html#resources",
+    "href": "slides/week00/lecture.html#resources",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "slides/week00/lecture.html#thank-you-for-your-time",
+    "href": "slides/week00/lecture.html#thank-you-for-your-time",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team"
+  },
+  {
+    "objectID": "slides/index.slides.html#header",
+    "href": "slides/index.slides.html#header",
+    "title": "index",
+    "section": "Header",
+    "text": "Header\nThis is the slides holding page. No need to convert to RevealJS"
+  },
+  {
+    "objectID": "slides/index.html",
+    "href": "slides/index.html",
+    "title": "index",
+    "section": "",
+    "text": "This is the slides holding page. No need to convert to RevealJS"
+  },
+  {
+    "objectID": "slides/index.html#header",
+    "href": "slides/index.html#header",
+    "title": "index",
+    "section": "",
+    "text": "This is the slides holding page. No need to convert to RevealJS"
+  },
+  {
+    "objectID": "readings/index.html",
+    "href": "readings/index.html",
+    "title": "Readings for Research Methods",
+    "section": "",
+    "text": "This is what readings is all about!\n\n\n\nReuseCC BY-NC-SA"
+  },
+  {
+    "objectID": "readings/read01.html",
+    "href": "readings/read01.html",
+    "title": "Readings for Week 01:  Replace it!",
+    "section": "",
+    "text": "Create fill-in-the-blank questions using fitb(), providing the answer as the first argument.\n\n2 + 2 is \nWhat is the letter after D? \n\nIf you want to ignore differences in whitespace use, use the argument ignore_ws = TRUE (which is the default) and include spaces in your answer anywhere they could be acceptable.\n\nHow do you load the tidyverse package? \n\nYou can set more than one possible correct answer by setting the answers as a vector.\n\nType a vowel: \n\nYou can use regular expressions to test answers against more complex rules.\n\nType any 3 letters: \n\n\n\n\n\n“Never gonna give you up, never gonna: let you goturn you downrun awaylet you down”\n“I bless the rainsguess it rainssense the rain down in Africa” -Toto\n\n\n\n\n\nTrue or False? You can permute values in a vector using sample(). TRUEFALSE\n\n\n\n\nWhen your answers are very long, sometimes a drop-down select box gets formatted oddly. You can use longmcq() to deal with this. Since the answers are long, It’s probably best to set up the options inside an R chunk with echo=FALSE.\nWhat is a p-value?\n\n the probability that the null hypothesis is true the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true the probability of making an error in your conclusion\n\nWhat is true about a 95% confidence interval of the mean?\n\n if you repeated the process many times, 95% of intervals calculated in this way contain the true mean 95% of the data fall within this range there is a 95% probability that the true mean lies within this range"
+  },
+  {
+    "objectID": "readings/read01.html#self-assessment-questions",
+    "href": "readings/read01.html#self-assessment-questions",
+    "title": "Readings for Week 01:  Replace it!",
+    "section": "",
+    "text": "Create fill-in-the-blank questions using fitb(), providing the answer as the first argument.\n\n2 + 2 is \nWhat is the letter after D? \n\nIf you want to ignore differences in whitespace use, use the argument ignore_ws = TRUE (which is the default) and include spaces in your answer anywhere they could be acceptable.\n\nHow do you load the tidyverse package? \n\nYou can set more than one possible correct answer by setting the answers as a vector.\n\nType a vowel: \n\nYou can use regular expressions to test answers against more complex rules.\n\nType any 3 letters: \n\n\n\n\n\n“Never gonna give you up, never gonna: let you goturn you downrun awaylet you down”\n“I bless the rainsguess it rainssense the rain down in Africa” -Toto\n\n\n\n\n\nTrue or False? You can permute values in a vector using sample(). TRUEFALSE\n\n\n\n\nWhen your answers are very long, sometimes a drop-down select box gets formatted oddly. You can use longmcq() to deal with this. Since the answers are long, It’s probably best to set up the options inside an R chunk with echo=FALSE.\nWhat is a p-value?\n\n the probability that the null hypothesis is true the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true the probability of making an error in your conclusion\n\nWhat is true about a 95% confidence interval of the mean?\n\n if you repeated the process many times, 95% of intervals calculated in this way contain the true mean 95% of the data fall within this range there is a 95% probability that the true mean lies within this range"
+  },
+  {
+    "objectID": "readings/read01.html#checked-sections",
+    "href": "readings/read01.html#checked-sections",
+    "title": "Readings for Week 01:  Replace it!",
+    "section": "Checked sections",
+    "text": "Checked sections\nCreate sections with the class webex-check to add a button that hides feedback until it is pressed. Add the class webex-box to draw a box around the section (or use your own styles).\n\nI am going to learn a lot: TRUEFALSE\nWhat is a p-value?\n\n the probability that the null hypothesis is true the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true the probability of making an error in your conclusion"
+  },
+  {
+    "objectID": "readings/read01.html#hidden-solutions-and-hints",
+    "href": "readings/read01.html#hidden-solutions-and-hints",
+    "title": "Readings for Week 01:  Replace it!",
+    "section": "Hidden solutions and hints",
+    "text": "Hidden solutions and hints\nYou can fence off a solution area that will be hidden behind a button using hide() before the solution and unhide() after, each as inline R code. Pass the text you want to appear on the button to the hide() function.\nIf the solution is a code chunk, instead of using hide() and unhide(), simply set the webex.hide chunk option to TRUE, or set it to the string you wish to display on the button.\nRecreate the scatterplot below, using the built-in cars dataset.\n\n\n\n\n\n\n\nI need a hint\n\nSee the documentation for plot() (?plot)\n\n\n\n\n\nClick here to see the solution\n\n\nCode\nplot(cars$speed, cars$dist)"
+  },
+  {
+    "objectID": "minidiss/index.html",
+    "href": "minidiss/index.html",
+    "title": "Mini_diss resources",
+    "section": "",
+    "text": "enjoy the shit out of it."
+  },
+  {
+    "objectID": "minidiss/index.html#week-1",
+    "href": "minidiss/index.html#week-1",
+    "title": "Mini_diss resources",
+    "section": "Week 1",
+    "text": "Week 1\nThe aim for today is to brainstorm some areas of research that might be of interest to you. You might be motivated to just work with your buddies. Or you might want to work with people from your PT group who share a similar interest.\nWork out how you wish to work. This is the last large-scale piece of group work you’ll do prior to getting a reference.\nStart thinking about how you can search for literature on the topic you have chosen.\nWhat methods are used? What is feasible? What would you like to learn about?"
+  },
+  {
+    "objectID": "overview/CopyOfprep01.html",
+    "href": "overview/CopyOfprep01.html",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTask 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2\n\n\n\n\n\n\n\n\n\n\n\n\nCHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\n\n::: {#minidiss-listing} ::: ## Mini-Dissertation Skills & Checkpoints\n\n\n- Activity 1: Description - Activity 2: Description\n\n\n\n\n\n\n\nEmployability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUpcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
+  },
+  {
+    "objectID": "overview/CopyOfprep01.html#introduction-lecture-preview",
+    "href": "overview/CopyOfprep01.html#introduction-lecture-preview",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2"
+  },
+  {
+    "objectID": "overview/CopyOfprep01.html#lab-sessions",
+    "href": "overview/CopyOfprep01.html#lab-sessions",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Task 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2"
+  },
+  {
+    "objectID": "overview/CopyOfprep01.html#CHIPTopics",
+    "href": "overview/CopyOfprep01.html#CHIPTopics",
+    "title": "Listing Example",
+    "section": "",
+    "text": "CHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\n\n::: {#minidiss-listing} ::: ## Mini-Dissertation Skills & Checkpoints\n\n\n- Activity 1: Description - Activity 2: Description"
+  },
+  {
+    "objectID": "overview/CopyOfprep01.html#tips-hacks-and-guides",
+    "href": "overview/CopyOfprep01.html#tips-hacks-and-guides",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Employability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games."
+  },
+  {
+    "objectID": "overview/CopyOfprep01.html#save-the-date",
+    "href": "overview/CopyOfprep01.html#save-the-date",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Upcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
+  },
+  {
+    "objectID": "overview/week1listing.html",
+    "href": "overview/week1listing.html",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Prepare for Week 01:  Replace it!\n\n\nThis is a meaningful subtitle\n\n\n\n\n\n\n\n\n\nMonday, 02 October, 2023\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n  \n\n\n\n\nPrepare for Week 01:  Replace it!\n\n\nThis is a meaningful subtitle\n\n\n\n\n\n\n\n\n\nMonday, 02 October, 2023\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n  \n\n\n\n\nPrepare for Week 01:  Replace it!\n\n\nThis is a meaningful subtitle\n\n\n\n\n\n\n\n\n\nMonday, 02 October, 2023\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n  \n\n\n\n\nWeek XX:  Replace it!\n\n\nThis is a meaningful subtitle\n\n\nw/c 2nd October\n\n\n\n\n\n\nMonday, 02 October, 2023\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n  \n\n\n\n\nrevealplay\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfprep01.html",
+    "href": "overview/CopyOfCopyOfprep01.html",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTask 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2\n\n\n\n\n\n\n\n\n\n\n\n\nCHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\n\n::: {#minidiss-listing} ::: ## Mini-Dissertation Skills & Checkpoints\n\n\n- Activity 1: Description - Activity 2: Description\n\n\n\n\n\n\n\nEmployability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUpcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfprep01.html#introduction-lecture-preview",
+    "href": "overview/CopyOfCopyOfprep01.html#introduction-lecture-preview",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfprep01.html#lab-sessions",
+    "href": "overview/CopyOfCopyOfprep01.html#lab-sessions",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Task 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfprep01.html#CHIPTopics",
+    "href": "overview/CopyOfCopyOfprep01.html#CHIPTopics",
+    "title": "Listing Example",
+    "section": "",
+    "text": "CHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\n\n::: {#minidiss-listing} ::: ## Mini-Dissertation Skills & Checkpoints\n\n\n- Activity 1: Description - Activity 2: Description"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfprep01.html#tips-hacks-and-guides",
+    "href": "overview/CopyOfCopyOfprep01.html#tips-hacks-and-guides",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Employability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games."
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfprep01.html#save-the-date",
+    "href": "overview/CopyOfCopyOfprep01.html#save-the-date",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Upcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
+  },
+  {
+    "objectID": "overview/index.html",
+    "href": "overview/index.html",
+    "title": "Week XX:  Replace it!",
+    "section": "",
+    "text": "How to prepare for each week in Research Methods\nMany hundreds of years ago, I was a Boy Scout, before that, I was a Brownie too, but that’s a story for another day. ‘Be Prepared’ is a valuable piece of advice. And that’s what I’m trying to help with here. You aren’t going to get the most out of the timetabled sessions, or your extensive independent study, if you don’t have a fair idea of what you need to do, by when, and what each activity entails.\nYour teaching team goes to a great deal of effort to answer any and all questions you might have, and we engineer the lectures and labs to preview any expected questions and also those of the unexpected variety. But you have to ask them. To do this, you need to have a look ahead and identify anything that needs clarification.\nRemember, a lack of preparation on your part is not an emergency on my part.\nLectures are pretty straightforward. The content will be released a week prior to the timetabled session, and will comprise both a prepare summary like this, but also the lecture slides and signposts to key readings.\nReview the lecture slides, have a poke around in the readings and try to familiarise yourself with any concepts that may be new to you. But the major point of the lectures is that you come along, pin back your ears, and engage with the content. More on that in the Module Overview.\nYou have a 2 hour lab each week, and although there will be some guided activities and skills shared, these sessions are ‘working sessions’ - designed to allow you to work productively on your Mini-Dissertations individually, or more usually, in your groups. It is expected that you coordinate with your group between classes, it’s not a great use of the session to use that to catch everyone up on things and have a bit of bants. 2 hours of industry will keep you moving through the stages of the module well, reducing the amount of time you might need to work independently, or more realistically, freeing that up for other things you need to prioritise, whether it’s work, life, love or another piece of coursework.\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#task-calculate-a-summary-statistic",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#task-calculate-a-summary-statistic",
+    "title": "revealplay",
+    "section": "task: calculate a summary statistic",
+    "text": "task: calculate a summary statistic\n\nCalculate the mean loan amount."
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#arrow",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#arrow",
+    "title": "revealplay",
+    "section": "arrow",
+    "text": "arrow\n\narrow is software development platform for building high performance applications that process and transport large data sets"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#story-1-the-folklore-of-fervent-field-experiments-1",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#story-1-the-folklore-of-fervent-field-experiments-1",
+    "title": "revealplay",
+    "section": "STORY 1 🌱 The folklore of fervent field experiments",
+    "text": "STORY 1 🌱 The folklore of fervent field experiments\n\n\n\nConsider a field experiment in agriculture where plot are laid in out as 6 rows by 8 columns (each also called strip). There are 4 modes of seedbed preparation and 3 crop varieties that are of the interest to the researcher. The mode of seedbed preparation is assigned randomly to the whole columns, and the crop variety is assigned randomly to the whole row. This experimental design is called a strip-plot design.\n\n\n\n\n#| echo: true #| eval: true #| code-line-numbers: “|2|3-5|6-7|8-9|10|11|” library(edibble) df1 &lt;- design(“Strip-plot experiment”) %&gt;% set_units(row = 6, col = 8, plot = crossed_by(row, col)) %&gt;% set_trts(seedbed = 4, variety = 3) %&gt;% allot_trts(seedbed ~ col, variety ~ row) %&gt;% assign_trts(“random”, seed = 20220324) %&gt;% serve_table()\ndf1"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-aquamarine",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-aquamarine",
+    "title": "revealplay",
+    "section": "Slide, aquamarine",
+    "text": "Slide, aquamarine"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-806040",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-806040",
+    "title": "revealplay",
+    "section": "Slide, #806040",
+    "text": "Slide, #806040"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#section",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#section",
+    "title": "revealplay",
+    "section": "",
+    "text": "(A slide with no title)"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#section-1",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#section-1",
+    "title": "revealplay",
+    "section": "",
+    "text": "(Another slide with no title)"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#setting-the-scene",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#setting-the-scene",
+    "title": "revealplay",
+    "section": "setting the scene",
+    "text": "setting the scene\n\n\nAssumption 1:\nTeach authentic tools\n\nAssumption 2:\nTeach R as the authentic tool"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#takeaway",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#takeaway",
+    "title": "revealplay",
+    "section": "takeaway",
+    "text": "takeaway\n\n\nThe tidyverse provides an effective and efficient pathway for undergraduate students at all levels and majors to gain computational skills and thinking needed throughout the data science cycle.\n\n\n\n\n\n\n\n\nÇetinkaya-Rundel, M., Hardin, J., Baumer, B. S., McNamara, A., Horton, N. J., & Rundel, C. (2021). An educator’s perspective of the tidyverse. arXiv preprint arXiv:2108.03510. arxiv.org/abs/2108.03510"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#columns",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#columns",
+    "title": "revealplay",
+    "section": "Columns",
+    "text": "Columns\n\n\nLeft column\n\nRight column"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1",
+    "title": "revealplay",
+    "section": "Slide 1",
+    "text": "Slide 1\n\nincremental list, 1\nincremental list, 2"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2",
+    "title": "revealplay",
+    "section": "Slide 2",
+    "text": "Slide 2\n\nincremental list, 3\nincremental list, 4"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1-incrementally",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1-incrementally",
+    "title": "revealplay",
+    "section": "Slide 1, incrementally",
+    "text": "Slide 1, incrementally\n\n\nEat spaghetti\nDrink wine"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2-non-incrementally",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2-non-incrementally",
+    "title": "revealplay",
+    "section": "Slide 2, non-incrementally",
+    "text": "Slide 2, non-incrementally\n\nEat spaghetti\nDrink wine"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1-incrementally-1",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1-incrementally-1",
+    "title": "revealplay",
+    "section": "Slide 1, incrementally",
+    "text": "Slide 1, incrementally\n\nEat spaghetti\nDrink wine"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2-non-incrementally-1",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2-non-incrementally-1",
+    "title": "revealplay",
+    "section": "Slide 2, non-incrementally",
+    "text": "Slide 2, non-incrementally\n\n\nEat spaghetti\nDrink wine"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-with-a-pause",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-with-a-pause",
+    "title": "revealplay",
+    "section": "Slide with a pause",
+    "text": "Slide with a pause\ncontent before the pause\n\ncontent after the pause"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-title",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-title",
+    "title": "revealplay",
+    "section": "Slide Title",
+    "text": "Slide Title\nSlide content\n\nCustom footer text"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#another-slide-title",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#another-slide-title",
+    "title": "revealplay",
+    "section": "Another Slide Title",
+    "text": "Another Slide Title\n\nA different custom footer"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1-1",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1-1",
+    "title": "revealplay",
+    "section": "Slide 1",
+    "text": "Slide 1\n\nBullet Point 1\nBullet Point 2\nBullet Point 3\nBullet Point 4\nBullet Point 5\nBullet Point 6\nBullet Point 7\nBullet Point 8\nBullet Point 9\nBullet Point 10\nBullet Point 11\nBullet Point 12\nBullet Point 13\nBullet Point 14\nBullet Point 15\nBullet Point 16"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2-1",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2-1",
+    "title": "revealplay",
+    "section": "Slide 2",
+    "text": "Slide 2\n\nBullet Point 1\nBullet Point 2\nBullet Point 3\nBullet Point 4\nBullet Point 5\nBullet Point 6\nBullet Point 7\nBullet Point 8\nBullet Point 9\nBullet Point 10\nBullet Point 11\nBullet Point 12\nBullet Point 13\nBullet Point 14\nBullet Point 15\nBullet Point 16"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-with-speaker-notes",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-with-speaker-notes",
+    "title": "revealplay",
+    "section": "Slide with speaker notes",
+    "text": "Slide with speaker notes\nSlide content\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#title",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#title",
+    "title": "revealplay",
+    "section": "Title",
+    "text": "Title\n\nTab ATab B\n\n\nContent for Tab A\n\n\nContent for Tab B"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#title-slide",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#title-slide",
+    "title": "revealplay",
+    "section": "Title Slide",
+    "text": "Title Slide\nThe main title slide is the first slide of the presentation, and its content is generated based on a variety document options (title, subtitle, date, author, institute, etc.).\nCustom Background\nIf you want to provide a custom background for the title slide, then do the following:\n\nUse the title-slide-attributes key to provide background options.\nWithin this key, specify any of the supported slide background options, but with data- prepended to them. For example:\n\nFor example:\n---\ntitle: My Slide Show\ntitle-slide-attributes:\n  data-background-image: /path/to/title_image.png\n  data-background-size: contain\n  data-background-opacity: \"0.5\"\n---\nCustom Template\nYou can replace the default title slide entirely with your own template. To do this, specify a title-slide.html template partial. For example:\ntitle: My Slide Show\nformat:\n  revealjs:\n    template-partials:\n      - title-slide.html\nHere is the source code for the default title slide template partial. Customize this template as required, then save the resutls to title-slide.html alongside your presentation."
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-transitions",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-transitions",
+    "title": "revealplay",
+    "section": "Slide Transitions",
+    "text": "Slide Transitions\nReveal supports a number of animated transition effects for both slide changes and slide background changes. By default no transitions are used, however you can enable them either globally or per-slide using the options described below.\nHere are the available transition types:\n\n\n\n\n\n\n\nTransition\nDescription\n\n\n\n\nnone\nNo transition (switch instantly)\n\n\nfade\nCross fade\n\n\nslide\nSlide horizontally\n\n\nconvex\nSlide at a convex angle\n\n\nconcave\nSlide at a concave angle\n\n\nzoom\nScale the incoming slide so it grows in from the center of the screen.\n\n\n\nHere’s how you would set the global transition style for both slides and backgrounds:\n---\ntitle: \"Presentation\"\nformat:\n  revealjs:\n    transition: slide\n    background-transition: fade\n---\nYou can also specify the transition-speed as default, fast, or slow:\n---\ntitle: \"Presentation\"\nformat:\n    navigation-mode: vertical\n---\n\n# Slide 1\n\n## Slide 1.1\n\n## Slide 1.2\n\n# Slide 2\n\n## Slide 2.1\n\n## Slide 2.2\nSlide Controls\nWhen you enable vertical or grid navigation, controls will appear to provide a visual cue to where you are in the presentation (e.g. if there are vertical slides below you’ll see a down control).\nBy default these controls appear at the edges of the presentation, you can position them in the bottom right corner using the controls-layout option. You can also provide an extra visual cue to viewers that the controls are available using the controls-tutorial option. For example:\n---\ntitle: \"Presentation\"\nformat: \n  revealjs:\n    navigation-mode: vertical\n    controls-layout: bottom-right\n    controls-tutorial: true\n---\nNote that using controls-layout: bottom-right isn’t compatible with including a logo (as the logo appears in the bottom right corner as well).\nYou can also disable the controls entirely with controls: false.\n\n\n\n\n\n\n\n\n\nWhile vertical slides do provide some additional flexibility over the traditional linear model, they are in practice very confusing for end users (mostly because they are so unexpected). Users will often skip the vertical content because they simply don’t know its there.\nIf your content benefits from vertical orientation (e.g. you have optional drill-down content that you don’t want in the main flow of the presentation) by all means use the vertical mode. Just know that if you distribute your slides to users they will very likely not end up viewing any of the vertical content."
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#touch-navigation",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#touch-navigation",
+    "title": "revealplay",
+    "section": "Touch Navigation",
+    "text": "Touch Navigation\nYou can swipe to navigate through a presentation on any touch-enabled device. Horizontal swipes change between horizontal slides, vertical swipes change between vertical slides.\nIf you wish to disable this you can set the touch option to false:\n---\ntitle: \"Presentation\"\nformat:\n  revealjs:\n    touch: false\n    controls: true\n---\nNote that we also enable controls at the same time (as users on phones or tablets don’t have access to a keyboard)."
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#reveal-plugins",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#reveal-plugins",
+    "title": "revealplay",
+    "section": "Reveal Plugins",
+    "text": "Reveal Plugins\nTo use Revealjs plugins, you need to package them into a directory with a config file (plugin.yml). The config file lets Quarto know how to inject the plugin into the presentation (e.g. what scripts and/or css files to include, what the default configuration should be, etc.).\nSee the source code of the plugins that are built in to Quarto Reveal for examples:\nhttps://github.com/quarto-dev/quarto-cli/tree/main/src/resources/formats/revealjs/plugins\nTo use a plugin, just include a reference to its directory in the list of plugins. For example:\n---\ntitle: \"Presentation\"\nformat:\n  revealjs:\n    revealjs-plugins:\n      - myplugin\n---\nNote that many of the most popular Reveal plugins are already included with the Quarto version of Reveal, so there is no need to include them separately. Built in plugins include:\n\nMultiplex\nRevealMenu\nRevealChalkboard\nPdfExport\n\nExample\nLet’s show an example with the fullscreen. Here are the steps to bundle this plugin to use within your Quarto HTML presentation:\n\nCreate a folder with the name you want for the plugin, here we’ll call it fullscreen.\nDownload the plugin files into the created folder. Here the plugin only have a JS file called plugin.js that you can find on the repo rajgoel/reveal.js-plugins. You can keep the name or rename it, e.g fullscreen.js.\nIn that folder add a plugin.yml file, as in Quarto Reveal examples.\n\nname is a mandatory field which should be the name of the JS function the JS plugin is defining. Open the JS script you downloaded to look for it.\nOther fields are for the resources to be used. In our example, only a JS script so we’ll use script\n\nOur plugin.yml would be:\nname: RevealFullscreen\nscript: [fullscreen.js]\nNow add the plugin reference into your document YAML header, using the path of the folder your created:\nformat: \n revealjs:\n   revealjs-plugins:\n     - fullscreen\nThe custom plugin will be loaded in your presentation and you can use it. The plugin fullscreen documentation shows an example of adding a Map fullscreen in a slide by adding an attribute on the section, and using stretch on the content. This would translate to having this slide in the .qmd file:\n## {fullscreen=true}\n\n&lt;iframe class=\"stretch\" data-src=\"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d61206.89156051744!2d-151.77366863890407!3d-16.50433878928727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sde!4v1467468929561\"&gt;&lt;/iframe&gt;"
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#learning-more",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#learning-more",
+    "title": "revealplay",
+    "section": "Learning More",
+    "text": "Learning More\nSee these articles lo learn more about using Reveal:\n\nReveal Basics covers the basic mechanics of creating presentations.\nPresenting Slides describes slide navigation, printing to PDF, drawing on slides using a chalkboard, and creating multiplex presentations.\nReveal Themes talks about using and customizing existing themes as well as creating brand new themes."
+  },
+  {
+    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#overview",
+    "href": "overview/CopyOfCopyOfCopyOfprep01.html#overview",
+    "title": "revealplay",
+    "section": "Overview",
+    "text": "Overview\nYou can create Revealjs presentations using the revealjs format. The best way to get a sense for the capabilities of Revealjs is this demo presentation:\n\n\n\nIf you prefer to view the demo in a standalone browser you can do that here. Check out the source code for the demo to see how the slides were created.\nSee the Revealjs format reference for a comprehensive overview of all options supported for Revealjs Content Overflow"
+  },
+  {
+    "objectID": "overview/overview01.html",
+    "href": "overview/overview01.html",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTask 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2\n\n\n\n\n\n\n\n\n\n\n\n\nCHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\n\n::: {#minidiss-listing} ::: ## Mini-Dissertation Skills & Checkpoints\n\n\n- Activity 1: Description - Activity 2: Description\n\n\n\n\n\n\n\nEmployability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUpcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
+  },
+  {
+    "objectID": "overview/overview01.html#introduction-lecture-preview",
+    "href": "overview/overview01.html#introduction-lecture-preview",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2"
+  },
+  {
+    "objectID": "overview/overview01.html#lab-sessions",
+    "href": "overview/overview01.html#lab-sessions",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Task 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2"
+  },
+  {
+    "objectID": "overview/overview01.html#CHIPTopics",
+    "href": "overview/overview01.html#CHIPTopics",
+    "title": "Listing Example",
+    "section": "",
+    "text": "CHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\n\n::: {#minidiss-listing} ::: ## Mini-Dissertation Skills & Checkpoints\n\n\n- Activity 1: Description - Activity 2: Description"
+  },
+  {
+    "objectID": "overview/overview01.html#tips-hacks-and-guides",
+    "href": "overview/overview01.html#tips-hacks-and-guides",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Employability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games."
+  },
+  {
+    "objectID": "overview/overview01.html#save-the-date",
+    "href": "overview/overview01.html#save-the-date",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Upcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Here’s your roadmap for the year!\nEvery class session has four important sections. You should read about the details for each using the main menu at the top of this webpage."
+  },
+  {
+    "objectID": "schedule.html#weekly-schedule",
+    "href": "schedule.html#weekly-schedule",
+    "title": "Schedule",
+    "section": "Weekly schedule",
+    "text": "Weekly schedule\n\n\n\n\n\n  \n    \n    \n      week\n      date\n      topic\n      prepare\n      lecture\n      lab\n      reading\n      minidiss\n      notes\n    \n  \n  \n    1\nMonday, 02 October\nWelcome to the Lab - group formation and topic brainstorming\n\n\n\n\n\n\n    2\nMonday, 09 October\nLiterature Search & Management, Critical Appraisal & Effect Sizes\n\n\n\n\n\nGot some spicy notes for you here my darlings\n    3\nMonday, 16 October\nPlanning for Success, & The Critical Proposal Coursework\n\n\n\n\n\n\n    4\nMonday, 23 October\nExperimental variables, design and notation\n\n\n\n\n\nAnd how about here? THis is some badass\n    5\nMonday, 30 October\nCritical Proposal support and Power Calculations\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    6\nMonday, 13 November\nCollecting Data Online and in Person\n\n\n\n\n\n\n    7\nMonday, 20 November\nTask development and Ethics applications\n\n\n\n\n\n\n    8\nMonday, 27 November\nTask development and Ethics workshop [Peer Review]\n\n\n\n\n\n\n    9\nMonday, 04 December\nParticipant Recruitment Planning & Yr 3 Dissertation Preview\n\n\n\n\n\n\n    10\nMonday, 11 December\nOpen Science Requirements: Open Methods and Open Data\n\n\n\n\n\n\n    Winter Break\n\n\n\n\n\n\n\n\n    11\nMonday, 08 January\nData collection | Study Swap and Raw Data Setup/Review\n\n\n\n\n\n\n    12\nMonday, 15 January\nData collection | APA Report Writing Refresher\n\n\n\n\n\n\n    13\nMonday, 22 January\nData collection | Raw Data, Preprocessing and APA Methods Section & Open Materials\n\n\n\n\n\n\n    14\nMonday, 29 January\nData collection | Analysis Plans and APA Results Section\n\n\n\n\n\n\n    15\nMonday, 05 February\nData collection | Data export, preprocessing & Open Data\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    16\nMonday, 19 February\nAnalysis | Three Flavours of ANOVA, Assumptions & Post-Hoc tests\n\n\n\n\n\n\n    17\nMonday, 26 February\nAnalysis | Results write-up, APA formatting, figures and tables\n\n\n\n\n\n\n    18\nMonday, 04 March\nWriting up | Focus on the Introduction & APA style\n\n\n\n\n\n\n    19\nMonday, 11 March\nWriting up | Interpreting and discussing your results\n\n\n\n\n\n\n    20\nMonday, 18 March\nWriting up | Pre-submission checklist & editing strategies"
+  }
+]

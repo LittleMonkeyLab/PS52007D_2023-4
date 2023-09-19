@@ -13,7 +13,7 @@ format:
     controls-layout: edges
     show-slide-number: all
     title-slide-attributes:
-      data-background-color: "#4B0082" #indigo
+      # data-background-color: "#4B0082" #indigo
       data-background-image: "/images/LMLLOGO.png"
       data-background-position: right
       data-background-size: 3.2em
@@ -64,3 +64,4 @@ editor: visual
 
 execute:
   freeze: true
+  
