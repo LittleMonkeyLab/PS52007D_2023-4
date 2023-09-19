@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = FALSE)
 library(webexercises) #TODO
 ```
 
-## Example Questions
+## Self-Assessment Questions
 
 ### Fill-In-The-Blanks (`fitb()`)
 

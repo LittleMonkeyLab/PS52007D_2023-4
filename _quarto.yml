@@ -122,5 +122,7 @@ format:
         \fancyfoot[C]{\thepage}
         \renewcommand{\headrulewidth}{0.4pt}
         \renewcommand{\footrulewidth}{0.4pt}
+    include-before-body: |
+        \raggedright
 execute:
   freeze: true
