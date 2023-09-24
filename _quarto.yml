@@ -51,11 +51,13 @@ website:
     right:
     - text: "Prepare"
       file: overview/index.qmd
-    - text: "Lectures"
+    - text: "Slides"
+      file: slides/*
+    # - text: "Lectures"
     #   file: slides/week**/lectures/index.qmd
     # - text: "Labs"
     #   file: labs/index.qmd
-    # - text: "Readings"
+    - text: "Readings"
       file: readings/index.qmd
     - text: "Mini-Diss"
       file: minidiss/index.qmd

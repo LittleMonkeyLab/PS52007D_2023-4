@@ -31,7 +31,7 @@ library(fontawesome)
 
 ```
 
-Here's your roadmap for the year!
+Here's your roadmap for the year! Pay attention!
 
 Every class session has four important sections. You should read about
 the details for each using the main menu at the top of this webpage.
@@ -112,10 +112,11 @@ d |>
   text_transform(cells_body(columns = c(overview)), fn = conditional_transform_fn("binoculars")) |>
   text_transform(cells_body(columns = c(lecture)), fn = conditional_transform_fn("person-chalkboard")) |>
   text_transform(cells_body(columns = c(lab)), fn = conditional_transform_fn("users")) |>
+  text_transform(cells_body(columns = c(worksheet)), fn = conditional_transform_fn("pen-ruler")) |>
   text_transform(cells_body(columns = c(reading)), fn = conditional_transform_fn("bookmark")) |>
   text_transform(cells_body(columns = c(minidiss)), fn = conditional_transform_fn("book")) |>
   sub_missing(columns = c(date, topic, notes), missing_text = "") |>
-  cols_align(align = "center", columns = c(week, date, overview, lecture, lab, reading, minidiss)) |>
+  cols_align(align = "center", columns = c(week, date, overview, lecture, lab, worksheet, reading, minidiss)) |>
   cols_align(align = "left", columns = c(topic, notes)) |>
   tab_style(
     style = cell_borders(
@@ -124,7 +125,7 @@ d |>
       style = "solid"
     ),
     locations = cells_body(
-      columns = c(week, date, topic, overview, lecture, lab, reading, minidiss)
+      columns = c(week, date, topic, overview, lecture, lab, worksheet, reading, minidiss)
     )
   ) |>
   # Setting text size for 'notes' column
@@ -140,7 +141,7 @@ d |>
   tab_style(
     style = htmltools::css(width = "5%"),
     locations = cells_body(
-      columns = c(overview, lecture, lab, reading, minidiss)
+      columns = c(overview, lecture, lab, worksheet, reading, minidiss)
     )
   ) |>
   
