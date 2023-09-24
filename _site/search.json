@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "worksheets/index.html",
+    "href": "worksheets/index.html",
+    "title": "Mini_diss resources",
+    "section": "",
+    "text": "enjoy the shit out of it."
+  },
+  {
+    "objectID": "worksheets/index.html#week-1",
+    "href": "worksheets/index.html#week-1",
+    "title": "Mini_diss resources",
+    "section": "Week 1",
+    "text": "Week 1\nThe aim for today is to brainstorm some areas of research that might be of interest to you. You might be motivated to just work with your buddies. Or you might want to work with people from your PT group who share a similar interest.\nWork out how you wish to work. This is the last large-scale piece of group work you’ll do prior to getting a reference.\nStart thinking about how you can search for literature on the topic you have chosen.\nWhat methods are used? What is feasible? What would you like to learn about?"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Research Methods in Psychology",
@@ -137,7 +151,7 @@
     "href": "slides/week01/lecture.slides.html#references",
     "title": "Lecture 01:  Replace it!",
     "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 01 - Short Title\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
+    "text": "References\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 01 - Short Title\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
   },
   {
     "objectID": "slides/week01/lecture.html#heading-2---new-slide-title",
@@ -242,7 +256,7 @@
     "href": "slides/week01/lab.slides.html#references",
     "title": "Lab 01:  Replace it!",
     "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 01 - Short Title\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
+    "text": "References\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 01 - Short Title\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
   },
   {
     "objectID": "slides/week01/lab.html#heading-2---new-slide-title",
@@ -445,7 +459,7 @@
     "href": "slides/week00/lecture.slides.html#references",
     "title": "Lecture 00:  Induction Week",
     "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 00 - Induction Week Overview\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
+    "text": "References\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 00 - Induction Week Overview\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
   },
   {
     "objectID": "slides/week00/lecture.html#heading-2---new-slide-title",
@@ -614,55 +628,6 @@
     "title": "index",
     "section": "",
     "text": "This is the slides holding page. No need to convert to RevealJS"
-  },
-  {
-    "objectID": "readings/index.html",
-    "href": "readings/index.html",
-    "title": "Readings for Research Methods",
-    "section": "",
-    "text": "This is what readings is all about!\n\n\n\nReuseCC BY-NC-SA"
-  },
-  {
-    "objectID": "readings/read01.html",
-    "href": "readings/read01.html",
-    "title": "Readings for Week 01:  Replace it!",
-    "section": "",
-    "text": "Create fill-in-the-blank questions using fitb(), providing the answer as the first argument.\n\n2 + 2 is \nWhat is the letter after D? \n\nIf you want to ignore differences in whitespace use, use the argument ignore_ws = TRUE (which is the default) and include spaces in your answer anywhere they could be acceptable.\n\nHow do you load the tidyverse package? \n\nYou can set more than one possible correct answer by setting the answers as a vector.\n\nType a vowel: \n\nYou can use regular expressions to test answers against more complex rules.\n\nType any 3 letters: \n\n\n\n\n\n“Never gonna give you up, never gonna: let you goturn you downrun awaylet you down”\n“I bless the rainsguess it rainssense the rain down in Africa” -Toto\n\n\n\n\n\nTrue or False? You can permute values in a vector using sample(). TRUEFALSE\n\n\n\n\nWhen your answers are very long, sometimes a drop-down select box gets formatted oddly. You can use longmcq() to deal with this. Since the answers are long, It’s probably best to set up the options inside an R chunk with echo=FALSE.\nWhat is a p-value?\n\n the probability that the null hypothesis is true the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true the probability of making an error in your conclusion\n\nWhat is true about a 95% confidence interval of the mean?\n\n there is a 95% probability that the true mean lies within this range if you repeated the process many times, 95% of intervals calculated in this way contain the true mean 95% of the data fall within this range"
-  },
-  {
-    "objectID": "readings/read01.html#self-assessment-questions",
-    "href": "readings/read01.html#self-assessment-questions",
-    "title": "Readings for Week 01:  Replace it!",
-    "section": "",
-    "text": "Create fill-in-the-blank questions using fitb(), providing the answer as the first argument.\n\n2 + 2 is \nWhat is the letter after D? \n\nIf you want to ignore differences in whitespace use, use the argument ignore_ws = TRUE (which is the default) and include spaces in your answer anywhere they could be acceptable.\n\nHow do you load the tidyverse package? \n\nYou can set more than one possible correct answer by setting the answers as a vector.\n\nType a vowel: \n\nYou can use regular expressions to test answers against more complex rules.\n\nType any 3 letters: \n\n\n\n\n\n“Never gonna give you up, never gonna: let you goturn you downrun awaylet you down”\n“I bless the rainsguess it rainssense the rain down in Africa” -Toto\n\n\n\n\n\nTrue or False? You can permute values in a vector using sample(). TRUEFALSE\n\n\n\n\nWhen your answers are very long, sometimes a drop-down select box gets formatted oddly. You can use longmcq() to deal with this. Since the answers are long, It’s probably best to set up the options inside an R chunk with echo=FALSE.\nWhat is a p-value?\n\n the probability that the null hypothesis is true the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true the probability of making an error in your conclusion\n\nWhat is true about a 95% confidence interval of the mean?\n\n there is a 95% probability that the true mean lies within this range if you repeated the process many times, 95% of intervals calculated in this way contain the true mean 95% of the data fall within this range"
-  },
-  {
-    "objectID": "readings/read01.html#checked-sections",
-    "href": "readings/read01.html#checked-sections",
-    "title": "Readings for Week 01:  Replace it!",
-    "section": "Checked sections",
-    "text": "Checked sections\nCreate sections with the class webex-check to add a button that hides feedback until it is pressed. Add the class webex-box to draw a box around the section (or use your own styles).\n\nI am going to learn a lot: TRUEFALSE\nWhat is a p-value?\n\n the probability that the null hypothesis is true the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true the probability of making an error in your conclusion"
-  },
-  {
-    "objectID": "readings/read01.html#hidden-solutions-and-hints",
-    "href": "readings/read01.html#hidden-solutions-and-hints",
-    "title": "Readings for Week 01:  Replace it!",
-    "section": "Hidden solutions and hints",
-    "text": "Hidden solutions and hints\nYou can fence off a solution area that will be hidden behind a button using hide() before the solution and unhide() after, each as inline R code. Pass the text you want to appear on the button to the hide() function.\nIf the solution is a code chunk, instead of using hide() and unhide(), simply set the webex.hide chunk option to TRUE, or set it to the string you wish to display on the button.\nRecreate the scatterplot below, using the built-in cars dataset.\n\n\n\n\n\n\n\nI need a hint\n\nSee the documentation for plot() (?plot)\n\n\n\n\n\nClick here to see the solution\n\n\nCode\nplot(cars$speed, cars$dist)"
-  },
-  {
-    "objectID": "minidiss/index.html",
-    "href": "minidiss/index.html",
-    "title": "Mini_diss resources",
-    "section": "",
-    "text": "enjoy the shit out of it."
-  },
-  {
-    "objectID": "minidiss/index.html#week-1",
-    "href": "minidiss/index.html#week-1",
-    "title": "Mini_diss resources",
-    "section": "Week 1",
-    "text": "Week 1\nThe aim for today is to brainstorm some areas of research that might be of interest to you. You might be motivated to just work with your buddies. Or you might want to work with people from your PT group who share a similar interest.\nWork out how you wish to work. This is the last large-scale piece of group work you’ll do prior to getting a reference.\nStart thinking about how you can search for literature on the topic you have chosen.\nWhat methods are used? What is feasible? What would you like to learn about?"
   },
   {
     "objectID": "overview/CopyOfprep01.html",
@@ -1019,6 +984,41 @@
     "href": "schedule.html#weekly-schedule",
     "title": "Schedule",
     "section": "Weekly schedule",
-    "text": "Weekly schedule\n\n\n\n\n\n  \n    \n    \n      week\n      date\n      topic\n      overview\n      lecture\n      lab\n      reading\n      minidiss\n      notes\n    \n  \n  \n    0\nMonday, 25 September\nLecture:  Module Overview and Coursework requirements\nLab: N/A\n\n\n\n\n\n\n    1\nMonday, 02 October\nLecture: \nLab: Welcome to the Lab - group formation and topic brainstorming\n\n\n\n\n\n\n    2\nMonday, 09 October\nLecture: \nLab: Literature Search & Management, Critical Appraisal & Effect Sizes\n\n\n\n\n\nGot some spicy notes for you here my darlings\n    3\nMonday, 16 October\nLecture: \nLab: Planning for Success, & The Critical Proposal Coursework\n\n\n\n\n\n\n    4\nMonday, 23 October\nLecture: \nLab: Experimental variables, design and notation\n\n\n\n\n\nAnd how about here? THis is some badass\n    5\nMonday, 30 October\nLecture: \nLab: Critical Proposal support and Power Calculations\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    6\nMonday, 13 November\nLecture: \nLab: Collecting Data Online and in Person\n\n\n\n\n\n\n    7\nMonday, 20 November\nLecture: \nLab: Task development and Ethics applications\n\n\n\n\n\n\n    8\nMonday, 27 November\nLecture: \nLab: Task development and Ethics workshop [Peer Review]\n\n\n\n\n\n\n    9\nMonday, 04 December\nLecture: \nLab: Participant Recruitment Planning & Yr 3 Dissertation Preview\n\n\n\n\n\n\n    10\nMonday, 11 December\nLecture: \nLab: Open Science Requirements: Open Methods and Open Data\n\n\n\n\n\n\n    Winter Break\n\n\n\n\n\n\n\n\n    11\nMonday, 08 January\nLecture: \nLab: Data collection | Study Swap and Raw Data Setup/Review\n\n\n\n\n\n\n    12\nMonday, 15 January\nLecture: \nLab: Data collection | APA Report Writing Refresher\n\n\n\n\n\n\n    13\nMonday, 22 January\nLecture: \nLab: Data collection | Raw Data, overviewrocessing and APA Methods Section & Open Materials\n\n\n\n\n\n\n    14\nMonday, 29 January\nLecture: \nLab: Data collection | Analysis Plans and APA Results Section\n\n\n\n\n\n\n    15\nMonday, 05 February\nLecture: \nLab: Data collection | Data export, overviewrocessing & Open Data\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    16\nMonday, 19 February\nLecture: \nLab: Analysis | Three Flavours of ANOVA, Assumptions & Post-Hoc tests\n\n\n\n\n\n\n    17\nMonday, 26 February\nLecture: \nLab: Analysis | Results write-up, APA formatting, figures and tables\n\n\n\n\n\n\n    18\nMonday, 04 March\nLecture: \nLab: Writing up | Focus on the Introduction & APA style\n\n\n\n\n\n\n    19\nMonday, 11 March\nLecture: \nLab: Writing up | Interpreting and discussing your results\n\n\n\n\n\n\n    20\nMonday, 18 March\nLecture: \nLab: Writing up | Pre-submission checklist & editing strategies"
+    "text": "Weekly schedule\n\n\n\n\n\n  \n    \n    \n      week\n      date\n      topic\n      overview\n      lecture\n      lab\n      worksheets\n      extras\n      notes\n    \n  \n  \n    0\nMonday, 25 September\nLecture:  Module Overview and Coursework requirements \nLab: N/A\n\n\n\n\n\n\n\n    1\nMonday, 02 October\nLecture: Module overview and what is Science?\nLab: Welcome to the Lab - group formation and topic brainstorming\n\n\n\n\n\n\n\n    2\nMonday, 09 October\nLecture: Asking good questions and gathering evidence\nLab: Literature Search & Management, Critical Appraisal & Effect Sizes\n\n\n\n\n\n\n\n    3\nMonday, 16 October\nLecture: Being critical and evaluating the work of others \\n\nLab: Planning for Success, & The Critical Proposal Coursework\n\n\n\n\n\n\n\n    4\nMonday, 23 October\nLecture: There’s no ‘I’ in Research.. Making Psychology personal \\n\nLab: Experimental variables, design and notation\n\n\n\n\n\n\n\n    5\nMonday, 30 October\nLecture: The Open Science movement in Psychology \\n\nLab: Critical Proposal support and Power Calculations\n\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    6\nMonday, 13 November\nLecture: Operationalisation of variables and bringing concepts to life \\n\nLab: Collecting Data Online and in Person\n\n\n\n\n\n\n\n    7\nMonday, 20 November\nLecture: How do we measure or assess psychological concepts and constructs?\\n\nLab: Task development and Ethics applications\n\n\n\n\n\n\n\n    8\nMonday, 27 November\nLecture: Developing and validating a psychological measure of ‘X’\\n\nLab: Task development and Ethics workshop [Peer Review]\n\n\n\n\n\n\n\n    9\nMonday, 04 December\nLecture: Communicating science: Lessons from legends\\n\nLab: Participant Recruitment Planning & Yr 3 Dissertation Preview\n\n\n\n\n\n\n\n    10\nMonday, 11 December\nLecture: Introducing the wonders of Qualitative research\\n\nLab: Open Science Requirements: Open Methods and Open Data\n\n\n\n\n\n\n\n    Winter Break\n\n\n\n\n\n\n\n\n    11\nMonday, 08 January\nLecture: The foundations of Qualitative Research \\n\nLab: Data collection | Study Swap and Raw Data Setup/Review\n\n\n\n\n\n\n\n    12\nMonday, 15 January\nLecture: Doing Qualitative Research \\n\nLab: Data collection | APA Report Writing Refresher\n\n\n\n\n\n\n\n    13\nMonday, 22 January\nLecture: Reporting and Critiquing Qualitative Research\\n\nLab: Data collection | Raw Data, preprocessing and APA Methods Section & Open Materials\n\n\n\n\n\n\n\n    14\nMonday, 29 January\nLecture: Inclusivity ½ (Dr. Tegan Penton) \\n\nLab: Data collection | Analysis Plans and APA Results Section\n\n\n\n\n\n\n\n    15\nMonday, 05 February\nLecture: Inclusivity 2/2 (Dr. Tegan Penton) \\n\nLab: Data collection | Data export, preprocessing & Open Data\n\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    16\nMonday, 19 February\nLecture: CHIP - Metacognition and Reflective Practice\\n\nLab: Analysis | Three Flavours of ANOVA, Assumptions & Post-Hoc tests\n\n\n\n\n\n\n\n    17\nMonday, 26 February\nLecture: CHIP - Psychology as Science & Philosophical Perspectives\\n\nLab: Analysis | Results write-up, APA formatting, figures and tables\n\n\n\n\n\n\n\n    18\nMonday, 04 March\nLecture: CHIP - Evolution and Evolutionary Psychology\\n\nLab: Writing up | Focus on the Introduction & APA style\n\n\n\n\n\n\n\n    19\nMonday, 11 March\nLecture: CHIP - Cultural Evolutionary Psychology & Cognitive Gadgets\\n\nLab: Writing up | Interpreting and discussing your results\n\n\n\n\n\n\n\n    20\nMonday, 18 March\nLecture: CHIP - The dark history of statistics and wrap up\nLab: Writing up | Pre-submission checklist & editing strategies"
+  },
+  {
+    "objectID": "extras/extras01.html",
+    "href": "extras/extras01.html",
+    "title": "Extras for Week 01:  Replace it!",
+    "section": "",
+    "text": "Create fill-in-the-blank questions using fitb(), providing the answer as the first argument.\n\n2 + 2 is \nWhat is the letter after D? \n\nIf you want to ignore differences in whitespace use, use the argument ignore_ws = TRUE (which is the default) and include spaces in your answer anywhere they could be acceptable.\n\nHow do you load the tidyverse package? \n\nYou can set more than one possible correct answer by setting the answers as a vector.\n\nType a vowel: \n\nYou can use regular expressions to test answers against more complex rules.\n\nType any 3 letters: \n\n\n\n\n\n“Never gonna give you up, never gonna: let you goturn you downrun awaylet you down”\n“I bless the rainsguess it rainssense the rain down in Africa” -Toto\n\n\n\n\n\nTrue or False? You can permute values in a vector using sample(). TRUEFALSE\n\n\n\n\nWhen your answers are very long, sometimes a drop-down select box gets formatted oddly. You can use longmcq() to deal with this. Since the answers are long, It’s probably best to set up the options inside an R chunk with echo=FALSE.\nWhat is a p-value?\n\n the probability that the null hypothesis is true the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true the probability of making an error in your conclusion\n\nWhat is true about a 95% confidence interval of the mean?\n\n there is a 95% probability that the true mean lies within this range if you repeated the process many times, 95% of intervals calculated in this way contain the true mean 95% of the data fall within this range"
+  },
+  {
+    "objectID": "extras/extras01.html#self-assessment-questions",
+    "href": "extras/extras01.html#self-assessment-questions",
+    "title": "Extras for Week 01:  Replace it!",
+    "section": "",
+    "text": "Create fill-in-the-blank questions using fitb(), providing the answer as the first argument.\n\n2 + 2 is \nWhat is the letter after D? \n\nIf you want to ignore differences in whitespace use, use the argument ignore_ws = TRUE (which is the default) and include spaces in your answer anywhere they could be acceptable.\n\nHow do you load the tidyverse package? \n\nYou can set more than one possible correct answer by setting the answers as a vector.\n\nType a vowel: \n\nYou can use regular expressions to test answers against more complex rules.\n\nType any 3 letters: \n\n\n\n\n\n“Never gonna give you up, never gonna: let you goturn you downrun awaylet you down”\n“I bless the rainsguess it rainssense the rain down in Africa” -Toto\n\n\n\n\n\nTrue or False? You can permute values in a vector using sample(). TRUEFALSE\n\n\n\n\nWhen your answers are very long, sometimes a drop-down select box gets formatted oddly. You can use longmcq() to deal with this. Since the answers are long, It’s probably best to set up the options inside an R chunk with echo=FALSE.\nWhat is a p-value?\n\n the probability that the null hypothesis is true the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true the probability of making an error in your conclusion\n\nWhat is true about a 95% confidence interval of the mean?\n\n there is a 95% probability that the true mean lies within this range if you repeated the process many times, 95% of intervals calculated in this way contain the true mean 95% of the data fall within this range"
+  },
+  {
+    "objectID": "extras/extras01.html#checked-sections",
+    "href": "extras/extras01.html#checked-sections",
+    "title": "Extras for Week 01:  Replace it!",
+    "section": "Checked sections",
+    "text": "Checked sections\nCreate sections with the class webex-check to add a button that hides feedback until it is pressed. Add the class webex-box to draw a box around the section (or use your own styles).\n\nI am going to learn a lot: TRUEFALSE\nWhat is a p-value?\n\n the probability that the null hypothesis is true the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true the probability of making an error in your conclusion"
+  },
+  {
+    "objectID": "extras/extras01.html#hidden-solutions-and-hints",
+    "href": "extras/extras01.html#hidden-solutions-and-hints",
+    "title": "Extras for Week 01:  Replace it!",
+    "section": "Hidden solutions and hints",
+    "text": "Hidden solutions and hints\nYou can fence off a solution area that will be hidden behind a button using hide() before the solution and unhide() after, each as inline R code. Pass the text you want to appear on the button to the hide() function.\nIf the solution is a code chunk, instead of using hide() and unhide(), simply set the webex.hide chunk option to TRUE, or set it to the string you wish to display on the button.\nRecreate the scatterplot below, using the built-in cars dataset.\n\n\n\n\n\n\n\nI need a hint\n\nSee the documentation for plot() (?plot)\n\n\n\n\n\nClick here to see the solution\n\n\nCode\nplot(cars$speed, cars$dist)"
+  },
+  {
+    "objectID": "extras/index.html",
+    "href": "extras/index.html",
+    "title": "Readings for Research Methods",
+    "section": "",
+    "text": "This is what readings is all about!\n\n\n\nReuseCC BY-NC-SA"
   }
 ]

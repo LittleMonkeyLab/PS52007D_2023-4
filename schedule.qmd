@@ -39,20 +39,17 @@ the details for each using the main menu at the top of this webpage.
 -   [**Overview**](/overview/index.html)
     (<i class="fas fa-binoculars"></i>): This page overviews the weeks
 
--   [**Lecture slides**](/lectures/index.html)
-    (<i class="fas fa-chalkboard-teacher"></i>): This page is for
-    lectures
+-   [**Lecture slides**](/slides/index.html)
+    (<i class="fas fa-tv"></i>): This page is for lectures
 
 -   [Lab slides](/slides/index.html) (<i class="fas fa-users"></i>):
     This page is about labs
 
--   [**Reading**](/reading/index.html)
-    (<i class="fas fa-bookmark"></i>): This page is about Extras
+-   [Worksheets](worksheets/index)
+    (<i class="fas fa-pencil-ruler"></i>): This page is about labs
 
--   [**Mini-Diss**](/minidiss/index.html) (<i class="fas fa-book"></i>):
-    This page contains an interactive lesson that teaches you the
-    principles and code you need to know. Go through these after doing
-    the content.
+-   [**Extras**](extras/index) (<i class="fas fa-book"></i>): This page
+    is about Extras
 
 ::: {.row .d-flex .justify-content-center}
 ::: {.col-12 .col-sm-10 .col-md-6}
@@ -62,7 +59,7 @@ the details for each using the main menu at the top of this webpage.
 
 -   Check out the overview (<i class="fas fa-binoculars"></i>) page and
     do any thinking/reading/prep suggested if you have the chance
--   Come to the lecture (<i class="fas fa-chalkboard-teacher"></i>) page
+-   Come to the lecture (<i class="fas fa-tv"></i>) page
 -   Attend the lab (<i class="fas fa-users"></i>) and get cracking
 -   Use the plentiful Mini-Diss resources (<i class="fas fa-book"></i>)
     to help you smash the MD
@@ -110,13 +107,12 @@ d |>
   ) |>
   gt() |>
   text_transform(cells_body(columns = c(overview)), fn = conditional_transform_fn("binoculars")) |>
-  text_transform(cells_body(columns = c(lecture)), fn = conditional_transform_fn("person-chalkboard")) |>
+  text_transform(cells_body(columns = c(lecture)), fn = conditional_transform_fn("tv")) |>
   text_transform(cells_body(columns = c(lab)), fn = conditional_transform_fn("users")) |>
-  text_transform(cells_body(columns = c(worksheet)), fn = conditional_transform_fn("pen-ruler")) |>
-  text_transform(cells_body(columns = c(reading)), fn = conditional_transform_fn("bookmark")) |>
-  text_transform(cells_body(columns = c(minidiss)), fn = conditional_transform_fn("book")) |>
+  text_transform(cells_body(columns = c(worksheets)), fn = conditional_transform_fn("pencil-ruler")) |>
+  text_transform(cells_body(columns = c(extras)), fn = conditional_transform_fn("book")) |>
   sub_missing(columns = c(date, topic, notes), missing_text = "") |>
-  cols_align(align = "center", columns = c(week, date, overview, lecture, lab, worksheet, reading, minidiss)) |>
+  cols_align(align = "center", columns = c(week, date, overview, lecture, lab, worksheets, extras)) |>
   cols_align(align = "left", columns = c(topic, notes)) |>
   tab_style(
     style = cell_borders(
@@ -125,7 +121,7 @@ d |>
       style = "solid"
     ),
     locations = cells_body(
-      columns = c(week, date, topic, overview, lecture, lab, worksheet, reading, minidiss)
+      columns = c(week, date, topic, overview, lecture, lab, worksheets, extras)
     )
   ) |>
   # Setting text size for 'notes' column
@@ -141,7 +137,7 @@ d |>
   tab_style(
     style = htmltools::css(width = "5%"),
     locations = cells_body(
-      columns = c(overview, lecture, lab, worksheet, reading, minidiss)
+      columns = c(overview, lecture, lab, worksheets, extras)
     )
   ) |>
   
@@ -158,6 +154,7 @@ d |>
     locations = cells_body(
       columns = everything()
     )
-  ) 
+  ) |>
+  fmt_markdown(columns = topic)
 
 ```

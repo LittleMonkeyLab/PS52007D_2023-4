@@ -21,7 +21,7 @@ date-format: "dddd, DD MMMM, YYYY"
     
 website:
   title: Research Methods in Psychology 23/24
-  image: brain_icon.png
+  image: rmmonkey.png
   google-analytics: G-KS294259KL
   site-url: https://quarto.org
   repo-url: https://github.com/LittleMonkeyLab/PS52007D_23-24
@@ -41,15 +41,15 @@ website:
     background: '#BE3455'
   navbar:
     background: '#BE3455'
-    logo: images/LMLLOGO.png
+    logo: images/rmmonkey.png
     search: false
     left:
-    - text: Module Overview
+    - text: Module Information
       file: index.qmd
-    - text: Schedule
+    - text: Weekly Schedule
       file: schedule.qmd
     right:
-    - text: "Prepare"
+    - text: "Week Overviews"
       file: overview/index.qmd
     - text: "Slides"
       file: slides/*
@@ -57,10 +57,10 @@ website:
     #   file: slides/week**/lectures/index.qmd
     # - text: "Labs"
     #   file: labs/index.qmd
-    - text: "Readings"
-      file: readings/index.qmd
-    - text: "Mini-Diss"
-      file: minidiss/index.qmd
+    - text: "Worksheets"
+      file: worksheets/index.qmd
+    - text: "Extras"
+      file: extras/index.qmd
   sidebar:
     background: '#BE3455'
     collapse-level: 1
@@ -76,14 +76,14 @@ website:
     contents:
     - section: Overview
       contents: overview/*
-    # - section: Lectures
-    #   contents: lectures/*
-    # - section: Labs
-    #   contents: labs/*
-    - section: Readings
-      contents: readings/*
-    - section: MiniDiss
-      contents: minidiss/*
+    - section: Slides
+      contents: slides/*
+    - section: Worksheets
+      contents: worksheets/*
+    - section: Extras
+      contents: extras/*
+    # - section: MiniDiss
+    #   contents: minidiss/*
 format:
   html:
     theme: simplex
@@ -127,4 +127,4 @@ format:
       text: |
         \raggedright
 execute:
-  freeze: true
+  freeze: auto

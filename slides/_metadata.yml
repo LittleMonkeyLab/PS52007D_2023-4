@@ -5,7 +5,7 @@ format:
   revealjs:
     theme: _resources/templates/lectures.scss
     mainfont: Atkinson Hyperlegible
-    # logo: "images/rmlogo.png"
+    logo: "images/rmmonkey.png"
     slide-number: c/t
     menu: true
     controls: true
@@ -14,7 +14,7 @@ format:
     show-slide-number: all
     title-slide-attributes:
       # data-background-color: "#4B0082" #indigo
-      data-background-image: "/images/LMLLOGO.png"
+      data-background-image: "/images/rmmonkey.png"
       data-background-position: right
       data-background-size: 3.2em
 
