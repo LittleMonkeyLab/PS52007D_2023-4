@@ -15,10 +15,10 @@ categories:
   - "Week 1"
 params:
   class: "prep01"
-listing:
-  contents:
-    - "lectures/*.qmd"
-    - "labs/*reports.qmd"
+# listing:
+#   contents:
+#     - "lectures/*.qmd"
+#     - "labs/*reports.qmd"
 # listing:
 #   - id: lecture-listing
 #     contents:
@@ -99,14 +99,9 @@ embed-resources: true
 ```
 ## Introduction & Lecture Preview
 
-::: {#lecture-listing}
-:::
-
 ::: {.callout .primary}
 **Key Focus:** Briefly describe the key focus of this week's lecture.
 :::
-
-{{< include week1listing.qmd >}}
 
 -   **Important Points:**
     1.  Point 1
@@ -115,15 +110,7 @@ embed-resources: true
     -   [Reading 1](#)
     -   [Reading 2](#)
 
-::: {#readings-listing}
-:::
-
 ------------------------------------------------------------------------
-
-{{< include week1listing.qmd >}}
-
-::: {#lab-listing}
-:::
 
 ## Lab Sessions
 

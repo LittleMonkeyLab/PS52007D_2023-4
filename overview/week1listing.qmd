@@ -1,9 +1,0 @@
----
-title: "Listing Example"
-listing: default
-  # contents:
-  #   - "lectures/*.qmd"
-  #   - "labs/*reports.qmd"
-format: 
-  html: default
----

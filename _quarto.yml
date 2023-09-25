@@ -52,7 +52,7 @@ website:
     - text: "Week Overviews"
       file: overview/index.qmd
     - text: "Slides"
-      file: slides/*
+      file: slides/index.qmd
     # - text: "Lectures"
     #   file: slides/week**/lectures/index.qmd
     # - text: "Labs"
@@ -64,7 +64,7 @@ website:
   sidebar:
     background: '#BE3455'
     collapse-level: 1
-    logo: images/LMLLOGO.png
+    logo: images/rmmonkey.png
     style: docked
     tools:
     - icon: github
@@ -74,14 +74,31 @@ website:
       href: https://learn.gold.ac.uk/course/view.php?id=24607
       text: ModuleVLE
     contents:
-    - section: Overview
-      contents: overview/*
-    - section: Slides
-      contents: slides/*
-    - section: Worksheets
-      contents: worksheets/*
-    - section: Extras
-      contents: extras/*
+      - section: "Overview"
+        contents:
+          - overview/index.qmd
+          - overview/week01.qmd
+          # - basics-jupyter.qmd
+      - section: "Slides"
+        contents:
+          - slides/week00/lecture.qmd
+          - slides/week00/lab.qmd
+          - slides/week01/lecture.qmd
+          - slides/week01/lab.qmd
+      - section: "Worksheets"
+        contents:
+          - worksheets/worksheet01.qmd
+      - section: "Extras"
+        contents:
+          - extras/index.qmd
+    # - section: Overview
+    #   contents: overview/*
+    # - section: Slides
+    #   contents: slides/week**/*
+    # - section: Worksheets
+    #   contents: worksheets/*
+    # - section: Extras
+    #   contents: extras/*
     # - section: MiniDiss
     #   contents: minidiss/*
 format:
@@ -91,7 +108,7 @@ format:
     monofont: Fira Code
     toc: true
     code-fold: true
-    linkcolor: red
+    linkcolor: "#BE3455"
     code-overflow: wrap
     embed-resources: true
 
@@ -127,4 +144,4 @@ format:
       text: |
         \raggedright
 execute:
-  freeze: auto
+  freeze: false

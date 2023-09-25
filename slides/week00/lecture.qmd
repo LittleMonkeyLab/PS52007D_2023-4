@@ -25,8 +25,7 @@ format:
   revealjs: 
     title-slide-attributes: 
       data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
-      data-footer: "Viva Magenta 2023 Pantone Color of the year #BE3455"
-    header-logo: "/images/rmlogo.png"
+    header-logo: "/images/rmmonkey.png"
     header: "Research Methods Lecture 00 - Induction Week Overview" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
@@ -56,6 +55,26 @@ This is a subtitle to the section header
 Heading 2 copy
 
 ### Heading 3 - italic emphasis
+
+# 2 Column
+
+## 2 column here
+
+::: columns
+::: {.column width="50%"}
+Left Column
+
+again
+
+aesst
+:::
+
+::: {.column width="50%"}
+Right columnn
+
+ahdn here is more
+:::
+:::
 
 ## Spans for text accentuation - available in source mode
 
@@ -119,18 +138,6 @@ Here is some text
 content
 :::
 
-::: {.callout-note appearance="simple"}
-## Note simple
-
-content
-:::
-
-::: {.callout-note appearance="minimal"}
-## Note minimal
-
-content
-:::
-
 ## Icons by FontAwesome
 
 These are cool {{< fa user >}} but they do need a full render e.g.
@@ -139,7 +146,7 @@ These are cool {{< fa user >}} but they do need a full render e.g.
 They can also be used in pdfs
 
 | input                             |                output                 |
-|:----------------------------------|:-------------------------------------:|
+|:---------------------------------|:------------------------------------:|
 | `{{{< fa binoculars >}}}`         |     {{< fa binoculars >}} Prepare     |
 | `{{{< fa chalkboard-teacher >}}}` | {{< fa chalkboard-teacher >}} Lecture |
 | `{{{< fa users >}}}`              |         {{< fa users >}} Lab          |
@@ -151,6 +158,8 @@ They can also be used in pdfs
 # Induction Overview
 
 ## Welcome back and welcome to Research Methods!
+
+here is some content
 
 ## This year you become Scientists!
 
@@ -295,13 +304,7 @@ Contribution to and comment on these is welcome and hoped for!
 Open Educational Resources will be used extensively, and most core
 readings are available online via the library.
 
-<!-- ## Prelude 1 -->
-
-<!-- We are starting off very easy. A short questionnaire to allow us to get -->
-
-<!-- to know you a little better, which we will use to develop the first -->
-
-<!-- lecture, and the course more generally. -->
+# Thank you
 
 ## Thank you for your time
 

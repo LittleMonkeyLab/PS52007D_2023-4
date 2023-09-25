@@ -151,7 +151,7 @@
     "href": "slides/week01/lecture.slides.html#references",
     "title": "Lecture 01:  Replace it!",
     "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 01 - Short Title\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
+    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 01 - Short Title\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
   },
   {
     "objectID": "slides/week01/lecture.html#heading-2---new-slide-title",
@@ -256,7 +256,7 @@
     "href": "slides/week01/lab.slides.html#references",
     "title": "Lab 01:  Replace it!",
     "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 01 - Short Title\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
+    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 01 - Short Title\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
   },
   {
     "objectID": "slides/week01/lab.html#heading-2---new-slide-title",
@@ -315,6 +315,13 @@
     "text": "Heading 2 - new slide title\nHeading 2 copy\nHeading 3 - italic emphasis"
   },
   {
+    "objectID": "slides/week00/lecture.slides.html#column-here",
+    "href": "slides/week00/lecture.slides.html#column-here",
+    "title": "Lecture 00:  Induction Week",
+    "section": "2 column here",
+    "text": "2 column here\n\n\nLeft Column\nagain\naesst\n\nRight columnn\nahdn here is more"
+  },
+  {
     "objectID": "slides/week00/lecture.slides.html#spans-for-text-accentuation---available-in-source-mode",
     "href": "slides/week00/lecture.slides.html#spans-for-text-accentuation---available-in-source-mode",
     "title": "Lecture 00:  Induction Week",
@@ -347,7 +354,7 @@
     "href": "slides/week00/lecture.slides.html#note-callouts",
     "title": "Lecture 00:  Induction Week",
     "section": "Note Callouts",
-    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nNote simple\n\n\ncontent\n\n\n\n\n\n\nNote minimal\n\n\ncontent"
+    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\ncontent"
   },
   {
     "objectID": "slides/week00/lecture.slides.html#icons-by-fontawesome",
@@ -361,7 +368,7 @@
     "href": "slides/week00/lecture.slides.html#welcome-back-and-welcome-to-research-methods",
     "title": "Lecture 00:  Induction Week",
     "section": "Welcome back and welcome to Research Methods!",
-    "text": "Welcome back and welcome to Research Methods!"
+    "text": "Welcome back and welcome to Research Methods!\nhere is some content"
   },
   {
     "objectID": "slides/week00/lecture.slides.html#this-year-you-become-scientists",
@@ -459,7 +466,7 @@
     "href": "slides/week00/lecture.slides.html#references",
     "title": "Lecture 00:  Induction Week",
     "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 00 - Induction Week Overview\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
+    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 00 - Induction Week Overview\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
   },
   {
     "objectID": "slides/week00/lecture.html#heading-2---new-slide-title",
@@ -467,6 +474,13 @@
     "title": "Lecture 00:  Induction Week",
     "section": "Heading 2 - new slide title",
     "text": "Heading 2 - new slide title\nHeading 2 copy\n\nHeading 3 - italic emphasis"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#column-here",
+    "href": "slides/week00/lecture.html#column-here",
+    "title": "Lecture 00:  Induction Week",
+    "section": "2 column here",
+    "text": "2 column here\n\n\nLeft Column\nagain\naesst\n\nRight columnn\nahdn here is more"
   },
   {
     "objectID": "slides/week00/lecture.html#spans-for-text-accentuation---available-in-source-mode",
@@ -501,7 +515,7 @@
     "href": "slides/week00/lecture.html#note-callouts",
     "title": "Lecture 00:  Induction Week",
     "section": "Note Callouts",
-    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\n\ncontent\n\n\n\n\n\n\n\n\nNote simple\n\n\n\ncontent\n\n\n\n\n\n\n\n\nNote minimal\n\n\n\ncontent"
+    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\n\ncontent"
   },
   {
     "objectID": "slides/week00/lecture.html#icons-by-fontawesome",
@@ -515,7 +529,7 @@
     "href": "slides/week00/lecture.html#welcome-back-and-welcome-to-research-methods",
     "title": "Lecture 00:  Induction Week",
     "section": "Welcome back and welcome to Research Methods!",
-    "text": "Welcome back and welcome to Research Methods!"
+    "text": "Welcome back and welcome to Research Methods!\nhere is some content"
   },
   {
     "objectID": "slides/week00/lecture.html#this-year-you-become-scientists",
@@ -630,97 +644,6 @@
     "text": "This is the slides holding page. No need to convert to RevealJS"
   },
   {
-    "objectID": "overview/CopyOfprep01.html",
-    "href": "overview/CopyOfprep01.html",
-    "title": "Listing Example",
-    "section": "",
-    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTask 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2\n\n\n\n\n\n\n\n\n\n\n\n\nCHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\n\n::: {#minidiss-listing} ::: ## Mini-Dissertation Skills & Checkpoints\n\n\n- Activity 1: Description - Activity 2: Description\n\n\n\n\n\n\n\nEmployability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUpcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
-  },
-  {
-    "objectID": "overview/CopyOfprep01.html#introduction-lecture-preview",
-    "href": "overview/CopyOfprep01.html#introduction-lecture-preview",
-    "title": "Listing Example",
-    "section": "",
-    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2"
-  },
-  {
-    "objectID": "overview/CopyOfprep01.html#lab-sessions",
-    "href": "overview/CopyOfprep01.html#lab-sessions",
-    "title": "Listing Example",
-    "section": "",
-    "text": "Task 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2"
-  },
-  {
-    "objectID": "overview/CopyOfprep01.html#CHIPTopics",
-    "href": "overview/CopyOfprep01.html#CHIPTopics",
-    "title": "Listing Example",
-    "section": "",
-    "text": "CHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\n\n::: {#minidiss-listing} ::: ## Mini-Dissertation Skills & Checkpoints\n\n\n- Activity 1: Description - Activity 2: Description"
-  },
-  {
-    "objectID": "overview/CopyOfprep01.html#tips-hacks-and-guides",
-    "href": "overview/CopyOfprep01.html#tips-hacks-and-guides",
-    "title": "Listing Example",
-    "section": "",
-    "text": "Employability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games."
-  },
-  {
-    "objectID": "overview/CopyOfprep01.html#save-the-date",
-    "href": "overview/CopyOfprep01.html#save-the-date",
-    "title": "Listing Example",
-    "section": "",
-    "text": "Upcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
-  },
-  {
-    "objectID": "overview/week1listing.html",
-    "href": "overview/week1listing.html",
-    "title": "Listing Example",
-    "section": "",
-    "text": "Prepare for Week 01:  Replace it!\n\n\nThis is a meaningful subtitle\n\n\n\n\n\n\n\n\n\nMonday, 02 October, 2023\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n  \n\n\n\n\nPrepare for Week 01:  Replace it!\n\n\nThis is a meaningful subtitle\n\n\n\n\n\n\n\n\n\nMonday, 02 October, 2023\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n  \n\n\n\n\nPrepare for Week 01:  Replace it!\n\n\nThis is a meaningful subtitle\n\n\n\n\n\n\n\n\n\nMonday, 02 October, 2023\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n  \n\n\n\n\nWeek XX:  Replace it!\n\n\nThis is a meaningful subtitle\n\n\nw/c 2nd October\n\n\n\n\n\n\nMonday, 02 October, 2023\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n  \n\n\n\n\nrevealplay\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfprep01.html",
-    "href": "overview/CopyOfCopyOfprep01.html",
-    "title": "Listing Example",
-    "section": "",
-    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTask 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2\n\n\n\n\n\n\n\n\n\n\n\n\nCHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\n\n::: {#minidiss-listing} ::: ## Mini-Dissertation Skills & Checkpoints\n\n\n- Activity 1: Description - Activity 2: Description\n\n\n\n\n\n\n\nEmployability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUpcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfprep01.html#introduction-lecture-preview",
-    "href": "overview/CopyOfCopyOfprep01.html#introduction-lecture-preview",
-    "title": "Listing Example",
-    "section": "",
-    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfprep01.html#lab-sessions",
-    "href": "overview/CopyOfCopyOfprep01.html#lab-sessions",
-    "title": "Listing Example",
-    "section": "",
-    "text": "Task 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfprep01.html#CHIPTopics",
-    "href": "overview/CopyOfCopyOfprep01.html#CHIPTopics",
-    "title": "Listing Example",
-    "section": "",
-    "text": "CHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\n\n::: {#minidiss-listing} ::: ## Mini-Dissertation Skills & Checkpoints\n\n\n- Activity 1: Description - Activity 2: Description"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfprep01.html#tips-hacks-and-guides",
-    "href": "overview/CopyOfCopyOfprep01.html#tips-hacks-and-guides",
-    "title": "Listing Example",
-    "section": "",
-    "text": "Employability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games."
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfprep01.html#save-the-date",
-    "href": "overview/CopyOfCopyOfprep01.html#save-the-date",
-    "title": "Listing Example",
-    "section": "",
-    "text": "Upcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
-  },
-  {
     "objectID": "overview/index.html",
     "href": "overview/index.html",
     "title": "Week XX:  Replace it!",
@@ -728,247 +651,44 @@
     "text": "How to prepare for each week in Research Methods\nMany hundreds of years ago, I was a Boy Scout, before that, I was a Brownie too, but that’s a story for another day. ‘Be Prepared’ is a valuable piece of advice. And that’s what I’m trying to help with here. You aren’t going to get the most out of the timetabled sessions, or your extensive independent study, if you don’t have a fair idea of what you need to do, by when, and what each activity entails.\nYour teaching team goes to a great deal of effort to answer any and all questions you might have, and we engineer the lectures and labs to preview any expected questions and also those of the unexpected variety. But you have to ask them. To do this, you need to have a look ahead and identify anything that needs clarification.\nRemember, a lack of preparation on your part is not an emergency on my part.\nLectures are pretty straightforward. The content will be released a week prior to the timetabled session, and will comprise both a prepare summary like this, but also the lecture slides and signposts to key readings.\nReview the lecture slides, have a poke around in the readings and try to familiarise yourself with any concepts that may be new to you. But the major point of the lectures is that you come along, pin back your ears, and engage with the content. More on that in the Module Overview.\nYou have a 2 hour lab each week, and although there will be some guided activities and skills shared, these sessions are ‘working sessions’ - designed to allow you to work productively on your Mini-Dissertations individually, or more usually, in your groups. It is expected that you coordinate with your group between classes, it’s not a great use of the session to use that to catch everyone up on things and have a bit of bants. 2 hours of industry will keep you moving through the stages of the module well, reducing the amount of time you might need to work independently, or more realistically, freeing that up for other things you need to prioritise, whether it’s work, life, love or another piece of coursework.\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#task-calculate-a-summary-statistic",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#task-calculate-a-summary-statistic",
-    "title": "revealplay",
-    "section": "task: calculate a summary statistic",
-    "text": "task: calculate a summary statistic\n\nCalculate the mean loan amount."
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#arrow",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#arrow",
-    "title": "revealplay",
-    "section": "arrow",
-    "text": "arrow\n\narrow is software development platform for building high performance applications that process and transport large data sets"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#story-1-the-folklore-of-fervent-field-experiments-1",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#story-1-the-folklore-of-fervent-field-experiments-1",
-    "title": "revealplay",
-    "section": "STORY 1 🌱 The folklore of fervent field experiments",
-    "text": "STORY 1 🌱 The folklore of fervent field experiments\n\n\n\nConsider a field experiment in agriculture where plot are laid in out as 6 rows by 8 columns (each also called strip). There are 4 modes of seedbed preparation and 3 crop varieties that are of the interest to the researcher. The mode of seedbed preparation is assigned randomly to the whole columns, and the crop variety is assigned randomly to the whole row. This experimental design is called a strip-plot design.\n\n\n\n\n#| echo: true #| eval: true #| code-line-numbers: “|2|3-5|6-7|8-9|10|11|” library(edibble) df1 &lt;- design(“Strip-plot experiment”) %&gt;% set_units(row = 6, col = 8, plot = crossed_by(row, col)) %&gt;% set_trts(seedbed = 4, variety = 3) %&gt;% allot_trts(seedbed ~ col, variety ~ row) %&gt;% assign_trts(“random”, seed = 20220324) %&gt;% serve_table()\ndf1"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-aquamarine",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-aquamarine",
-    "title": "revealplay",
-    "section": "Slide, aquamarine",
-    "text": "Slide, aquamarine"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-806040",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-806040",
-    "title": "revealplay",
-    "section": "Slide, #806040",
-    "text": "Slide, #806040"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#section",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#section",
-    "title": "revealplay",
-    "section": "",
-    "text": "(A slide with no title)"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#section-1",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#section-1",
-    "title": "revealplay",
-    "section": "",
-    "text": "(Another slide with no title)"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#setting-the-scene",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#setting-the-scene",
-    "title": "revealplay",
-    "section": "setting the scene",
-    "text": "setting the scene\n\n\nAssumption 1:\nTeach authentic tools\n\nAssumption 2:\nTeach R as the authentic tool"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#takeaway",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#takeaway",
-    "title": "revealplay",
-    "section": "takeaway",
-    "text": "takeaway\n\n\nThe tidyverse provides an effective and efficient pathway for undergraduate students at all levels and majors to gain computational skills and thinking needed throughout the data science cycle.\n\n\n\n\n\n\n\n\nÇetinkaya-Rundel, M., Hardin, J., Baumer, B. S., McNamara, A., Horton, N. J., & Rundel, C. (2021). An educator’s perspective of the tidyverse. arXiv preprint arXiv:2108.03510. arxiv.org/abs/2108.03510"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#columns",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#columns",
-    "title": "revealplay",
-    "section": "Columns",
-    "text": "Columns\n\n\nLeft column\n\nRight column"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1",
-    "title": "revealplay",
-    "section": "Slide 1",
-    "text": "Slide 1\n\nincremental list, 1\nincremental list, 2"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2",
-    "title": "revealplay",
-    "section": "Slide 2",
-    "text": "Slide 2\n\nincremental list, 3\nincremental list, 4"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1-incrementally",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1-incrementally",
-    "title": "revealplay",
-    "section": "Slide 1, incrementally",
-    "text": "Slide 1, incrementally\n\n\nEat spaghetti\nDrink wine"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2-non-incrementally",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2-non-incrementally",
-    "title": "revealplay",
-    "section": "Slide 2, non-incrementally",
-    "text": "Slide 2, non-incrementally\n\nEat spaghetti\nDrink wine"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1-incrementally-1",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1-incrementally-1",
-    "title": "revealplay",
-    "section": "Slide 1, incrementally",
-    "text": "Slide 1, incrementally\n\nEat spaghetti\nDrink wine"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2-non-incrementally-1",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2-non-incrementally-1",
-    "title": "revealplay",
-    "section": "Slide 2, non-incrementally",
-    "text": "Slide 2, non-incrementally\n\n\nEat spaghetti\nDrink wine"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-with-a-pause",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-with-a-pause",
-    "title": "revealplay",
-    "section": "Slide with a pause",
-    "text": "Slide with a pause\ncontent before the pause\n\ncontent after the pause"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-title",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-title",
-    "title": "revealplay",
-    "section": "Slide Title",
-    "text": "Slide Title\nSlide content\n\nCustom footer text"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#another-slide-title",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#another-slide-title",
-    "title": "revealplay",
-    "section": "Another Slide Title",
-    "text": "Another Slide Title\n\nA different custom footer"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1-1",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-1-1",
-    "title": "revealplay",
-    "section": "Slide 1",
-    "text": "Slide 1\n\nBullet Point 1\nBullet Point 2\nBullet Point 3\nBullet Point 4\nBullet Point 5\nBullet Point 6\nBullet Point 7\nBullet Point 8\nBullet Point 9\nBullet Point 10\nBullet Point 11\nBullet Point 12\nBullet Point 13\nBullet Point 14\nBullet Point 15\nBullet Point 16"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2-1",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-2-1",
-    "title": "revealplay",
-    "section": "Slide 2",
-    "text": "Slide 2\n\nBullet Point 1\nBullet Point 2\nBullet Point 3\nBullet Point 4\nBullet Point 5\nBullet Point 6\nBullet Point 7\nBullet Point 8\nBullet Point 9\nBullet Point 10\nBullet Point 11\nBullet Point 12\nBullet Point 13\nBullet Point 14\nBullet Point 15\nBullet Point 16"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-with-speaker-notes",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-with-speaker-notes",
-    "title": "revealplay",
-    "section": "Slide with speaker notes",
-    "text": "Slide with speaker notes\nSlide content\n\nSpeaker notes go here."
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#title",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#title",
-    "title": "revealplay",
-    "section": "Title",
-    "text": "Title\n\nTab ATab B\n\n\nContent for Tab A\n\n\nContent for Tab B"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#title-slide",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#title-slide",
-    "title": "revealplay",
-    "section": "Title Slide",
-    "text": "Title Slide\nThe main title slide is the first slide of the presentation, and its content is generated based on a variety document options (title, subtitle, date, author, institute, etc.).\nCustom Background\nIf you want to provide a custom background for the title slide, then do the following:\n\nUse the title-slide-attributes key to provide background options.\nWithin this key, specify any of the supported slide background options, but with data- prepended to them. For example:\n\nFor example:\n---\ntitle: My Slide Show\ntitle-slide-attributes:\n  data-background-image: /path/to/title_image.png\n  data-background-size: contain\n  data-background-opacity: \"0.5\"\n---\nCustom Template\nYou can replace the default title slide entirely with your own template. To do this, specify a title-slide.html template partial. For example:\ntitle: My Slide Show\nformat:\n  revealjs:\n    template-partials:\n      - title-slide.html\nHere is the source code for the default title slide template partial. Customize this template as required, then save the resutls to title-slide.html alongside your presentation."
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#slide-transitions",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#slide-transitions",
-    "title": "revealplay",
-    "section": "Slide Transitions",
-    "text": "Slide Transitions\nReveal supports a number of animated transition effects for both slide changes and slide background changes. By default no transitions are used, however you can enable them either globally or per-slide using the options described below.\nHere are the available transition types:\n\n\n\n\n\n\n\nTransition\nDescription\n\n\n\n\nnone\nNo transition (switch instantly)\n\n\nfade\nCross fade\n\n\nslide\nSlide horizontally\n\n\nconvex\nSlide at a convex angle\n\n\nconcave\nSlide at a concave angle\n\n\nzoom\nScale the incoming slide so it grows in from the center of the screen.\n\n\n\nHere’s how you would set the global transition style for both slides and backgrounds:\n---\ntitle: \"Presentation\"\nformat:\n  revealjs:\n    transition: slide\n    background-transition: fade\n---\nYou can also specify the transition-speed as default, fast, or slow:\n---\ntitle: \"Presentation\"\nformat:\n    navigation-mode: vertical\n---\n\n# Slide 1\n\n## Slide 1.1\n\n## Slide 1.2\n\n# Slide 2\n\n## Slide 2.1\n\n## Slide 2.2\nSlide Controls\nWhen you enable vertical or grid navigation, controls will appear to provide a visual cue to where you are in the presentation (e.g. if there are vertical slides below you’ll see a down control).\nBy default these controls appear at the edges of the presentation, you can position them in the bottom right corner using the controls-layout option. You can also provide an extra visual cue to viewers that the controls are available using the controls-tutorial option. For example:\n---\ntitle: \"Presentation\"\nformat: \n  revealjs:\n    navigation-mode: vertical\n    controls-layout: bottom-right\n    controls-tutorial: true\n---\nNote that using controls-layout: bottom-right isn’t compatible with including a logo (as the logo appears in the bottom right corner as well).\nYou can also disable the controls entirely with controls: false.\n\n\n\n\n\n\n\n\n\nWhile vertical slides do provide some additional flexibility over the traditional linear model, they are in practice very confusing for end users (mostly because they are so unexpected). Users will often skip the vertical content because they simply don’t know its there.\nIf your content benefits from vertical orientation (e.g. you have optional drill-down content that you don’t want in the main flow of the presentation) by all means use the vertical mode. Just know that if you distribute your slides to users they will very likely not end up viewing any of the vertical content."
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#touch-navigation",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#touch-navigation",
-    "title": "revealplay",
-    "section": "Touch Navigation",
-    "text": "Touch Navigation\nYou can swipe to navigate through a presentation on any touch-enabled device. Horizontal swipes change between horizontal slides, vertical swipes change between vertical slides.\nIf you wish to disable this you can set the touch option to false:\n---\ntitle: \"Presentation\"\nformat:\n  revealjs:\n    touch: false\n    controls: true\n---\nNote that we also enable controls at the same time (as users on phones or tablets don’t have access to a keyboard)."
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#reveal-plugins",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#reveal-plugins",
-    "title": "revealplay",
-    "section": "Reveal Plugins",
-    "text": "Reveal Plugins\nTo use Revealjs plugins, you need to package them into a directory with a config file (plugin.yml). The config file lets Quarto know how to inject the plugin into the presentation (e.g. what scripts and/or css files to include, what the default configuration should be, etc.).\nSee the source code of the plugins that are built in to Quarto Reveal for examples:\nhttps://github.com/quarto-dev/quarto-cli/tree/main/src/resources/formats/revealjs/plugins\nTo use a plugin, just include a reference to its directory in the list of plugins. For example:\n---\ntitle: \"Presentation\"\nformat:\n  revealjs:\n    revealjs-plugins:\n      - myplugin\n---\nNote that many of the most popular Reveal plugins are already included with the Quarto version of Reveal, so there is no need to include them separately. Built in plugins include:\n\nMultiplex\nRevealMenu\nRevealChalkboard\nPdfExport\n\nExample\nLet’s show an example with the fullscreen. Here are the steps to bundle this plugin to use within your Quarto HTML presentation:\n\nCreate a folder with the name you want for the plugin, here we’ll call it fullscreen.\nDownload the plugin files into the created folder. Here the plugin only have a JS file called plugin.js that you can find on the repo rajgoel/reveal.js-plugins. You can keep the name or rename it, e.g fullscreen.js.\nIn that folder add a plugin.yml file, as in Quarto Reveal examples.\n\nname is a mandatory field which should be the name of the JS function the JS plugin is defining. Open the JS script you downloaded to look for it.\nOther fields are for the resources to be used. In our example, only a JS script so we’ll use script\n\nOur plugin.yml would be:\nname: RevealFullscreen\nscript: [fullscreen.js]\nNow add the plugin reference into your document YAML header, using the path of the folder your created:\nformat: \n revealjs:\n   revealjs-plugins:\n     - fullscreen\nThe custom plugin will be loaded in your presentation and you can use it. The plugin fullscreen documentation shows an example of adding a Map fullscreen in a slide by adding an attribute on the section, and using stretch on the content. This would translate to having this slide in the .qmd file:\n## {fullscreen=true}\n\n&lt;iframe class=\"stretch\" data-src=\"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d61206.89156051744!2d-151.77366863890407!3d-16.50433878928727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sde!4v1467468929561\"&gt;&lt;/iframe&gt;"
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#learning-more",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#learning-more",
-    "title": "revealplay",
-    "section": "Learning More",
-    "text": "Learning More\nSee these articles lo learn more about using Reveal:\n\nReveal Basics covers the basic mechanics of creating presentations.\nPresenting Slides describes slide navigation, printing to PDF, drawing on slides using a chalkboard, and creating multiplex presentations.\nReveal Themes talks about using and customizing existing themes as well as creating brand new themes."
-  },
-  {
-    "objectID": "overview/CopyOfCopyOfCopyOfprep01.html#overview",
-    "href": "overview/CopyOfCopyOfCopyOfprep01.html#overview",
-    "title": "revealplay",
-    "section": "Overview",
-    "text": "Overview\nYou can create Revealjs presentations using the revealjs format. The best way to get a sense for the capabilities of Revealjs is this demo presentation:\n\n\n\nIf you prefer to view the demo in a standalone browser you can do that here. Check out the source code for the demo to see how the slides were created.\nSee the Revealjs format reference for a comprehensive overview of all options supported for Revealjs Content Overflow"
-  },
-  {
     "objectID": "overview/overview01.html",
     "href": "overview/overview01.html",
-    "title": "Listing Example",
+    "title": "Prepare for Week 01:  Replace it!",
     "section": "",
-    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTask 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2\n\n\n\n\n\n\n\n\n\n\n\n\nCHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\n\n::: {#minidiss-listing} ::: ## Mini-Dissertation Skills & Checkpoints\n\n\n- Activity 1: Description - Activity 2: Description\n\n\n\n\n\n\n\nEmployability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUpcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
+    "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2\n\n\n\n\n\n\n\n\n\n\n\nTask 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2\n\n\n\n\n\n\n\n\n\n\n\n\nCHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\n\n::: {#minidiss-listing} ::: ## Mini-Dissertation Skills & Checkpoints\n\n\n- Activity 1: Description - Activity 2: Description\n\n\n\n\n\n\n\nEmployability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUpcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
   },
   {
     "objectID": "overview/overview01.html#introduction-lecture-preview",
     "href": "overview/overview01.html#introduction-lecture-preview",
-    "title": "Listing Example",
+    "title": "Prepare for Week 01:  Replace it!",
     "section": "",
     "text": "Key Focus: Briefly describe the key focus of this week’s lecture.\n\n\n\nImportant Points:\n\nPoint 1\nPoint 2\n\nPreparatory Reading or Reflection:\n\nReading 1\nReading 2"
   },
   {
     "objectID": "overview/overview01.html#lab-sessions",
     "href": "overview/overview01.html#lab-sessions",
-    "title": "Listing Example",
+    "title": "Prepare for Week 01:  Replace it!",
     "section": "",
     "text": "Task 1\nTask 2\n\n\n\n\n\nSuggested Activity: Describe a team-building exercise or coordination tip.\n\n\n\n\n\nReading: Lab Manual, Chapter X\nTools/Guides: Tool 1, Tool 2"
   },
   {
     "objectID": "overview/overview01.html#CHIPTopics",
     "href": "overview/overview01.html#CHIPTopics",
-    "title": "Listing Example",
+    "title": "Prepare for Week 01:  Replace it!",
     "section": "",
     "text": "CHIP Topic(s)\n\n\n\nReflection Topic: Insert conceptual or historical issues for reflection and possible follow-up.\nlink to resource\nReview CHIP Coursework Requirements See all CHIP Topics covered to date\n\n\n\n\n\n\n\n\n::: {#minidiss-listing} ::: ## Mini-Dissertation Skills & Checkpoints\n\n\n- Activity 1: Description - Activity 2: Description"
   },
   {
     "objectID": "overview/overview01.html#tips-hacks-and-guides",
     "href": "overview/overview01.html#tips-hacks-and-guides",
-    "title": "Listing Example",
+    "title": "Prepare for Week 01:  Replace it!",
     "section": "",
     "text": "Employability Tip: Insert tip for boosting employability.\n\n\nFun Stuff: Describe fun activities or games."
   },
   {
     "objectID": "overview/overview01.html#save-the-date",
     "href": "overview/overview01.html#save-the-date",
-    "title": "Listing Example",
+    "title": "Prepare for Week 01:  Replace it!",
     "section": "",
     "text": "Upcoming Events: Describe any upcoming activities or events that might be of interest.\n\n\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
   },
@@ -984,7 +704,7 @@
     "href": "schedule.html#weekly-schedule",
     "title": "Schedule",
     "section": "Weekly schedule",
-    "text": "Weekly schedule\n\n\n\n\n\n  \n    \n    \n      week\n      date\n      topic\n      overview\n      lecture\n      lab\n      worksheets\n      extras\n      notes\n    \n  \n  \n    0\nMonday, 25 September\nLecture:  Module Overview and Coursework requirements \nLab: N/A\n\n\n\n\n\n\n\n    1\nMonday, 02 October\nLecture: Module overview and what is Science?\nLab: Welcome to the Lab - group formation and topic brainstorming\n\n\n\n\n\n\n\n    2\nMonday, 09 October\nLecture: Asking good questions and gathering evidence\nLab: Literature Search & Management, Critical Appraisal & Effect Sizes\n\n\n\n\n\n\n\n    3\nMonday, 16 October\nLecture: Being critical and evaluating the work of others \\n\nLab: Planning for Success, & The Critical Proposal Coursework\n\n\n\n\n\n\n\n    4\nMonday, 23 October\nLecture: There’s no ‘I’ in Research.. Making Psychology personal \\n\nLab: Experimental variables, design and notation\n\n\n\n\n\n\n\n    5\nMonday, 30 October\nLecture: The Open Science movement in Psychology \\n\nLab: Critical Proposal support and Power Calculations\n\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    6\nMonday, 13 November\nLecture: Operationalisation of variables and bringing concepts to life \\n\nLab: Collecting Data Online and in Person\n\n\n\n\n\n\n\n    7\nMonday, 20 November\nLecture: How do we measure or assess psychological concepts and constructs?\\n\nLab: Task development and Ethics applications\n\n\n\n\n\n\n\n    8\nMonday, 27 November\nLecture: Developing and validating a psychological measure of ‘X’\\n\nLab: Task development and Ethics workshop [Peer Review]\n\n\n\n\n\n\n\n    9\nMonday, 04 December\nLecture: Communicating science: Lessons from legends\\n\nLab: Participant Recruitment Planning & Yr 3 Dissertation Preview\n\n\n\n\n\n\n\n    10\nMonday, 11 December\nLecture: Introducing the wonders of Qualitative research\\n\nLab: Open Science Requirements: Open Methods and Open Data\n\n\n\n\n\n\n\n    Winter Break\n\n\n\n\n\n\n\n\n    11\nMonday, 08 January\nLecture: The foundations of Qualitative Research \\n\nLab: Data collection | Study Swap and Raw Data Setup/Review\n\n\n\n\n\n\n\n    12\nMonday, 15 January\nLecture: Doing Qualitative Research \\n\nLab: Data collection | APA Report Writing Refresher\n\n\n\n\n\n\n\n    13\nMonday, 22 January\nLecture: Reporting and Critiquing Qualitative Research\\n\nLab: Data collection | Raw Data, preprocessing and APA Methods Section & Open Materials\n\n\n\n\n\n\n\n    14\nMonday, 29 January\nLecture: Inclusivity ½ (Dr. Tegan Penton) \\n\nLab: Data collection | Analysis Plans and APA Results Section\n\n\n\n\n\n\n\n    15\nMonday, 05 February\nLecture: Inclusivity 2/2 (Dr. Tegan Penton) \\n\nLab: Data collection | Data export, preprocessing & Open Data\n\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    16\nMonday, 19 February\nLecture: CHIP - Metacognition and Reflective Practice\\n\nLab: Analysis | Three Flavours of ANOVA, Assumptions & Post-Hoc tests\n\n\n\n\n\n\n\n    17\nMonday, 26 February\nLecture: CHIP - Psychology as Science & Philosophical Perspectives\\n\nLab: Analysis | Results write-up, APA formatting, figures and tables\n\n\n\n\n\n\n\n    18\nMonday, 04 March\nLecture: CHIP - Evolution and Evolutionary Psychology\\n\nLab: Writing up | Focus on the Introduction & APA style\n\n\n\n\n\n\n\n    19\nMonday, 11 March\nLecture: CHIP - Cultural Evolutionary Psychology & Cognitive Gadgets\\n\nLab: Writing up | Interpreting and discussing your results\n\n\n\n\n\n\n\n    20\nMonday, 18 March\nLecture: CHIP - The dark history of statistics and wrap up\nLab: Writing up | Pre-submission checklist & editing strategies"
+    "text": "Weekly schedule\n\n\n\n\n\n  \n    \n    \n      week\n      date\n      topic\n      overview\n      lecture\n      lab\n      worksheets\n      extras\n      notes\n    \n  \n  \n    0\nMonday, 25 September\nLecture:  Module Overview and Coursework requirements \nLab: N/A\n\n\n\n\n\n\n\n    1\nMonday, 02 October\nLecture: Module overview and what is Science?\nLab: Welcome to the Lab - group formation and topic brainstorming\n\n\n\n\n\n\n\n    2\nMonday, 09 October\nLecture: Asking good questions and gathering evidence\nLab: Literature Search & Management, Critical Appraisal & Effect Sizes\n\n\n\n\n\n\n\n    3\nMonday, 16 October\nLecture: Being critical and evaluating the work of others \nLab: Planning for Success, & The Critical Proposal Coursework\n\n\n\n\n\n\n\n    4\nMonday, 23 October\nLecture: There’s no ‘I’ in Research.. Making Psychology personal \nLab: Experimental variables, design and notation\n\n\n\n\n\n\n\n    5\nMonday, 30 October\nLecture: The Open Science movement in Psychology \nLab: Critical Proposal support and Power Calculations\n\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    6\nMonday, 13 November\nLecture: Operationalisation of variables and bringing concepts to life \nLab: Collecting Data Online and in Person\n\n\n\n\n\n\n\n    7\nMonday, 20 November\nLecture: How do we measure or assess psychological concepts and constructs?\nLab: Task development and Ethics applications\n\n\n\n\n\n\n\n    8\nMonday, 27 November\nLecture: Developing and validating a psychological measure of ‘X’\nLab: Task development and Ethics workshop [Peer Review]\n\n\n\n\n\n\n\n    9\nMonday, 04 December\nLecture: Communicating science: Lessons from legends\nLab: Participant Recruitment Planning & Yr 3 Dissertation Preview\n\n\n\n\n\n\n\n    10\nMonday, 11 December\nLecture: Introducing the wonders of Qualitative research\nLab: Open Science Requirements: Open Methods and Open Data\n\n\n\n\n\n\n\n    Winter Break\n\n\n\n\n\n\n\n\n    11\nMonday, 08 January\nLecture: The foundations of Qualitative Research \nLab: Data collection | Study Swap and Raw Data Setup/Review\n\n\n\n\n\n\n\n    12\nMonday, 15 January\nLecture: Doing Qualitative Research \nLab: Data collection | APA Report Writing Refresher\n\n\n\n\n\n\n\n    13\nMonday, 22 January\nLecture: Reporting and Critiquing Qualitative Research\nLab: Data collection | Raw Data, preprocessing and APA Methods Section & Open Materials\n\n\n\n\n\n\n\n    14\nMonday, 29 January\nLecture: Inclusivity ½ (Dr. Tegan Penton) \nLab: Data collection | Analysis Plans and APA Results Section\n\n\n\n\n\n\n\n    15\nMonday, 05 February\nLecture: Inclusivity 2/2 (Dr. Tegan Penton) \nLab: Data collection | Data export, preprocessing & Open Data\n\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    16\nMonday, 19 February\nLecture: CHIP - Metacognition and Reflective Practice\nLab: Analysis | Three Flavours of ANOVA, Assumptions & Post-Hoc tests\n\n\n\n\n\n\n\n    17\nMonday, 26 February\nLecture: CHIP - Psychology as Science & Philosophical Perspectives\nLab: Analysis | Results write-up, APA formatting, figures and tables\n\n\n\n\n\n\n\n    18\nMonday, 04 March\nLecture: CHIP - Evolution and Evolutionary Psychology\nLab: Writing up | Focus on the Introduction & APA style\n\n\n\n\n\n\n\n    19\nMonday, 11 March\nLecture: CHIP - Cultural Evolutionary Psychology & Cognitive Gadgets\nLab: Writing up | Interpreting and discussing your results\n\n\n\n\n\n\n\n    20\nMonday, 18 March\nLecture: CHIP - The dark history of statistics and wrap up\nLab: Writing up | Pre-submission checklist & editing strategies"
   },
   {
     "objectID": "extras/extras01.html",

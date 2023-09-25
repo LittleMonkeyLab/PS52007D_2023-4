@@ -245,7 +245,7 @@ width: auto !important;
   font-family: $presentation-heading-font !important;
 }
 
-reveal .calloutphoto {
+.reveal .calloutphoto {
   --emoji: unset;
   --icon: "\f083"; /* copied front FontAwesome */
   --icon-color: #c50a50;
@@ -260,6 +260,11 @@ reveal .calloutphoto {
   height: auto !important;
   width: auto !important;
   color: $body-color !important;
+}
+
+.slide-menu-button {
+  left: 10px !important;
+  bottom: 10px !important;
 }
 
 .slide-number, .reveal.has-logo .slide-number {
