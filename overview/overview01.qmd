@@ -134,66 +134,15 @@ embed-resources: true
 -   [ ] Methods Matching
 -   [ ] Goal Alignment and Group Ethos
 
-### Ideas for Team Coordination
+### Experience of Teamwork
 
 ::: card
-**Suggested Activity:** Describe a team-building exercise or
-coordination tip.
+**Suggested Reflection:** Think about Team Work you have done before.
+What did you enjoy? What were the problems you faced? How will you
+address them this time?
+
+**Imagine describing how you operated as a team this year to a future
+supervisor/employer. What would you want to say?**
 :::
-
-### Key Focus of the Week
-
--   Reading: [Lab Manual, Chapter X](#)
--   Tools/Guides: [Tool 1](#), [Tool 2](#)
-
-------------------------------------------------------------------------
-
-## CHIP Topics {#CHIPTopics}
-
-::: callout-important
-## CHIP Topic(s)
-
-Reflection Topic: Insert conceptual or historical issues for reflection
-and possible follow-up.
-
-[link to resource](www.bbc.co.uk){#CHIPLINK}
-
-[Review CHIP Coursework Requirements](www.bbc.co.uk){.btn .btn-info .btn
-role="button"} [See all CHIP Topics covered to date](www.bbc.co.uk){.btn
-.btn-success .btn role="button"}
-:::
-
-|                                                                        |
-|:-----------------------------------------------------------------------|
-| ::: {#minidiss-listing} ::: \## Mini-Dissertation Skills & Checkpoints |
-| \- **Activity 1**: Description - **Activity 2**: Description           |
-
-## Tips, Hacks, and Guides
-
-::: card
-**Employability Tip:** Insert tip for boosting employability.
-:::
-
--   **Fun Stuff**: Describe fun activities or games.
-
-------------------------------------------------------------------------
-
-## Save The Date {{< fa calendar >}}
-
-::: {.callout .info}
-**Upcoming Events:** Describe any upcoming activities or events that
-might be of interest.
-:::
-
-| Shortcode                                          | Icon                                    |
-|----------------------------------------------------|-----------------------------------------|
-| `{{{< fa thumbs-up >}}}`                           | {{< fa thumbs-up >}}                    |
-| `{{{< fa folder >}}}`                              | {{< fa folder >}}                       |
-| `{{{< fa chess-pawn >}}}`                          | {{< fa chess-pawn >}}                   |
-| `{{{< fa brands bluetooth >}}}`                    | {{< fa brands bluetooth >}}             |
-| `{{{< fa brands twitter size=2xl >}}}` (HTML only) | {{< fa brands twitter size=2xl >}}      |
-| `{{{< fa brands github size=5x >}}}` (HTML only)   | {{< fa brands github size=5x >}}        |
-| `{{{< fa battery-half size=Huge >}}}`              | {{< fa battery-half size=Huge >}}       |
-| `{{{< fa envelope title="An envelope" >}}}`        | {{< fa envelope title="An envelope" >}} |
 
 {{< fa thumbs-up >}}
