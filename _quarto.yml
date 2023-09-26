@@ -81,7 +81,7 @@ website:
       - section: "Overview"
         contents:
           - overview/index.qmd
-          - overview/week01.qmd
+          - overview/overview01.qmd
           # - basics-jupyter.qmd
       - section: "Slides"
         contents:
