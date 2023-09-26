@@ -1,17 +1,16 @@
 ---
-title: "Worksheet 01: <br> Replace it!"
-subtitle: "This is a meaningful subtitle"
+title: "Worksheet 01: <br> Topics and Methods"
+subtitle: "You mustn't be afraid to dream a little bigger, darling"
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743
     email: g.wright@gold.ac.uk
-date: "10/02/2023"
+date: "10/03/2023"
 date-format: long
 license: "CC BY-NC-SA"
-footer: "[🔗 VLE](https://www.bbc.co.uk)"
 citations-hover: true
 categories: 
-  - "MiniDiss"
+  - "Worksheet"
   - "Week 1"
 params:
   class: "worksheet01"
@@ -33,4 +32,32 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-## Worsheet Content
+## Let's get going.
+
+-   Lab Challenge! \[15 mins\]
+-   Research Skill Audit
+-   Topic Speed Dating
+-   Methods Matching
+-   Goal Alignment and Group Ethos
+
+# Lab Challenge! \[15 mins\]
+
+Lab Tutor intro
+
+## Research Skill Audit
+
+Update to follow
+
+## Topic Speed Dating
+
+Update to follow
+
+## Methods Matching
+
+Update to follow
+
+## Goal Alignment and Group Ethos
+
+Update to follow and link to google doc
+
+## References

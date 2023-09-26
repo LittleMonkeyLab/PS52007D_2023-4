@@ -13,8 +13,6 @@ page-layout: full
 course-logo: images/LMLLOGO.png
 ---
 
-### some chat about ethos and accessibility
-
 # Course Information
 
 ::: {style="width:600px"}
@@ -30,18 +28,16 @@ course-logo: images/LMLLOGO.png
 # Attendance / class recording
 
 You should plan to attend lectures and labs in person - attendance is
-taken at all timetabled sessions. Lectures will be recorded and uploaded
-within 24 hours of the timetabled session. In-person attendance is
-optimal as we will spend a lot of time working on your
-Mini-Dissertations and research skills. The best idea is to 'keep up,
-don't catch up' but of course, life happens. We know this and will try
-to help you whenever we can, but we can't offer Extenuating
-Circumstances or mark you as present etc. You should try to update your
-Personal Tutor, Lab Tutor and research group members if you anticipate
-missing a session.
+taken at all timetabled sessions. In-person attendance is optimal as we
+will spend a lot of time working on your Mini-Dissertations and research
+skills. The best idea is to 'keep up, don't catch up' but of course,
+life happens. We know this and will try to help you whenever we can, but
+we can't offer Extenuating Circumstances or mark you as present etc. You
+should try to update your Personal Tutor, Lab Tutor and research group
+members if you anticipate missing a session.
 
-Lab Sessions are NOT recorded. Any activities or resources will be
-available via the VLE or this site, but it is your responsibility to
+Lab Sessions are NOT recorded either. Any activities or resources will
+be available via the VLE or this site, but it is your responsibility to
 keep abreast of your group progress and to catch up if necessary.
 
 # Learning Objectives

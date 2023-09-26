@@ -1,6 +1,6 @@
 ---
-title: "Lecture 01: <br> Replace it!"
-subtitle: "This is a meaningful subtitle"
+title: "Lecture 01: <br> Let's start at the beginning!"
+subtitle: "This is the way!"
 image: "lecture.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -17,15 +17,15 @@ categories:
 params:
   class: "lec01"
 format: 
-  # pdf: default
+  pdf: default
   pptx: default
   html: default
   docx: default
   revealjs: 
     title-slide-attributes: 
       data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
-    header-logo: "/images/rmlogo.png"
-    header: "Research Methods Lecture 01 - Short Title" # Replace it
+    header-logo: "/images/rmmonkey.png"
+    header: "Research Methods Lecture 01 - Module Overview & coursework" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
 filters:
@@ -43,11 +43,11 @@ path_pdf <- file.path(params$class, paste0(params$class, ".pdf"))
 path_notes <- file.path(params$class, paste0(params$class, ".pptx"))
 ```
 
-# Show Attendance QR Code
+# Attendance QR Code HERE
 
 ## Key topics today
 
--   Module structure and coursework
+-   Module structure and coursework introduction
     i.  [Critical Proposal (15%)]{.smaller}
     ii. [Mini-Dissertation (70%)]{.smaller}
     iii. [Conceptual, Historical & Integrative Perspectives Log (CHIP
@@ -55,19 +55,20 @@ path_notes <- file.path(params$class, paste0(params$class, ".pptx"))
 -   Labs in general and the lab tomorrow
 -   Materials, independent study, SUCCESS!
 
-## 
+## A bit about me...
 
-## But seriously...
-
-::: incremental
--   Formerly worked in advertising industry for big agencies
+::: {.incremental .smaller}
+-   Formerly worked in the advertising industry for top London agencies
 -   Impulsively started a Psych degree in 2006 (age 30+)
 -   My research interests are interpersonal deception, antagonistic
     personalities and behaviours, and how people obtain, process, and
     use social information/person perception in their everyday lives
 -   Got my PhD in 2014, post-doc with the Intelligence Agencies,
     Teaching Fellow then Lecturer in the department of Psychology
--   And I [LOVE IT !!]{.shout} The Psychology we do here is unique!
+-   And I [LOVE IT !!]{.shout} The Psychology we do here is unique and
+    thrilling!
+-   My mission is to turn you into Research Rebels and Data-Driven
+    Disruptors!
 :::
 
 ## But first
@@ -77,7 +78,8 @@ path_notes <- file.path(params$class, paste0(params$class, ".pptx"))
 -   If you don't engage, it is difficult to respond to your needs
 -   I want you to find **"MyPsychology"**
 -   Easier to keep up than catch-up
--   We have numerous safeguards in place to protect you this year
+-   We have numerous safeguards in place to protect you this year, but
+    be your own best friend
 -   The only thing that should be worried this year is Shoddy Science!
 :::
 
@@ -85,20 +87,26 @@ path_notes <- file.path(params$class, paste0(params$class, ".pptx"))
 
 ## Module weighting and assessment
 
-Research Methods is a core module with a 30 credit weighting
+Research Methods is a 30 credit weighted module. As I always say, a
+coursework essay, say for Cognitive Psychology, is worth 1/10th of your
+Mini-Dissertation. It does NOT make sense to miss a lab working on an
+essay that might not even count towards your grade.
 
-This means that in order to progress to Y3, you must pass all 3
-assessment elements:
+To pass, you must pass all 3 assessment elements:
 
--   ::: takeaway
-    -   Critical Proposal 1,800 words (15%)
+::: takeaway
+Critical Proposal 1,800 words (15%)
 
-    -   Mini-Dissertation 2,500 words (70%)
+Mini-Dissertation 2,500 words (70%)
 
-    -   CHIP Learning Log 1,200 words (15%)
-    :::
+CHIP Learning Log 1,200 words (15%)
+:::
 
-## Welcome to Research Methods!
+## Gannt Chart
+
+![Deadlines](images/Gantt%20of%20deadlines.png)
+
+# So what's the point?
 
 [APA Skillful Psychology
 Student](https://www.apa.org/ed/precollege/psn/2019/02/skillful-student)
@@ -185,7 +193,7 @@ In small groups of 3 or 4 people, you will:
 
 ::: incremental
 -   Gordon (Module Coordinator and [Enthusiast in Chief]{.shout})
--   7 gobsmackingly amazing Lab Tutors
+-   6 gobsmackingly amazing Lab Tutors
 -   Your Mini-Dissertation group (3 or 4)
 -   Your Personal Tutor
 -   Your PT group
@@ -197,13 +205,15 @@ This is a team-sport
 ## Access to me
 
 I will be in every Research Methods lecture and I have a Student Hour
-from 3-4 every Monday, before we all go to the Design & Analysis
-lecture. Yup! Me too!
+from 1-2 (TBC) every Monday.
 
 **Available at g.wright\@gold.ac.uk and my office is WB200/1**
 
 I genuinely could not imagine anything I would rather do that this. So
-please talk to me!
+please talk to me and help me get to know you!
+
+Questions relating to Module Content must be asked via the Forum. There
+will be no exceptions.
 
 ## A friendly warning
 
@@ -215,97 +225,121 @@ and collusion rules.
 
 Just don't risk it. Be mindful of how you read, take notes and share
 coursework.
+
+See previous information about the use of AI. It can be a wonderful
+tool, but do NOT use it for the wholesale production of written content.
+It must be a support, not a shortcut. You'll regret it.
 :::
 
 ## Module structure
 
-1 x 1 hr Lecture per week (Monday 11-12 PSH LG02)
+1 x 1 hr Lecture per week (Monday 11-12 PSH LG02 (winter term))
 
-1 x 2 hr Lab per week (Tuesday in Whitehead)
+1 x 2 hr Lab per week (Tuesday - see personal timetable)
 
-4 x Personal Tutor meetings focussed on the Mini-Diss across the year
+4 x Personal Tutor meetings across the year
 
-## Weekly Structure (Lectures)
+## Weekly Structure
 
-A brief weekly '**Prelude**' designed to introduce one of the main
-topics of the week (Not compulsory)
+Each week there will be a very brief '**Overview to set out the main
+topics and to give you a set of milestones or preparatory activities**'
+designed to keep you on track.
 
-**Lecture** covering Methods relevant to your research, concepts and
-debates around CHIP, and previewing the lab session that week
+**Lecture** (slides available as a Reveal Slideshow via Quarto and as
+pdf, docx, and if you wish for anything else, please just ask.)
 
--   (recording posted automatically to Panopto)
+**Lab**
 
--   \*Materials for following week posted on Wednesday evening
+![Lab structure](images/LabSession.drawio.png)
 
--   CHIP-relevant topics to be approved as a group (more on that later)
-
-\*Accessibility is important to me, so please contact me with any
-concerns or requests
-
-## **Weekly Structure (Labs)**
-
-::: incremental
--   **'Pulse'** taken on entry - 2 minute quiz - COMPULSORY
--   **OneNote Lab Notebook** with brief 'generative activities' and
-    opportunities for metacognitive reflection (wk2)
-    -   [Your 'Source of Truth']{.underline}
+-   **Lab Notebook** - find a solution that works for you, but make sure
+    that you have it every week, so a cloud-based system would be best.
+    You will be expected to show notes of your progress to your Lab
+    Tutor
 -   Lots can be achieved in the labs, but independent study and
-    coordinated group work will be required
--   This module is a ***process*** not a goal - approach it like an
-    experiment!
+    coordinated group work will be required. We will be asking about
+    this aspect of the process regularly.
+
+## DangerZone
+
+::: columns
+::: {.column width="50%"}
+![All hail the Kenny!](images/Kenny.jpeg)
 :::
 
-::: incremental
--   [NO EXAM]{.shout}
-    -   **Extras** provided around skills or applications or just
-        interesting stuff (Not compulsory)
+::: {.column width="50%"}
+You'll never say hello to you,\
+Until you get it on the red line overload.\
+You'll never know what you can do,\
+Until you get it up as high as you can go!
+:::
+
+::: columns
+Most weeks, there will be Extras - called the DangerZone \[in honour of
+the best movie ever made (Top Gun) and the Yacht-Rock and fashion icon
+legend Kenny Loggins\]. These are opportunities to consider aspects of
+Research procedure beyond the level expected for this year, but 'on the
+table' for next year and any future research endeavours. They are
+research-based in a loose sense - they will include programming,
+literature search and management, academic and knowledge management
+tools, tips and hacks that might (or might not) be of interest or
+useful. If the term is going well, they might even be fun. All ideas
+welcome.
+:::
 :::
 
 ## Coursework
 
-The courseworks ALL require reflection and metacognitive practice. This
-will be discussed in a number of lectures, but it contributes to
-effective learning and your integration of the skills and experience.
+The courseworks ALL require critical reflection and meta-cognitive
+practice. This will be discussed in a number of lectures, but it
+contributes to effective learning and your integration of the skills and
+experience of doing this research exercise.
 
 ## Time management and teamwork
 
 ..will both be required.
 
-I ask you to see both as an **opportunity** to deliberately practice
-these important skills.
+I ask you to see both as an opportunity to develop these important
+skills.
 
 You will see we have some ideas to make this more relevant to careers
-and employability.
+and employability
 
 It is easier to 'keep up than to catch up'.
 
 ## Resources
 
-We will be releasing a **series** of valuable resources to help you
-through every step of the process
+We will be releasing a series of valuable resources to help you through
+every step of the process
 
-These will **entirely relevant** to your final year dissertation also.
+These will have value for your final year dissertation too.
 
-**Contribution to and comment** on these is welcome and hoped for!
+Contribution to and comment on these is welcome and hoped for!
 
-**Open Educational Resources** will be used extensively, and most core
+Open Educational Resources will be used extensively, and most core
 readings are available online via the library.
+
+## Before tomorrow, please...
+
+Add an email signature to your college email, including your student
+number, programme, lab tutor, and personal tutor. It will speed up
+responses to any emails you send to staff.
 
 ## Lectures Term One
 
-![](images/paste-882EBB81.png)
+![](images/Term1 Lectures.png)
 
 ## Lectures Term Two
 
-![](images/paste-D7119200.png)
+![](images/Term2 Lectures.png)
 
 ## Labs Term One
 
-![](images/paste-A76C1449.png)
+![](images/Term1 Labs.png)
 
 ## Labs Term Two
 
-![](images/paste-B6FDBAE1.png)
+![](images/Term2 labs.png)
 
 ## Mini-Dissertation structure
 
@@ -333,9 +367,8 @@ following COMPULSORY elements:**
 -   Open Data - a single, cleaned, clearly-labelled data set
 -   Open Materials - a complete, replication-ready materials package
     detailing materials relevant to your individual write-up
--   A reflective account covering the Mini-Dissertation
-    [AND]{.underline} the PS52005C Design & Analysis quizzes and how
-    they contributed to your development this year
+-   A reflective account covering the Mini-Dissertation (not a moan
+    about your group or strikes or having to do research)
 :::
 
 ## Illustrative MD topics
@@ -361,10 +394,12 @@ following COMPULSORY elements:**
 Self-Handicapping**]{.takeaway}
 
 ::: incremental
--   *The effect of Independent Variable 1 and Independent Variable 2 on
+-   *The effect of Independent Variable A and Independent Variable B on
     a continuous Dependent Variable* 
--   Conscientiousness (Low or high - Independent Variable IV1)
--   Caffeine intake (Low or high - Independent Variable IV2)
+-   Conscientiousness IV(A1) Low or IV(A2) high - Independent Variable
+    IV(A)
+-   Caffeine intake IV(B1) Low or IV(B2) high - Independent Variable
+    IV(B)
 -   Academic Self-Handicapping (6 item 1-5 Likert style, 'continuous'
     Dependent Variable DV)
 -   What about the other 3 people in the group?
@@ -383,22 +418,28 @@ Self-Handicapping**]{.takeaway} 
 3.  [Neuroticism]{.underline} (Low/High) & Attitude to Feedback
     (Open/Sensitive) on [ASH]{.underline}
     -   Not too complicated, right?
-    -   Can you see the economies of effort and implicit support opps?
+    -   Can you see the economies of effort and implicit support
+        opportunities?
 :::
+
+# Experimental Design Schematic
+
+## You will be asked to keep and update the following image in draw.io
+
+![](images/Thisismydesign.drawio.png)
 
 ## Lab 01
 
 ::: incremental
--   Scan your attendance (?) and sit down to complete the short 'Entry
-    Pulse' poll (Compulsory each week).
+-   Scan your attendance, find a place to sit.
 -   Verify access to IT systems (e.g. the critically important OneDrive)
     and add a signature to your emails to assist College answering any
     questions you have.
 -   Start brainstorming ideas for research topics for your
     Mini-Dissertation.
--   Consider 'how' you want to work this year - Help co-create a 'Lab
-    Ethos' that we can share openly.
--   Detailed information in the Lab 01 'Book' on the VLE
+-   Consider 'how' you want to work this year
+-   Detailed information in Lab 01 worksheet, but allow the Lab Tutor to
+    guide you and try to get involved!
 :::
 
 ## Please don't get hung up on topic selection
@@ -413,6 +454,21 @@ not too difficult etc.
 
 It does help if you are interested in it though, as it will help keep
 motivation up!
+
+If in doubt.. What about Academic Success? What aspects of personality,
+lifestyle, behaviour, attitude, life history etc contribute to it? And
+how on earth do you measure Academic Success?
+:::
+
+## Advance warning
+
+::: callout-important
+You will confirm your group members (3 or 4), a group name (puns
+encouraged), and maybe a topic area in the first half hour of Lab 02.
+There will be no more time available. But that will have allowed you
+over a week to work it out. Leave this week's lab either with a pretty
+good idea of who you want to work with, ot a list of the people still
+un-grouped in your PT group. And then sort it out.
 :::
 
 ## Some things to consider
@@ -433,35 +489,10 @@ motivation up!
     -   on Vulnerable or protected groups
     -   using methods that require extensive training or specialist
         facilities (e.g. EEG, TMS)
-    -   that raises anything more than mild ethical considerations
+    -   that raises anything more than minimal ethical considerations
     -   for which recruitment will be too onerous or time-consuming
     :::
 :::
-
-## Defining how you wish to work
-
-We would like you to compose a 'code of conduct' or 'Lab ethos'
-applicable to us all this year.
-
-[Goldsmiths Student Charter]{.underline} (2012) Does much change in a
-decade?
-
-[BPS Research Ethics]{.underline} (respect, competence, responsibility,
-integrity)
-
-[Corporate Culture]{.underline} (e.g. "***Move fast and break things***"
-i.e. approaching the task with an emphasis on speed, disruption and
-experimentation)
-
-[Innovative Teaching]{.underline} (e.g. The Hacker School/Recurse
-Center - No feigning surprise, No 'Well-Actually's, No back-seat
-driving, no subtle -isms)
-
-## How will we approach the following?
-
-Inclusivity, Diversity, Equity, Privilege, Power, Intersectionality
-
-Communication, Accommodation, Environment, Accessibility, Collaboration
 
 ## Data Carpentry suggests the following for their labs
 

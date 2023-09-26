@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "worksheets/worksheet01.html",
+    "href": "worksheets/worksheet01.html",
+    "title": "Worksheet 01:  Topics and Methods",
+    "section": "",
+    "text": "Lab Challenge! [15 mins]\nResearch Skill Audit\nTopic Speed Dating\nMethods Matching\nGoal Alignment and Group Ethos"
+  },
+  {
+    "objectID": "worksheets/worksheet01.html#lets-get-going.",
+    "href": "worksheets/worksheet01.html#lets-get-going.",
+    "title": "Worksheet 01:  Topics and Methods",
+    "section": "",
+    "text": "Lab Challenge! [15 mins]\nResearch Skill Audit\nTopic Speed Dating\nMethods Matching\nGoal Alignment and Group Ethos"
+  },
+  {
+    "objectID": "worksheets/worksheet01.html#research-skill-audit",
+    "href": "worksheets/worksheet01.html#research-skill-audit",
+    "title": "Worksheet 01:  Topics and Methods",
+    "section": "Research Skill Audit",
+    "text": "Research Skill Audit\nUpdate to follow"
+  },
+  {
+    "objectID": "worksheets/worksheet01.html#topic-speed-dating",
+    "href": "worksheets/worksheet01.html#topic-speed-dating",
+    "title": "Worksheet 01:  Topics and Methods",
+    "section": "Topic Speed Dating",
+    "text": "Topic Speed Dating\nUpdate to follow"
+  },
+  {
+    "objectID": "worksheets/worksheet01.html#methods-matching",
+    "href": "worksheets/worksheet01.html#methods-matching",
+    "title": "Worksheet 01:  Topics and Methods",
+    "section": "Methods Matching",
+    "text": "Methods Matching\nUpdate to follow"
+  },
+  {
+    "objectID": "worksheets/worksheet01.html#goal-alignment-and-group-ethos",
+    "href": "worksheets/worksheet01.html#goal-alignment-and-group-ethos",
+    "title": "Worksheet 01:  Topics and Methods",
+    "section": "Goal Alignment and Group Ethos",
+    "text": "Goal Alignment and Group Ethos\nUpdate to follow and link to google doc"
+  },
+  {
+    "objectID": "worksheets/worksheet01.html#references",
+    "href": "worksheets/worksheet01.html#references",
+    "title": "Worksheet 01:  Topics and Methods",
+    "section": "References",
+    "text": "References"
+  },
+  {
     "objectID": "worksheets/index.html",
     "href": "worksheets/index.html",
     "title": "Mini_diss resources",
@@ -12,6 +61,13 @@
     "title": "Mini_diss resources",
     "section": "Week 1",
     "text": "Week 1\nThe aim for today is to brainstorm some areas of research that might be of interest to you. You might be motivated to just work with your buddies. Or you might want to work with people from your PT group who share a similar interest.\nWork out how you wish to work. This is the last large-scale piece of group work you’ll do prior to getting a reference.\nStart thinking about how you can search for literature on the topic you have chosen.\nWhat methods are used? What is feasible? What would you like to learn about?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Methods in Psychology",
+    "section": "",
+    "text": "Instructor\nCourse\n\n\n\n\n Dr. Gordon Wright\n Lecture: Mondays\n\n\n Whitehead 200/1\n PSH LG02 10-11am\n\n\n Office Hours: Monday Afternoon time TBC\n Labs : Tuesdays\n\n\n g.wright@gold.ac.uk\n See your personal timetable\n\n\n @DrDeception"
   },
   {
     "objectID": "index.html#expectation-management",
@@ -51,674 +107,919 @@
   {
     "objectID": "slides/week01/lecture.slides.html#key-topics-today",
     "href": "slides/week01/lecture.slides.html#key-topics-today",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Key topics today",
-    "text": "Key topics today\n\nModule structure and coursework\n\nCritical Proposal (15%)\nMini-Dissertation (70%)\nConceptual, Historical & Integrative Perspectives Log (CHIP Log) (15%)\n\nLabs in general and the lab tomorrow\nMaterials, independent study, SUCCESS!"
+    "text": "Key topics today\n\nModule structure and coursework introduction\n\nCritical Proposal (15%)\nMini-Dissertation (70%)\nConceptual, Historical & Integrative Perspectives Log (CHIP Log) (15%)\n\nLabs in general and the lab tomorrow\nMaterials, independent study, SUCCESS!"
   },
   {
-    "objectID": "slides/week01/lecture.slides.html#but-seriously",
-    "href": "slides/week01/lecture.slides.html#but-seriously",
-    "title": "Lecture 01:  Replace it!",
-    "section": "But seriously…",
-    "text": "But seriously…\n\n\nFormerly worked in advertising industry for big agencies\nImpulsively started a Psych degree in 2006 (age 30+)\nMy research interests are interpersonal deception, antagonistic personalities and behaviours, and how people obtain, process, and use social information/person perception in their everyday lives\nGot my PhD in 2014, post-doc with the Intelligence Agencies, Teaching Fellow then Lecturer in the department of Psychology\nAnd I LOVE IT !! The Psychology we do here is unique!"
+    "objectID": "slides/week01/lecture.slides.html#a-bit-about-me",
+    "href": "slides/week01/lecture.slides.html#a-bit-about-me",
+    "title": "Lecture 01:  Let’s start at the beginning!",
+    "section": "A bit about me…",
+    "text": "A bit about me…\n\n\nFormerly worked in the advertising industry for top London agencies\nImpulsively started a Psych degree in 2006 (age 30+)\nMy research interests are interpersonal deception, antagonistic personalities and behaviours, and how people obtain, process, and use social information/person perception in their everyday lives\nGot my PhD in 2014, post-doc with the Intelligence Agencies, Teaching Fellow then Lecturer in the department of Psychology\nAnd I LOVE IT !! The Psychology we do here is unique and thrilling!\nMy mission is to turn you into Research Rebels and Data-Driven Disruptors!"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#but-first",
     "href": "slides/week01/lecture.slides.html#but-first",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "But first",
-    "text": "But first\n\n\nThe importance of your ‘participation’\nIf you don’t engage, it is difficult to respond to your needs\nI want you to find “MyPsychology”\nEasier to keep up than catch-up\nWe have numerous safeguards in place to protect you this year\nThe only thing that should be worried this year is Shoddy Science!"
+    "text": "But first\n\n\nThe importance of your ‘participation’\nIf you don’t engage, it is difficult to respond to your needs\nI want you to find “MyPsychology”\nEasier to keep up than catch-up\nWe have numerous safeguards in place to protect you this year, but be your own best friend\nThe only thing that should be worried this year is Shoddy Science!"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#module-weighting-and-assessment",
     "href": "slides/week01/lecture.slides.html#module-weighting-and-assessment",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Module weighting and assessment",
-    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+    "text": "Module weighting and assessment\nResearch Methods is a 30 credit weighted module. As I always say, a coursework essay, say for Cognitive Psychology, is worth 1/10th of your Mini-Dissertation. It does NOT make sense to miss a lab working on an essay that might not even count towards your grade.\nTo pass, you must pass all 3 assessment elements:\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
   },
   {
-    "objectID": "slides/week01/lecture.slides.html#welcome-to-research-methods",
-    "href": "slides/week01/lecture.slides.html#welcome-to-research-methods",
-    "title": "Lecture 01:  Replace it!",
-    "section": "Welcome to Research Methods!",
-    "text": "Welcome to Research Methods!\nAPA Skillful Psychology Student\n\n\nNaufel, K. Z., Appleby, D. C., Young, J., Van Kirk, J. F., Spencer, S. M., Rudmann, J., …Richmond, A. S. (2018).The skillful psychology student: Prepared for success in the 21st century workplace. Retrieved from: https://www.apa.org/careers/resources/guides/transferable-skills.pdf"
+    "objectID": "slides/week01/lecture.slides.html#gannt-chart",
+    "href": "slides/week01/lecture.slides.html#gannt-chart",
+    "title": "Lecture 01:  Let’s start at the beginning!",
+    "section": "Gannt Chart",
+    "text": "Gannt Chart\n\nDeadlines"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#cognitive-skills",
     "href": "slides/week01/lecture.slides.html#cognitive-skills",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Cognitive Skills",
     "text": "Cognitive Skills"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#communication-skills",
     "href": "slides/week01/lecture.slides.html#communication-skills",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Communication Skills",
     "text": "Communication Skills"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#personal-skills",
     "href": "slides/week01/lecture.slides.html#personal-skills",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Personal Skills",
     "text": "Personal Skills"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#social-skills",
     "href": "slides/week01/lecture.slides.html#social-skills",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Social Skills",
     "text": "Social Skills"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#technological-skills",
     "href": "slides/week01/lecture.slides.html#technological-skills",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Technological Skills",
     "text": "Technological Skills"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#these-are-valuable-skills",
     "href": "slides/week01/lecture.slides.html#these-are-valuable-skills",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "These are valuable skills",
     "text": "These are valuable skills\nI’m going to try to ‘connect the dots’ for you along the way\n\n\nCognitive (e.g., creativity and information management).\nCommunication (e.g., active listening and public speaking).\nPersonal (e.g., conscientiousness and integrity).\nSocial (e.g., collaboration and leadership abilities).\nTechnological (e.g., flexibility and familiarity with hardware and software).\nNo actual mention of the ‘content’ - Psychology or Research"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#you-arent-spectators-any-more-youre-scientists",
     "href": "slides/week01/lecture.slides.html#you-arent-spectators-any-more-youre-scientists",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "You aren’t spectators any more, you’re Scientists!",
     "text": "You aren’t spectators any more, you’re Scientists!\nIn small groups of 3 or 4 people, you will:\n\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area (Critical Proposal)\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format with Open Data and Materials (Mini-Diss)\nReflect on your learning and development journey (CHIP Learning Log)"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#consider-it-a-warm-up-for-your-y3-dissertation",
     "href": "slides/week01/lecture.slides.html#consider-it-a-warm-up-for-your-y3-dissertation",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Consider it a ‘warm up’ for your Y3 Dissertation",
     "text": "Consider it a ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups - but all the same moving parts\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunities to think carefully about your final year Dissertation, and how to crush it!!"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#support-and-guidance",
     "href": "slides/week01/lecture.slides.html#support-and-guidance",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Support and guidance",
-    "text": "Support and guidance\n\n\nGordon (Module Coordinator and Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Mini-Dissertation group (3 or 4)\nYour Personal Tutor\nYour PT group\nThe entire Goldsmiths Research Community!\n\n\nThis is a team-sport"
+    "text": "Support and guidance\n\n\nGordon (Module Coordinator and Enthusiast in Chief)\n6 gobsmackingly amazing Lab Tutors\nYour Mini-Dissertation group (3 or 4)\nYour Personal Tutor\nYour PT group\nThe entire Goldsmiths Research Community!\n\n\nThis is a team-sport"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#access-to-me",
     "href": "slides/week01/lecture.slides.html#access-to-me",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Access to me",
-    "text": "Access to me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk and my office is WB200/1\nI genuinely could not imagine anything I would rather do that this. So please talk to me!"
+    "text": "Access to me\nI will be in every Research Methods lecture and I have a Student Hour from 1-2 (TBC) every Monday.\nAvailable at g.wright@gold.ac.uk and my office is WB200/1\nI genuinely could not imagine anything I would rather do that this. So please talk to me and help me get to know you!\nQuestions relating to Module Content must be asked via the Forum. There will be no exceptions."
   },
   {
     "objectID": "slides/week01/lecture.slides.html#a-friendly-warning",
     "href": "slides/week01/lecture.slides.html#a-friendly-warning",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "A friendly warning",
-    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules.\nJust don’t risk it. Be mindful of how you read, take notes and share coursework."
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules.\nJust don’t risk it. Be mindful of how you read, take notes and share coursework.\nSee previous information about the use of AI. It can be a wonderful tool, but do NOT use it for the wholesale production of written content. It must be a support, not a shortcut. You’ll regret it."
   },
   {
     "objectID": "slides/week01/lecture.slides.html#module-structure",
     "href": "slides/week01/lecture.slides.html#module-structure",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Module structure",
-    "text": "Module structure\n1 x 1 hr Lecture per week (Monday 11-12 PSH LG02)\n1 x 2 hr Lab per week (Tuesday in Whitehead)\n4 x Personal Tutor meetings focussed on the Mini-Diss across the year"
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday 11-12 PSH LG02 (winter term))\n1 x 2 hr Lab per week (Tuesday - see personal timetable)\n4 x Personal Tutor meetings across the year"
   },
   {
-    "objectID": "slides/week01/lecture.slides.html#weekly-structure-lectures",
-    "href": "slides/week01/lecture.slides.html#weekly-structure-lectures",
-    "title": "Lecture 01:  Replace it!",
-    "section": "Weekly Structure (Lectures)",
-    "text": "Weekly Structure (Lectures)\nA brief weekly ‘Prelude’ designed to introduce one of the main topics of the week (Not compulsory)\nLecture covering Methods relevant to your research, concepts and debates around CHIP, and previewing the lab session that week\n\n(recording posted automatically to Panopto)\n*Materials for following week posted on Wednesday evening\nCHIP-relevant topics to be approved as a group (more on that later)\n\n*Accessibility is important to me, so please contact me with any concerns or requests"
+    "objectID": "slides/week01/lecture.slides.html#weekly-structure",
+    "href": "slides/week01/lecture.slides.html#weekly-structure",
+    "title": "Lecture 01:  Let’s start at the beginning!",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Overview to set out the main topics and to give you a set of milestones or preparatory activities’ designed to keep you on track.\nLecture (slides available as a Reveal Slideshow via Quarto and as pdf, docx, and if you wish for anything else, please just ask.)\nLab\n\nLab structure\nLab Notebook - find a solution that works for you, but make sure that you have it every week, so a cloud-based system would be best. You will be expected to show notes of your progress to your Lab Tutor\nLots can be achieved in the labs, but independent study and coordinated group work will be required. We will be asking about this aspect of the process regularly."
   },
   {
-    "objectID": "slides/week01/lecture.slides.html#weekly-structure-labs",
-    "href": "slides/week01/lecture.slides.html#weekly-structure-labs",
-    "title": "Lecture 01:  Replace it!",
-    "section": "Weekly Structure (Labs)",
-    "text": "Weekly Structure (Labs)\n\n\n‘Pulse’ taken on entry - 2 minute quiz - COMPULSORY\nOneNote Lab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection (wk2)\n\nYour ‘Source of Truth’\n\nLots can be achieved in the labs, but independent study and coordinated group work will be required\nThis module is a process not a goal - approach it like an experiment!\n\n\n\n\nNO EXAM\n\nExtras provided around skills or applications or just interesting stuff (Not compulsory)"
+    "objectID": "slides/week01/lecture.slides.html#dangerzone",
+    "href": "slides/week01/lecture.slides.html#dangerzone",
+    "title": "Lecture 01:  Let’s start at the beginning!",
+    "section": "DangerZone",
+    "text": "DangerZone\n\n\n\n\n\nAll hail the Kenny!\n\n\n\nYou’ll never say hello to you,\nUntil you get it on the red line overload.\nYou’ll never know what you can do,\nUntil you get it up as high as you can go!\n\nMost weeks, there will be Extras - called the DangerZone [in honour of the best movie ever made (Top Gun) and the Yacht-Rock and fashion icon legend Kenny Loggins]. These are opportunities to consider aspects of Research procedure beyond the level expected for this year, but ‘on the table’ for next year and any future research endeavours. They are research-based in a loose sense - they will include programming, literature search and management, academic and knowledge management tools, tips and hacks that might (or might not) be of interest or useful. If the term is going well, they might even be fun. All ideas welcome."
   },
   {
     "objectID": "slides/week01/lecture.slides.html#coursework",
     "href": "slides/week01/lecture.slides.html#coursework",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Coursework",
-    "text": "Coursework\nThe courseworks ALL require reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience."
+    "text": "Coursework\nThe courseworks ALL require critical reflection and meta-cognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
   },
   {
     "objectID": "slides/week01/lecture.slides.html#time-management-and-teamwork",
     "href": "slides/week01/lecture.slides.html#time-management-and-teamwork",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Time management and teamwork",
-    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to deliberately practice these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability.\nIt is easier to ‘keep up than to catch up’."
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
   },
   {
     "objectID": "slides/week01/lecture.slides.html#resources",
     "href": "slides/week01/lecture.slides.html#resources",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Resources",
-    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will entirely relevant to your final year dissertation also.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "slides/week01/lecture.slides.html#before-tomorrow-please",
+    "href": "slides/week01/lecture.slides.html#before-tomorrow-please",
+    "title": "Lecture 01:  Let’s start at the beginning!",
+    "section": "Before tomorrow, please…",
+    "text": "Before tomorrow, please…\nAdd an email signature to your college email, including your student number, programme, lab tutor, and personal tutor. It will speed up responses to any emails you send to staff."
   },
   {
     "objectID": "slides/week01/lecture.slides.html#lectures-term-one",
     "href": "slides/week01/lecture.slides.html#lectures-term-one",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Lectures Term One",
     "text": "Lectures Term One"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#lectures-term-two",
     "href": "slides/week01/lecture.slides.html#lectures-term-two",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Lectures Term Two",
     "text": "Lectures Term Two"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#labs-term-one",
     "href": "slides/week01/lecture.slides.html#labs-term-one",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Labs Term One",
     "text": "Labs Term One"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#labs-term-two",
     "href": "slides/week01/lecture.slides.html#labs-term-two",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Labs Term Two",
     "text": "Labs Term Two"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#mini-dissertation-structure",
     "href": "slides/week01/lecture.slides.html#mini-dissertation-structure",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Mini-Dissertation structure",
     "text": "Mini-Dissertation structure\nYour individual Mini-Dissertation project MUST conform to the following definitive rules:\n\n\n2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a single continuous DV\nYou must obtain ethical approval and show individual involvement in the process of application\nYou must make a sample size estimation / Power calculation\nYou must contribute to group recruitment and data collection efforts either online or in-person"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#mini-dissertation-submission",
     "href": "slides/week01/lecture.slides.html#mini-dissertation-submission",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Mini-Dissertation Submission",
-    "text": "Mini-Dissertation Submission\nYour Mini-Dissertation final submission must comprise ALL of the following COMPULSORY elements:\n\n\na 2,500 word APA7 empirical paper with a complete reference list and appendices\nOpen Data - a single, cleaned, clearly-labelled data set\nOpen Materials - a complete, replication-ready materials package detailing materials relevant to your individual write-up\nA reflective account covering the Mini-Dissertation AND the PS52005C Design & Analysis quizzes and how they contributed to your development this year"
+    "text": "Mini-Dissertation Submission\nYour Mini-Dissertation final submission must comprise ALL of the following COMPULSORY elements:\n\n\na 2,500 word APA7 empirical paper with a complete reference list and appendices\nOpen Data - a single, cleaned, clearly-labelled data set\nOpen Materials - a complete, replication-ready materials package detailing materials relevant to your individual write-up\nA reflective account covering the Mini-Dissertation (not a moan about your group or strikes or having to do research)"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#illustrative-md-topics",
     "href": "slides/week01/lecture.slides.html#illustrative-md-topics",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Illustrative MD topics",
     "text": "Illustrative MD topics\n\n\nThe effect of gender stereotype and task difficulty on memory performance\nThe role of facial symmetry and filter type on ratings of attractiveness of online dating profile pictures\nExposure to negative news media, trait anxiety and the BAME community under COVID-19\nThe effects of Agentic and Communal Narcissism, attitudes towards COVID-19 and lockdown compliance\nThe effect of personality and sleep disturbance on academic performance\nNeed for cognition, pre-sentencing information and perceptions of guilt in a jury decision making task"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#but-lets-deep-dive-this-one",
     "href": "slides/week01/lecture.slides.html#but-lets-deep-dive-this-one",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "But let’s deep dive this one",
-    "text": "But let’s deep dive this one\nThe effect of Conscientiousness and Caffeine intake on Academic Self-Handicapping\n\n\nThe effect of Independent Variable 1 and Independent Variable 2 on a continuous Dependent Variable \nConscientiousness (Low or high - Independent Variable IV1)\nCaffeine intake (Low or high - Independent Variable IV2)\nAcademic Self-Handicapping (6 item 1-5 Likert style, ‘continuous’ Dependent Variable DV)\nWhat about the other 3 people in the group?"
+    "text": "But let’s deep dive this one\nThe effect of Conscientiousness and Caffeine intake on Academic Self-Handicapping\n\n\nThe effect of Independent Variable A and Independent Variable B on a continuous Dependent Variable \nConscientiousness IV(A1) Low or IV(A2) high - Independent Variable IV(A)\nCaffeine intake IV(B1) Low or IV(B2) high - Independent Variable IV(B)\nAcademic Self-Handicapping (6 item 1-5 Likert style, ‘continuous’ Dependent Variable DV)\nWhat about the other 3 people in the group?"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#rest-of-the-group",
     "href": "slides/week01/lecture.slides.html#rest-of-the-group",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Rest of the group:",
-    "text": "Rest of the group:\nThe effect of Conscientiousness and Caffeine intake on Academic Self-Handicapping \n\n\nExtraversion (Low/High) & Sleep (Sound/Disturbed) on ASH \nOpenness to experience (Low/High) & Family Attitude to Education (Pro/Con) on ASH \nNeuroticism (Low/High) & Attitude to Feedback (Open/Sensitive) on ASH\n\nNot too complicated, right?\nCan you see the economies of effort and implicit support opps?"
+    "text": "Rest of the group:\nThe effect of Conscientiousness and Caffeine intake on Academic Self-Handicapping \n\n\nExtraversion (Low/High) & Sleep (Sound/Disturbed) on ASH \nOpenness to experience (Low/High) & Family Attitude to Education (Pro/Con) on ASH \nNeuroticism (Low/High) & Attitude to Feedback (Open/Sensitive) on ASH\n\nNot too complicated, right?\nCan you see the economies of effort and implicit support opportunities?"
+  },
+  {
+    "objectID": "slides/week01/lecture.slides.html#you-will-be-asked-to-keep-and-update-the-following-image-in-draw.io",
+    "href": "slides/week01/lecture.slides.html#you-will-be-asked-to-keep-and-update-the-following-image-in-draw.io",
+    "title": "Lecture 01:  Let’s start at the beginning!",
+    "section": "You will be asked to keep and update the following image in draw.io",
+    "text": "You will be asked to keep and update the following image in draw.io"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#lab-01",
     "href": "slides/week01/lecture.slides.html#lab-01",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Lab 01",
-    "text": "Lab 01\n\n\nScan your attendance (?) and sit down to complete the short ‘Entry Pulse’ poll (Compulsory each week).\nVerify access to IT systems (e.g. the critically important OneDrive) and add a signature to your emails to assist College answering any questions you have.\nStart brainstorming ideas for research topics for your Mini-Dissertation.\nConsider ‘how’ you want to work this year - Help co-create a ‘Lab Ethos’ that we can share openly.\nDetailed information in the Lab 01 ‘Book’ on the VLE"
+    "text": "Lab 01\n\n\nScan your attendance, find a place to sit.\nVerify access to IT systems (e.g. the critically important OneDrive) and add a signature to your emails to assist College answering any questions you have.\nStart brainstorming ideas for research topics for your Mini-Dissertation.\nConsider ‘how’ you want to work this year\nDetailed information in Lab 01 worksheet, but allow the Lab Tutor to guide you and try to get involved!"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#please-dont-get-hung-up-on-topic-selection",
     "href": "slides/week01/lecture.slides.html#please-dont-get-hung-up-on-topic-selection",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Please don’t get hung up on topic selection",
-    "text": "Please don’t get hung up on topic selection\n\n\n\n\n\n\nTip\n\n\nYou might think coming up with a research topic is a difficult thing. For this year, it is NOT super-important. Your Lab Tutors will be available to help you make sure it’s feasible, challenging enough but not too difficult etc.\nIt does help if you are interested in it though, as it will help keep motivation up!"
+    "text": "Please don’t get hung up on topic selection\n\n\n\n\n\n\nTip\n\n\nYou might think coming up with a research topic is a difficult thing. For this year, it is NOT super-important. Your Lab Tutors will be available to help you make sure it’s feasible, challenging enough but not too difficult etc.\nIt does help if you are interested in it though, as it will help keep motivation up!\nIf in doubt.. What about Academic Success? What aspects of personality, lifestyle, behaviour, attitude, life history etc contribute to it? And how on earth do you measure Academic Success?"
+  },
+  {
+    "objectID": "slides/week01/lecture.slides.html#advance-warning",
+    "href": "slides/week01/lecture.slides.html#advance-warning",
+    "title": "Lecture 01:  Let’s start at the beginning!",
+    "section": "Advance warning",
+    "text": "Advance warning\n\n\n\n\n\n\n\n\n\nYou will confirm your group members (3 or 4), a group name (puns encouraged), and maybe a topic area in the first half hour of Lab 02. There will be no more time available. But that will have allowed you over a week to work it out. Leave this week’s lab either with a pretty good idea of who you want to work with, ot a list of the people still un-grouped in your PT group. And then sort it out."
   },
   {
     "objectID": "slides/week01/lecture.slides.html#some-things-to-consider",
     "href": "slides/week01/lecture.slides.html#some-things-to-consider",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Some things to consider",
-    "text": "Some things to consider\n\n\n\n\n\n\nCaution\n\n\n\nPicking something without much of a literature behind it can make life VERY difficult\nWe will try to make sure things remain manageable, we are not trying to ‘restrict’ you\nYou will not be able to do research\n\n\non Children\non Vulnerable or protected groups\nusing methods that require extensive training or specialist facilities (e.g. EEG, TMS)\nthat raises anything more than mild ethical considerations\nfor which recruitment will be too onerous or time-consuming"
-  },
-  {
-    "objectID": "slides/week01/lecture.slides.html#defining-how-you-wish-to-work",
-    "href": "slides/week01/lecture.slides.html#defining-how-you-wish-to-work",
-    "title": "Lecture 01:  Replace it!",
-    "section": "Defining how you wish to work",
-    "text": "Defining how you wish to work\nWe would like you to compose a ‘code of conduct’ or ‘Lab ethos’ applicable to us all this year.\nGoldsmiths Student Charter (2012) Does much change in a decade?\nBPS Research Ethics (respect, competence, responsibility, integrity)\nCorporate Culture (e.g. “Move fast and break things” i.e. approaching the task with an emphasis on speed, disruption and experimentation)\nInnovative Teaching (e.g. The Hacker School/Recurse Center - No feigning surprise, No ’Well-Actually’s, No back-seat driving, no subtle -isms)"
-  },
-  {
-    "objectID": "slides/week01/lecture.slides.html#how-will-we-approach-the-following",
-    "href": "slides/week01/lecture.slides.html#how-will-we-approach-the-following",
-    "title": "Lecture 01:  Replace it!",
-    "section": "How will we approach the following?",
-    "text": "How will we approach the following?\nInclusivity, Diversity, Equity, Privilege, Power, Intersectionality\nCommunication, Accommodation, Environment, Accessibility, Collaboration"
+    "text": "Some things to consider\n\n\n\n\n\n\nCaution\n\n\n\nPicking something without much of a literature behind it can make life VERY difficult\nWe will try to make sure things remain manageable, we are not trying to ‘restrict’ you\nYou will not be able to do research\n\n\non Children\non Vulnerable or protected groups\nusing methods that require extensive training or specialist facilities (e.g. EEG, TMS)\nthat raises anything more than minimal ethical considerations\nfor which recruitment will be too onerous or time-consuming"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#data-carpentry-suggests-the-following-for-their-labs",
     "href": "slides/week01/lecture.slides.html#data-carpentry-suggests-the-following-for-their-labs",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Data Carpentry suggests the following for their labs",
     "text": "Data Carpentry suggests the following for their labs\n\nUse welcoming and inclusive language\nBe respectful of different viewpoints and experiences\nGracefully accept constructive criticism\nFocus on what is best for the community\nShow courtesy and respect towards other community members"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#recurse-center-social-rules",
     "href": "slides/week01/lecture.slides.html#recurse-center-social-rules",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Recurse Center ‘Social Rules’",
     "text": "Recurse Center ‘Social Rules’"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#on-behalf-of-the-whole-teaching-team",
     "href": "slides/week01/lecture.slides.html#on-behalf-of-the-whole-teaching-team",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "On behalf of the whole teaching team",
     "text": "On behalf of the whole teaching team\nHave a wonderful year!\nAny Questions?"
   },
   {
     "objectID": "slides/week01/lecture.slides.html#references",
     "href": "slides/week01/lecture.slides.html#references",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 01 - Short Title"
+    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 01 - Module Overview & coursework"
   },
   {
     "objectID": "slides/week01/lecture.html",
     "href": "slides/week01/lecture.html",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "",
-    "text": "Module structure and coursework\n\nCritical Proposal (15%)\nMini-Dissertation (70%)\nConceptual, Historical & Integrative Perspectives Log (CHIP Log) (15%)\n\nLabs in general and the lab tomorrow\nMaterials, independent study, SUCCESS!\n\n\n\n\n\n\n\n\n\nFormerly worked in advertising industry for big agencies\nImpulsively started a Psych degree in 2006 (age 30+)\nMy research interests are interpersonal deception, antagonistic personalities and behaviours, and how people obtain, process, and use social information/person perception in their everyday lives\nGot my PhD in 2014, post-doc with the Intelligence Agencies, Teaching Fellow then Lecturer in the department of Psychology\nAnd I LOVE IT !! The Psychology we do here is unique!\n\n\n\n\n\n\n\nThe importance of your ‘participation’\nIf you don’t engage, it is difficult to respond to your needs\nI want you to find “MyPsychology”\nEasier to keep up than catch-up\nWe have numerous safeguards in place to protect you this year\nThe only thing that should be worried this year is Shoddy Science!"
+    "text": "Module structure and coursework introduction\n\nCritical Proposal (15%)\nMini-Dissertation (70%)\nConceptual, Historical & Integrative Perspectives Log (CHIP Log) (15%)\n\nLabs in general and the lab tomorrow\nMaterials, independent study, SUCCESS!\n\n\n\n\n\n\nFormerly worked in the advertising industry for top London agencies\nImpulsively started a Psych degree in 2006 (age 30+)\nMy research interests are interpersonal deception, antagonistic personalities and behaviours, and how people obtain, process, and use social information/person perception in their everyday lives\nGot my PhD in 2014, post-doc with the Intelligence Agencies, Teaching Fellow then Lecturer in the department of Psychology\nAnd I LOVE IT !! The Psychology we do here is unique and thrilling!\nMy mission is to turn you into Research Rebels and Data-Driven Disruptors!\n\n\n\n\n\n\n\nThe importance of your ‘participation’\nIf you don’t engage, it is difficult to respond to your needs\nI want you to find “MyPsychology”\nEasier to keep up than catch-up\nWe have numerous safeguards in place to protect you this year, but be your own best friend\nThe only thing that should be worried this year is Shoddy Science!"
   },
   {
     "objectID": "slides/week01/lecture.html#key-topics-today",
     "href": "slides/week01/lecture.html#key-topics-today",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "",
-    "text": "Module structure and coursework\n\nCritical Proposal (15%)\nMini-Dissertation (70%)\nConceptual, Historical & Integrative Perspectives Log (CHIP Log) (15%)\n\nLabs in general and the lab tomorrow\nMaterials, independent study, SUCCESS!"
+    "text": "Module structure and coursework introduction\n\nCritical Proposal (15%)\nMini-Dissertation (70%)\nConceptual, Historical & Integrative Perspectives Log (CHIP Log) (15%)\n\nLabs in general and the lab tomorrow\nMaterials, independent study, SUCCESS!"
   },
   {
-    "objectID": "slides/week01/lecture.html#but-seriously",
-    "href": "slides/week01/lecture.html#but-seriously",
-    "title": "Lecture 01:  Replace it!",
+    "objectID": "slides/week01/lecture.html#a-bit-about-me",
+    "href": "slides/week01/lecture.html#a-bit-about-me",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "",
-    "text": "Formerly worked in advertising industry for big agencies\nImpulsively started a Psych degree in 2006 (age 30+)\nMy research interests are interpersonal deception, antagonistic personalities and behaviours, and how people obtain, process, and use social information/person perception in their everyday lives\nGot my PhD in 2014, post-doc with the Intelligence Agencies, Teaching Fellow then Lecturer in the department of Psychology\nAnd I LOVE IT !! The Psychology we do here is unique!"
+    "text": "Formerly worked in the advertising industry for top London agencies\nImpulsively started a Psych degree in 2006 (age 30+)\nMy research interests are interpersonal deception, antagonistic personalities and behaviours, and how people obtain, process, and use social information/person perception in their everyday lives\nGot my PhD in 2014, post-doc with the Intelligence Agencies, Teaching Fellow then Lecturer in the department of Psychology\nAnd I LOVE IT !! The Psychology we do here is unique and thrilling!\nMy mission is to turn you into Research Rebels and Data-Driven Disruptors!"
   },
   {
     "objectID": "slides/week01/lecture.html#but-first",
     "href": "slides/week01/lecture.html#but-first",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "",
-    "text": "The importance of your ‘participation’\nIf you don’t engage, it is difficult to respond to your needs\nI want you to find “MyPsychology”\nEasier to keep up than catch-up\nWe have numerous safeguards in place to protect you this year\nThe only thing that should be worried this year is Shoddy Science!"
+    "text": "The importance of your ‘participation’\nIf you don’t engage, it is difficult to respond to your needs\nI want you to find “MyPsychology”\nEasier to keep up than catch-up\nWe have numerous safeguards in place to protect you this year, but be your own best friend\nThe only thing that should be worried this year is Shoddy Science!"
   },
   {
     "objectID": "slides/week01/lecture.html#module-weighting-and-assessment",
     "href": "slides/week01/lecture.html#module-weighting-and-assessment",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Module weighting and assessment",
-    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+    "text": "Module weighting and assessment\nResearch Methods is a 30 credit weighted module. As I always say, a coursework essay, say for Cognitive Psychology, is worth 1/10th of your Mini-Dissertation. It does NOT make sense to miss a lab working on an essay that might not even count towards your grade.\nTo pass, you must pass all 3 assessment elements:\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
   },
   {
-    "objectID": "slides/week01/lecture.html#welcome-to-research-methods",
-    "href": "slides/week01/lecture.html#welcome-to-research-methods",
-    "title": "Lecture 01:  Replace it!",
-    "section": "Welcome to Research Methods!",
-    "text": "Welcome to Research Methods!\nAPA Skillful Psychology Student\n\n\n\n\n\n\nNaufel, K. Z., Appleby, D. C., Young, J., Van Kirk, J. F., Spencer, S. M., Rudmann, J., …Richmond, A. S. (2018).The skillful psychology student: Prepared for success in the 21st century workplace. Retrieved from: https://www.apa.org/careers/resources/guides/transferable-skills.pdf"
+    "objectID": "slides/week01/lecture.html#gannt-chart",
+    "href": "slides/week01/lecture.html#gannt-chart",
+    "title": "Lecture 01:  Let’s start at the beginning!",
+    "section": "Gannt Chart",
+    "text": "Gannt Chart\n\n\n\nDeadlines"
   },
   {
     "objectID": "slides/week01/lecture.html#cognitive-skills",
     "href": "slides/week01/lecture.html#cognitive-skills",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Cognitive Skills",
     "text": "Cognitive Skills"
   },
   {
     "objectID": "slides/week01/lecture.html#communication-skills",
     "href": "slides/week01/lecture.html#communication-skills",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Communication Skills",
     "text": "Communication Skills"
   },
   {
     "objectID": "slides/week01/lecture.html#personal-skills",
     "href": "slides/week01/lecture.html#personal-skills",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Personal Skills",
     "text": "Personal Skills"
   },
   {
     "objectID": "slides/week01/lecture.html#social-skills",
     "href": "slides/week01/lecture.html#social-skills",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Social Skills",
     "text": "Social Skills"
   },
   {
     "objectID": "slides/week01/lecture.html#technological-skills",
     "href": "slides/week01/lecture.html#technological-skills",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Technological Skills",
     "text": "Technological Skills"
   },
   {
     "objectID": "slides/week01/lecture.html#these-are-valuable-skills",
     "href": "slides/week01/lecture.html#these-are-valuable-skills",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "These are valuable skills",
     "text": "These are valuable skills\nI’m going to try to ‘connect the dots’ for you along the way\n\n\nCognitive (e.g., creativity and information management).\nCommunication (e.g., active listening and public speaking).\nPersonal (e.g., conscientiousness and integrity).\nSocial (e.g., collaboration and leadership abilities).\nTechnological (e.g., flexibility and familiarity with hardware and software).\nNo actual mention of the ‘content’ - Psychology or Research"
   },
   {
     "objectID": "slides/week01/lecture.html#you-arent-spectators-any-more-youre-scientists",
     "href": "slides/week01/lecture.html#you-arent-spectators-any-more-youre-scientists",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "You aren’t spectators any more, you’re Scientists!",
     "text": "You aren’t spectators any more, you’re Scientists!\nIn small groups of 3 or 4 people, you will:\n\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area (Critical Proposal)\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format with Open Data and Materials (Mini-Diss)\nReflect on your learning and development journey (CHIP Learning Log)"
   },
   {
     "objectID": "slides/week01/lecture.html#consider-it-a-warm-up-for-your-y3-dissertation",
     "href": "slides/week01/lecture.html#consider-it-a-warm-up-for-your-y3-dissertation",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Consider it a ‘warm up’ for your Y3 Dissertation",
     "text": "Consider it a ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups - but all the same moving parts\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunities to think carefully about your final year Dissertation, and how to crush it!!"
   },
   {
     "objectID": "slides/week01/lecture.html#support-and-guidance",
     "href": "slides/week01/lecture.html#support-and-guidance",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Support and guidance",
-    "text": "Support and guidance\n\n\nGordon (Module Coordinator and Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Mini-Dissertation group (3 or 4)\nYour Personal Tutor\nYour PT group\nThe entire Goldsmiths Research Community!\n\n\nThis is a team-sport"
+    "text": "Support and guidance\n\n\nGordon (Module Coordinator and Enthusiast in Chief)\n6 gobsmackingly amazing Lab Tutors\nYour Mini-Dissertation group (3 or 4)\nYour Personal Tutor\nYour PT group\nThe entire Goldsmiths Research Community!\n\n\nThis is a team-sport"
   },
   {
     "objectID": "slides/week01/lecture.html#access-to-me",
     "href": "slides/week01/lecture.html#access-to-me",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Access to me",
-    "text": "Access to me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk and my office is WB200/1\nI genuinely could not imagine anything I would rather do that this. So please talk to me!"
+    "text": "Access to me\nI will be in every Research Methods lecture and I have a Student Hour from 1-2 (TBC) every Monday.\nAvailable at g.wright@gold.ac.uk and my office is WB200/1\nI genuinely could not imagine anything I would rather do that this. So please talk to me and help me get to know you!\nQuestions relating to Module Content must be asked via the Forum. There will be no exceptions."
   },
   {
     "objectID": "slides/week01/lecture.html#a-friendly-warning",
     "href": "slides/week01/lecture.html#a-friendly-warning",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "A friendly warning",
-    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules.\nJust don’t risk it. Be mindful of how you read, take notes and share coursework."
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules.\nJust don’t risk it. Be mindful of how you read, take notes and share coursework.\nSee previous information about the use of AI. It can be a wonderful tool, but do NOT use it for the wholesale production of written content. It must be a support, not a shortcut. You’ll regret it."
   },
   {
     "objectID": "slides/week01/lecture.html#module-structure",
     "href": "slides/week01/lecture.html#module-structure",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Module structure",
-    "text": "Module structure\n1 x 1 hr Lecture per week (Monday 11-12 PSH LG02)\n1 x 2 hr Lab per week (Tuesday in Whitehead)\n4 x Personal Tutor meetings focussed on the Mini-Diss across the year"
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday 11-12 PSH LG02 (winter term))\n1 x 2 hr Lab per week (Tuesday - see personal timetable)\n4 x Personal Tutor meetings across the year"
   },
   {
-    "objectID": "slides/week01/lecture.html#weekly-structure-lectures",
-    "href": "slides/week01/lecture.html#weekly-structure-lectures",
-    "title": "Lecture 01:  Replace it!",
-    "section": "Weekly Structure (Lectures)",
-    "text": "Weekly Structure (Lectures)\nA brief weekly ‘Prelude’ designed to introduce one of the main topics of the week (Not compulsory)\nLecture covering Methods relevant to your research, concepts and debates around CHIP, and previewing the lab session that week\n\n(recording posted automatically to Panopto)\n*Materials for following week posted on Wednesday evening\nCHIP-relevant topics to be approved as a group (more on that later)\n\n*Accessibility is important to me, so please contact me with any concerns or requests"
+    "objectID": "slides/week01/lecture.html#weekly-structure",
+    "href": "slides/week01/lecture.html#weekly-structure",
+    "title": "Lecture 01:  Let’s start at the beginning!",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Overview to set out the main topics and to give you a set of milestones or preparatory activities’ designed to keep you on track.\nLecture (slides available as a Reveal Slideshow via Quarto and as pdf, docx, and if you wish for anything else, please just ask.)\nLab\n\n\n\nLab structure\n\n\n\nLab Notebook - find a solution that works for you, but make sure that you have it every week, so a cloud-based system would be best. You will be expected to show notes of your progress to your Lab Tutor\nLots can be achieved in the labs, but independent study and coordinated group work will be required. We will be asking about this aspect of the process regularly."
   },
   {
-    "objectID": "slides/week01/lecture.html#weekly-structure-labs",
-    "href": "slides/week01/lecture.html#weekly-structure-labs",
-    "title": "Lecture 01:  Replace it!",
-    "section": "Weekly Structure (Labs)",
-    "text": "Weekly Structure (Labs)\n\n\n‘Pulse’ taken on entry - 2 minute quiz - COMPULSORY\nOneNote Lab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection (wk2)\n\nYour ‘Source of Truth’\n\nLots can be achieved in the labs, but independent study and coordinated group work will be required\nThis module is a process not a goal - approach it like an experiment!\n\n\n\n\nNO EXAM\n\nExtras provided around skills or applications or just interesting stuff (Not compulsory)"
+    "objectID": "slides/week01/lecture.html#dangerzone",
+    "href": "slides/week01/lecture.html#dangerzone",
+    "title": "Lecture 01:  Let’s start at the beginning!",
+    "section": "DangerZone",
+    "text": "DangerZone\n\n\n\n\n\nAll hail the Kenny!\n\n\n\nYou’ll never say hello to you,\nUntil you get it on the red line overload.\nYou’ll never know what you can do,\nUntil you get it up as high as you can go!\n\nMost weeks, there will be Extras - called the DangerZone [in honour of the best movie ever made (Top Gun) and the Yacht-Rock and fashion icon legend Kenny Loggins]. These are opportunities to consider aspects of Research procedure beyond the level expected for this year, but ‘on the table’ for next year and any future research endeavours. They are research-based in a loose sense - they will include programming, literature search and management, academic and knowledge management tools, tips and hacks that might (or might not) be of interest or useful. If the term is going well, they might even be fun. All ideas welcome."
   },
   {
     "objectID": "slides/week01/lecture.html#coursework",
     "href": "slides/week01/lecture.html#coursework",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Coursework",
-    "text": "Coursework\nThe courseworks ALL require reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience."
+    "text": "Coursework\nThe courseworks ALL require critical reflection and meta-cognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
   },
   {
     "objectID": "slides/week01/lecture.html#time-management-and-teamwork",
     "href": "slides/week01/lecture.html#time-management-and-teamwork",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Time management and teamwork",
-    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to deliberately practice these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability.\nIt is easier to ‘keep up than to catch up’."
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
   },
   {
     "objectID": "slides/week01/lecture.html#resources",
     "href": "slides/week01/lecture.html#resources",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Resources",
-    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will entirely relevant to your final year dissertation also.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "slides/week01/lecture.html#before-tomorrow-please",
+    "href": "slides/week01/lecture.html#before-tomorrow-please",
+    "title": "Lecture 01:  Let’s start at the beginning!",
+    "section": "Before tomorrow, please…",
+    "text": "Before tomorrow, please…\nAdd an email signature to your college email, including your student number, programme, lab tutor, and personal tutor. It will speed up responses to any emails you send to staff."
   },
   {
     "objectID": "slides/week01/lecture.html#lectures-term-one",
     "href": "slides/week01/lecture.html#lectures-term-one",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Lectures Term One",
     "text": "Lectures Term One"
   },
   {
     "objectID": "slides/week01/lecture.html#lectures-term-two",
     "href": "slides/week01/lecture.html#lectures-term-two",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Lectures Term Two",
     "text": "Lectures Term Two"
   },
   {
     "objectID": "slides/week01/lecture.html#labs-term-one",
     "href": "slides/week01/lecture.html#labs-term-one",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Labs Term One",
     "text": "Labs Term One"
   },
   {
     "objectID": "slides/week01/lecture.html#labs-term-two",
     "href": "slides/week01/lecture.html#labs-term-two",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Labs Term Two",
     "text": "Labs Term Two"
   },
   {
     "objectID": "slides/week01/lecture.html#mini-dissertation-structure",
     "href": "slides/week01/lecture.html#mini-dissertation-structure",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Mini-Dissertation structure",
     "text": "Mini-Dissertation structure\nYour individual Mini-Dissertation project MUST conform to the following definitive rules:\n\n\n2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a single continuous DV\nYou must obtain ethical approval and show individual involvement in the process of application\nYou must make a sample size estimation / Power calculation\nYou must contribute to group recruitment and data collection efforts either online or in-person"
   },
   {
     "objectID": "slides/week01/lecture.html#mini-dissertation-submission",
     "href": "slides/week01/lecture.html#mini-dissertation-submission",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Mini-Dissertation Submission",
-    "text": "Mini-Dissertation Submission\nYour Mini-Dissertation final submission must comprise ALL of the following COMPULSORY elements:\n\n\na 2,500 word APA7 empirical paper with a complete reference list and appendices\nOpen Data - a single, cleaned, clearly-labelled data set\nOpen Materials - a complete, replication-ready materials package detailing materials relevant to your individual write-up\nA reflective account covering the Mini-Dissertation AND the PS52005C Design & Analysis quizzes and how they contributed to your development this year"
+    "text": "Mini-Dissertation Submission\nYour Mini-Dissertation final submission must comprise ALL of the following COMPULSORY elements:\n\n\na 2,500 word APA7 empirical paper with a complete reference list and appendices\nOpen Data - a single, cleaned, clearly-labelled data set\nOpen Materials - a complete, replication-ready materials package detailing materials relevant to your individual write-up\nA reflective account covering the Mini-Dissertation (not a moan about your group or strikes or having to do research)"
   },
   {
     "objectID": "slides/week01/lecture.html#illustrative-md-topics",
     "href": "slides/week01/lecture.html#illustrative-md-topics",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Illustrative MD topics",
     "text": "Illustrative MD topics\n\n\nThe effect of gender stereotype and task difficulty on memory performance\nThe role of facial symmetry and filter type on ratings of attractiveness of online dating profile pictures\nExposure to negative news media, trait anxiety and the BAME community under COVID-19\nThe effects of Agentic and Communal Narcissism, attitudes towards COVID-19 and lockdown compliance\nThe effect of personality and sleep disturbance on academic performance\nNeed for cognition, pre-sentencing information and perceptions of guilt in a jury decision making task"
   },
   {
     "objectID": "slides/week01/lecture.html#but-lets-deep-dive-this-one",
     "href": "slides/week01/lecture.html#but-lets-deep-dive-this-one",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "But let’s deep dive this one",
-    "text": "But let’s deep dive this one\nThe effect of Conscientiousness and Caffeine intake on Academic Self-Handicapping\n\n\nThe effect of Independent Variable 1 and Independent Variable 2 on a continuous Dependent Variable \nConscientiousness (Low or high - Independent Variable IV1)\nCaffeine intake (Low or high - Independent Variable IV2)\nAcademic Self-Handicapping (6 item 1-5 Likert style, ‘continuous’ Dependent Variable DV)\nWhat about the other 3 people in the group?"
+    "text": "But let’s deep dive this one\nThe effect of Conscientiousness and Caffeine intake on Academic Self-Handicapping\n\n\nThe effect of Independent Variable A and Independent Variable B on a continuous Dependent Variable \nConscientiousness IV(A1) Low or IV(A2) high - Independent Variable IV(A)\nCaffeine intake IV(B1) Low or IV(B2) high - Independent Variable IV(B)\nAcademic Self-Handicapping (6 item 1-5 Likert style, ‘continuous’ Dependent Variable DV)\nWhat about the other 3 people in the group?"
   },
   {
     "objectID": "slides/week01/lecture.html#rest-of-the-group",
     "href": "slides/week01/lecture.html#rest-of-the-group",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Rest of the group:",
-    "text": "Rest of the group:\nThe effect of Conscientiousness and Caffeine intake on Academic Self-Handicapping \n\n\nExtraversion (Low/High) & Sleep (Sound/Disturbed) on ASH \nOpenness to experience (Low/High) & Family Attitude to Education (Pro/Con) on ASH \nNeuroticism (Low/High) & Attitude to Feedback (Open/Sensitive) on ASH\n\nNot too complicated, right?\nCan you see the economies of effort and implicit support opps?"
+    "text": "Rest of the group:\nThe effect of Conscientiousness and Caffeine intake on Academic Self-Handicapping \n\n\nExtraversion (Low/High) & Sleep (Sound/Disturbed) on ASH \nOpenness to experience (Low/High) & Family Attitude to Education (Pro/Con) on ASH \nNeuroticism (Low/High) & Attitude to Feedback (Open/Sensitive) on ASH\n\nNot too complicated, right?\nCan you see the economies of effort and implicit support opportunities?"
+  },
+  {
+    "objectID": "slides/week01/lecture.html#you-will-be-asked-to-keep-and-update-the-following-image-in-draw.io",
+    "href": "slides/week01/lecture.html#you-will-be-asked-to-keep-and-update-the-following-image-in-draw.io",
+    "title": "Lecture 01:  Let’s start at the beginning!",
+    "section": "You will be asked to keep and update the following image in draw.io",
+    "text": "You will be asked to keep and update the following image in draw.io"
   },
   {
     "objectID": "slides/week01/lecture.html#lab-01",
     "href": "slides/week01/lecture.html#lab-01",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Lab 01",
-    "text": "Lab 01\n\n\nScan your attendance (?) and sit down to complete the short ‘Entry Pulse’ poll (Compulsory each week).\nVerify access to IT systems (e.g. the critically important OneDrive) and add a signature to your emails to assist College answering any questions you have.\nStart brainstorming ideas for research topics for your Mini-Dissertation.\nConsider ‘how’ you want to work this year - Help co-create a ‘Lab Ethos’ that we can share openly.\nDetailed information in the Lab 01 ‘Book’ on the VLE"
+    "text": "Lab 01\n\n\nScan your attendance, find a place to sit.\nVerify access to IT systems (e.g. the critically important OneDrive) and add a signature to your emails to assist College answering any questions you have.\nStart brainstorming ideas for research topics for your Mini-Dissertation.\nConsider ‘how’ you want to work this year\nDetailed information in Lab 01 worksheet, but allow the Lab Tutor to guide you and try to get involved!"
   },
   {
     "objectID": "slides/week01/lecture.html#please-dont-get-hung-up-on-topic-selection",
     "href": "slides/week01/lecture.html#please-dont-get-hung-up-on-topic-selection",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Please don’t get hung up on topic selection",
-    "text": "Please don’t get hung up on topic selection\n\n\n\n\n\n\nTip\n\n\n\n\n\nYou might think coming up with a research topic is a difficult thing. For this year, it is NOT super-important. Your Lab Tutors will be available to help you make sure it’s feasible, challenging enough but not too difficult etc.\nIt does help if you are interested in it though, as it will help keep motivation up!"
+    "text": "Please don’t get hung up on topic selection\n\n\n\n\n\n\nTip\n\n\n\n\n\nYou might think coming up with a research topic is a difficult thing. For this year, it is NOT super-important. Your Lab Tutors will be available to help you make sure it’s feasible, challenging enough but not too difficult etc.\nIt does help if you are interested in it though, as it will help keep motivation up!\nIf in doubt.. What about Academic Success? What aspects of personality, lifestyle, behaviour, attitude, life history etc contribute to it? And how on earth do you measure Academic Success?"
+  },
+  {
+    "objectID": "slides/week01/lecture.html#advance-warning",
+    "href": "slides/week01/lecture.html#advance-warning",
+    "title": "Lecture 01:  Let’s start at the beginning!",
+    "section": "Advance warning",
+    "text": "Advance warning\n\n\n\n\n\n\n\n\n\n\nYou will confirm your group members (3 or 4), a group name (puns encouraged), and maybe a topic area in the first half hour of Lab 02. There will be no more time available. But that will have allowed you over a week to work it out. Leave this week’s lab either with a pretty good idea of who you want to work with, ot a list of the people still un-grouped in your PT group. And then sort it out."
   },
   {
     "objectID": "slides/week01/lecture.html#some-things-to-consider",
     "href": "slides/week01/lecture.html#some-things-to-consider",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Some things to consider",
-    "text": "Some things to consider\n\n\n\n\n\n\nCaution\n\n\n\n\nPicking something without much of a literature behind it can make life VERY difficult\nWe will try to make sure things remain manageable, we are not trying to ‘restrict’ you\nYou will not be able to do research\n\n\non Children\non Vulnerable or protected groups\nusing methods that require extensive training or specialist facilities (e.g. EEG, TMS)\nthat raises anything more than mild ethical considerations\nfor which recruitment will be too onerous or time-consuming"
-  },
-  {
-    "objectID": "slides/week01/lecture.html#defining-how-you-wish-to-work",
-    "href": "slides/week01/lecture.html#defining-how-you-wish-to-work",
-    "title": "Lecture 01:  Replace it!",
-    "section": "Defining how you wish to work",
-    "text": "Defining how you wish to work\nWe would like you to compose a ‘code of conduct’ or ‘Lab ethos’ applicable to us all this year.\nGoldsmiths Student Charter (2012) Does much change in a decade?\nBPS Research Ethics (respect, competence, responsibility, integrity)\nCorporate Culture (e.g. “Move fast and break things” i.e. approaching the task with an emphasis on speed, disruption and experimentation)\nInnovative Teaching (e.g. The Hacker School/Recurse Center - No feigning surprise, No ’Well-Actually’s, No back-seat driving, no subtle -isms)"
-  },
-  {
-    "objectID": "slides/week01/lecture.html#how-will-we-approach-the-following",
-    "href": "slides/week01/lecture.html#how-will-we-approach-the-following",
-    "title": "Lecture 01:  Replace it!",
-    "section": "How will we approach the following?",
-    "text": "How will we approach the following?\nInclusivity, Diversity, Equity, Privilege, Power, Intersectionality\nCommunication, Accommodation, Environment, Accessibility, Collaboration"
+    "text": "Some things to consider\n\n\n\n\n\n\nCaution\n\n\n\n\nPicking something without much of a literature behind it can make life VERY difficult\nWe will try to make sure things remain manageable, we are not trying to ‘restrict’ you\nYou will not be able to do research\n\n\non Children\non Vulnerable or protected groups\nusing methods that require extensive training or specialist facilities (e.g. EEG, TMS)\nthat raises anything more than minimal ethical considerations\nfor which recruitment will be too onerous or time-consuming"
   },
   {
     "objectID": "slides/week01/lecture.html#data-carpentry-suggests-the-following-for-their-labs",
     "href": "slides/week01/lecture.html#data-carpentry-suggests-the-following-for-their-labs",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Data Carpentry suggests the following for their labs",
     "text": "Data Carpentry suggests the following for their labs\n\nUse welcoming and inclusive language\nBe respectful of different viewpoints and experiences\nGracefully accept constructive criticism\nFocus on what is best for the community\nShow courtesy and respect towards other community members"
   },
   {
     "objectID": "slides/week01/lecture.html#recurse-center-social-rules",
     "href": "slides/week01/lecture.html#recurse-center-social-rules",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "Recurse Center ‘Social Rules’",
     "text": "Recurse Center ‘Social Rules’"
   },
   {
     "objectID": "slides/week01/lecture.html#on-behalf-of-the-whole-teaching-team",
     "href": "slides/week01/lecture.html#on-behalf-of-the-whole-teaching-team",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "On behalf of the whole teaching team",
     "text": "On behalf of the whole teaching team\nHave a wonderful year!\n\nAny Questions?"
   },
   {
     "objectID": "slides/week01/lecture.html#references",
     "href": "slides/week01/lecture.html#references",
-    "title": "Lecture 01:  Replace it!",
+    "title": "Lecture 01:  Let’s start at the beginning!",
     "section": "References",
     "text": "References"
   },
   {
-    "objectID": "slides/week01/lab.slides.html#heading-2---new-slide-title",
-    "href": "slides/week01/lab.slides.html#heading-2---new-slide-title",
-    "title": "Lab 01:  Replace it!",
-    "section": "Heading 2 - new slide title",
-    "text": "Heading 2 - new slide title\nHeading 2 copy\nHeading 3 - italic emphasis"
+    "objectID": "slides/week01/lab.slides.html#my-role-as-lab-tutor",
+    "href": "slides/week01/lab.slides.html#my-role-as-lab-tutor",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "My role as Lab Tutor",
+    "text": "My role as Lab Tutor\n\nTo help you every step of the way\nYour first point of contact for questions or queries on Research Methods\nTo share my passion for research and the experience I have gained\nTo show how I have learned to find answers and solve problems\nTo challenge you to achieve your best this year and next"
   },
   {
-    "objectID": "slides/week01/lab.slides.html#spans-for-text-accentuation---available-in-source-mode",
-    "href": "slides/week01/lab.slides.html#spans-for-text-accentuation---available-in-source-mode",
-    "title": "Lab 01:  Replace it!",
-    "section": "Spans for text accentuation - available in source mode",
-    "text": "Spans for text accentuation - available in source mode\n.shout accent3(red) 1.5em and Bold\n.alert accent3(red) no change to font size\n.fg .bg\n.button accent1 whitetext button for link\n.button-success\n.takeaway\n.highlight"
+    "objectID": "slides/week01/lab.slides.html#not",
+    "href": "slides/week01/lab.slides.html#not",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "Not",
+    "text": "Not\n\nTo do the work for you\nTo chase you or to make you do your work (attendance and coursework is compulsory!)\nTo tell anybody how to behave either individually or in your groups"
   },
   {
-    "objectID": "slides/week01/lab.slides.html#citations",
-    "href": "slides/week01/lab.slides.html#citations",
-    "title": "Lab 01:  Replace it!",
-    "section": "Citations",
-    "text": "Citations\nWright et al. (2012)\nCohen (1992) In text citation @Cohen1992\n(Cohen, 1992) not in-text citation `(Cohen, 1992)\njust type `@` and a search box comes up for your Zotero library or a .bib file associated with the project"
+    "objectID": "slides/week01/lab.slides.html#of-our-focus-in-the-lab",
+    "href": "slides/week01/lab.slides.html#of-our-focus-in-the-lab",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "100% of our focus in the lab",
+    "text": "100% of our focus in the lab\n\nWe are here to be your guide and mentor in the lab\nOutside of lab hours, your point of contact is Gordon\nIf you have an emergency, your Personal Tutor or Gordon are your primary contacts"
   },
   {
-    "objectID": "slides/week01/lab.slides.html#imagecontent-2-column",
-    "href": "slides/week01/lab.slides.html#imagecontent-2-column",
-    "title": "Lab 01:  Replace it!",
-    "section": "Image|content 2 column",
-    "text": "Image|content 2 column\nSlide with image and commentary in two columns and some explanatory text above\ntext text text text text text text text text text text text\ntext text text text text text text text text text text text\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+    "objectID": "slides/week01/lab.slides.html#lab-structure",
+    "href": "slides/week01/lab.slides.html#lab-structure",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "Lab structure",
+    "text": "Lab structure\nThis should be familiar to you now. Any questions?"
   },
   {
-    "objectID": "slides/week01/lab.slides.html#callouts",
-    "href": "slides/week01/lab.slides.html#callouts",
-    "title": "Lab 01:  Replace it!",
-    "section": "Callouts",
-    "text": "Callouts"
+    "objectID": "slides/week01/lab.slides.html#goals-for-todaythis-week",
+    "href": "slides/week01/lab.slides.html#goals-for-todaythis-week",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "Goals for today/this week",
+    "text": "Goals for today/this week\nThe immediate goals for this session, and for this week (including your independent study time)\n\nIdentify potential group members and have this confirmed by the start of Lab 2\nIdentify potential research topics and methodologies you might use\nClarify any questions that may persist\nAfter today, we move on and start doing work. Any more time spent on these tasks is wasted time.\nYou should be almost sorted by the end of the session today, at least with a short-list of topics, methods, or potential team-mates, and prepared to use independent study time to finalise your group (for sure) or to continue thinking about topics & methods.\nNext week will be Literature search support for this module and the Personality Essay (Double Whammy!) and discussing Effect Sizes and how to calculate and convert them. A requirement for the week 3 Essay Submission! (Triple Whammy?)"
   },
   {
-    "objectID": "slides/week01/lab.slides.html#note-callouts",
-    "href": "slides/week01/lab.slides.html#note-callouts",
-    "title": "Lab 01:  Replace it!",
-    "section": "Note Callouts",
-    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\ncontent\n\n\n\n\n\n\n\n\n\nNote simple\n\n\ncontent\n\n\n\n\n\n\nNote minimal\n\n\ncontent"
+    "objectID": "slides/week01/lab.slides.html#the-rules-of-the-mini-dissertation-game",
+    "href": "slides/week01/lab.slides.html#the-rules-of-the-mini-dissertation-game",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "The rules of the Mini-Dissertation game",
+    "text": "The rules of the Mini-Dissertation game\n\nYour ultimate individual Mini-Dissertation project MUST conform to the following definitive rules:\n2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a single continuous DV\nYou must obtain ethical approval and prove individual involvement in the process of application\nYou must make a sample size estimation / Power calculation\nYou must collect data online and individually contribute to group data collection efforts\nYour Mini-Dissertation final submission must comprise:\n\na 2500 word APA7 empirical paper with a critical reflection and complete reference list\na single, cleaned, clearly-labelled data set in Excel format (or similar) - Open Data\na complete, replication-ready materials document detailing materials relevant to your submission - Open Materials"
   },
   {
-    "objectID": "slides/week01/lab.slides.html#icons-by-fontawesome",
-    "href": "slides/week01/lab.slides.html#icons-by-fontawesome",
-    "title": "Lab 01:  Replace it!",
-    "section": "Icons by FontAwesome",
-    "text": "Icons by FontAwesome\nThese are cool  but they do need a full render e.g. $ quarto render in order to be seen.\nThey can also be used in pdfs\n\nFontawesome\n\n\n\n\n\n\ninput\noutput\n\n\n\n\n{{&lt; fa binoculars &gt;}}\n Prepare\n\n\n{{&lt; fa chalkboard-teacher &gt;}}\n Lecture\n\n\n{{&lt; fa users &gt;}}\n Lab\n\n\n{{&lt; fa bookmark &gt;}}\n Reading\n\n\n{{&lt; fa book &gt;}}\n Mini-Dissertation"
+    "objectID": "slides/week01/lab.slides.html#critical-proposal",
+    "href": "slides/week01/lab.slides.html#critical-proposal",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "Critical Proposal",
+    "text": "Critical Proposal\nThere is a detailed brief on the Critical Proposal (Due Week 5) on the VLE.\nIt will be the focus of week 3 in both Lecture and Lab, but requires you to identify an empirical paper on your research topic, so more on that in due course."
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#activities-for-today.",
+    "href": "slides/week01/lab.slides.html#activities-for-today.",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "Activities for today.",
+    "text": "Activities for today.\nThese labs are driven by you. The only things that will EVER be compulsory are short administrative tasks on a roughly fortnightly basis (group progress update) and the next activity. Otherwise you can use the time as you see fit either alone or in your group, but we know that there is wisdom in the crowd for coming up with topic ideas, identifying cool research ideas and setting the tone for the year ahead."
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#lets-get-going.",
+    "href": "slides/week01/lab.slides.html#lets-get-going.",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "Let’s get going.",
+    "text": "Let’s get going.\n\nLab Challenge! [15 mins]\nResearch Skill Audit\nTopic Speed Dating\nMethods Matching\nGoal Alignment and Group Ethos"
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#lab-challenge",
+    "href": "slides/week01/lab.slides.html#lab-challenge",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "Lab Challenge",
+    "text": "Lab Challenge\nTo be introduced by the Lab Tutor. hehe!"
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#research-skill-audit",
+    "href": "slides/week01/lab.slides.html#research-skill-audit",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "Research Skill Audit",
+    "text": "Research Skill Audit\nBy assessing your current confidence level, you will be able to think strategically about the 20 weeks ahead."
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#topic-speed-dating",
+    "href": "slides/week01/lab.slides.html#topic-speed-dating",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "Topic Speed Dating",
+    "text": "Topic Speed Dating\nThe worksheet will provide some tips and ideas for finding a topic to research. Even if you think you’ve nailed it, let’s discuss it."
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#methods-matching",
+    "href": "slides/week01/lab.slides.html#methods-matching",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "Methods Matching",
+    "text": "Methods Matching\nIt is easy to only think about online questionnaires. It may be some of the only research you’ve done, but frankly, it would be a shame to not think more expansively. Some ideas will be discussed, and a discussion about the Lab Challenge might prompt some ideas."
+  },
+  {
+    "objectID": "slides/week01/lab.slides.html#goal-alignment-and-group-ethos",
+    "href": "slides/week01/lab.slides.html#goal-alignment-and-group-ethos",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "Goal Alignment and Group Ethos",
+    "text": "Goal Alignment and Group Ethos\nAnother aspect of effective Group work is Goal Alignment. Even if you are working with your best buddy, they may want to just get in and out, while you want to immerse yourself in the task ahead.\nThis would be a conflict that is potentially dangerous. Think about your goals, your aspirations, and then consider how your might formalise these in to a set of guidelines.\nPlease do take the time to do this. Being able to point to a set of principles (for your group or for the whole lab) may smooth the process or be of help in resolving difficulties."
   },
   {
     "objectID": "slides/week01/lab.slides.html#references",
     "href": "slides/week01/lab.slides.html#references",
-    "title": "Lab 01:  Replace it!",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
     "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 01 - Short Title\n\n\n \n\n\n\n\nCohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–155. https://doi.org/10.1037/0033-2909.112.1.155\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
+    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 01 - Short Title"
   },
   {
-    "objectID": "slides/week01/lab.html#heading-2---new-slide-title",
-    "href": "slides/week01/lab.html#heading-2---new-slide-title",
-    "title": "Lab 01:  Replace it!",
-    "section": "Heading 2 - new slide title",
-    "text": "Heading 2 - new slide title\nHeading 2 copy\n\nHeading 3 - italic emphasis"
+    "objectID": "slides/week01/lab.html",
+    "href": "slides/week01/lab.html",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "To help you every step of the way\nYour first point of contact for questions or queries on Research Methods\nTo share my passion for research and the experience I have gained\nTo show how I have learned to find answers and solve problems\nTo challenge you to achieve your best this year and next\n\n\n\n\n\nTo do the work for you\nTo chase you or to make you do your work (attendance and coursework is compulsory!)\nTo tell anybody how to behave either individually or in your groups\n\n\n\n\n\nWe are here to be your guide and mentor in the lab\nOutside of lab hours, your point of contact is Gordon\nIf you have an emergency, your Personal Tutor or Gordon are your primary contacts\n\n\n\n\nThis should be familiar to you now. Any questions?\n\n\n\n\nThe immediate goals for this session, and for this week (including your independent study time)\n\nIdentify potential group members and have this confirmed by the start of Lab 2\nIdentify potential research topics and methodologies you might use\nClarify any questions that may persist\nAfter today, we move on and start doing work. Any more time spent on these tasks is wasted time.\nYou should be almost sorted by the end of the session today, at least with a short-list of topics, methods, or potential team-mates, and prepared to use independent study time to finalise your group (for sure) or to continue thinking about topics & methods.\nNext week will be Literature search support for this module and the Personality Essay (Double Whammy!) and discussing Effect Sizes and how to calculate and convert them. A requirement for the week 3 Essay Submission! (Triple Whammy?)\n\n\n\n\n\nYour ultimate individual Mini-Dissertation project MUST conform to the following definitive rules:\n2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a single continuous DV\nYou must obtain ethical approval and prove individual involvement in the process of application\nYou must make a sample size estimation / Power calculation\nYou must collect data online and individually contribute to group data collection efforts\nYour Mini-Dissertation final submission must comprise:\n\na 2500 word APA7 empirical paper with a critical reflection and complete reference list\na single, cleaned, clearly-labelled data set in Excel format (or similar) - Open Data\na complete, replication-ready materials document detailing materials relevant to your submission - Open Materials\n\n\n\n\n\nThere is a detailed brief on the Critical Proposal (Due Week 5) on the VLE.\nIt will be the focus of week 3 in both Lecture and Lab, but requires you to identify an empirical paper on your research topic, so more on that in due course.\n\n\n\nThese labs are driven by you. The only things that will EVER be compulsory are short administrative tasks on a roughly fortnightly basis (group progress update) and the next activity. Otherwise you can use the time as you see fit either alone or in your group, but we know that there is wisdom in the crowd for coming up with topic ideas, identifying cool research ideas and setting the tone for the year ahead.\n\n\n\n\nLab Challenge! [15 mins]\nResearch Skill Audit\nTopic Speed Dating\nMethods Matching\nGoal Alignment and Group Ethos\n\n\n\n\nTo be introduced by the Lab Tutor. hehe!\n\n\n\nBy assessing your current confidence level, you will be able to think strategically about the 20 weeks ahead.\n\n\n\nThe worksheet will provide some tips and ideas for finding a topic to research. Even if you think you’ve nailed it, let’s discuss it.\n\n\n\nIt is easy to only think about online questionnaires. It may be some of the only research you’ve done, but frankly, it would be a shame to not think more expansively. Some ideas will be discussed, and a discussion about the Lab Challenge might prompt some ideas.\n\n\n\nAnother aspect of effective Group work is Goal Alignment. Even if you are working with your best buddy, they may want to just get in and out, while you want to immerse yourself in the task ahead.\nThis would be a conflict that is potentially dangerous. Think about your goals, your aspirations, and then consider how your might formalise these in to a set of guidelines.\nPlease do take the time to do this. Being able to point to a set of principles (for your group or for the whole lab) may smooth the process or be of help in resolving difficulties."
   },
   {
-    "objectID": "slides/week01/lab.html#spans-for-text-accentuation---available-in-source-mode",
-    "href": "slides/week01/lab.html#spans-for-text-accentuation---available-in-source-mode",
-    "title": "Lab 01:  Replace it!",
-    "section": "Spans for text accentuation - available in source mode",
-    "text": "Spans for text accentuation - available in source mode\n.shout accent3(red) 1.5em and Bold\n.alert accent3(red) no change to font size\n.fg .bg\n.button accent1 whitetext button for link\n.button-success\n.takeaway\n.highlight"
+    "objectID": "slides/week01/lab.html#my-role-as-lab-tutor",
+    "href": "slides/week01/lab.html#my-role-as-lab-tutor",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "To help you every step of the way\nYour first point of contact for questions or queries on Research Methods\nTo share my passion for research and the experience I have gained\nTo show how I have learned to find answers and solve problems\nTo challenge you to achieve your best this year and next"
   },
   {
-    "objectID": "slides/week01/lab.html#citations",
-    "href": "slides/week01/lab.html#citations",
-    "title": "Lab 01:  Replace it!",
-    "section": "Citations",
-    "text": "Citations\nWright et al. (2012)\nCohen (1992) In text citation @Cohen1992\n(Cohen, 1992) not in-text citation `(Cohen, 1992)\njust type `@` and a search box comes up for your Zotero library or a .bib file associated with the project"
+    "objectID": "slides/week01/lab.html#not",
+    "href": "slides/week01/lab.html#not",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "To do the work for you\nTo chase you or to make you do your work (attendance and coursework is compulsory!)\nTo tell anybody how to behave either individually or in your groups"
   },
   {
-    "objectID": "slides/week01/lab.html#imagecontent-2-column",
-    "href": "slides/week01/lab.html#imagecontent-2-column",
-    "title": "Lab 01:  Replace it!",
-    "section": "Image|content 2 column",
-    "text": "Image|content 2 column\nSlide with image and commentary in two columns and some explanatory text above\ntext text text text text text text text text text text text\ntext text text text text text text text text text text text\n\n\n\n\nHere is some text\n\nBullet 1\nBullet 2\nBullet 3"
+    "objectID": "slides/week01/lab.html#of-our-focus-in-the-lab",
+    "href": "slides/week01/lab.html#of-our-focus-in-the-lab",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "We are here to be your guide and mentor in the lab\nOutside of lab hours, your point of contact is Gordon\nIf you have an emergency, your Personal Tutor or Gordon are your primary contacts"
   },
   {
-    "objectID": "slides/week01/lab.html#callouts",
-    "href": "slides/week01/lab.html#callouts",
-    "title": "Lab 01:  Replace it!",
-    "section": "Callouts",
-    "text": "Callouts"
+    "objectID": "slides/week01/lab.html#lab-structure",
+    "href": "slides/week01/lab.html#lab-structure",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "This should be familiar to you now. Any questions?"
   },
   {
-    "objectID": "slides/week01/lab.html#note-callouts",
-    "href": "slides/week01/lab.html#note-callouts",
-    "title": "Lab 01:  Replace it!",
-    "section": "Note Callouts",
-    "text": "Note Callouts\n\n\n\n\n\n\nNote default\n\n\n\ncontent\n\n\n\n\n\n\n\n\nNote simple\n\n\n\ncontent\n\n\n\n\n\n\n\n\nNote minimal\n\n\n\ncontent"
+    "objectID": "slides/week01/lab.html#goals-for-todaythis-week",
+    "href": "slides/week01/lab.html#goals-for-todaythis-week",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "The immediate goals for this session, and for this week (including your independent study time)\n\nIdentify potential group members and have this confirmed by the start of Lab 2\nIdentify potential research topics and methodologies you might use\nClarify any questions that may persist\nAfter today, we move on and start doing work. Any more time spent on these tasks is wasted time.\nYou should be almost sorted by the end of the session today, at least with a short-list of topics, methods, or potential team-mates, and prepared to use independent study time to finalise your group (for sure) or to continue thinking about topics & methods.\nNext week will be Literature search support for this module and the Personality Essay (Double Whammy!) and discussing Effect Sizes and how to calculate and convert them. A requirement for the week 3 Essay Submission! (Triple Whammy?)"
   },
   {
-    "objectID": "slides/week01/lab.html#icons-by-fontawesome",
-    "href": "slides/week01/lab.html#icons-by-fontawesome",
-    "title": "Lab 01:  Replace it!",
-    "section": "Icons by FontAwesome",
-    "text": "Icons by FontAwesome\nThese are cool  but they do need a full render e.g. $ quarto render in order to be seen.\nThey can also be used in pdfs\n\nFontawesome\n\n\n\n\n\n\ninput\noutput\n\n\n\n\n{{&lt; fa binoculars &gt;}}\n Prepare\n\n\n{{&lt; fa chalkboard-teacher &gt;}}\n Lecture\n\n\n{{&lt; fa users &gt;}}\n Lab\n\n\n{{&lt; fa bookmark &gt;}}\n Reading\n\n\n{{&lt; fa book &gt;}}\n Mini-Dissertation"
+    "objectID": "slides/week01/lab.html#the-rules-of-the-mini-dissertation-game",
+    "href": "slides/week01/lab.html#the-rules-of-the-mini-dissertation-game",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "Your ultimate individual Mini-Dissertation project MUST conform to the following definitive rules:\n2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a single continuous DV\nYou must obtain ethical approval and prove individual involvement in the process of application\nYou must make a sample size estimation / Power calculation\nYou must collect data online and individually contribute to group data collection efforts\nYour Mini-Dissertation final submission must comprise:\n\na 2500 word APA7 empirical paper with a critical reflection and complete reference list\na single, cleaned, clearly-labelled data set in Excel format (or similar) - Open Data\na complete, replication-ready materials document detailing materials relevant to your submission - Open Materials"
+  },
+  {
+    "objectID": "slides/week01/lab.html#critical-proposal",
+    "href": "slides/week01/lab.html#critical-proposal",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "There is a detailed brief on the Critical Proposal (Due Week 5) on the VLE.\nIt will be the focus of week 3 in both Lecture and Lab, but requires you to identify an empirical paper on your research topic, so more on that in due course."
+  },
+  {
+    "objectID": "slides/week01/lab.html#activities-for-today.",
+    "href": "slides/week01/lab.html#activities-for-today.",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "These labs are driven by you. The only things that will EVER be compulsory are short administrative tasks on a roughly fortnightly basis (group progress update) and the next activity. Otherwise you can use the time as you see fit either alone or in your group, but we know that there is wisdom in the crowd for coming up with topic ideas, identifying cool research ideas and setting the tone for the year ahead."
+  },
+  {
+    "objectID": "slides/week01/lab.html#lets-get-going.",
+    "href": "slides/week01/lab.html#lets-get-going.",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "Lab Challenge! [15 mins]\nResearch Skill Audit\nTopic Speed Dating\nMethods Matching\nGoal Alignment and Group Ethos"
+  },
+  {
+    "objectID": "slides/week01/lab.html#lab-challenge",
+    "href": "slides/week01/lab.html#lab-challenge",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "To be introduced by the Lab Tutor. hehe!"
+  },
+  {
+    "objectID": "slides/week01/lab.html#research-skill-audit",
+    "href": "slides/week01/lab.html#research-skill-audit",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "By assessing your current confidence level, you will be able to think strategically about the 20 weeks ahead."
+  },
+  {
+    "objectID": "slides/week01/lab.html#topic-speed-dating",
+    "href": "slides/week01/lab.html#topic-speed-dating",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "The worksheet will provide some tips and ideas for finding a topic to research. Even if you think you’ve nailed it, let’s discuss it."
+  },
+  {
+    "objectID": "slides/week01/lab.html#methods-matching",
+    "href": "slides/week01/lab.html#methods-matching",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "It is easy to only think about online questionnaires. It may be some of the only research you’ve done, but frankly, it would be a shame to not think more expansively. Some ideas will be discussed, and a discussion about the Lab Challenge might prompt some ideas."
+  },
+  {
+    "objectID": "slides/week01/lab.html#goal-alignment-and-group-ethos",
+    "href": "slides/week01/lab.html#goal-alignment-and-group-ethos",
+    "title": "Lab 01:  Group formation and Topic Brainstorm!",
+    "section": "",
+    "text": "Another aspect of effective Group work is Goal Alignment. Even if you are working with your best buddy, they may want to just get in and out, while you want to immerse yourself in the task ahead.\nThis would be a conflict that is potentially dangerous. Think about your goals, your aspirations, and then consider how your might formalise these in to a set of guidelines.\nPlease do take the time to do this. Being able to point to a set of principles (for your group or for the whole lab) may smooth the process or be of help in resolving difficulties."
+  },
+  {
+    "objectID": "slides/week00/lecture.html",
+    "href": "slides/week00/lecture.html",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "This year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format\n\n\n\n\n\nDo not worry! It’s going to be a great adventure!\n\n\n\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!\n\n\n\n\n\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n6 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport\n\n\n\nI will be in every Research Methods lecture and I have a Student Hour from 1-2(tbc) every Monday.\nAvailable at g.wright@gold.ac.uk\nI genuinely couldn’t imagine anything I would rather do that this. Please talk to me and help me get to know you!\n\n\n\nResearch Methods has a 30 credit weighting, meaning that the Mini-Dissertation contributes 10x the developmental essay. Keep that in mind.\nTo pass, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)\n\n\n\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules. AI can (and likely should) be used for many aspects of the research process, and these will be indicated and guidance offered. However, the use of Generative AI to produce written work that you submit is not acceptable. Don’t make the mistake of falling for the superficially charming output of even the more advanced LLMs, it will not follow the requirements we impose, and it could hallucinate, and how would you know? Don’t risk it.\n\n\n\n\n\n1 x 1 hr Lecture per week (Monday 11-12 PSH LG02 (winter term))\n1 x 2 hr Lab per week (Tuesday - see personal timetable)\n4 x Personal Tutor meetings across the year\n\n\n\nEach week there will be a very brief Overview to set out the main topics and to give you a set of milestones or preparatory activities designed to keep you on track.\nLecture (slides available as a Reveal Slideshow via Quarto and as pdf, docx, and if you wish for anything else, please just ask.)\n\n\n\n\n\n\nLab structure\n\n\n\nLab Notebook - find a solution that works for you, but make sure that you have it every week, so a cloud-based system would be best. You will be expected to show notes of your progress to your Lab Tutor\nLots can be achieved in the labs, but independent study and coordinated group work will be required. We will be asking about this aspect of the process regularly.\n\n\n\n\n\n\n\n\n\nAll hail the Kenny!\n\n\n\n“You’ll never say hello to you,\nUntil you get it on the red line overload.\nYou’ll never know what you can do,\nUntil you get it up as high as you can go!”\nDangerzone - Loggins, K.\n\nMost weeks, there will be extra morsels - called the DangerZone [in honour of the best movie ever made (Top Gun) and the Yacht-Rock and fashion icon legend Kenny Loggins].\n\n\n\n\n\nDangerZone are opportunities to consider aspects of research procedure beyond the level expected for this year, but ‘on the table’ for next year and any future research endeavours.\nThey are research-based in a loose sense - they will include programming, literature search and management, academic and knowledge management tools, tips and hacks that might (or might not) be of interest or useful.\nIf the term is going well, they might even be fun. All ideas welcome.\n\n\n\nThe courseworks ALL require critical reflection and meta-cognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise.\n\n\n\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’.\n\n\n\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library.\n\n\n\nAdd an email signature to your college email, including your student number, programme, lab tutor, and personal tutor. It will speed up responses to any emails you send to staff.\n\n\n\nAnd have an amazing year!\nThe Research Methods Team"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#this-year-you-become-scientists",
+    "href": "slides/week00/lecture.html#this-year-you-become-scientists",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "This year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "slides/week00/lecture.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "Do not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#a-warm-up-for-your-y3-dissertation",
+    "href": "slides/week00/lecture.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "The same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#support-and-guidance",
+    "href": "slides/week00/lecture.html#support-and-guidance",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "Gordon Wright (Module Coordinator and floating Enthusiast in Chief)\n6 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#me",
+    "href": "slides/week00/lecture.html#me",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "I will be in every Research Methods lecture and I have a Student Hour from 1-2(tbc) every Monday.\nAvailable at g.wright@gold.ac.uk\nI genuinely couldn’t imagine anything I would rather do that this. Please talk to me and help me get to know you!"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#module-weighting-and-assessment",
+    "href": "slides/week00/lecture.html#module-weighting-and-assessment",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "Research Methods has a 30 credit weighting, meaning that the Mini-Dissertation contributes 10x the developmental essay. Keep that in mind.\nTo pass, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#a-friendly-warning",
+    "href": "slides/week00/lecture.html#a-friendly-warning",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "Warning\n\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules. AI can (and likely should) be used for many aspects of the research process, and these will be indicated and guidance offered. However, the use of Generative AI to produce written work that you submit is not acceptable. Don’t make the mistake of falling for the superficially charming output of even the more advanced LLMs, it will not follow the requirements we impose, and it could hallucinate, and how would you know? Don’t risk it."
+  },
+  {
+    "objectID": "slides/week00/lecture.html#module-structure",
+    "href": "slides/week00/lecture.html#module-structure",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "1 x 1 hr Lecture per week (Monday 11-12 PSH LG02 (winter term))\n1 x 2 hr Lab per week (Tuesday - see personal timetable)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#weekly-structure",
+    "href": "slides/week00/lecture.html#weekly-structure",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "Each week there will be a very brief Overview to set out the main topics and to give you a set of milestones or preparatory activities designed to keep you on track.\nLecture (slides available as a Reveal Slideshow via Quarto and as pdf, docx, and if you wish for anything else, please just ask.)"
+  },
+  {
+    "objectID": "slides/week00/lecture.html#labs",
+    "href": "slides/week00/lecture.html#labs",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "Lab structure\n\n\n\nLab Notebook - find a solution that works for you, but make sure that you have it every week, so a cloud-based system would be best. You will be expected to show notes of your progress to your Lab Tutor\nLots can be achieved in the labs, but independent study and coordinated group work will be required. We will be asking about this aspect of the process regularly."
+  },
+  {
+    "objectID": "slides/week00/lecture.html#dangerzone",
+    "href": "slides/week00/lecture.html#dangerzone",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "All hail the Kenny!\n\n\n\n“You’ll never say hello to you,\nUntil you get it on the red line overload.\nYou’ll never know what you can do,\nUntil you get it up as high as you can go!”\nDangerzone - Loggins, K.\n\nMost weeks, there will be extra morsels - called the DangerZone [in honour of the best movie ever made (Top Gun) and the Yacht-Rock and fashion icon legend Kenny Loggins]."
+  },
+  {
+    "objectID": "slides/week00/lecture.html#highway-to-the-dangerzone",
+    "href": "slides/week00/lecture.html#highway-to-the-dangerzone",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "DangerZone are opportunities to consider aspects of research procedure beyond the level expected for this year, but ‘on the table’ for next year and any future research endeavours.\nThey are research-based in a loose sense - they will include programming, literature search and management, academic and knowledge management tools, tips and hacks that might (or might not) be of interest or useful.\nIf the term is going well, they might even be fun. All ideas welcome."
+  },
+  {
+    "objectID": "slides/week00/lecture.html#coursework",
+    "href": "slides/week00/lecture.html#coursework",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "The courseworks ALL require critical reflection and meta-cognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "slides/week00/lecture.html#time-management-and-teamwork",
+    "href": "slides/week00/lecture.html#time-management-and-teamwork",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "slides/week00/lecture.html#resources",
+    "href": "slides/week00/lecture.html#resources",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "We will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "slides/week00/lecture.html#before-lab-1-please",
+    "href": "slides/week00/lecture.html#before-lab-1-please",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "Add an email signature to your college email, including your student number, programme, lab tutor, and personal tutor. It will speed up responses to any emails you send to staff."
+  },
+  {
+    "objectID": "slides/week00/lecture.html#thank-you-for-your-time",
+    "href": "slides/week00/lecture.html#thank-you-for-your-time",
+    "title": "Lecture 00:  Induction Week",
+    "section": "",
+    "text": "And have an amazing year!\nThe Research Methods Team"
   },
   {
     "objectID": "slides/week00/lecture.slides.html#welcome-back-and-welcome-to-research-methods",
@@ -753,49 +1054,70 @@
     "href": "slides/week00/lecture.slides.html#support-and-guidance",
     "title": "Lecture 00:  Induction Week",
     "section": "Support and guidance",
-    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n6 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
   },
   {
     "objectID": "slides/week00/lecture.slides.html#me",
     "href": "slides/week00/lecture.slides.html#me",
     "title": "Lecture 00:  Induction Week",
     "section": "me",
-    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 1-2(tbc) every Monday.\nAvailable at g.wright@gold.ac.uk\nI genuinely couldn’t imagine anything I would rather do that this. Please talk to me and help me get to know you!"
   },
   {
     "objectID": "slides/week00/lecture.slides.html#module-weighting-and-assessment",
     "href": "slides/week00/lecture.slides.html#module-weighting-and-assessment",
     "title": "Lecture 00:  Induction Week",
     "section": "Module weighting and assessment",
-    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+    "text": "Module weighting and assessment\nResearch Methods has a 30 credit weighting, meaning that the Mini-Dissertation contributes 10x the developmental essay. Keep that in mind.\nTo pass, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
   },
   {
     "objectID": "slides/week00/lecture.slides.html#a-friendly-warning",
     "href": "slides/week00/lecture.slides.html#a-friendly-warning",
     "title": "Lecture 00:  Induction Week",
     "section": "A friendly warning",
-    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules. AI can (and likely should) be used for many aspects of the research process, and these will be indicated and guidance offered. However, the use of Generative AI to produce written work that you submit is not acceptable. Don’t make the mistake of falling for the superficially charming output of even the more advanced LLMs, it will not follow the requirements we impose, and it could hallucinate, and how would you know? Don’t risk it."
   },
   {
     "objectID": "slides/week00/lecture.slides.html#module-structure",
     "href": "slides/week00/lecture.slides.html#module-structure",
     "title": "Lecture 00:  Induction Week",
     "section": "Module structure",
-    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday 11-12 PSH LG02 (winter term))\n1 x 2 hr Lab per week (Tuesday - see personal timetable)\n4 x Personal Tutor meetings across the year"
   },
   {
     "objectID": "slides/week00/lecture.slides.html#weekly-structure",
     "href": "slides/week00/lecture.slides.html#weekly-structure",
     "title": "Lecture 00:  Induction Week",
     "section": "Weekly Structure",
-    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+    "text": "Weekly Structure\nEach week there will be a very brief Overview to set out the main topics and to give you a set of milestones or preparatory activities designed to keep you on track.\nLecture (slides available as a Reveal Slideshow via Quarto and as pdf, docx, and if you wish for anything else, please just ask.)"
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#labs",
+    "href": "slides/week00/lecture.slides.html#labs",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Labs",
+    "text": "Labs\n\nLab structure\nLab Notebook - find a solution that works for you, but make sure that you have it every week, so a cloud-based system would be best. You will be expected to show notes of your progress to your Lab Tutor\nLots can be achieved in the labs, but independent study and coordinated group work will be required. We will be asking about this aspect of the process regularly."
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#dangerzone",
+    "href": "slides/week00/lecture.slides.html#dangerzone",
+    "title": "Lecture 00:  Induction Week",
+    "section": "DangerZone",
+    "text": "DangerZone\n\n\n\n\n\nAll hail the Kenny!\n\n\n\n“You’ll never say hello to you,\nUntil you get it on the red line overload.\nYou’ll never know what you can do,\nUntil you get it up as high as you can go!”\nDangerzone - Loggins, K.\n\nMost weeks, there will be extra morsels - called the DangerZone [in honour of the best movie ever made (Top Gun) and the Yacht-Rock and fashion icon legend Kenny Loggins]."
+  },
+  {
+    "objectID": "slides/week00/lecture.slides.html#highway-to-the-dangerzone",
+    "href": "slides/week00/lecture.slides.html#highway-to-the-dangerzone",
+    "title": "Lecture 00:  Induction Week",
+    "section": "Highway to the Dangerzone",
+    "text": "Highway to the Dangerzone\nDangerZone are opportunities to consider aspects of research procedure beyond the level expected for this year, but ‘on the table’ for next year and any future research endeavours.\nThey are research-based in a loose sense - they will include programming, literature search and management, academic and knowledge management tools, tips and hacks that might (or might not) be of interest or useful.\nIf the term is going well, they might even be fun. All ideas welcome."
   },
   {
     "objectID": "slides/week00/lecture.slides.html#coursework",
     "href": "slides/week00/lecture.slides.html#coursework",
     "title": "Lecture 00:  Induction Week",
     "section": "Coursework",
-    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+    "text": "Coursework\nThe courseworks ALL require critical reflection and meta-cognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
   },
   {
     "objectID": "slides/week00/lecture.slides.html#time-management-and-teamwork",
@@ -812,11 +1134,11 @@
     "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
   },
   {
-    "objectID": "slides/week00/lecture.slides.html#prelude-1",
-    "href": "slides/week00/lecture.slides.html#prelude-1",
+    "objectID": "slides/week00/lecture.slides.html#before-lab-1-please",
+    "href": "slides/week00/lecture.slides.html#before-lab-1-please",
     "title": "Lecture 00:  Induction Week",
-    "section": "Prelude 1",
-    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+    "section": "Before Lab 1, please…",
+    "text": "Before Lab 1, please…\nAdd an email signature to your college email, including your student number, programme, lab tutor, and personal tutor. It will speed up responses to any emails you send to staff."
   },
   {
     "objectID": "slides/week00/lecture.slides.html#thank-you-for-your-time",
@@ -826,109 +1148,88 @@
     "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 00 - Induction Week Overview"
   },
   {
-    "objectID": "slides/week00/lecture.html",
-    "href": "slides/week00/lecture.html",
-    "title": "Lecture 00:  Induction Week",
+    "objectID": "slides/week00/lab.html",
+    "href": "slides/week00/lab.html",
+    "title": "Lab 00:  No lab in Welcome Week",
     "section": "",
-    "text": "This year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format\n\n\n\n\n\nDo not worry! It’s going to be a great adventure!\n\n\n\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!\n\n\n\n\n\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport\n\n\n\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!\n\n\n\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)\n\n\n\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules\n\n\n\n\n\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year\n\n\n\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM\n\n\n\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise.\n\n\n\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’.\n\n\n\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library.\n\n\n\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally.\n\n\n\nAnd have an amazing year!\nThe Research Methods Team"
+    "text": "These slides are created in Quarto, an academic publishing system built by the makers of R (Posit). We will talk about R, RStudio and Python a little bit this year.\n\n\n\n\n\n\n\n\n\n\nSlides, worksheets and the Website for the Module are all written using this system.\n\n\nIt automatically creates pdf, pptx, docs, html (and more) versions of the material, and is accessible and can combine complex calculations and written work, whether journal articles, presentations, or websites. You will see lots of this in action this year, but it is the new gold-standard for scientific publishing and teaching material production, and I have been using it for the last couple of years.\nIf you wonder how to work the slideshows that appear in the VLE like this yourself, here is a cheatsheet. You can navigate with the Arrow keys, and you can get an overview or go fullscreen with O and F respectively. Give it a shot if you are viewing this embedded in the VLE, or choose the RevealJS format in the right hand menu if you are on the website!\n\nI shall be using these exact materials in the lectures and labs, so please feel free to ask any questions, or to ask for any changes.\n\n\n\n\nBecause this system uses markdown (text files) as input, rather than proprietary software formats like PowerPoint, it can be translated and transferred very easily.\nThe first couple of slides looked like this when I wrote them, and I can update them on my phone if I want and publish them to the website automatically in all formats.\n\n\n\n\nThe font I am using is called “Atkinson Hyperlegible” and was developed by the Braille Institute in 2022 to make materials more easily viewed by anyone with impaired vision, dyslexia, or with screen-readers. Have a look here Atkinson Hyperlegible\n\n\n\nI am colour blind and so I have used an app to assess the contrast for all colours used on the site and the materials I produce. I have chosen Viva Magenta as the hero colour for the Lecture Slides and the Website - it was Pantone Colour of the year in 2023. The Lab slides use Veri Peri (Colour of the year 2022).\n\n\n\nOnce we get up and running with the year, I shall bring Dougal (my dog) in to visit, assuming nobody objects. He’s a good boy and I can’t resist sharing a couple of AI generated pictures of him.\n\n\n\nSir Dougal\n\n\n\n\n\nSpaceCatDougal!\n\n\n\n\n\nDougal with a laser gun!"
   },
   {
-    "objectID": "slides/week00/lecture.html#this-year-you-become-scientists",
-    "href": "slides/week00/lecture.html#this-year-you-become-scientists",
-    "title": "Lecture 00:  Induction Week",
+    "objectID": "slides/week00/lab.html#tips-on-revealjs-slideshows-like-this",
+    "href": "slides/week00/lab.html#tips-on-revealjs-slideshows-like-this",
+    "title": "Lab 00:  No lab in Welcome Week",
     "section": "",
-    "text": "This year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+    "text": "These slides are created in Quarto, an academic publishing system built by the makers of R (Posit). We will talk about R, RStudio and Python a little bit this year.\n\n\n\n\n\n\n\n\n\n\nSlides, worksheets and the Website for the Module are all written using this system.\n\n\nIt automatically creates pdf, pptx, docs, html (and more) versions of the material, and is accessible and can combine complex calculations and written work, whether journal articles, presentations, or websites. You will see lots of this in action this year, but it is the new gold-standard for scientific publishing and teaching material production, and I have been using it for the last couple of years.\nIf you wonder how to work the slideshows that appear in the VLE like this yourself, here is a cheatsheet. You can navigate with the Arrow keys, and you can get an overview or go fullscreen with O and F respectively. Give it a shot if you are viewing this embedded in the VLE, or choose the RevealJS format in the right hand menu if you are on the website!\n\nI shall be using these exact materials in the lectures and labs, so please feel free to ask any questions, or to ask for any changes."
   },
   {
-    "objectID": "slides/week00/lecture.html#a-full-overview-will-be-given-in-the-first-lecture",
-    "href": "slides/week00/lecture.html#a-full-overview-will-be-given-in-the-first-lecture",
-    "title": "Lecture 00:  Induction Week",
+    "objectID": "slides/week00/lab.html#accessibility-is-important",
+    "href": "slides/week00/lab.html#accessibility-is-important",
+    "title": "Lab 00:  No lab in Welcome Week",
     "section": "",
-    "text": "Do not worry! It’s going to be a great adventure!"
+    "text": "Because this system uses markdown (text files) as input, rather than proprietary software formats like PowerPoint, it can be translated and transferred very easily.\nThe first couple of slides looked like this when I wrote them, and I can update them on my phone if I want and publish them to the website automatically in all formats."
   },
   {
-    "objectID": "slides/week00/lecture.html#a-warm-up-for-your-y3-dissertation",
-    "href": "slides/week00/lecture.html#a-warm-up-for-your-y3-dissertation",
-    "title": "Lecture 00:  Induction Week",
+    "objectID": "slides/week00/lab.html#the-font-i-am-using",
+    "href": "slides/week00/lab.html#the-font-i-am-using",
+    "title": "Lab 00:  No lab in Welcome Week",
     "section": "",
-    "text": "The same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+    "text": "The font I am using is called “Atkinson Hyperlegible” and was developed by the Braille Institute in 2022 to make materials more easily viewed by anyone with impaired vision, dyslexia, or with screen-readers. Have a look here Atkinson Hyperlegible"
   },
   {
-    "objectID": "slides/week00/lecture.html#support-and-guidance",
-    "href": "slides/week00/lecture.html#support-and-guidance",
-    "title": "Lecture 00:  Induction Week",
+    "objectID": "slides/week00/lab.html#colours",
+    "href": "slides/week00/lab.html#colours",
+    "title": "Lab 00:  No lab in Welcome Week",
     "section": "",
-    "text": "Gordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+    "text": "I am colour blind and so I have used an app to assess the contrast for all colours used on the site and the materials I produce. I have chosen Viva Magenta as the hero colour for the Lecture Slides and the Website - it was Pantone Colour of the year in 2023. The Lab slides use Veri Peri (Colour of the year 2022)."
   },
   {
-    "objectID": "slides/week00/lecture.html#me",
-    "href": "slides/week00/lecture.html#me",
-    "title": "Lecture 00:  Induction Week",
+    "objectID": "slides/week00/lab.html#apologies-for-pictures-of-dougal",
+    "href": "slides/week00/lab.html#apologies-for-pictures-of-dougal",
+    "title": "Lab 00:  No lab in Welcome Week",
     "section": "",
-    "text": "I will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+    "text": "Once we get up and running with the year, I shall bring Dougal (my dog) in to visit, assuming nobody objects. He’s a good boy and I can’t resist sharing a couple of AI generated pictures of him.\n\n\n\nSir Dougal\n\n\n\n\n\nSpaceCatDougal!\n\n\n\n\n\nDougal with a laser gun!"
   },
   {
-    "objectID": "slides/week00/lecture.html#module-weighting-and-assessment",
-    "href": "slides/week00/lecture.html#module-weighting-and-assessment",
-    "title": "Lecture 00:  Induction Week",
-    "section": "",
-    "text": "Research Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+    "objectID": "slides/week00/lab.slides.html#tips-on-revealjs-slideshows-like-this",
+    "href": "slides/week00/lab.slides.html#tips-on-revealjs-slideshows-like-this",
+    "title": "Lab 00:  No lab in Welcome Week",
+    "section": "Tips on RevealJS Slideshows (like this)",
+    "text": "Tips on RevealJS Slideshows (like this)\nThese slides are created in Quarto, an academic publishing system built by the makers of R (Posit). We will talk about R, RStudio and Python a little bit this year.\n\n\n\n\n\n\n\n\n\nSlides, worksheets and the Website for the Module are all written using this system.\n\n\n\nIt automatically creates pdf, pptx, docs, html (and more) versions of the material, and is accessible and can combine complex calculations and written work, whether journal articles, presentations, or websites. You will see lots of this in action this year, but it is the new gold-standard for scientific publishing and teaching material production, and I have been using it for the last couple of years.\nIf you wonder how to work the slideshows that appear in the VLE like this yourself, here is a cheatsheet. You can navigate with the Arrow keys, and you can get an overview or go fullscreen with O and F respectively. Give it a shot if you are viewing this embedded in the VLE, or choose the RevealJS format in the right hand menu if you are on the website!\n\nI shall be using these exact materials in the lectures and labs, so please feel free to ask any questions, or to ask for any changes."
   },
   {
-    "objectID": "slides/week00/lecture.html#a-friendly-warning",
-    "href": "slides/week00/lecture.html#a-friendly-warning",
-    "title": "Lecture 00:  Induction Week",
-    "section": "",
-    "text": "Warning\n\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+    "objectID": "slides/week00/lab.slides.html#accessibility-is-important",
+    "href": "slides/week00/lab.slides.html#accessibility-is-important",
+    "title": "Lab 00:  No lab in Welcome Week",
+    "section": "Accessibility is important",
+    "text": "Accessibility is important\nBecause this system uses markdown (text files) as input, rather than proprietary software formats like PowerPoint, it can be translated and transferred very easily.\nThe first couple of slides looked like this when I wrote them, and I can update them on my phone if I want and publish them to the website automatically in all formats."
   },
   {
-    "objectID": "slides/week00/lecture.html#module-structure",
-    "href": "slides/week00/lecture.html#module-structure",
-    "title": "Lecture 00:  Induction Week",
-    "section": "",
-    "text": "1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+    "objectID": "slides/week00/lab.slides.html#the-font-i-am-using",
+    "href": "slides/week00/lab.slides.html#the-font-i-am-using",
+    "title": "Lab 00:  No lab in Welcome Week",
+    "section": "The font I am using",
+    "text": "The font I am using\nThe font I am using is called “Atkinson Hyperlegible” and was developed by the Braille Institute in 2022 to make materials more easily viewed by anyone with impaired vision, dyslexia, or with screen-readers. Have a look here Atkinson Hyperlegible"
   },
   {
-    "objectID": "slides/week00/lecture.html#weekly-structure",
-    "href": "slides/week00/lecture.html#weekly-structure",
-    "title": "Lecture 00:  Induction Week",
-    "section": "",
-    "text": "Each week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+    "objectID": "slides/week00/lab.slides.html#colours",
+    "href": "slides/week00/lab.slides.html#colours",
+    "title": "Lab 00:  No lab in Welcome Week",
+    "section": "Colours",
+    "text": "Colours\nI am colour blind and so I have used an app to assess the contrast for all colours used on the site and the materials I produce. I have chosen Viva Magenta as the hero colour for the Lecture Slides and the Website - it was Pantone Colour of the year in 2023. The Lab slides use Veri Peri (Colour of the year 2022)."
   },
   {
-    "objectID": "slides/week00/lecture.html#coursework",
-    "href": "slides/week00/lecture.html#coursework",
-    "title": "Lecture 00:  Induction Week",
-    "section": "",
-    "text": "The courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+    "objectID": "slides/week00/lab.slides.html#apologies-for-pictures-of-dougal",
+    "href": "slides/week00/lab.slides.html#apologies-for-pictures-of-dougal",
+    "title": "Lab 00:  No lab in Welcome Week",
+    "section": "Apologies for pictures of Dougal",
+    "text": "Apologies for pictures of Dougal\nOnce we get up and running with the year, I shall bring Dougal (my dog) in to visit, assuming nobody objects. He’s a good boy and I can’t resist sharing a couple of AI generated pictures of him.\n\n\n\nSir Dougal\n\n\n\n\n\nSpaceCatDougal!\n\n\n\n\n\nDougal with a laser gun!"
   },
   {
-    "objectID": "slides/week00/lecture.html#time-management-and-teamwork",
-    "href": "slides/week00/lecture.html#time-management-and-teamwork",
-    "title": "Lecture 00:  Induction Week",
-    "section": "",
-    "text": "..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
-  },
-  {
-    "objectID": "slides/week00/lecture.html#resources",
-    "href": "slides/week00/lecture.html#resources",
-    "title": "Lecture 00:  Induction Week",
-    "section": "",
-    "text": "We will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
-  },
-  {
-    "objectID": "slides/week00/lecture.html#prelude-1",
-    "href": "slides/week00/lecture.html#prelude-1",
-    "title": "Lecture 00:  Induction Week",
-    "section": "",
-    "text": "We are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
-  },
-  {
-    "objectID": "slides/week00/lecture.html#thank-you-for-your-time",
-    "href": "slides/week00/lecture.html#thank-you-for-your-time",
-    "title": "Lecture 00:  Induction Week",
-    "section": "",
-    "text": "And have an amazing year!\nThe Research Methods Team"
+    "objectID": "slides/week00/lab.slides.html#references",
+    "href": "slides/week00/lab.slides.html#references",
+    "title": "Lab 00:  No lab in Welcome Week",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 01 - Short Title"
   },
   {
     "objectID": "slides/index.slides.html#header",
@@ -954,44 +1255,44 @@
   {
     "objectID": "overview/index.html",
     "href": "overview/index.html",
-    "title": "Week XX:  Replace it!",
+    "title": "Week 00: General Overview",
     "section": "",
-    "text": "How to prepare for each week in Research Methods\nMany hundreds of years ago, I was a Boy Scout, before that, I was a Brownie too, but that’s a story for another day. ‘Be Prepared’ is a valuable piece of advice. And that’s what I’m trying to help with here. You aren’t going to get the most out of the timetabled sessions, or your extensive independent study, if you don’t have a fair idea of what you need to do, by when, and what each activity entails.\nYour teaching team goes to a great deal of effort to answer any and all questions you might have, and we engineer the lectures and labs to preview any expected questions and also those of the unexpected variety. But you have to ask them. To do this, you need to have a look ahead and identify anything that needs clarification.\nRemember, a lack of preparation on your part is not an emergency on my part.\nLectures are pretty straightforward. The content will be released a week prior to the timetabled session, and will comprise both a prepare summary like this, but also the lecture slides and signposts to key readings.\nReview the lecture slides, have a poke around in the readings and try to familiarise yourself with any concepts that may be new to you. But the major point of the lectures is that you come along, pin back your ears, and engage with the content. More on that in the Module Overview.\nYou have a 2 hour lab each week, and although there will be some guided activities and skills shared, these sessions are ‘working sessions’ - designed to allow you to work productively on your Mini-Dissertations individually, or more usually, in your groups. It is expected that you coordinate with your group between classes, it’s not a great use of the session to use that to catch everyone up on things and have a bit of bants. 2 hours of industry will keep you moving through the stages of the module well, reducing the amount of time you might need to work independently, or more realistically, freeing that up for other things you need to prioritise, whether it’s work, life, love or another piece of coursework.\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "How to prepare for each week in Research Methods\nMany hundreds of years ago, I was a Boy Scout, before that, I was a Brownie too, but that’s a story for another day. ‘Be Prepared’ is a valuable piece of advice.\nAnd that’s what I’m trying to help with here. You aren’t going to get the most out of the timetabled sessions, or your extensive independent study, if you don’t have a fair idea of what you need to do, by when, and what each activity entails.\nYour teaching team goes to a great deal of effort to answer any and all questions you might have, and we engineer the lectures and labs to preview any expected questions and also allow space for questions of the unexpected variety. But you have to ask them. To do this, you need to have a look ahead and identify anything that needs clarification.\nEach week, the Lab Tutors assemble a list of the FAQs from each lab and check to see if any themes are emerging and Gordon will then communicate any relevant answers via the module forum.\nRemember, a lack of preparation on your part is not an emergency on our part. And if you aren’t clear on what you need to do, it’s down to you to review all the VLE page content for information (it will be there), or ask the question via the forum or discuss it with your Lab Tutor in the lab.\nLectures are pretty straightforward. The content will be released on the Wednesday prior to the timetabled session, and will comprise both a prepare summary like this, but also the lecture slides and signposts to key readings. I release these on a Wednesday, as it allows me to incorporate any changes arising from the labs or the previous lecture.\nReview the lecture slides, have a poke around in the readings and try to familiarise yourself with any concepts that may be new to you. But the major point of the lectures is that you come along, pin back your ears, and engage with the content. More on that in the Module Overview.\nYou have a 2 hour lab each week, and although there will be some guided activities and skills shared, these sessions are ‘working sessions’ - designed to allow you to work productively on your Mini-Dissertations individually, or more usually, in your groups. It is expected that you coordinate with your group between classes, it’s not a great use of the session to use that to catch everyone up on things and have a bit of bants. 2 hours of industry will keep you moving through the stages of the module well, reducing the amount of time you might need to work independently, or more realistically, freeing that up for other things you need to prioritise, whether it’s work, life, or love.\nOr walkies with the faithful hound! ta ta G"
   },
   {
     "objectID": "overview/overview01.html",
     "href": "overview/overview01.html",
-    "title": "Preparing for Week 01:  Brainstorm",
+    "title": "Preparing for Week 01:  Nice and easy",
     "section": "",
-    "text": "Key Focus: Module Overview and getting started in the labs\n\n\n\nImportant Points:\n\nRead Learning Outcomes\nRead Coursework information and scan available resources (Marking Rubrics, Critical Proposal Brief, Mini-Dissertation Templates/examples).\n\nPreparatory Reading or Thinking:\n\n[Prep 1] Think about potential topics and/or methods that excite you for your Mini-Dissertation\n[Prep 2] Consider how you are going to work, and with whom. You will be keeping detailed notes and communicating regularly. How will you want to manage that?\n[Prep 3] Think about your timetable and deadlines. When are you going to do your regular independent study. Where will you do it? With whom?\n\n\n\n\n\n\n\n\n\n\n\nLab Challenge!\nResearch Skill Audit\nTopic Speed Dating\nMethods Matching\nGoal Alignment and Group Ethos\n\n\n\n\n\nSuggested Reflection: Think about Team Work you have done before. What did you enjoy? What were the problems you faced? How will you address them this time?\nImagine describing how you operated as a team this year to a future supervisor/employer. What would you want to say?"
+    "text": "Key Focus: Module Overview and getting started in the labs\n\n\n\nImportant Points:\n\nRead Learning Outcomes. I want you to know what you are going to have achieved by the end of the year.\nRead Coursework Information on the VLE and scan available resources (Marking Rubrics, Critical Proposal Brief, Mini-Dissertation Templates/examples). More resources will be added gradually as the term progresses, but if you think there is anything you’d like but can’t yet see.. Post on the forum.\n\nPreparatory Reading or Thinking:\n\n[Prep 1] Think about potential topics and/or methods that excite you for your Mini-Dissertation\n[Prep 2] Consider how you are going to work, and with whom. You will be keeping detailed notes and communicating regularly. How will you want to manage that?\n[Prep 3] Think about your timetable and deadlines. When are you going to do your regular independent study. Where will you do it? With whom?\n\n\n\n\n\n\n\n\n\n\n\nIf you email anyone and they have to look you up on they system to find out your Personal Tutor, or your Student Number, or your Lab Group.. it will slow down responses.\nPlease follow the instructions here Common email functions | Goldsmiths, University of London.\n1 - Log in to your email https://www.gold.ac.uk/it/email/\n2 - Go to Outlook Settings and include the following information in your signature.\n\n\n\n\n\n\n\n\n\n\nName, pronouns or preferred name\nStudent Number (8 digits, NOT INCLUDING CARD ISSUE NUMBER e.g. 01)\nYear and Programme (Year 2 - Psychology with Cognitive Neuroscience)\nLab Tutor\nPersonal Tutor\nAny other information that might be useful.\n\n\n\n\n\nLab Challenge!\nResearch Skill Audit\nTopic Speed Dating\nMethods Matching\nGoal Alignment and Group Ethos\n\n\n\n\n\nSlow down, my dude. It’s only Welcome Week. Give me a chance.\nIn weeks to come, this will give you an idea of what you could/should have done by now, and things you may wish to prioritise.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuggested Reflection: Think about Team Work you have done before. What did you enjoy? What were the problems you faced? How will you address them this time?\nImagine describing how you operated as a team this year to a future supervisor/employer. What would you want to say?\nHere are some thoughts:\n\n\n\nMaintain open, honest, and respectful communication with your team members. Good communication leads to seamless collaboration. Make it as frictionless as possible. Maybe try something like Slack or Jira, specifically for the project, so that you don’t use it for anything but the Mini-Diss. Slack and Jira are almost ubiquitous in modern business, and by having a passing knowledge of them, or being able to name drop them in an interview… boom.\n\n\n\n\n\nClearly define what each team member is responsible for. This eliminates confusion and ensures that everyone is accountable. If you aren’t going to deliver, communicate that fact to your team.\n\n\n\n\n\nEstablish realistic deadlines and stick to them. This fosters a sense of urgency and helps you keep the project on track. The Weekly Standup meeting is an ideal way to do this in a short, and slightly longer term.\n\n\n\n\n\nUtilize the diverse skills, experiences, and perspectives within your team to enrich your project. Diversity fosters creativity and problem-solving. Some aspects of the project may be things that you KNOW will be important for you next year… Take responsibility for that and try it on for size.\n\n\n\n\n\nConflicts are inevitable in any team setting. Address issues directly but diplomatically, aiming for a resolution that benefits the team as a whole. And if a team-member disappears… What are you going to do?\n\n\n\n\n\nAfter each major milestone, take some time to reflect on what worked well and what didn’t. Adapt your strategies accordingly for future tasks. This might not be until next year, when it really counts, so having these ideas to build on will be amazing.\n\n\n\n\n\nKeep records of conversations with your Lab Tutor, decisions you made as a group and individually, and any changes you make along the way. This will not only help you stay organized but will also be useful for future reference, think of it as a love letter to future you.\n\nBy following these guidelines, you’ll not only deliver an exceptional Mini-Dissertation but also gather compelling stories and examples to share with future employers or a supervisor next year. When asked, “How would you work as part of a team” you’ll have a well-rounded, articulate answer that demonstrates your team skills, problem-solving abilities, and commitment to achieving goals.\n\n\n\nIf you’ve made it this far, please help me assemble a furry research cheer-leading crew and email me a picture of your cat/dog/hamster or anything cute/amusing. And make sure you have your Signature in place. Let’s have a great year!"
   },
   {
     "objectID": "overview/overview01.html#introduction-lecture-preview",
     "href": "overview/overview01.html#introduction-lecture-preview",
-    "title": "Preparing for Week 01:  Brainstorm",
+    "title": "Preparing for Week 01:  Nice and easy",
     "section": "",
-    "text": "Key Focus: Module Overview and getting started in the labs\n\n\n\nImportant Points:\n\nRead Learning Outcomes\nRead Coursework information and scan available resources (Marking Rubrics, Critical Proposal Brief, Mini-Dissertation Templates/examples).\n\nPreparatory Reading or Thinking:\n\n[Prep 1] Think about potential topics and/or methods that excite you for your Mini-Dissertation\n[Prep 2] Consider how you are going to work, and with whom. You will be keeping detailed notes and communicating regularly. How will you want to manage that?\n[Prep 3] Think about your timetable and deadlines. When are you going to do your regular independent study. Where will you do it? With whom?"
+    "text": "Key Focus: Module Overview and getting started in the labs\n\n\n\nImportant Points:\n\nRead Learning Outcomes. I want you to know what you are going to have achieved by the end of the year.\nRead Coursework Information on the VLE and scan available resources (Marking Rubrics, Critical Proposal Brief, Mini-Dissertation Templates/examples). More resources will be added gradually as the term progresses, but if you think there is anything you’d like but can’t yet see.. Post on the forum.\n\nPreparatory Reading or Thinking:\n\n[Prep 1] Think about potential topics and/or methods that excite you for your Mini-Dissertation\n[Prep 2] Consider how you are going to work, and with whom. You will be keeping detailed notes and communicating regularly. How will you want to manage that?\n[Prep 3] Think about your timetable and deadlines. When are you going to do your regular independent study. Where will you do it? With whom?"
   },
   {
-    "objectID": "overview/overview01.html#lab-sessions",
-    "href": "overview/overview01.html#lab-sessions",
-    "title": "Preparing for Week 01:  Brainstorm",
+    "objectID": "overview/overview01.html#before-the-lab-please-set-up-an-email-signature-for-your-college-email",
+    "href": "overview/overview01.html#before-the-lab-please-set-up-an-email-signature-for-your-college-email",
+    "title": "Preparing for Week 01:  Nice and easy",
     "section": "",
-    "text": "Lab Challenge!\nResearch Skill Audit\nTopic Speed Dating\nMethods Matching\nGoal Alignment and Group Ethos\n\n\n\n\n\nSuggested Reflection: Think about Team Work you have done before. What did you enjoy? What were the problems you faced? How will you address them this time?\nImagine describing how you operated as a team this year to a future supervisor/employer. What would you want to say?"
+    "text": "If you email anyone and they have to look you up on they system to find out your Personal Tutor, or your Student Number, or your Lab Group.. it will slow down responses.\nPlease follow the instructions here Common email functions | Goldsmiths, University of London.\n1 - Log in to your email https://www.gold.ac.uk/it/email/\n2 - Go to Outlook Settings and include the following information in your signature.\n\n\n\n\n\n\n\n\n\n\nName, pronouns or preferred name\nStudent Number (8 digits, NOT INCLUDING CARD ISSUE NUMBER e.g. 01)\nYear and Programme (Year 2 - Psychology with Cognitive Neuroscience)\nLab Tutor\nPersonal Tutor\nAny other information that might be useful.\n\n\n\n\n\nLab Challenge!\nResearch Skill Audit\nTopic Speed Dating\nMethods Matching\nGoal Alignment and Group Ethos\n\n\n\n\n\nSlow down, my dude. It’s only Welcome Week. Give me a chance.\nIn weeks to come, this will give you an idea of what you could/should have done by now, and things you may wish to prioritise.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuggested Reflection: Think about Team Work you have done before. What did you enjoy? What were the problems you faced? How will you address them this time?\nImagine describing how you operated as a team this year to a future supervisor/employer. What would you want to say?\nHere are some thoughts:\n\n\n\nMaintain open, honest, and respectful communication with your team members. Good communication leads to seamless collaboration. Make it as frictionless as possible. Maybe try something like Slack or Jira, specifically for the project, so that you don’t use it for anything but the Mini-Diss. Slack and Jira are almost ubiquitous in modern business, and by having a passing knowledge of them, or being able to name drop them in an interview… boom.\n\n\n\n\n\nClearly define what each team member is responsible for. This eliminates confusion and ensures that everyone is accountable. If you aren’t going to deliver, communicate that fact to your team.\n\n\n\n\n\nEstablish realistic deadlines and stick to them. This fosters a sense of urgency and helps you keep the project on track. The Weekly Standup meeting is an ideal way to do this in a short, and slightly longer term.\n\n\n\n\n\nUtilize the diverse skills, experiences, and perspectives within your team to enrich your project. Diversity fosters creativity and problem-solving. Some aspects of the project may be things that you KNOW will be important for you next year… Take responsibility for that and try it on for size.\n\n\n\n\n\nConflicts are inevitable in any team setting. Address issues directly but diplomatically, aiming for a resolution that benefits the team as a whole. And if a team-member disappears… What are you going to do?\n\n\n\n\n\nAfter each major milestone, take some time to reflect on what worked well and what didn’t. Adapt your strategies accordingly for future tasks. This might not be until next year, when it really counts, so having these ideas to build on will be amazing.\n\n\n\n\n\nKeep records of conversations with your Lab Tutor, decisions you made as a group and individually, and any changes you make along the way. This will not only help you stay organized but will also be useful for future reference, think of it as a love letter to future you.\n\nBy following these guidelines, you’ll not only deliver an exceptional Mini-Dissertation but also gather compelling stories and examples to share with future employers or a supervisor next year. When asked, “How would you work as part of a team” you’ll have a well-rounded, articulate answer that demonstrates your team skills, problem-solving abilities, and commitment to achieving goals.\n\n\n\nIf you’ve made it this far, please help me assemble a furry research cheer-leading crew and email me a picture of your cat/dog/hamster or anything cute/amusing. And make sure you have your Signature in place. Let’s have a great year!"
   },
   {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Here’s your roadmap for the year! Pay attention!\nEvery class session has four important sections. You should read about the details for each using the main menu at the top of this webpage."
+    "text": "week\n      date\n      topic\n      overview\n      lecture\n      lab\n      worksheets\n      DangerZone\n      notes\n    \n  \n  \n    0\nMonday, 25 September\nLecture:  Module Overview and Coursework requirements \nLab: N/A\n\n\n\n\n\n\n\n    1\nMonday, 02 October\nLecture: Module overview and what is Science?\nLab: Welcome to the Lab - group formation and topic brainstorming\n\n\n\n\n\n\n\n    2\nMonday, 09 October\nLecture: Asking good questions and gathering evidence\nLab: Literature Search & Management, Critical Appraisal & Effect Sizes\n\n\n\n\n\n\n\n    3\nMonday, 16 October\nLecture: Being critical and evaluating the work of others \nLab: Planning for Success, & The Critical Proposal Coursework\n\n\n\n\n\n\n\n    4\nMonday, 23 October\nLecture: There’s no ‘I’ in Research.. Making Psychology personal \nLab: Experimental variables, design and notation\n\n\n\n\n\n\n\n    5\nMonday, 30 October\nLecture: The Open Science movement in Psychology \nLab: Critical Proposal support and Power Calculations\n\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    6\nMonday, 13 November\nLecture: Operationalisation of variables and bringing concepts to life \nLab: Collecting Data Online and in Person\n\n\n\n\n\n\n\n    7\nMonday, 20 November\nLecture: How do we measure or assess psychological concepts and constructs?\nLab: Task development and Ethics applications\n\n\n\n\n\n\n\n    8\nMonday, 27 November\nLecture: Developing and validating a psychological measure of ‘X’\nLab: Task development and Ethics workshop [Peer Review]\n\n\n\n\n\n\n\n    9\nMonday, 04 December\nLecture: Communicating science: Lessons from legends\nLab: Participant Recruitment Planning & Yr 3 Dissertation Preview\n\n\n\n\n\n\n\n    10\nMonday, 11 December\nLecture: Introducing the wonders of Qualitative research\nLab: Open Science Requirements: Open Methods and Open Data\n\n\n\n\n\n\n\n    Winter Break\n\n\n\n\n\n\n\n\n    11\nMonday, 08 January\nLecture: The foundations of Qualitative Research \nLab: Data collection | Study Swap and Raw Data Setup/Review\n\n\n\n\n\n\n\n    12\nMonday, 15 January\nLecture: Doing Qualitative Research \nLab: Data collection | APA Report Writing Refresher\n\n\n\n\n\n\n\n    13\nMonday, 22 January\nLecture: Reporting and Critiquing Qualitative Research\nLab: Data collection | Raw Data, preprocessing and APA Methods Section & Open Materials\n\n\n\n\n\n\n\n    14\nMonday, 29 January\nLecture: Inclusivity ½ (Dr. Tegan Penton) \nLab: Data collection | Analysis Plans and APA Results Section\n\n\n\n\n\n\n\n    15\nMonday, 05 February\nLecture: Inclusivity 2/2 (Dr. Tegan Penton) \nLab: Data collection | Data export, preprocessing & Open Data\n\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    16\nMonday, 19 February\nLecture: CHIP - Metacognition and Reflective Practice\nLab: Analysis | Three Flavours of ANOVA, Assumptions & Post-Hoc tests\n\n\n\n\n\n\n\n    17\nMonday, 26 February\nLecture: CHIP - Psychology as Science & Philosophical Perspectives\nLab: Analysis | Results write-up, APA formatting, figures and tables\n\n\n\n\n\n\n\n    18\nMonday, 04 March\nLecture: CHIP - Evolution and Evolutionary Psychology\nLab: Writing up | Focus on the Introduction & APA style\n\n\n\n\n\n\n\n    19\nMonday, 11 March\nLecture: CHIP - Cultural Evolutionary Psychology & Cognitive Gadgets\nLab: Writing up | Interpreting and discussing your results\n\n\n\n\n\n\n\n    20\nMonday, 18 March\nLecture: CHIP - The dark history of statistics and wrap up\nLab: Writing up | Pre-submission checklist & editing strategies"
   },
   {
     "objectID": "schedule.html#weekly-schedule",
     "href": "schedule.html#weekly-schedule",
     "title": "Schedule",
-    "section": "Weekly schedule",
-    "text": "Weekly schedule\n\n\n\n\n\n  \n    \n    \n      week\n      date\n      topic\n      overview\n      lecture\n      lab\n      worksheets\n      DangerZone\n      notes\n    \n  \n  \n    0\nMonday, 25 September\nLecture:  Module Overview and Coursework requirements \nLab: N/A\n\n\n\n\n\n\n\n    1\nMonday, 02 October\nLecture: Module overview and what is Science?\nLab: Welcome to the Lab - group formation and topic brainstorming\n\n\n\n\n\n\n\n    2\nMonday, 09 October\nLecture: Asking good questions and gathering evidence\nLab: Literature Search & Management, Critical Appraisal & Effect Sizes\n\n\n\n\n\n\n\n    3\nMonday, 16 October\nLecture: Being critical and evaluating the work of others \nLab: Planning for Success, & The Critical Proposal Coursework\n\n\n\n\n\n\n\n    4\nMonday, 23 October\nLecture: There’s no ‘I’ in Research.. Making Psychology personal \nLab: Experimental variables, design and notation\n\n\n\n\n\n\n\n    5\nMonday, 30 October\nLecture: The Open Science movement in Psychology \nLab: Critical Proposal support and Power Calculations\n\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    6\nMonday, 13 November\nLecture: Operationalisation of variables and bringing concepts to life \nLab: Collecting Data Online and in Person\n\n\n\n\n\n\n\n    7\nMonday, 20 November\nLecture: How do we measure or assess psychological concepts and constructs?\nLab: Task development and Ethics applications\n\n\n\n\n\n\n\n    8\nMonday, 27 November\nLecture: Developing and validating a psychological measure of ‘X’\nLab: Task development and Ethics workshop [Peer Review]\n\n\n\n\n\n\n\n    9\nMonday, 04 December\nLecture: Communicating science: Lessons from legends\nLab: Participant Recruitment Planning & Yr 3 Dissertation Preview\n\n\n\n\n\n\n\n    10\nMonday, 11 December\nLecture: Introducing the wonders of Qualitative research\nLab: Open Science Requirements: Open Methods and Open Data\n\n\n\n\n\n\n\n    Winter Break\n\n\n\n\n\n\n\n\n    11\nMonday, 08 January\nLecture: The foundations of Qualitative Research \nLab: Data collection | Study Swap and Raw Data Setup/Review\n\n\n\n\n\n\n\n    12\nMonday, 15 January\nLecture: Doing Qualitative Research \nLab: Data collection | APA Report Writing Refresher\n\n\n\n\n\n\n\n    13\nMonday, 22 January\nLecture: Reporting and Critiquing Qualitative Research\nLab: Data collection | Raw Data, preprocessing and APA Methods Section & Open Materials\n\n\n\n\n\n\n\n    14\nMonday, 29 January\nLecture: Inclusivity ½ (Dr. Tegan Penton) \nLab: Data collection | Analysis Plans and APA Results Section\n\n\n\n\n\n\n\n    15\nMonday, 05 February\nLecture: Inclusivity 2/2 (Dr. Tegan Penton) \nLab: Data collection | Data export, preprocessing & Open Data\n\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    16\nMonday, 19 February\nLecture: CHIP - Metacognition and Reflective Practice\nLab: Analysis | Three Flavours of ANOVA, Assumptions & Post-Hoc tests\n\n\n\n\n\n\n\n    17\nMonday, 26 February\nLecture: CHIP - Psychology as Science & Philosophical Perspectives\nLab: Analysis | Results write-up, APA formatting, figures and tables\n\n\n\n\n\n\n\n    18\nMonday, 04 March\nLecture: CHIP - Evolution and Evolutionary Psychology\nLab: Writing up | Focus on the Introduction & APA style\n\n\n\n\n\n\n\n    19\nMonday, 11 March\nLecture: CHIP - Cultural Evolutionary Psychology & Cognitive Gadgets\nLab: Writing up | Interpreting and discussing your results\n\n\n\n\n\n\n\n    20\nMonday, 18 March\nLecture: CHIP - The dark history of statistics and wrap up\nLab: Writing up | Pre-submission checklist & editing strategies"
+    "section": "",
+    "text": "week\n      date\n      topic\n      overview\n      lecture\n      lab\n      worksheets\n      DangerZone\n      notes\n    \n  \n  \n    0\nMonday, 25 September\nLecture:  Module Overview and Coursework requirements \nLab: N/A\n\n\n\n\n\n\n\n    1\nMonday, 02 October\nLecture: Module overview and what is Science?\nLab: Welcome to the Lab - group formation and topic brainstorming\n\n\n\n\n\n\n\n    2\nMonday, 09 October\nLecture: Asking good questions and gathering evidence\nLab: Literature Search & Management, Critical Appraisal & Effect Sizes\n\n\n\n\n\n\n\n    3\nMonday, 16 October\nLecture: Being critical and evaluating the work of others \nLab: Planning for Success, & The Critical Proposal Coursework\n\n\n\n\n\n\n\n    4\nMonday, 23 October\nLecture: There’s no ‘I’ in Research.. Making Psychology personal \nLab: Experimental variables, design and notation\n\n\n\n\n\n\n\n    5\nMonday, 30 October\nLecture: The Open Science movement in Psychology \nLab: Critical Proposal support and Power Calculations\n\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    6\nMonday, 13 November\nLecture: Operationalisation of variables and bringing concepts to life \nLab: Collecting Data Online and in Person\n\n\n\n\n\n\n\n    7\nMonday, 20 November\nLecture: How do we measure or assess psychological concepts and constructs?\nLab: Task development and Ethics applications\n\n\n\n\n\n\n\n    8\nMonday, 27 November\nLecture: Developing and validating a psychological measure of ‘X’\nLab: Task development and Ethics workshop [Peer Review]\n\n\n\n\n\n\n\n    9\nMonday, 04 December\nLecture: Communicating science: Lessons from legends\nLab: Participant Recruitment Planning & Yr 3 Dissertation Preview\n\n\n\n\n\n\n\n    10\nMonday, 11 December\nLecture: Introducing the wonders of Qualitative research\nLab: Open Science Requirements: Open Methods and Open Data\n\n\n\n\n\n\n\n    Winter Break\n\n\n\n\n\n\n\n\n    11\nMonday, 08 January\nLecture: The foundations of Qualitative Research \nLab: Data collection | Study Swap and Raw Data Setup/Review\n\n\n\n\n\n\n\n    12\nMonday, 15 January\nLecture: Doing Qualitative Research \nLab: Data collection | APA Report Writing Refresher\n\n\n\n\n\n\n\n    13\nMonday, 22 January\nLecture: Reporting and Critiquing Qualitative Research\nLab: Data collection | Raw Data, preprocessing and APA Methods Section & Open Materials\n\n\n\n\n\n\n\n    14\nMonday, 29 January\nLecture: Inclusivity ½ (Dr. Tegan Penton) \nLab: Data collection | Analysis Plans and APA Results Section\n\n\n\n\n\n\n\n    15\nMonday, 05 February\nLecture: Inclusivity 2/2 (Dr. Tegan Penton) \nLab: Data collection | Data export, preprocessing & Open Data\n\n\n\n\n\n\n\n    Reading Week\n\n\n\n\n\n\n\n\n    16\nMonday, 19 February\nLecture: CHIP - Metacognition and Reflective Practice\nLab: Analysis | Three Flavours of ANOVA, Assumptions & Post-Hoc tests\n\n\n\n\n\n\n\n    17\nMonday, 26 February\nLecture: CHIP - Psychology as Science & Philosophical Perspectives\nLab: Analysis | Results write-up, APA formatting, figures and tables\n\n\n\n\n\n\n\n    18\nMonday, 04 March\nLecture: CHIP - Evolution and Evolutionary Psychology\nLab: Writing up | Focus on the Introduction & APA style\n\n\n\n\n\n\n\n    19\nMonday, 11 March\nLecture: CHIP - Cultural Evolutionary Psychology & Cognitive Gadgets\nLab: Writing up | Interpreting and discussing your results\n\n\n\n\n\n\n\n    20\nMonday, 18 March\nLecture: CHIP - The dark history of statistics and wrap up\nLab: Writing up | Pre-submission checklist & editing strategies"
   },
   {
     "objectID": "extras/extras01.html",

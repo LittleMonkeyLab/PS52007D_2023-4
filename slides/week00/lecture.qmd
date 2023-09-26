@@ -1,6 +1,6 @@
 ---
 title: "Lecture 00: <br> Induction Week"
-subtitle: "Module Overview and Coursework Requirements"
+subtitle: "Slightly expanded induction information"
 image: "lecture.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -18,9 +18,8 @@ params:
   class: "lec00"
   stub: "https://ps52007d.littlemonkeylab.com/"
 format: 
-  # pdf: default
-  pptx: default
-  html: default
+  pdf: default
+  # pptx: default
   docx: default
   revealjs: 
     title-slide-attributes: 
@@ -87,7 +86,7 @@ Do not worry! It's going to be a great adventure!
 ## Support and guidance
 
 -   Gordon Wright (Module Coordinator and floating Enthusiast in Chief)
--   7 gobsmackingly amazing Lab Tutors
+-   6 gobsmackingly amazing Lab Tutors
 -   Your Personal Tutor and your PT group
 -   AND EACH OTHER!!
 
@@ -96,20 +95,20 @@ This is a team-sport
 ## me
 
 I will be in every Research Methods lecture and I have a Student Hour
-from 3-4 every Monday, before we all go to the Design & Analysis
-lecture. Yup! Me too!
+from 1-2(tbc) every Monday.
 
 Available at g.wright\@gold.ac.uk
 
-I genuinely could not imagine anything I would rather do that this.
-Please talk to me!
+I genuinely couldn't imagine anything I would rather do that this.
+Please talk to me and help me get to know you!
 
 ## Module weighting and assessment
 
-Research Methods is a core module with a 30 credit weighting
+Research Methods has a 30 credit weighting, meaning that the
+Mini-Dissertation contributes 10x the developmental essay. Keep that in
+mind.
 
-This means that in order to progress to Y3, you must pass all 3
-assessment elements:
+To pass, you must pass all 3 assessment elements:
 
 -   ::: takeaway
     -   Critical Proposal 1,800 words (15%)
@@ -125,39 +124,83 @@ assessment elements:
 ## Warning
 
 All coursework is [INDIVIDUAL]{.shout} and subject to normal plagiarism
-and collusion rules
+and collusion rules. AI can (and likely should) be used for many aspects
+of the research process, and these will be indicated and guidance
+offered. However, the use of Generative AI to produce written work that
+you submit is not acceptable. Don't make the mistake of falling for the
+superficially charming output of even the more advanced LLMs, it will
+not follow the requirements we impose, and it could hallucinate, and how
+would you know? Don't risk it.
 :::
 
 ## Module structure
 
-1 x 1 hr Lecture per week (Monday)
+1 x 1 hr Lecture per week (Monday 11-12 PSH LG02 (winter term))
 
-1 x 2 hr Lab per week (Tuesday)
+1 x 2 hr Lab per week (Tuesday - see personal timetable)
 
 4 x Personal Tutor meetings across the year
 
 ## Weekly Structure
 
-Each week there will be a very brief '**Prelude**' designed to introduce
-one of the main topics of the week
+Each week there will be a very brief **Overview** to set out the main
+topics and to give you a set of milestones or preparatory activities
+designed to keep you on track.
 
-**Lecture** (slides and recording posted afterwards)
+**Lecture** (slides available as a Reveal Slideshow via Quarto and as
+pdf, docx, and if you wish for anything else, please just ask.)
 
-**Lab Activity**
+## Labs
 
--   **'Pulse'** taken on entry - 2 minute quiz
--   **Lab Notebook** with brief 'generative activities' and
-    opportunities for metacognitive reflection
--   Extras provided around skills or applications or just interesting
-    factoids
+![Lab structure](images/LabSession.drawio.png)
+
+-   **Lab Notebook** - find a solution that works for you, but make sure
+    that you have it every week, so a cloud-based system would be best.
+    You will be expected to show notes of your progress to your Lab
+    Tutor
 -   Lots can be achieved in the labs, but independent study and
-    coordinated group work will be required
+    coordinated group work will be required. We will be asking about
+    this aspect of the process regularly.
 
-[NO EXAM]{.shout}
+## DangerZone
+
+::: columns
+::: {.column width="50%"}
+![All hail the Kenny!](images/Kenny.jpeg)
+:::
+
+::: {.column width="50%"}
+"You'll never say hello to you,\
+Until you get it on the red line overload.\
+You'll never know what you can do,\
+Until you get it up as high as you can go!"
+
+Dangerzone - Loggins, K.
+:::
+
+::: columns
+Most weeks, there will be extra morsels - called the DangerZone \[in
+honour of the best movie ever made (Top Gun) and the Yacht-Rock and
+fashion icon legend Kenny Loggins\].
+:::
+:::
+
+## Highway to the Dangerzone
+
+DangerZone are opportunities to consider aspects of research procedure
+beyond the level expected for this year, but 'on the table' for next
+year and any future research endeavours.
+
+They are research-based in a loose sense - they will include
+programming, literature search and management, academic and knowledge
+management tools, tips and hacks that might (or might not) be of
+interest or useful.
+
+If the term is going well, they might even be fun. All ideas welcome.
 
 ## Coursework
 
-The courseworks ALL require critical reflection and metacognitive
+The courseworks ALL require critical reflection and meta-cognitive
 practice. This will be discussed in a number of lectures, but it
 contributes to effective learning and your integration of the skills and
 experience of doing this research exercise.
@@ -186,11 +229,11 @@ Contribution to and comment on these is welcome and hoped for!
 Open Educational Resources will be used extensively, and most core
 readings are available online via the library.
 
-## Prelude 1
+## Before Lab 1, please...
 
-We are starting off very easy. A short questionnaire to allow us to get
-to know you a little better, which we will use to develop the first
-lecture, and the course more generally.
+Add an email signature to your college email, including your student
+number, programme, lab tutor, and personal tutor. It will speed up
+responses to any emails you send to staff.
 
 ## Thank you for your time
 

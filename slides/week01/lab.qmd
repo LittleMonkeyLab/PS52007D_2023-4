@@ -1,6 +1,6 @@
 ---
-title: "Lab 01: <br> Replace it!"
-subtitle: "This is a meaningful subtitle"
+title: "Lab 01: <br> Group formation and Topic Brainstorm!"
+subtitle: "Let's jump right in"
 image: "lab.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -9,7 +9,6 @@ author:
 date: "10/02/2023"
 date-format: long
 license: "CC BY-NC-SA"
-# footer: "[🔗 VLE](https://www.bbc.co.uk)"
 citations-hover: true
 categories: 
   - "Lab"
@@ -24,7 +23,7 @@ format:
   revealjs: 
     title-slide-attributes: 
       data-background-color: "#6667ab" # Very Peri 2022 Color of the year
-    header-logo: "/images/rmlogo.png"
+    header-logo: "/images/rmmonkey.png"
     header: "Research Methods Lab 01 - Short Title" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
@@ -43,107 +42,135 @@ path_pdf <- file.path(params$class, paste0(params$class, ".pdf"))
 path_notes <- file.path(params$class, paste0(params$class, ".pptx"))
 ```
 
-# Show Attendance QR Code
+# Welcome to the Research Methods Labs
 
-# Heading 1 - Section Head
+## My role as Lab Tutor
 
-This is a subtitle to the section header
+-   To help you every step of the way
+-   Your first point of contact for questions or queries on Research
+    Methods
+-   To share my passion for research and the experience I have gained
+-   To show how I have learned to find answers and solve problems
+-   To challenge you to achieve your best this year and next
 
-## Heading 2 - new slide title
+## Not
 
-Heading 2 copy
+-   To do the work for you
+-   To chase you or to make you do your work (attendance and coursework
+    is compulsory!)
+-   To tell anybody how to behave either individually or in your groups
 
-### Heading 3 - italic emphasis
+## 100% of our focus in the lab
 
-## Spans for text accentuation - available in source mode
+-   We are here to be your guide and mentor in the lab
+-   Outside of lab hours, your point of contact is Gordon
+-   If you have an emergency, your Personal Tutor or Gordon are your
+    primary contacts
 
-[.shout]{.shout} accent3(red) 1.5em and Bold
+## Lab structure
 
-[.alert]{.alert} accent3(red) no change to font size
+This should be familiar to you now. Any questions?
 
-[.fg]{.fg} [.bg]{.bg}
+![](images/LabSession.drawio-01.png)
 
-[.button]{.button} accent1 whitetext button for link
+## Goals for today/this week
 
-[.button-success]{.button-success}
+The immediate goals for this session, and for this week (including your
+independent study time)
 
-[.takeaway]{.takeaway}
+-   Identify potential group members and have this confirmed by the
+    start of Lab 2
+-   Identify potential research topics and methodologies you might use
+-   Clarify any questions that may persist
+-   After today, we move on and start doing work. Any more time spent on
+    these tasks is wasted time.
+-   You should be almost sorted by the end of the session today, at
+    least with a short-list of topics, methods, or potential team-mates,
+    and prepared to use independent study time to finalise your group
+    (for sure) or to continue thinking about topics & methods.
+-   Next week will be Literature search support for this module and the
+    Personality Essay (Double Whammy!) and discussing Effect Sizes and
+    how to calculate and convert them. A requirement for the week 3
+    Essay Submission! (Triple Whammy?)
 
-[.highlight]{.highlight}
+## The rules of the Mini-Dissertation game
 
-## Citations
+-   Your ultimate individual Mini-Dissertation project MUST conform to
+    the following definitive rules:
+-   2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a
+    single continuous DV
+-   You must obtain ethical approval and prove individual involvement in
+    the process of application
+-   You must make a sample size estimation / Power calculation
+-   You must collect data online and individually contribute to group
+    data collection efforts
+-   Your Mini-Dissertation final submission must comprise:
+    -   a 2500 word APA7 empirical paper with a critical reflection and
+        complete reference list
+    -   a single, cleaned, clearly-labelled data set in Excel format (or
+        similar) - Open Data
+    -   a complete, replication-ready materials document detailing
+        materials relevant to your submission - Open Materials
 
-@wright2012
+## Critical Proposal
 
-@Cohen1992 In text citation `@Cohen1992`
+There is a detailed brief on the Critical Proposal (Due Week 5) on the
+VLE.
 
-[@Cohen1992] not in-text citation \`[@Cohen1992]
+It will be the focus of week 3 in both Lecture and Lab, but requires you
+to identify an empirical paper on your research topic, so more on that
+in due course.
 
-just type \`\@\` and a search box comes up for your Zotero library or a
-.bib file associated with the project
+## Activities for today.
 
-## Image\|content 2 column
+These labs are driven by you. The only things that will EVER be
+compulsory are short administrative tasks on a roughly fortnightly basis
+(group progress update) and the next activity. Otherwise you can use the
+time as you see fit either alone or in your group, but we know that
+there is wisdom in the crowd for coming up with topic ideas, identifying
+cool research ideas and setting the tone for the year ahead.
 
-Slide with image and commentary in two columns and some explanatory text
-above
+## Let's get going.
 
-text text text text text text text text text text text text
+-   Lab Challenge! \[15 mins\]
+-   Research Skill Audit
+-   Topic Speed Dating
+-   Methods Matching
+-   Goal Alignment and Group Ethos
 
-text text text text text text text text text text text text
+## Lab Challenge
 
-::: columns
-::: {.column width="60%"}
-![](images/TestImage.png)
-:::
+To be introduced by the Lab Tutor. hehe!
 
-::: {.column width="40%"}
-Here is some text
+## Research Skill Audit
 
--   Bullet 1
+By assessing your current confidence level, you will be able to think
+strategically about the 20 weeks ahead.
 
--   Bullet 2
+## Topic Speed Dating
 
--   Bullet 3
-:::
-:::
+The worksheet will provide some tips and ideas for finding a topic to
+research. Even if you think you've nailed it, let's discuss it.
 
-## Callouts
+## Methods Matching
 
-## Note Callouts
+It is easy to only think about online questionnaires. It may be some of
+the only research you've done, but frankly, it would be a shame to not
+think more expansively. Some ideas will be discussed, and a discussion
+about the Lab Challenge might prompt some ideas.
 
-::: callout-note
-## Note default
+## Goal Alignment and Group Ethos
 
-content
-:::
+Another aspect of effective Group work is Goal Alignment. Even if you
+are working with your best buddy, they may want to just get in and out,
+while you want to immerse yourself in the task ahead.
 
-::: {.callout-note appearance="simple"}
-## Note simple
+This would be a conflict that is potentially dangerous. Think about your
+goals, your aspirations, and then consider how your might formalise
+these in to a set of guidelines.
 
-content
-:::
-
-::: {.callout-note appearance="minimal"}
-## Note minimal
-
-content
-:::
-
-## Icons by FontAwesome
-
-These are cool {{< fa user >}} but they do need a full render e.g.
-`$ quarto render` in order to be seen.
-
-They can also be used in pdfs
-
-| input                             |                output                 |
-|:----------------------------------|:-------------------------------------:|
-| `{{{< fa binoculars >}}}`         |     {{< fa binoculars >}} Prepare     |
-| `{{{< fa chalkboard-teacher >}}}` | {{< fa chalkboard-teacher >}} Lecture |
-| `{{{< fa users >}}}`              |         {{< fa users >}} Lab          |
-| `{{{< fa bookmark >}}}`           |      {{< fa bookmark >}} Reading      |
-| `{{{< fa book >}}}`               |   {{< fa book >}} Mini-Dissertation   |
-
-: Fontawesome {.striped .sm}
+Please do take the time to do this. Being able to point to a set of
+principles (for your group or for the whole lab) may smooth the process
+or be of help in resolving difficulties.
 
 ## References

@@ -1,27 +1,15 @@
 ---
-title: "Week XX: <br> Replace it!"
-subtitle: "This is a meaningful subtitle"
-description: "w/c 2nd October"
+title: "Week 00: General Overview"
+subtitle: "Start as you mean to go on!"
+description: "Welcome Week"
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743
     email: g.wright@gold.ac.uk
-date: "10/02/2023"
+date: "09/29/2023"
 date-format: long
-footer: "[🔗 VLE](https://www.bbc.co.uk)"
-categories: "Lecture"
-listing:
-  id: activity-listing
-  contents:
-    - "lectures/*.qmd"
-    - "labs/*.qmd"
-    - "readingss/*.qmd"
-    - "minidiss/*.qmd"
-  type: table
-  include:
-    categories: "Week 1"
+categories: "Overview"
 format: 
-  pdf: default
   html: default
 ---
 
@@ -29,24 +17,34 @@ format:
 
 Many hundreds of years ago, I was a Boy Scout, before that, I was a
 Brownie too, but that's a story for another day. 'Be Prepared' is a
-valuable piece of advice. And that's what I'm trying to help with here.
-You aren't going to get the most out of the timetabled sessions, or your
-extensive independent study, if you don't have a fair idea of what you
-need to do, by when, and what each activity entails.
+valuable piece of advice.
+
+And that's what I'm trying to help with here. You aren't going to get
+the most out of the timetabled sessions, or your extensive independent
+study, if you don't have a fair idea of what you need to do, by when,
+and what each activity entails.
 
 Your teaching team goes to a great deal of effort to answer any and all
 questions you might have, and we engineer the lectures and labs to
-preview any expected questions and also those of the unexpected variety.
-But you have to ask them. To do this, you need to have a look ahead and
-identify anything that needs clarification.
+preview any expected questions and also allow space for questions of the
+unexpected variety. But you have to ask them. To do this, you need to
+have a look ahead and identify anything that needs clarification.
 
-Remember, a lack of preparation on your part is not an emergency on my
-part.
+Each week, the Lab Tutors assemble a list of the FAQs from each lab and
+check to see if any themes are emerging and Gordon will then communicate
+any relevant answers via the module forum.
 
-Lectures are pretty straightforward. The content will be released a week
-prior to the timetabled session, and will comprise both a `prepare`
-summary like this, but also the lecture slides and signposts to key
-readings.
+Remember, a lack of preparation on your part is not an emergency on our
+part. And if you aren't clear on what you need to do, it's down to you
+to review all the VLE page content for information (it will be there),
+or ask the question via the forum or discuss it with your Lab Tutor in
+the lab.
+
+Lectures are pretty straightforward. The content will be released on the
+Wednesday prior to the timetabled session, and will comprise both a
+`prepare` summary like this, but also the lecture slides and signposts
+to key readings. I release these on a Wednesday, as it allows me to
+incorporate any changes arising from the labs or the previous lecture.
 
 Review the lecture slides, have a poke around in the readings and try to
 familiarise yourself with any concepts that may be new to you. But the
@@ -62,8 +60,6 @@ session to use that to catch everyone up on things and have a bit of
 bants. 2 hours of industry will keep you moving through the stages of
 the module well, reducing the amount of time you might need to work
 independently, or more realistically, freeing that up for other things
-you need to prioritise, whether it's work, life, love or another piece
-of coursework.
+you need to prioritise, whether it's work, life, or love.
 
-::: {#activity-listing}
-:::
+Or walkies with the faithful hound! ta ta G
