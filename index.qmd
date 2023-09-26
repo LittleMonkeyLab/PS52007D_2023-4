@@ -28,7 +28,7 @@ course-logo: images/LMLLOGO.png
 # Attendance / class recording
 
 You should plan to attend lectures and labs in person - attendance is
-taken at all timetabled sessions. In-person attendance is optimal as we
+taken at all timetabled sessions! In-person attendance is optimal as we
 will spend a lot of time working on your Mini-Dissertations and research
 skills. The best idea is to 'keep up, don't catch up' but of course,
 life happens. We know this and will try to help you whenever we can, but
