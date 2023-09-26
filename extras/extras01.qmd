@@ -1,6 +1,6 @@
 ---
-title: "Extras for Week 01: <br> Replace it!"
-subtitle: "This is a meaningful subtitle"
+title: "DangerZone Week 01: <br> Revvin' up your engines!"
+subtitle: "Pushing the envelope"
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743
@@ -11,7 +11,7 @@ license: "CC BY-NC-SA"
 footer: "[🔗 VLE](https://www.bbc.co.uk)"
 citations-hover: true
 categories: 
-  - "Readings"
+  - "DangerZone"
   - "Week 1"
 params:
   class: "extras01"

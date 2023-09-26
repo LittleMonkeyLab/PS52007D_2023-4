@@ -44,122 +44,9 @@ path_pdf <- file.path(params$class, paste0(params$class, ".pdf"))
 path_notes <- file.path(params$class, paste0(params$class, ".pptx"))
 ```
 
-# Show Attendance QR Code
-
-# Heading 1 - Section Head
-
-This is a subtitle to the section header
-
-## Heading 2 - new slide title
-
-Heading 2 copy
-
-### Heading 3 - italic emphasis
-
-# 2 Column
-
-## 2 column here
-
-::: columns
-::: {.column width="50%"}
-Left Column
-
-again
-
-aesst
-:::
-
-::: {.column width="50%"}
-Right columnn
-
-ahdn here is more
-:::
-:::
-
-## Spans for text accentuation - available in source mode
-
-[.shout]{.shout} accent3(red) 1.5em and Bold
-
-[.alert]{.alert} accent3(red) no change to font size
-
-[.fg]{.fg} [.bg]{.bg}
-
-[.button]{.button} accent1 whitetext button for link
-
-[.button-success]{.button-success}
-
-[.takeaway]{.takeaway}
-
-[.highlight]{.highlight}
-
-## Citations
-
-@wright2012
-
-@Cohen1992 In text citation `@Cohen1992`
-
-[@Cohen1992] not in-text citation \`[@Cohen1992]
-
-just type \`\@\` and a search box comes up for your Zotero library or a
-.bib file associated with the project
-
-## Image\|content 2 column
-
-Slide with image and commentary in two columns and some explanatory text
-above
-
-text text text text text text text text text text text text
-
-text text text text text text text text text text text text
-
-::: columns
-::: {.column width="60%"}
-![](images/TestImage.png)
-:::
-
-::: {.column width="40%"}
-Here is some text
-
--   Bullet 1
-
--   Bullet 2
-
--   Bullet 3
-:::
-:::
-
-## Callouts
-
-## Note Callouts
-
-::: callout-note
-## Note default
-
-content
-:::
-
-## Icons by FontAwesome
-
-These are cool {{< fa user >}} but they do need a full render e.g.
-`$ quarto render` in order to be seen.
-
-They can also be used in pdfs
-
-| input                             |                output                 |
-|:---------------------------------|:------------------------------------:|
-| `{{{< fa binoculars >}}}`         |     {{< fa binoculars >}} Prepare     |
-| `{{{< fa chalkboard-teacher >}}}` | {{< fa chalkboard-teacher >}} Lecture |
-| `{{{< fa users >}}}`              |         {{< fa users >}} Lab          |
-| `{{{< fa bookmark >}}}`           |      {{< fa bookmark >}} Reading      |
-| `{{{< fa book >}}}`               |   {{< fa book >}} Mini-Dissertation   |
-
-: Fontawesome {.striped .sm}
-
 # Induction Overview
 
 ## Welcome back and welcome to Research Methods!
-
-here is some content
 
 ## This year you become Scientists!
 
@@ -173,7 +60,7 @@ In groups, you will:
 -   Review and critique the literature in this area
 -   Develop a testable hypothesis
 -   Design a 2x2 ANOVA experiment unique to you (within your group
-    design)
+    study)
 -   Obtain Ethical Approval for your experiment
 -   Collect REAL data
 -   Analyse these data
@@ -214,8 +101,8 @@ lecture. Yup! Me too!
 
 Available at g.wright\@gold.ac.uk
 
-I genuinely could not imagine anything I would rather do than this.
-Please talk to me! Help me get to know you!
+I genuinely could not imagine anything I would rather do that this.
+Please talk to me!
 
 ## Module weighting and assessment
 
@@ -251,23 +138,18 @@ and collusion rules
 
 ## Weekly Structure
 
-Each week there will be a very brief '**Preparation**' designed to
-introduce the main topics of the week
+Each week there will be a very brief '**Prelude**' designed to introduce
+one of the main topics of the week
 
-**Lecture** (slides a week ahead and recording posted afterwards)
+**Lecture** (slides and recording posted afterwards)
 
-**Labs**
+**Lab Activity**
 
--   Broad structure, but for you to use to advantage
--   Attendance QR code up for 15 minutes, and the first 15 minutes is
-    for you to get yourself sorted out as a group
--   Your Lab Tutor will give a 10-15 minute overview of what you could
-    be doing, and a survey of the resources/materials provided
--   If you need support, make yourself known as your Lab Tutor (or I)
-    tour the lab(s)
--   You can (and should) ask any questions that occur to you. The labs
-    are for this purpose. Your Lab Tutor will not be responding to
-    emails outside of lab sessions
+-   **'Pulse'** taken on entry - 2 minute quiz
+-   **Lab Notebook** with brief 'generative activities' and
+    opportunities for metacognitive reflection
+-   Extras provided around skills or applications or just interesting
+    factoids
 -   Lots can be achieved in the labs, but independent study and
     coordinated group work will be required
 
@@ -304,12 +186,14 @@ Contribution to and comment on these is welcome and hoped for!
 Open Educational Resources will be used extensively, and most core
 readings are available online via the library.
 
-# Thank you
+## Prelude 1
+
+We are starting off very easy. A short questionnaire to allow us to get
+to know you a little better, which we will use to develop the first
+lecture, and the course more generally.
 
 ## Thank you for your time
 
 And have an amazing year!
 
 The Research Methods Team
-
-## References

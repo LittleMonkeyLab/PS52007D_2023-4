@@ -15,122 +15,120 @@ course-logo: images/LMLLOGO.png
 
 ### some chat about ethos and accessibility
 
-dkghasdlkg
-
-::: home
-::: {.grid .course-details}
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-### Instructor
-
--   {{< fa user >}}  
-    [{{< var instructor.name >}}](%7B%7B%3C%20var%20instructor.url%20%3E%7D%7D)
--   {{< fa university >}}   Office: {{< var instructor.office >}}
--   {{< fa envelope >}}  
-    [{{< var instructor.email >}}](mailto:g.wright@gold.ac.uk)
--   {{< fa brands twitter >}}  
-    [{{< var instructor.twitter >}}](https://www.twitter.com/%7B%7B%3C%20var%20instructor.twitter%20%3E%7D%7D)
-:::
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-### Course details
-
--   {{< fa calendar >}}   {{< var course.days >}}
--   {{< fa calendar-alt >}}   {{< var course.dates >}}
--   {{< fa clock >}}   Office Hours: TBC
--   {{< fa map >}}   {{< var course.location >}}
-:::
-
-::: {.g-col-12 .g-col-md-4 .contact-policy}
-### Contacting me
-
-{{< var instructor.contact_policy >}}
-:::
-:::
-:::
-
 # Course Information
 
 ::: {style="width:600px"}
-| Instructor                                                                                                 | Course                                                |
-|-----------------------------------------------|-------------------------|
-| <i class="fas fa-user"></i> Dr. Gordon Wright                                                              | <i class="far fa-calendar"></i> Lecture: Mondays      |
-| <i class="fas fa-university"></i> Whitehead 200/1                                                          | <i class="fa fa-map-marker-alt"></i> PSH LG02 10-11am |
-| <i class="fas fa-talk"></i> Office Hours:                                                                  | <i class="far fa-calendar-alt"></i> Labs : Tuesdays   |
-| <i class="fas fa-envelope"></i> [{{< var instructor.email >}}](mailto:%7B%7B%3C%20var%20email%20%3E%7D%7D) | <i class="far fa-clock"></i> See personal timetable   |
-| <i class="fab fa-twitter"></i> [\@](https://twitter.com/JohnHelveston)DrDeception                          |                                                       |
+| Instructor                                                                                                 | Course                                                   |
+|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| <i class="fas fa-user"></i> Dr. Gordon Wright                                                              | <i class="far fa-calendar"></i> Lecture: Mondays         |
+| <i class="fas fa-university"></i> Whitehead 200/1                                                          | <i class="fa fa-map-marker-alt"></i> PSH LG02 10-11am    |
+| <i class="fas fa-talk"></i> Office Hours: Monday Afternoon time TBC                                        | <i class="far fa-calendar-alt"></i> Labs : Tuesdays      |
+| <i class="fas fa-envelope"></i> [{{< var instructor.email >}}](mailto:%7B%7B%3C%20var%20email%20%3E%7D%7D) | <i class="far fa-clock"></i> See your personal timetable |
+| <i class="fab fa-twitter"></i> [\@DrDeception](https://twitter.com/drdeception)                            |                                                          |
 :::
 
-# Remote attendance / class recording
+# Attendance / class recording
 
-You should plan to attend class in person. I will only open a zoom for
-virtual attendance on an individual case-by-case basis for specific
-excusable absences (e.g. illness, family matters, etc.). Lectures will
-**not** be recorded. In-person attendance is critical as we will spend a
-lot of time working on problems and writing code during class. If you
-have any questions or need special accommodations, send me a message on
-slack and we can discuss.
+You should plan to attend lectures and labs in person - attendance is
+taken at all timetabled sessions. Lectures will be recorded and uploaded
+within 24 hours of the timetabled session. In-person attendance is
+optimal as we will spend a lot of time working on your
+Mini-Dissertations and research skills. The best idea is to 'keep up,
+don't catch up' but of course, life happens. We know this and will try
+to help you whenever we can, but we can't offer Extenuating
+Circumstances or mark you as present etc. You should try to update your
+Personal Tutor, Lab Tutor and research group members if you anticipate
+missing a session.
 
-# Course Description
-
-## GW Bulletin Description (short)
-
-Introduction to exploratory data analysis using the [R programming
-language](https://www.r-project.org/); data visualization, data
-cleaning, exploratory analysis, information communication, rmarkdown,
-reproducibility.
-
-## Unofficial Description
-
-```         
-```
-
-## Prerequisites
-
-```         
-```
+Lab Sessions are NOT recorded. Any activities or resources will be
+available via the VLE or this site, but it is your responsibility to
+keep abreast of your group progress and to catch up if necessary.
 
 # Learning Objectives
 
-```         
-```
+Students who successfully complete this module will be able to:
+
+-   Show a critical understanding of research design and methodology
+-   Design, conduct, analyse, interpret and disseminate psychological
+    research
+-   Understand the conceptual and historical issues concerned with
+    psychology as a science and area of practical application
+-   Demonstrate valuable time-management and collaborative
+    project-management skills and proficiencies
+-   Reflect on their own learning, skill development and metacognition,
+    preparing them for the final year dissertation
 
 # Pep Talk!
 
-Working in and learning a programming language can be as challenging as
-learning a new spoken language. Hadley Wickham (chief data scientist at
-RStudio and author of many amazing R packages you'll be using) [made
-this wise
-observation](https://r-posts.com/advice-to-young-and-old-programmers-a-conversation-with-hadley-wickham/):
+You might be intimidated by the idea of 'Research Methods' or the
+prospect of running a piece of real research. This is understandable,
+but really not necessary.
 
-> It's easy when you start out programming to get really frustrated and
-> think, "Oh it's me, I'm really stupid," or, "I'm not made out to
-> program." But, that is absolutely not the case. Everyone gets
-> frustrated. I still get frustrated occasionally when writing R code.
-> It's just a natural part of programming. So, it happens to everyone
-> and gets less and less over time. Don't blame yourself. Just take a
-> break, do something fun, and then come back and try again later.
+If you are able to manage your independent study, attend labs and view
+these sessions as 'working sessions', you'll do just fine. By viewing
+your Lab Tutor as your 'Supervisor' and developing a dialogue with them
+each week, updating them with successes AND problems, you will get the
+best support available. Please don't panic, and please don't stay quiet.
+The sooner you address any problems or issues, the sooner we can fix
+them and get you back on track.
 
-If you're finding yourself taking way too long hitting your head against
-a wall and not understanding, **take a break**, talk to classmates, ask
-questions in Slack, and try it again later.
+The biggest tip I can offer is around note-taking. Keeping good notes, a
+'lab notebook' if you like, and gradually building a source of 'truth',
+is crucial to success on this module. We will be supporting this, but I
+encourage you to find a process that works for you. Make sure that your
+notes are available AT ALL TIMES. Use a cloud-based system (University
+Microsoft resources such as OneDrive and OneNote are free). Make sure to
+back up your drafts and notes. Your Lab Tutors will ask to see your
+notes to see what you have done to solve any problems you face, or to
+see the current 'status' of your project, such as your Design. Please
+think how this will pay off in the future, as once you've set it down
+and had a thumbs-up from your Lab Tutor, you can rely upon that
+information as 'truth' and you don't need to puzzle over aspects of your
+study any further.
 
-**I promise, you can do this**
+**I promise, you can do this** Turn up, use your labs and independent
+study time wisely, and don't be afraid of making mistakes. Now is the
+time to make mistakes, and if you DON'T make mistakes, you aren't doing
+it right!
 
-## Quizzes
+## Expectation management
 
-There will be 5 quizzes given about once every other week immediately at
-the beginning of class. You will not be told in advance when there is a
-quiz, and make up quizzes will not be available if you miss it (except
-for excused absences). Please show up on time to class each week to
-ensure that you do not miss a quiz.
+The teaching team on the module are here because Psychological Research
+is one of our passions. We teach it to you because we know it to a
+hugely valuable skill, not just a programme requirement. We understand
+that you might not immediately think it's going to be fun, or useful,
+but we aren't going to continually try to coax you into activity. If
+necessary, consider how the skills involved will be important for your
+final grade, for your future career path, or for your general
+intellectual development. Then throw yourself into it.
 
-Quizzes will cover material presented in previous classes and
-assignments during the weeks since the most-recent quiz. Quizzes are
-**short** (5-10 minutes) and are designed to test for fluency and to
-demonstrate where additional study is needed. **Quizzes are
-low-stakes** - your worst one is dropped, and the rest count for a small
-portion of your final grade. If you do poorly on one or two, use that as
-feedback on where you need additional improvement.
+The bare minimum expectation is to attend Lectures and Labs, to engage
+with the content, and to allocate independent study hours each and every
+week. How many hours will be a decision you need to make for yourself,
+but they are required EVERY week. This module is 25% of the year in
+terms of module weight, 29% of your year grade, and when combined with
+your final year dissertation, research contributes 50% of your final
+grade.
+
+It is easy to get sidetracked with Essays during the course of the term.
+Please consider that those essays contribute 15% of a 15 credit module.
+The Critical Proposal is worth double that for starters, and your
+Mini-Dissertation is worth 10X more than any individual essay.
+Allocating too much time to the 5 essays and falling behind on your
+Mini-Dissertation is a really poor idea.
+
+Materials on the VLE will be considered the 'baseline' and you should
+familiarise yourself with what is available there - it will be
+everything you need to do really well. We shall be offering 'extras' -
+resources that will support further exploration of a topic, developing
+further skills, or just interesting added-value content, you will find
+this under 'DangerZone' - these are optional, and if you wish to add
+anything to these, or suggest some content, please let me know - always
+happy to help!
+
+On this site, resources may include short self-assessment quizzes.
+Answers are NOT tracked, so use these to test your comprehension, or
+identify areas for focus.
 
 > **Why quiz at all?** Research shows that giving small quizzes
 > throughout a class can dramatically help with *retention*. It's a
@@ -141,119 +139,86 @@ feedback on where you need additional improvement.
 > Learning,"](https://www.hup.harvard.edu/catalog.php?isbn=9780674729018)
 > by Brown, Roediger, and McDaniel.
 
-## Homework
+## Teamwork
 
-Students will be responsible for two types of assignments throughout the
-semester:
+I bet you just let out a sigh of disgust. Everyone does at the thought
+of working as a group. But... Do you know the first question on NHS
+Clinical Doctorate reference requests? Or the first thing that employers
+usually ask for in Reference Request templates and questionnaires?
 
--   **Weekly Assignments**: Each week, students will be assigned
-    specific readings and exercises to prepare for the next class
-    period. Students will need to submit responses that include a
-    thoughtful reflection on these concepts each week.
--   **Mini Projects**: There will be three mini projects throughout the
-    semester designed to provide hands-on experience with the material
-    covered in class by working with and exploring real data sets and /
-    or creating visualizations. While students may work with their peers
-    on these assignments, each student must submit their own work.
-    Credit for each assignment will be allocated according to a rubric
-    provided in the assignment description.
+"To what extent is the applicant able to work as part of a team?"
 
-## Final Project
+I kid you not. And if you can't operate effectively in a team, we have
+to say so. It's a silly way to miss out on a job. View the process of
+team work as something that you actively allocate time to. Develop a
+process. Communicate. Plan. Evaluate.
 
-Throughout the semester, students will work in teams of 2-3 students
-towards a final project of an exploratory data analysis. At the end of
-the semester, each student will submit a report of their analysis in the
-form of an html web page and create a 5 to 10-minute video presentation
-of their results. To make the overall project more manageable, it will
-be broken down into several separate "milestone" deliverables due
-throughout the semester, including a proposal, progress report,
-presentation video, and final report.
+In this module, we suggest a process based in Software Development,
+called Scrum. There are many variants and nuances, but the key component
+is a Stand-Up meeting. We propose that you use the first 15 minutes of
+EVERY lab to run such a meeting. Each team member has 1-2 minutes (VERY
+SHORT) to cover 3 topics. 1- What did you do last week? 2 - What are you
+going to do in today's lab/this week? 3 - Do you anticipate any
+obstacles or problems?
 
-View the Mini-Dissertation Overview page for more details.
+This ensures accountability towards group goals, allows you to clearly
+identify areas you need to focus on, and to be ready to ask your Lab
+Tutor any questions that may obstruct your progress. Each week I will be
+giving a set of reasonable objectives to help you work out where you
+could/should be. These are obviously flexible, but you should look to
+make forward progress each and every week.
 
-## Final Interview
+If you choose to use an alternative system to manage your team or your
+time, fine. But it cannot be replaced with nothing. Your Lab Tutor will
+be asking to see your plans, and see how you may have allocated tasks or
+responsibilities. It may sound like a burden, but this is what you will
+likely have to do with your supervisor next year, and certainly you'll
+need these skills in later life. It takes a few minutes a week, but
+could save you DAYS!
 
-Rather than have a final exam, each student will have a 10-minute
-interview by the instructor. The interview will be focused on the final
-project the student worked and will contain questions related to
-concepts covered during the course. Students will be provided a list of
-questions and the grading rubric ahead of the interview.
+# Grades
 
-# Grading
+## Passing the module.
 
-## Category Breakdown
+Every year a handful of people fail the module. This is usually because
+they don't submit one of the three pieces of work. If you attend the
+labs, and follow the suggested activities, you will pass. Simple as
+that. If you submit an Ethics Application, collect data, analyse it
+using a 2x2 ANOVA, and write up a complete APA format report, with
+supplementary Open Materials and Open Data, you WILL pass. So the
+question is really...
 
-Final grades will be calculated as follows:
+## How to improve your grade
 
-::: {style="width:550px"}
-| Item                           | Weight | Notes                     |
-|--------------------------------|--------|---------------------------|
-| Weekly HW                      | 12 %   |                           |
-| Quizzes                        | 8 %    | 5 quizzes, lowest dropped |
-| Mini Project 1                 | 8 %    | Individual assignments    |
-| Mini Project 2                 | 8 %    |                           |
-| Mini Project 3                 | 8 %    |                           |
-| Final Project: Proposal        | 9 %    | Teams of 2-3 students     |
-| Final Project: Progress Report | 12 %   |                           |
-| Final Project: Report          | 16 %   |                           |
-| Final Project: Presentation    | 9 %    |                           |
-| Final Interview                | 10 %   | Individual interview      |
-:::
-
-Here's a visual breakdown by category:
-
-```{r grade-breakdown, echo=FALSE, fig.height=3, fig.align='left'}
-library(viridis)
-library(ggrepel)
-library(magrittr)
-library(dplyr)
-library(forcats)
-library(cowplot)
-
-df <- data.frame(
-    category = c(
-      'Weekly HW', 'Quizzes', 'Mini Projects', 'Final Project',  'Interview'),
-    percent = c(6, 12, 27, 45, 10)) %>%
-    arrange(desc(percent)) %>%
-    mutate(
-      cumpercent = cumsum(percent),
-      label_y = cumpercent - (percent / 2),
-      category = fct_reorder(category, percent))
-
-ggplot(df) +
-    geom_col(aes(x = "", y = percent, fill = category),
-             width = 1.1, alpha = 0.8) +
-    geom_label(data = filter(df, category %in% c(
-               'Mini Projects', 'Final Project')),
-               aes(x = "", y = label_y, label = category)) +
-    geom_label_repel(data = filter(df, category %in% c(
-                     'Quizzes', 'Interview', 'Weekly HW')),
-                     aes(x = "", y = label_y, label = category),
-                     direction = 'y', label.padding = 0.25, segment.size = 0) +
-    coord_flip() +
-    scale_y_continuous(expand = expansion(mult = c(0, 0.05))) +
-    scale_fill_viridis(discrete = TRUE) +
-    theme_minimal_vgrid() +
-    theme(legend.position = 'none') +
-    labs(y = 'Percent of final grade', x = NULL)
-```
-
-## Course Learning Objectives
-
-By the end of the term, you will...
-
--   learn studd
--   learn more stuff
+The Mini-Dissertation has roughly 27 key moving parts. It's easy to deal
+with them all over the course of 20 weeks. But by approaching each as an
+opportunity to draft, revise and refine, you will be continually
+building marks. First drafts or incomplete elements get poor marks -
+simple as that. Use the resources as a guide, don't miss anything out,
+give yourself time. If anything is unclear, ask your Lab Tutor, or ask
+me. There are no hidden traps on this module. It's just do some research
+within the constraints described, and write it up in APA format.
 
 ## Textbooks
 
-All books are freely available online. Hardcopies are also available for
-purchase.
+The library reading list includes textbooks and resources with a
+preference for those that are freely available and online, either via
+the library website, or cost-free on the internet. We shall be sharing
+lots of resources we have developed, and signposting other free
+resources. There really is NO NEED to pay for access to other materials
+(unless you want to), but there is usually no shortcut you can pay for.
+If resources don't exist, ask for them.
+
+Finding a consistent textbook that you use and trust is highly
+recommended - if in doubt have a poke around on the Library Reading list
+and find one you like. A consistent voice is better than just googling a
+question and hearing different takes from numerous different sources.
+
+I shall be signposting Open Educational Resources that have good take on
+any topic, and maybe even tailoring those resources to the year. Please
+consider using `Hypothes.is` to track your resources, and to share them
+with the group using the `PS52007D group`
 
 |                                                                         |                          |                                   |
-|-------------------------------------|-----------------|------------------|
+|-------------------------------------------------------------------------|--------------------------|-----------------------------------|
 | [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) | Çetinkaya-Rundel, Hardin | OpenIntro Inc., 1st Edition, 2021 |
-
-## Course community
-
-### Inclusive community

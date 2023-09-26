@@ -36,20 +36,20 @@ Here's your roadmap for the year! Pay attention!
 Every class session has four important sections. You should read about
 the details for each using the main menu at the top of this webpage.
 
--   [**Overview**](/overview/index.html)
-    (<i class="fas fa-binoculars"></i>): This page overviews the weeks
+-   **Overview** (<i class="fas fa-binoculars"></i>): This page
+    overviews the weeks
 
--   [**Lecture slides**](/slides/index.html)
-    (<i class="fas fa-tv"></i>): This page is for lectures
+-   **Lecture slides** (<i class="fas fa-tv"></i>): This page is for
+    lectures
 
--   [Lab slides](/slides/index.html) (<i class="fas fa-users"></i>):
-    This page is about labs
+-   **Lab slides** (<i class="fas fa-users"></i>): This page is about
+    labs
 
--   [Worksheets](worksheets/index)
-    (<i class="fas fa-pencil-ruler"></i>): This page is about labs
+-   **Worksheets** (<i class="fas fa-pencil-ruler"></i>): This page is
+    about labs
 
--   [**Extras**](extras/index) (<i class="fas fa-book"></i>): This page
-    is about Extras
+-   **DangerZone** (<i class="fas fa-book"></i>): This page is about
+    Extras
 
 ::: {.row .d-flex .justify-content-center}
 ::: {.col-12 .col-sm-10 .col-md-6}
@@ -110,9 +110,9 @@ d |>
   text_transform(cells_body(columns = c(lecture)), fn = conditional_transform_fn("tv")) |>
   text_transform(cells_body(columns = c(lab)), fn = conditional_transform_fn("users")) |>
   text_transform(cells_body(columns = c(worksheets)), fn = conditional_transform_fn("pencil-ruler")) |>
-  text_transform(cells_body(columns = c(extras)), fn = conditional_transform_fn("book")) |>
+  text_transform(cells_body(columns = c(DangerZone)), fn = conditional_transform_fn("book")) |>
   sub_missing(columns = c(date, topic, notes), missing_text = "") |>
-  cols_align(align = "center", columns = c(week, date, overview, lecture, lab, worksheets, extras)) |>
+  cols_align(align = "center", columns = c(week, date, overview, lecture, lab, worksheets, DangerZone)) |>
   cols_align(align = "left", columns = c(topic, notes)) |>
   tab_style(
     style = cell_borders(
@@ -121,7 +121,7 @@ d |>
       style = "solid"
     ),
     locations = cells_body(
-      columns = c(week, date, topic, overview, lecture, lab, worksheets, extras)
+      columns = c(week, date, topic, overview, lecture, lab, worksheets, DangerZone)
     )
   ) |>
   # Setting text size for 'notes' column
@@ -137,7 +137,7 @@ d |>
   tab_style(
     style = htmltools::css(width = "5%"),
     locations = cells_body(
-      columns = c(overview, lecture, lab, worksheets, extras)
+      columns = c(overview, lecture, lab, worksheets, DangerZone)
     )
   ) |>
   

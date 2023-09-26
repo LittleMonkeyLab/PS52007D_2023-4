@@ -20,7 +20,7 @@ date-format: "dddd, DD MMMM, YYYY"
 
     
 website:
-  title: Research Methods in Psychology 23/24
+  title: Research Methods <br> in Psychology 23/24
   image: rmmonkey.png
   google-analytics: G-KS294259KL
   site-url: https://quarto.org
@@ -29,6 +29,10 @@ website:
   repo-actions:
   - edit
   - issue
+  comments: 
+    hypothesis:
+      theme: clean
+      openSidebar: false
   page-footer:
     left: |
       Content {{< fa brands creative-commons >}} 2023 by Dr. Gordon Wright <br>
@@ -114,13 +118,13 @@ format:
 
     css:
     - include/webex.css
-    # - LMLstyles.css
+    - styles.css
     include-after-body: include/webex.js
     # df-print: kable
     filters: 
       - fontawesome
       - reveal-header
-    
+  
     grid:
       sidebar-width: 250px
       body-width: 900px

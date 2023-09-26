@@ -33,9 +33,9 @@ format:
     max-scale: 2.0
     pdf-max-pages-per-slide: 1
     output-ext: slides.html
-  # pptx:
-  #   reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
-  #   output-ext: pptx
+  pptx:
+    reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
+    output-ext: pptx
   # pdf: 
   #   pdf-engine: lualatex
   #   theme: _resources/templates/lecturespdf.scss

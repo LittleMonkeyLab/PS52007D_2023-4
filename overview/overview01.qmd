@@ -1,6 +1,6 @@
 ---
-title: "Prepare for Week 01: <br> Replace it!"
-subtitle: "This is a meaningful subtitle"
+title: "Preparing for Week 01: <br> Brainstorm"
+subtitle: "Group formation & Topic Brainstorm"
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743
@@ -78,12 +78,12 @@ format:
   # pptx: default
   html: default
   # docx: default
-  # revealjs: 
-  #   header-logo: "/images/rmlogo.png"
-  #   header: "Research Methods Lab 01 - Short Title" # Replace it
+  # revealjs:
+  #   header-logo: "/images/rmmonkey.png"
+  #   header: "Research Methods Week 01 - Getting started" # Replace it
   #   hide-from-titleSlide: "text"
-filters:
-  - reveal-header
+# filters:
+#   - reveal-header
 execute:
  echo: false
  freeze: auto
@@ -95,20 +95,28 @@ embed-resources: true
 
 ```{=html}
 
-<iframe src="https://ps52007d.littlemonkeylab.com/lectures/lec00.slides.html" title="Induction Week Lecture" width="960" height="500" data-external="1"></iframe>
+<iframe src="https://ps52007d.littlemonkeylab.com/slides/week01/lecture.slides.html" title="Week01 Lecture" width="960" height="500" data-external="1"></iframe>
 ```
 ## Introduction & Lecture Preview
 
 ::: {.callout .primary}
-**Key Focus:** Briefly describe the key focus of this week's lecture.
+**Key Focus:** Module Overview and getting started in the labs
 :::
 
 -   **Important Points:**
-    1.  Point 1
-    2.  Point 2
--   **Preparatory Reading or Reflection:**
-    -   [Reading 1](#)
-    -   [Reading 2](#)
+    1.  Read Learning Outcomes
+    2.  Read Coursework information and scan available resources
+        (Marking Rubrics, Critical Proposal Brief, Mini-Dissertation
+        Templates/examples).
+-   **Preparatory Reading or Thinking:**
+    -   \[Prep 1\] Think about potential topics and/or methods that
+        excite you for your Mini-Dissertation
+    -   \[Prep 2\] Consider how you are going to work, and with whom.
+        You will be keeping detailed notes and communicating regularly.
+        How will you want to manage that?
+    -   \[Prep 3\] Think about your timetable and deadlines. When are
+        you going to do your regular independent study. Where will you
+        do it? With whom?
 
 ------------------------------------------------------------------------
 
@@ -116,12 +124,15 @@ embed-resources: true
 
 ```{=html}
 
-<iframe src="https://ps52007d.littlemonkeylab.com/lectures/lab01.slides.html" title="Induction Week Lecture" width="960" height="500" data-external="1"></iframe>
+<iframe src="https://ps52007d.littlemonkeylab.com/slides/week01/lab.slides.html" title="Induction Week Lecture" width="960" height="500" data-external="1"></iframe>
 ```
-### Checklist of Progress
+### Lab Activities
 
--   [ ] Task 1
--   [ ] Task 2
+-   [ ] Lab Challenge!
+-   [ ] Research Skill Audit
+-   [ ] Topic Speed Dating
+-   [ ] Methods Matching
+-   [ ] Goal Alignment and Group Ethos
 
 ### Ideas for Team Coordination
 
