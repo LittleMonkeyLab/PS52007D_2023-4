@@ -102,8 +102,8 @@ independent study time)
 -   You must obtain ethical approval and prove individual involvement in
     the process of application
 -   You must make a sample size estimation / Power calculation
--   You must individually and collaboratively contribute to group data
-    collection efforts
+-   You must collect data online and individually contribute to group
+    data collection efforts
 -   Your Mini-Dissertation final submission must comprise:
     -   a 2500 word APA7 empirical paper with a critical reflection and
         complete reference list

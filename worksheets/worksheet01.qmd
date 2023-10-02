@@ -42,22 +42,24 @@ embed-resources: true
 
 # Lab Challenge! \[15 mins\]
 
-Lab Tutor intro
+A quick overview from your Lab Tutor. Pay attention.
 
 ## Research Skill Audit
 
-Update to follow
+Complete the survey and save the data to your lab notebook. A useful
+'reflection'!
 
 ## Topic Speed Dating
 
-Update to follow
+See the Miro board entitled 'Topic Brainstorming' - Please add, comment,
+list your potential topics!
 
 ## Methods Matching
 
-Update to follow
+Use the Miro board entitled 'MethodsMania' and see if anything tickles
+your experimental fancy!
 
-## Goal Alignment and Group Ethos
+## Group Behaviour & Group Ethos
 
-Update to follow and link to google doc
-
-## References
+Now is the time to formalise how you plan to work. Use the Miro board
+entitled 'TeamTools & Ethos'
