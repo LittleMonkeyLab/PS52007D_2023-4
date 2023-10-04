@@ -1,20 +1,20 @@
 ---
-title: "Lab 01: <br> Group formation and Topic Brainstorm!"
-subtitle: "Let's jump right in"
+title: "Lab 02: <br> Literature Masterclass"
+subtitle: "Can't make bricks without clay"
 image: "lab.png"
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743
     email: g.wright@gold.ac.uk
-date: "10/02/2023"
+date: "10/10/2023"
 date-format: long
 license: "CC BY-NC-SA"
 citations-hover: true
 categories: 
   - "Lab"
-  - "Week 1"
+  - "Week 2"
 params:
-  class: "lab01"
+  class: "lab02"
 format: 
   # pdf: default
   pptx: default
@@ -24,7 +24,7 @@ format:
     title-slide-attributes: 
       data-background-color: "#6667ab" # Very Peri 2022 Color of the year
     header-logo: "/images/rmmonkey.png"
-    header: "Research Methods Lab 01 - Brainstorming" # Replace it
+    header: "Research Methods Lab 02 - Literature Masterclass" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
 filters:
@@ -42,135 +42,30 @@ path_pdf <- file.path(params$class, paste0(params$class, ".pdf"))
 path_notes <- file.path(params$class, paste0(params$class, ".pptx"))
 ```
 
-# Welcome to the Research Methods Labs
+# Overview of Lab 02
 
-## My role as Lab Tutor
+## Please sit in your Personal Tutor Groups and in your Lab Groups.
 
--   To help you every step of the way
--   Your first point of contact for questions or queries on Research
-    Methods
--   To share my passion for research and the experience I have gained
--   To show how I have learned to find answers and solve problems
--   To challenge you to achieve your best this year and next
+-   Students who missed last week or are ungrouped - identify yourself
+    and stay nearby.
+-   If you are 'grouped' - please open the Miro Board and complete a
+    group form Members - Full names - Topic - Methods - Working style
 
-## Not
+## Main Lab Activities
 
--   To do the work for you
--   To chase you or to make you do your work (attendance and coursework
-    is compulsory!)
--   To tell anybody how to behave either individually or in your groups
+-   Follow the Worksheet for Literature Searching Tips, resources and
+    exercises - this can be productive work towards BOTH your
+    Personality Essay AND your Critical Proposal/Mini-Dissertation.
+    Don't waste the time.
+-   (Re-)Familiarise yourself with the idea of Effect Sizes and see if
+    you can find one relevant to either `academic success` or your
+    research topic
+-   The Lab Tutor will be circulating and looking at work `on screen` to
+    see how you are doing. Ask for any help you need.
 
-## 100% of our focus in the lab
+### Module Milestones (by end of this week)
 
--   We are here to be your guide and mentor in the lab
--   Outside of lab hours, your point of contact is Gordon
--   If you have an emergency, your Personal Tutor or Gordon are your
-    primary contacts
-
-## Lab structure
-
-This should be familiar to you now. Any questions?
-
-![](images/LabSession.drawio-01.png)
-
-## Goals for today/this week
-
-The immediate goals for this session, and for this week (including your
-independent study time)
-
--   Identify potential group members and have this confirmed by the
-    start of Lab 2
--   Identify potential research topics and methodologies you might use
--   Clarify any questions that may persist
--   After today, we move on and start doing work. Any more time spent on
-    these tasks is wasted time.
--   You should be almost sorted by the end of the session today, at
-    least with a short-list of topics, methods, or potential team-mates,
-    and prepared to use independent study time to finalise your group
-    (for sure) or to continue thinking about topics & methods.
--   Next week will be Literature search support for this module and the
-    Personality Essay (Double Whammy!) and discussing Effect Sizes and
-    how to calculate and convert them. A requirement for the week 3
-    Essay Submission! (Triple Whammy?)
-
-## The rules of the Mini-Dissertation game
-
--   Your ultimate individual Mini-Dissertation project MUST conform to
-    the following definitive rules:
--   2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a
-    single continuous DV
--   You must obtain ethical approval and prove individual involvement in
-    the process of application
--   You must make a sample size estimation / Power calculation
--   You must collect data online and individually contribute to group
-    data collection efforts
--   Your Mini-Dissertation final submission must comprise:
-    -   a 2500 word APA7 empirical paper with a critical reflection and
-        complete reference list
-    -   a single, cleaned, clearly-labelled data set in Excel format (or
-        similar) - Open Data
-    -   a complete, replication-ready materials document detailing
-        materials relevant to your submission - Open Materials
-
-## Critical Proposal
-
-There is a detailed brief on the Critical Proposal (Due Week 5) on the
-VLE.
-
-It will be the focus of week 3 in both Lecture and Lab, but requires you
-to identify an empirical paper on your research topic, so more on that
-in due course.
-
-## Activities for today.
-
-These labs are driven by you. The only things that will EVER be
-compulsory are short administrative tasks on a roughly fortnightly basis
-(group progress update) and the next activity. Otherwise you can use the
-time as you see fit either alone or in your group, but we know that
-there is wisdom in the crowd for coming up with topic ideas, identifying
-cool research ideas and setting the tone for the year ahead.
-
-## Let's get going.
-
--   Lab Challenge! \[15 mins\]
--   Research Skill Audit
--   Topic Speed Dating
--   Methods Matching
--   Goal Alignment and Group Ethos
-
-## Lab Challenge
-
-To be introduced by the Lab Tutor. hehe!
-
-## Research Skill Audit
-
-By assessing your current confidence level, you will be able to think
-strategically about the 20 weeks ahead.
-
-## Topic Speed Dating
-
-The worksheet will provide some tips and ideas for finding a topic to
-research. Even if you think you've nailed it, let's discuss it.
-
-## Methods Matching
-
-It is easy to only think about online questionnaires. It may be some of
-the only research you've done, but frankly, it would be a shame to not
-think more expansively. Some ideas will be discussed, and a discussion
-about the Lab Challenge might prompt some ideas.
-
-## Goal Alignment and Group Ethos
-
-Another aspect of effective Group work is Goal Alignment. Even if you
-are working with your best buddy, they may want to just get in and out,
-while you want to immerse yourself in the task ahead.
-
-This would be a conflict that is potentially dangerous. Think about your
-goals, your aspirations, and then consider how your might formalise
-these in to a set of guidelines.
-
-Please do take the time to do this. Being able to point to a set of
-principles (for your group or for the whole lab) may smooth the process
-or be of help in resolving difficulties.
-
-## References
+-   I'm in my group and we have a plan
+-   I've got a rough idea of the Topic of my Mini-Dissertation
+-   If after today, I sit down and read, or jot down ideas, whether for
+    Essay or MD - it's useful productive work

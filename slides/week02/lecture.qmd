@@ -49,8 +49,8 @@ path_notes <- file.path(params$class, paste0(params$class, ".pptx"))
 
 -   The week ahead
 -   The research process you are beginning
--   A couple of CHIP topics to vote on
--   Lab preview - The process, time-management and teamwork
+-   Effect sizes
+-   Lab preview - Literature, and making it your friend
 
 ## The week ahead
 
@@ -64,7 +64,7 @@ This week (week 2) you have your Personality Essay Tutorial
 >
 > Feedback on/by x
 
-## CHIP topics
+## Perennial CHIP topics
 
 I want to briefly draw your attention to the third (final) piece of
 coursework for this module, the so-called 'CHIP Learning Log'
@@ -72,26 +72,33 @@ coursework for this module, the so-called 'CHIP Learning Log'
 The earlier we flag topics and introduce little glimmers of content, the
 easier that will be.
 
-1 - What is Science? An amazing opportunity to consider this
-[while]{.underline} you do your Mini-Dissertation
+# 1 - What is Science? 
 
-(A more reliable overview from Professor Ed Diener here) [**Open
-Educational Resource**]{.underline}
+## An amazing opportunity to consider this critical question [while]{.underline} you do your Mini-Dissertation
+
+Here is a thought-provoking initial overview - [**Open Educational
+Resource**]{.underline}
 
 Diener, E. (2022). Why science?. In R. Biswas-Diener & E. Diener (Eds),
 *Noba textbook series: Psychology.* Champaign, IL: DEF publishers.
 <http://noba.to/qu4abpzy>
 
-2 - Artificial Intelligence - Promise or Peril?
+# 2 - Artificial Intelligence - Promise or Peril?
+
+## Last year, this was a fairly philosophical question
+
+This year, you are probably using AI on a daily or weekly basis. I don't
+need to give you 1980's movie references to show you how we thought
+computers were going to take over the world and enslave the human race,
+we can just look out the window!
 
 ## CHIP topic approval process
 
-Anyone can suggest a topic, by identifying where it sprang to mind.
+Lectures identified with `CHIP` in the title e.g. weeks 16-20 \[They
+change yearly!\]
 
-people need to approve it by confirming it is relevant, with a brief
-rationale.
-
-The more you engage, the more topics you get to choose from.
+I am open to other topics, but they must fit the following brief, and be
+agreed in the Forum.
 
 ::: incremental
 -   A concept or debate within Psychology
@@ -103,11 +110,14 @@ The more you engage, the more topics you get to choose from.
 
 <https://www2.open.ac.uk/openlearn/CHIPs/>
 
+# I can't make bricks without clay!
+
 ## A psychologist? A scientist?
 
 ![](images/paste-DE336E79.png)
 
-# Prize for guessing my favourite Psychologist
+In this instance, Sherlock is talking about the need for data prior to
+solving a case. You can't do science without data.
 
 ## Scientists base their 'claims' on EVIDENCE
 
@@ -191,3 +201,64 @@ reading list and
 Hypotheses and aims of research, essentially what we cover this week,
 and Chapter 1 deals with the basics and golden rules of research design
 and designing good experiments.
+
+# Another interpretation of "I can't make bricks without clay!"
+
+## Garbage in, Garbage out
+
+Last year someone selected a 'target paper' for their Critical Proposal
+\[next week's lecture topic\] from a Sociology Journal - it presented a
+'thought experiment'.
+
+No data, no methodology, no participants, no actual experiment.
+
+How do you think they did?
+
+## The literature you read will drive the quality of your output
+
+-   This applies to the study you design for your Mini-Dissertation
+-   This applies to your Module Essays
+-   This applies to your Critical Proposal
+-   It is NOT a question of QUANTITY
+-   It is very much a question of QUALITY
+-   It is a function of QUALITY and QUANTITY
+
+# Lab 2 is about Literature Search and Management
+
+# Effect Sizes
+
+## A measure of the Effect (MOTE)
+
+Effect sizes represent the magnitude of a relationship between
+variables, for example between a Manipulation and the Dependent
+Variable.
+
+It's like the 'strength' of your pill, or intervention, or manipulation.
+
+Do not run an experiment that is designed to fail - you must believe a
+manipulation will have an 'Effect'
+
+If the manipulation works, then there will be an Effect
+
+The Effect Size is just how big that visible effect was.
+
+## Let's imagine the simplest example possible
+
+An independent t-test. Working Memory Capacity.
+
+I have a magic pill to increase working memory capacity.
+
+7 ± 2 is the Miller Law. Let's read this as normal mean working memory
+capacity for a group of humans is mean 7 units with a standard deviation
+of 2 units.
+
+Let's say my pill was tried on a group of humans, and when we measured
+their mean working memory capacity it was 11 units with a standard
+deviation of 2 units. Wowsers!
+
+That's an effect size of d=2. Simply put, Cohen's d is always presented
+in units equivalent to 1 standard deviation. So 11 is 2 SDs higher than
+7.
+
+[Calculating Effect Sizes
+(shinyapps.io)](https://katherinemwood.shinyapps.io/lakens_effect_sizes/)
