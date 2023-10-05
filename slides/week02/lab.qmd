@@ -63,7 +63,7 @@ path_notes <- file.path(params$class, paste0(params$class, ".pptx"))
 -   The Lab Tutor will be circulating and looking at work `on screen` to
     see how you are doing. Ask for any help you need.
 
-### Module Milestones (by end of this week)
+## Module Milestones (by end of this week)
 
 -   I'm in my group and we have a plan
 -   I've got a rough idea of the Topic of my Mini-Dissertation

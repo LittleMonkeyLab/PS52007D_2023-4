@@ -9,7 +9,7 @@ author:
 # date: "10/09/2023"
 # date-format: long
 license: "CC BY-NC-SA"
-
+bibliography: "textbook/textbook.bib"
 # author: "Dr. Gordon Wright & Professor Matthew J. C. Crump"
 # aliases: [thinking-about-answering-questions-with-data.html]
 ---
@@ -18,7 +18,7 @@ license: "CC BY-NC-SA"
 # source("global_stuff.R")
 ```
 
-# Thinking about answering questions with data
+# How much bang does my manipulation have?
 
 ```{r}
 #| echo: false
@@ -28,22 +28,7 @@ library(ggplot2)
 library(dplyr)
 ```
 
-## Acknowledgments {.appendix}
-
-This content was 'remixed' by Dr. Gordon Wright and built upon fantastic
-content created by Professor Matthew J.C. Crump and shared under CC BY
-SA 4.0. Prof Crump... You were among the really cool Psychologists who
-made me give this whole Quarto, OER stuff a go. I'd like to buy you a
-beer.
-
-The original content is available here
-https://www.crumplab.com/statistics/12-Thinking.html
-
-Citation: Crump, M. J. C., Navarro, D. J., & Suzuki, J. (2019, June 5).
-Answering Questions with Data (Textbook): Introductory Statistics for
-Psychology Students. https://doi.org/10.17605/OSF.IO/JZE52
-
-## Effect-size and power
+## Effect-sizes
 
 As you become Psychological Scientists at Goldsmiths, you are going to
 want to go about the whole business properly. And good for you. We will
@@ -208,6 +193,7 @@ Zilch.
 
 ```{r}
 #| label: fig-12effectdists
+#| echo: false
 #| fig-cap: "Each panel shows hypothetical distributions for two conditions. As the effect-size increases, the difference between the distributions become larger."
 #| out-width: "100%"
 
@@ -275,6 +261,7 @@ may not be doing.
 
 ```{r}
 #| label: fig-12effectdistsB
+#| echo: false
 #| fig-cap: "Each panel shows hypothetical distributions for two conditions. As the effect-size increases, the difference between the distributions become larger."
 #| out-width: "100%"
 
@@ -366,3 +353,20 @@ standard units. If you thought a \`20 happys\` was big, but it turned
 out to be only 1/10th of a standard deviation, then you would know the
 effect is actually quite small with respect to the overall variability
 in the data.
+
+## Acknowledgments {.appendix}
+
+This content was 'remixed' by Dr. Gordon Wright and built upon fantastic
+content created by Professor Matthew J.C. Crump and shared under CC BY
+SA 4.0. Prof Crump... You were among the really cool Psychologists who
+made me give this whole Quarto, OER stuff a go. I'd like to buy you a
+beer.
+
+The original content is available here
+https://www.crumplab.com/statistics/12-Thinking.html
+
+Citation: Crump, M. J. C., Navarro, D. J., & Suzuki, J. (2019, June 5).
+Answering Questions with Data (Textbook): Introductory Statistics for
+Psychology Students. https://doi.org/10.17605/OSF.IO/JZE52
+
+## References

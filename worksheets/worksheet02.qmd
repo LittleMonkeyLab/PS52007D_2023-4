@@ -37,23 +37,10 @@ embed-resources: true
 How many journal articles are you able/willing to read for your
 Personality Essay?
 
-Let's say 5 is your answer. (of course, you need to be the judge of what
-the right answer is, but I'd wager 5 is likely in the low end of the
-range)
+Is it realistic to assume that the first X papers you find are perfect
+and assemble delightfully into a brilliant essay?
 
-Strategy 1 - Read the first 5 papers that turn up on Google when you
-type in `Academic Success`?
-
-Strategy 2 - Read the first 5 papers that turn up on the Library search
-when you type in `Academic Success`?
-
-Which is better, Strategy 1 or Strategy 2?
-
-Maybe neither 1 nor 2 is necessarily optimal... What might be a better
-approach?
-
-Strategy is important though. You want to be strategic. You want a
-'Search Strategy'
+no? So what will be your `Search Strategy`?
 
 Some key considerations are:
 
@@ -82,6 +69,7 @@ about.
 
 This is a 'Reading Tracker' [Excel Reading
 Tracker](https://goldsmithscollege-my.sharepoint.com/:x:/g/personal/gwrig002_campus_goldsmiths_ac_uk/ETkOn8pGKKVIpsk-4cf3XOYBya07TmUCkl_88ZANGpgxNQ?e=sfn4lx)
+and is also available for download on the VLE.
 
 It may not be entirely to your taste, but feel free to develop your own
 version. Consider how a few minutes of organisation may allow you to
