@@ -1,19 +1,19 @@
 ---
-title: "Worksheet 02: Literature search and management"
-subtitle: "Quality not quantity"
+title: "Worksheet 01: <br> Topics and Methods"
+subtitle: "You mustn't be afraid to dream a little bigger, darling"
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743
     email: g.wright@gold.ac.uk
-date: "10/10/2023"
+date: "10/03/2023"
 date-format: long
 license: "CC BY-NC-SA"
 citations-hover: true
 categories: 
   - "Worksheet"
-  - "Week 2"
+  - "Week 1"
 params:
-  class: "worksheet02"
+  class: "worksheet01"
 format: 
   pdf: default
   # pptx: default
@@ -32,45 +32,13 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-## A question for you.
+## Let's get going.
 
-How many journal articles are you able/willing to read for your
-Personality Essay?
-
-Let's say 5 is your answer. (of course, you need to be the judge of what
-the right answer is, but I'd wager 5 is likely in the low end of the
-range)
-
-Strategy 1 - Read the first 5 papers that turn up on Google when you
-type in `Academic Success`?
-
-Strategy 2 - Read the first 5 papers that turn up on the Library search
-when you type in `Academic Success`?
-
-Which is better, Strategy 1 or Strategy 2?
-
-Maybe neither 1 nor 2 is necessarily optimal... What might be a better
-approach?
-
-Strategy is important though. You want to be strategic. You want a
-'Search Strategy'
-
-Some key considerations are:
-
-Where you search and what tools you use
-
-What you search for (your search terms)
-
-What types of papers you are going to look for
-
-How you handle the intial results
-
-How you refine those results and decide that the search is over
-
-How you read and ingest those results
-
-How you take notes and focus on all the areas you need to to answer the
-question
+-   Lab Challenge! \[15 mins\]
+-   Research Skill Audit
+-   Topic Speed Dating
+-   Methods Matching
+-   Goal Alignment and Group Ethos
 
 # Lab Challenge! \[15 mins\]
 
