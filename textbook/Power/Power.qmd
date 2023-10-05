@@ -9,7 +9,7 @@ author:
 # date: "10/09/2023"
 # date-format: long
 license: "CC BY-NC-SA"
-bibliography: "textbook/textbook.bib"
+
 
 # author: "Dr. Gordon Wright & Professor Matthew J. C. Crump"
 # aliases: [thinking-about-answering-questions-with-data.html]
