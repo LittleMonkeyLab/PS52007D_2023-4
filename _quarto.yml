@@ -82,6 +82,7 @@ website:
         contents:
           - overview/index.qmd
           - overview/overview01.qmd
+          - overview/overview02.qmd
           # - basics-jupyter.qmd
       - section: "Slides"
         contents:
@@ -89,9 +90,12 @@ website:
           - slides/week00/lab.qmd
           - slides/week01/lecture.qmd
           - slides/week01/lab.qmd
+          - slides/week02/lecture.qmd
+          - slides/week02/lab.qmd
       - section: "Worksheets"
         contents:
           - worksheets/worksheet01.qmd
+          - worksheets/worksheet02.qmd
       - section: "Extras"
         contents:
           - extras/index.qmd
