@@ -36,18 +36,62 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-# Overview of Lab XX
+# Overview of Lab 03
 
-The objective of today is to immerse yourself in the Research Methods of
-your Critical Proposal Target Paper
+::: callout-note
+The objective of today is to immerse yourself in the 'Research Methods'
+of your Critical Proposal Target Paper
+:::
 
 This may seem like an 'academic' exercise now.. but it is not!
 
 ## Reading
 
 • Being able to read a single paper carefully and critically is an
-important skill • Being able to synthesise multiple papers and
-appreciate similarities and differences • Building on this effort to
-identify 'gaps' or ways to build on strengths
+important skill
 
-## Methods section
+• Being able to synthesise multiple papers and appreciate similarities
+and differences is crucial
+
+• Building on this effort to identify 'gaps' or ways to build on
+strengths
+
+## Today
+
+::: callout-note
+**Think more carefully about each of the following aspects and jot down
+some ideas for your Critical Proposal:**
+
+1\. Design of the study
+
+2\. Participants and recruitment
+
+3\. Materials
+
+4\. Procedure
+
+**And you will need to identify an Effect Size (again) - why not
+highlight it now!**
+:::
+
+## Remember
+
+::: callout-tip
+You can show your Lab Tutor the paper you propose to use for your
+Critical Proposal... DO SO!
+:::
+
+It needs to be a peer-reviewed empirical paper from the Psychology
+literature that presents a quantitative study, includes methods (Design,
+Participants, Materials) and analyses the data. Failure to follow these
+rules will impact your mark.
+
+## Design Schematic
+
+You will be required to complete elements of this diagram and include it
+in your Critical Proposal. How much of it could you think about
+completing now? (The template can be downloaded on the VLE in the
+Coursework Information section, and edited at
+[www.draw.io](https://app.diagrams.net/))
+
+![](images/Thisismydesign.drawio-02.png){fig-align="center"}

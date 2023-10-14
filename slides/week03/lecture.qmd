@@ -37,15 +37,7 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-# Attendance QR Code HERE
-
-## Key topics today
-
--   XX
-
-## The week ahead
-
-This week (week XX) you have your Personality Essay Tutorial
+# ![](images/Monday16thOct.png)
 
 ## Key topics today
 
@@ -85,6 +77,12 @@ preparation
 
 Week 17 - Result interpretation, and any concerns arising in the final
 phase of the MD
+
+## Please fill in a group on your Lab Miro Board.
+
+Even just your names... Help us to help you. Please.
+
+![](images/Miro.png){fig-align="center"}
 
 # Any Questions?
 
@@ -187,8 +185,8 @@ beneficial part of your study]{.incremental}
 
 ## Even more tips
 
--   Use some of the tools presented in the lab activity to help track
-    down a suitable paper
+-   Use some of the tools presented in the previous lab activity to help
+    track down a suitable paper
 
 -   Give yourself time to read, review, re-read and select your juiciest
     points
