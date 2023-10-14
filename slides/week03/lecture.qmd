@@ -1,0 +1,219 @@
+---
+title: "Lecture 03: Being Critical"
+subtitle: "An intellectual virtue"
+image: "lecture.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/16/2023"
+date-format: long
+license: "CC BY-NC-SA"
+# footer: 
+citations-hover: true
+categories: 
+  - "Lecture"
+  - "Week 03"
+params:
+  class: "lec03"
+format: 
+  pdf: default
+  pptx: default
+  html: default
+  docx: default
+  revealjs: 
+    title-slide-attributes: 
+      data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
+    header-logo: "/images/rmmonkey.png"
+    header: "Research Methods Lecture 03 - Being Critical" # Replace it
+    hide-from-titleSlide: "text"
+    slide-number: c/t
+filters:
+  - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+# Attendance QR Code HERE
+
+## Key topics today
+
+-   XX
+
+## The week ahead
+
+This week (week XX) you have your Personality Essay Tutorial
+
+## Key topics today
+
+The week ahead
+
+-   Personal Tutor Meeting about Mini-Dissertation this week
+-   also Weeks 8 (ethics), 13 (write-up prep), 17 (Stats)
+    -   It is your time, PTs have been told to follow your lead
+-   Critical Proposal overview and tips
+-   Lab preview - Your Critical Proposal Target Paper
+
+## Personal Tutor Meeting Week 3
+
+This week (week 3) you have 50 minutes with your Personal Tutor to
+discuss the Mini-Dissertation.
+
+They have been given whatever you managed to include in the Miro Board
+last week
+
+::: callout-tip
+Your Personal Tutor is ANOTHER source of guidance and support.
+
+Give them the information they need to best help you on this journey.
+:::
+
+> [Dear PTs, "Next week, you are given **no information whatsoever**,
+> and are asked to turn up to your session with nothing other than
+> perhaps a pen and paper, a big smile, and anticipation of lots of
+> exciting research in the making."]{.takeaway}
+
+## Future PT Sessions devoted to the MD
+
+Week 8 - Check on status of Ethics application, and troubleshooting
+
+Week 13 - Session to support Analysis Planning and Writing up/Submission
+preparation
+
+Week 17 - Result interpretation, and any concerns arising in the final
+phase of the MD
+
+# Any Questions?
+
+# Being critical and evaluating the work of others
+
+## This is a topic and skill you've already been shown
+
+![](images/paste-6F9D0DD1.png)
+
+![](images/paste-1DF339DB.png)
+
+Review these materials and consider your performance of the assessment,
+and any feedback
+
+## This year Critical Analysis has a 'point'
+
+The objective of the Critical Proposal is that you start to deploy the
+tools you have practiced in the service of your Mini-Dissertations.
+
+A 'practical' exercise, which we are giving feedback to once... but that
+you will do multiple times for your Mini-Dissertation.
+
+GOAL: to develop some aspect of your study design or methodology.
+
+You will probably follow this process 'a few times' for your final year
+dissertation!
+
+## Reading list items (Barber 2002; 2004)
+
+![](images/paste-414A92CC.png)
+
+## ![](images/paste-D67024A1.png){width="900"}
+
+## Let's look at the example from last week
+
+![](images/paste-18F30242.png)
+
+## How do I do it? \[one approach\]
+
+Review literature on a key part of your 'puzzle' (an IV, a 'tool', the
+DV etc)
+
+Apply critical evaluation to carefully chosen paper(s)
+
+Consider how it might realistically guide or inform your own research
+
+Identify a procedure to partially replicate, replicate, or replicate and
+extend/improve
+
+Detail how that takes shape and reflect on your confidence, skill base,
+perception of value
+
+## or
+
+You could approach it [strategically as a group]{.underline}.
+
+Identify areas to take ownership of, then divide and conquer!
+
+[Or fly solo and agree to later apply the same process to a mutually
+beneficial part of your study]{.incremental}
+
+# Critical Proposal Support
+
+## Briefing and Rubric
+
+![](images/Lec03Courseworkinfo.png){fig-align="center"}
+
+## Briefing
+
+![](images/Lec03CritPropBrief1-01.png){fig-align="center"}
+
+## Rubric
+
+![](images/Lec03CritPropRubric.png){fig-align="center"}
+
+## Please follow the suggested outline
+
+![](images/Lec03Summaryoutline.png){fig-align="center"}
+
+## Design information
+
+![](images/Thisismydesign.drawio-01.png)
+
+## More tips
+
+-   Please review the "SUGGESTED ESSAY OUTLINE" in the coursework
+    briefing
+-   No need to follow it roboticly, be strategic & selective in terms of
+    details
+-   [Selection of a 'good' paper to focus on is an integral part of the
+    assessment]{.underline}!
+-   Do you think the first google result will be a fruitful paper? No,
+    of course you don't!
+-   [Use your Lab Tutor and me to get a sense of confidence.
+    Early.]{.takeaway}
+-   [Tell us how you are searching and what you are looking
+    for]{.takeaway}
+-   [Confirm the paper with us in a lab session \[Priority given for
+    this\]]{.takeaway}
+
+## Even more tips
+
+-   Use some of the tools presented in the lab activity to help track
+    down a suitable paper
+
+-   Give yourself time to read, review, re-read and select your juiciest
+    points
+
+-   Avoid any discussion of methodologies that cannot inform your study
+    directly
+
+    -   e.g. Clinical diagnostic procedures, fMRI technicalities,
+        Criminal Record or Case Study review procedures
+
+## You can (will) use LOTS of this in your MD!
+
+This isn't a sidetrack exercise. It's a critical step in your project
+
+Note your references, note your main points, be organised
+
+## Weeks 4 & 5
+
+Talking about Variables and the 3 'flavours' of ANOVA in week 4
+
+Week 5 is 'power calculations' and opportunity to discuss CP
+
+But we will be moving on and the CP will be part of your independent
+study
+
+Same opportunities for RASA submissions/summer deferrals & resubmissions
+
+# Questions?
