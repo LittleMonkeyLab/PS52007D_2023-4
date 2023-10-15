@@ -27,6 +27,7 @@ format:
     header: "Research Methods Lab 03 - Target Paper" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
+    scrollable: true
 filters:
   - reveal-header
 execute:
@@ -94,4 +95,4 @@ completing now? (The template can be downloaded on the VLE in the
 Coursework Information section, and edited at
 [www.draw.io](https://app.diagrams.net/))
 
-![](images/Thisismydesign.drawio-02.png){fig-align="center"}
+![](images/Thisismydesign.drawio-02.png){fig-align="center" width="609"}

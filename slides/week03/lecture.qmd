@@ -37,15 +37,12 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-# ![](images/Monday16thOct.png)
-
 ## Key topics today
 
 The week ahead
 
--   Personal Tutor Meeting about Mini-Dissertation this week
+-   Personal Tutor Meeting about MD this week
 -   also Weeks 8 (ethics), 13 (write-up prep), 17 (Stats)
-    -   It is your time, PTs have been told to follow your lead
 -   Critical Proposal overview and tips
 -   Lab preview - Your Critical Proposal Target Paper
 
@@ -53,9 +50,6 @@ The week ahead
 
 This week (week 3) you have 50 minutes with your Personal Tutor to
 discuss the Mini-Dissertation.
-
-They have been given whatever you managed to include in the Miro Board
-last week
 
 ::: callout-tip
 Your Personal Tutor is ANOTHER source of guidance and support.
@@ -109,6 +103,23 @@ GOAL: to develop some aspect of your study design or methodology.
 
 You will probably follow this process 'a few times' for your final year
 dissertation!
+
+## The Four 'Big' Validities
+
+**Internal Validity**: The degree to which an experiment accurately
+assesses variable relationships without interference from confounding
+factors.
+
+**External Validity**: The degree to which study results can be applied
+to different populations or settings, indicating generalizability.
+
+**Construct Validity**: The evaluation of whether a test effectively
+measures the intended theoretical construct using multiple indicators.
+
+**Statistical Validity**: The assessment of whether statistical methods
+used in data analysis yield accurate conclusions from the data.
+
+<https://opentext.wsu.edu/carriecuttler/chapter/experimentation-and-validity/>
 
 ## Reading list items (Barber 2002; 2004)
 

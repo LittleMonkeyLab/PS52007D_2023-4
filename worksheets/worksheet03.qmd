@@ -26,22 +26,40 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-# Critical Proposal
+# Critical Proposal preparation
 
+::: callout-important
 ## Recommendation
 
 Please read the Critical Proposal Coursework Briefing document. This is
 important information and the accompanying Rubric will give you all the
 information you could possibly need.
+:::
+
+It is compulsory to include the coversheet information. You can just
+copy and paste the content onto the front of whatever document you
+submit, but the most important feature is a FULL APA format reference
+(including direct link) to your Target paper.
+
+It is ALSO COMPULSORY to include:
+
+-   An effect size for at least one of your IVs
+
+-   This must be in the Design Schematic image - editable in www.draw.io
+    using the template file in the Coursework Information section of the
+    VLE
+
+    ![DesignSchematic](images/Thisismydesign.drawio.png)
 
 ::: callout-tip
 ## Tip
 
-The only other thing to bear in mind is that the selection of a good
-paper is part of the assessment!
+The only other thing to bear in mind is that the selection of a 'good
+paper' is part of the assessment! But you are strongly advised to **show
+it to your Lab Tutor** for immediate feedback on screen. NOT VIA EMAIL.
 :::
 
-## Get the methods section of your Target Paper on screen
+## Get the methods section of your Target Paper on screen!
 
 Up to this point, you've likely read a few methods sections.
 
@@ -51,7 +69,7 @@ this information HEAVILY!
 I believe this is a dramatic change in perspective. And one that forces
 a re-appraisal of quality.
 
-::: callout-important
+::: {.callout-warning icon="false"}
 ## Question
 
 Now, without assuming too much, how successfully could you replicate
@@ -78,7 +96,7 @@ some ideas for your Critical Proposal:**
 
 # Design
 
-::: callout-note
+::: {.callout-note icon="false"}
 Jot down some immediate impressions around:
 :::
 
@@ -95,7 +113,7 @@ What is/are the DV(s)?
 
 # Participants
 
-::: callout-note
+::: {.callout-note icon="false"}
 Can you establish:
 :::
 
@@ -139,7 +157,7 @@ Now is an excellent time to start looking at these in detail.
 Does the research use any questionnaires or psychometric measures? Can
 you identify these?
 
-::: callout-important
+::: {.callout-note icon="false"}
 Can you FIND any questionnaires or measures mentioned in the paper?
 :::
 
@@ -170,7 +188,7 @@ Are any of the materials piloted to make sure they work? Are there any
 manipulation or attention checks? What about awareness of research
 hypotheses? Could a participant identify these?
 
-::: callout-important
+::: {.callout-note icon="false"}
 Are any of the materials included with the paper? Do they have
 Supplementary Materials or Open Materials\*?
 :::
@@ -192,7 +210,7 @@ towards that grade.
 
 # Procedure
 
-::: callout-note
+::: {.callout-note icon="false"}
 Can you determine when and how all the materials are put to use?
 :::
 
@@ -232,7 +250,7 @@ your research. How are you going to get the best performance out of
 them? How would you like to be treated as a participant in your first
 experiment?
 
-::: callout-warning
+::: {.callout-warning icon="false"}
 ## I hope you have started making notes
 
 If you don't start jotting down ideas it might be that you end up
