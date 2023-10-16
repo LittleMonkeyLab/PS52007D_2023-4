@@ -1,0 +1,68 @@
+---
+title: "Week 04 Overview"
+subtitle: "04"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/16/2023"
+date-format: long
+license: "CC BY-NC-SA"
+citations-hover: true
+categories: 
+  - "Prep"
+  - "Week X"
+params:
+  class: "prep04"
+
+format: 
+  # pdf: default
+  # pptx: default
+  html: default
+
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+# Week 04
+
+```{=html}
+
+<iframe src="https://ps52007d.littlemonkeylab.com/slides/week04/lecture.slides.html" title="Week 04 Lecture" width="960" height="500" data-external="1"></iframe>
+```
+## Introduction & Lecture Preview
+
+::: {.callout .primary}
+**Key Focus:** Understanding your Psychology What you bring to
+psychology in general, and your personal MD design
+:::
+
+-   **Important Points:**
+    1.  vv
+-   **Preparatory Reading or Thinking:**
+    -   vv
+
+## Lab Sessions
+
+```{=html}
+
+<iframe src="https://ps52007d.littlemonkeylab.com/slides/week04/lab.slides.html" title="Week 04 lab overview" width="960" height="500" data-external="1"></iframe>
+```
+## Primary Thought
+
+-   vv
+
+### Main Lab Activities
+
+-   vv
+
+### Module Milestones (by end of this week)
+
+-   vv
+
+### Reflection and Meta-Cognitive Practice
+
+vv
