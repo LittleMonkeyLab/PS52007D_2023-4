@@ -1,5 +1,5 @@
 ---
-title: "Lab XX: XX"
+title: "Lab 04: Open Materials & Data"
 subtitle: "XX"
 image: "lab.png"
 author: 
@@ -36,6 +36,27 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-# Overview of Lab XX
+# Overview of Lab 04
 
-## 
+## Keep progressing your Critical Proposals
+
+-   Get your Target Paper checked by your Lab Tutor Is it still the best
+    you can do?
+-   Have a look at the sample Critical Proposal in the Coursework
+    Information section of the VLE.
+-   It got a first, but there was plenty of room for improvement.
+-   Last year the Effect Size information and Design Schematic were not
+    required. This year, they ARE COMPULSORY.
+
+## If you are happy with your Critical Proposal
+
+-   You can use the lab time to continue refining your research ideas.
+
+-   Start identifying and documenting your IVs and DVs. Maybe even your
+    design!
+
+## Your Design
+
+How much of the Design of your study is known at this point?
+
+![](images/Thisismydesign.drawio.png){fig-align="center" width="800"}

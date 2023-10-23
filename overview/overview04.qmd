@@ -1,17 +1,17 @@
 ---
 title: "Week 04 Overview"
-subtitle: "04"
+subtitle: "Keep on keeping on - Critical Proposal"
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743
     email: g.wright@gold.ac.uk
-date: "10/16/2023"
+date: "10/24/2023"
 date-format: long
 license: "CC BY-NC-SA"
 citations-hover: true
 categories: 
   - "Prep"
-  - "Week X"
+  - "Week 4"
 params:
   class: "prep04"
 
@@ -36,14 +36,16 @@ embed-resources: true
 ## Introduction & Lecture Preview
 
 ::: {.callout .primary}
-**Key Focus:** Understanding your Psychology What you bring to
-psychology in general, and your personal MD design
+**Key Focus:** Considering what you bring to psychology, 3 flavours of
+ANOVA, and your personal MD design
 :::
 
 -   **Important Points:**
-    1.  vv
+    1.  Focus continues on the Critical Proposal
+    2.  Get your Lab Tutor to verify it's a good choice
 -   **Preparatory Reading or Thinking:**
-    -   vv
+    -   Just keep reading. The answer to all the questions you have
+        right now is 'read more'
 
 ## Lab Sessions
 
@@ -53,16 +55,31 @@ psychology in general, and your personal MD design
 ```
 ## Primary Thought
 
--   vv
+-   Review the example Critical Proposal in the Coursework Information
+    section of the VLE
+    <https://learn.gold.ac.uk/mod/folder/view.php?id=1379980>
+-   It got a first, but has lots of room for improvement.
+-   Last year, the Effect Size and Design Schematic were NOT required.
+    This year they are COMPULSORY.
+-   Remember, 70% of the mark is for Critical Evaluation, 30% for
+    Reflective engagement and talking about your planned research
 
 ### Main Lab Activities
 
--   vv
+-   Keep moving forwards with Critical Evaluation
+-   Continue refining your research ideas. It's a nice change from
+    reading and detail work
 
 ### Module Milestones (by end of this week)
 
--   vv
+-   You will have confirmed your Target Paper is a good one.
+-   You will be happy with some element of your Design (IV(A), IV(B) or
+    your DV) or it may be your task. Get it down on paper.
 
 ### Reflection and Meta-Cognitive Practice
 
-vv
+How confident do you feel identifying something in the 'literature' that
+is reliable, feasible, accessible, and of high quality?
+
+Is it a bit more difficult than it should be? If so, what help do you
+need/want? How might you find that support?
