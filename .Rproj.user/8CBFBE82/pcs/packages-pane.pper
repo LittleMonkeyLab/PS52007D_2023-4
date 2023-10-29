@@ -1,7 +1,0 @@
-{
-    "installOptions": {
-        "installFromRepository": true,
-        "libraryPath": "/Users/gordonwright/Library/Mobile Documents/com~apple~CloudDocs/LittleMonkeyiCloudHub/A-Teaching/PS52007D_2023-4/renv/library/R-4.3/x86_64-apple-darwin20",
-        "installDependencies": true
-    }
-}
