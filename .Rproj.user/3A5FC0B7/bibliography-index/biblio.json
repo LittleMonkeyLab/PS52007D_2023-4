@@ -1,0 +1,2379 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1037/0021-9010.69.2.334",
+            "author": [
+                {
+                    "family": "Adair",
+                    "given": "G."
+                }
+            ],
+            "container-title": "Journal of Applied Psychology",
+            "id": "Adair1984",
+            "issued": {
+                "date-parts": [
+                    [
+                        1984
+                    ]
+                ]
+            },
+            "page": "334-345",
+            "title": "The Hawthorne effect: A reconsideration of the methodological artifact",
+            "title-short": "The Hawthorne effect",
+            "type": "article-journal",
+            "volume": "69"
+        },
+        {
+            "author": [
+                {
+                    "family": "Agresti",
+                    "given": "A."
+                }
+            ],
+            "id": "Agresti1996",
+            "issued": {
+                "date-parts": [
+                    [
+                        1996
+                    ]
+                ]
+            },
+            "publisher": "Wiley",
+            "publisher-place": "Hoboken, NJ",
+            "title": "An introduction to categorical data analysis",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Agresti",
+                    "given": "A."
+                }
+            ],
+            "edition": "Second",
+            "id": "Agresti2002",
+            "issued": {
+                "date-parts": [
+                    [
+                        2002
+                    ]
+                ]
+            },
+            "publisher": "Wiley",
+            "publisher-place": "Hoboken, NJ",
+            "title": "Categorical data analysis",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1109/TAC.1974.1100705",
+            "author": [
+                {
+                    "family": "Akaike",
+                    "given": "H."
+                }
+            ],
+            "container-title": "IEEE Transactions on Automatic Control",
+            "id": "Akaike1974",
+            "issued": {
+                "date-parts": [
+                    [
+                        1974
+                    ]
+                ]
+            },
+            "page": "716-723",
+            "title": "A new look at the statistical model identification",
+            "type": "article-journal",
+            "volume": "19"
+        },
+        {
+            "author": [
+                {
+                    "family": "Anscombe",
+                    "given": "F. J."
+                }
+            ],
+            "container-title": "American Statistician",
+            "id": "Anscombe1973",
+            "issued": {
+                "date-parts": [
+                    [
+                        1973
+                    ]
+                ]
+            },
+            "keyword": "❓ Multiple DOI",
+            "page": "17-21",
+            "title": "Graphs in statistical analysis",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "DOI": "10.3758/s13414-017-1389-3",
+            "author": [
+                {
+                    "family": "Behmer",
+                    "given": "Lawrence P"
+                },
+                {
+                    "family": "Crump",
+                    "given": "Matthew JC"
+                }
+            ],
+            "container-title": "Attention, Perception, & Psychophysics",
+            "id": "behmer2017spatial",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "2435-2448",
+            "publisher": "Springer",
+            "title": "Spatial knowledge during skilled action sequencing: Hierarchical versus nonhierarchical representations",
+            "title-short": "Spatial knowledge during skilled action sequencing",
+            "type": "article-journal",
+            "volume": "79"
+        },
+        {
+            "DOI": "10.1126/science.187.4175.398",
+            "author": [
+                {
+                    "family": "Bickel",
+                    "given": "P. J."
+                },
+                {
+                    "family": "Hammel",
+                    "given": "E. A."
+                },
+                {
+                    "family": "O’Connell",
+                    "given": "J. W."
+                }
+            ],
+            "container-title": "Science (New York, N.Y.)",
+            "id": "Bickel1975",
+            "issued": {
+                "date-parts": [
+                    [
+                        1975
+                    ]
+                ]
+            },
+            "page": "398-404",
+            "title": "Sex bias in graduate admissions: Data from Berkeley",
+            "title-short": "Sex bias in graduate admissions",
+            "type": "article-journal",
+            "volume": "187"
+        },
+        {
+            "author": [
+                {
+                    "family": "Box",
+                    "given": "George E. P."
+                }
+            ],
+            "container-title": "Journal of the American Statistical Association",
+            "id": "Box1976",
+            "issued": {
+                "date-parts": [
+                    [
+                        1976
+                    ]
+                ]
+            },
+            "keyword": "❓ Multiple DOI",
+            "page": "791-799",
+            "type": "article-journal",
+            "volume": "71"
+        },
+        {
+            "DOI": "10.1214/ss/1177013437",
+            "author": [
+                {
+                    "family": "Box",
+                    "given": "J. F."
+                }
+            ],
+            "container-title": "Statistical Science",
+            "id": "Box1987",
+            "issued": {
+                "date-parts": [
+                    [
+                        1987
+                    ]
+                ]
+            },
+            "page": "45-52",
+            "title": "Guinness, gosset, fisher, and small samples",
+            "type": "article-journal",
+            "volume": "2"
+        },
+        {
+            "author": [
+                {
+                    "family": "Braun",
+                    "given": "John"
+                },
+                {
+                    "family": "Murdoch",
+                    "given": "Duncan J"
+                }
+            ],
+            "id": "Braun2007",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "publisher": "Cambridge University Press Cambridge",
+            "title": "A first course in statistical programming with R",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Brown",
+                    "given": "M. B."
+                },
+                {
+                    "family": "Forsythe",
+                    "given": "A. B."
+                }
+            ],
+            "container-title": "Journal of the American Statistical Association",
+            "id": "BrownForsythe1974",
+            "issued": {
+                "date-parts": [
+                    [
+                        1974
+                    ]
+                ]
+            },
+            "keyword": "❓ Multiple DOI",
+            "page": "364-367",
+            "title": "Robust tests for equality of variances",
+            "type": "article-journal",
+            "volume": "69"
+        },
+        {
+            "author": [
+                {
+                    "family": "Campbell",
+                    "given": "D. T."
+                },
+                {
+                    "family": "Stanley",
+                    "given": "J. C."
+                }
+            ],
+            "id": "Campbell1963",
+            "issued": {
+                "date-parts": [
+                    [
+                        1963
+                    ]
+                ]
+            },
+            "publisher": "Houghton Mifflin",
+            "publisher-place": "Boston, MA",
+            "title": "Experimental and quasi-experimental designs for research",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1214/aoms/1177729380",
+            "author": [
+                {
+                    "family": "Cochran",
+                    "given": "W. G."
+                }
+            ],
+            "container-title": "The Annals of Mathematical Statistics",
+            "id": "Cochran1954",
+            "issued": {
+                "date-parts": [
+                    [
+                        1954
+                    ]
+                ]
+            },
+            "page": "315-345",
+            "title": "The \\chi^{2} test of goodness of fit",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "author": [
+                {
+                    "family": "Cohen",
+                    "given": "J."
+                }
+            ],
+            "edition": "Second",
+            "id": "Cohen1988",
+            "issued": {
+                "date-parts": [
+                    [
+                        1988
+                    ]
+                ]
+            },
+            "publisher": "Lawrence Erlbaum",
+            "title": "Statistical power analysis for the behavioral sciences",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1037/0033-2909.112.1.155",
+            "author": [
+                {
+                    "family": "Cohen",
+                    "given": "J"
+                }
+            ],
+            "container-title": "Psychological Bulletin",
+            "id": "Cohen1992",
+            "issued": {
+                "date-parts": [
+                    [
+                        1992
+                    ]
+                ]
+            },
+            "page": "155-",
+            "title": "A power primer",
+            "type": "article-journal",
+            "volume": "112"
+        },
+        {
+            "DOI": "10.1093/biomet/70.1.1",
+            "author": [
+                {
+                    "family": "Cook",
+                    "given": "R. D."
+                },
+                {
+                    "family": "Weisberg",
+                    "given": "S."
+                }
+            ],
+            "container-title": "Biometrika",
+            "id": "Cook1983",
+            "issued": {
+                "date-parts": [
+                    [
+                        1983
+                    ]
+                ]
+            },
+            "page": "1-10",
+            "title": "Diagnostics for heteroscedasticity in regression",
+            "type": "article-journal",
+            "volume": "70"
+        },
+        {
+            "author": [
+                {
+                    "family": "Cramér",
+                    "given": "H."
+                }
+            ],
+            "id": "Cramer1946",
+            "issued": {
+                "date-parts": [
+                    [
+                        1946
+                    ]
+                ]
+            },
+            "publisher": "Princeton University Press",
+            "publisher-place": "Princeton",
+            "title": "Mathematical methods of statistics",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1080/01621459.1961.10482090",
+            "author": [
+                {
+                    "family": "Dunn",
+                    "given": "O. J."
+                }
+            ],
+            "container-title": "Journal of the American Statistical Association",
+            "id": "Dunn1961",
+            "issued": {
+                "date-parts": [
+                    [
+                        1961
+                    ]
+                ]
+            },
+            "page": "52-64",
+            "title": "Multiple comparisons among means",
+            "type": "article-journal",
+            "volume": "56"
+        },
+        {
+            "author": [
+                {
+                    "family": "Ellis",
+                    "given": "P. D."
+                }
+            ],
+            "id": "Ellis2010",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010
+                    ]
+                ]
+            },
+            "publisher": "Cambridge University Press",
+            "publisher-place": "Cambridge, UK",
+            "title": "The essential guide to effect sizes: Statistical power, meta-analysis, and the interpretation of research results",
+            "title-short": "The essential guide to effect sizes",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1080/0966813022000017177",
+            "author": [
+                {
+                    "family": "Ellman",
+                    "given": "Michael"
+                }
+            ],
+            "container-title": "Europe-Asia Studies",
+            "id": "Ellman2002",
+            "issue": "7",
+            "issued": {
+                "date-parts": [
+                    [
+                        2002
+                    ]
+                ]
+            },
+            "page": "1151-1172",
+            "publisher": "Taylor & Francis",
+            "title": "Soviet repression statistics: Some comments",
+            "title-short": "Soviet repression statistics",
+            "type": "article-journal",
+            "volume": "54"
+        },
+        {
+            "DOI": "10.3758/BF03196976",
+            "author": [
+                {
+                    "family": "Evans",
+                    "given": "J. St. B. T."
+                },
+                {
+                    "family": "Barston",
+                    "given": "J. L."
+                },
+                {
+                    "family": "Pollard",
+                    "given": "P."
+                }
+            ],
+            "container-title": "Memory and Cognition",
+            "id": "Evans1983",
+            "issued": {
+                "date-parts": [
+                    [
+                        1983
+                    ]
+                ]
+            },
+            "page": "295-306",
+            "title": "On the conflict between logic and belief in syllogistic reasoning",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "author": [
+                {
+                    "family": "Evans",
+                    "given": "M."
+                },
+                {
+                    "family": "Hastings",
+                    "given": "N."
+                },
+                {
+                    "family": "Peacock",
+                    "given": "B."
+                }
+            ],
+            "id": "Evans2000",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "publisher": "Wiley",
+            "title": "Statistical distributions (3rd ed)",
+            "type": "book"
+        },
+        {
+            "DOI": "10.2307/2340521",
+            "author": [
+                {
+                    "family": "Fisher",
+                    "given": "R. A."
+                }
+            ],
+            "container-title": "Journal of the Royal Statistical Society",
+            "id": "Fisher1922",
+            "issued": {
+                "date-parts": [
+                    [
+                        1922
+                    ]
+                ]
+            },
+            "page": "87-94",
+            "title": "On the interpretation of \\chi^{2} from contingency tables, and the calculation of p",
+            "type": "article-journal",
+            "volume": "84"
+        },
+        {
+            "author": [
+                {
+                    "family": "Fisher",
+                    "given": "R. A."
+                }
+            ],
+            "container-title": "Philosophical Transactions of the Royal Society A",
+            "id": "Fisher1922b",
+            "issued": {
+                "date-parts": [
+                    [
+                        1922
+                    ]
+                ]
+            },
+            "keyword": "⛔ No DOI found",
+            "page": "309-368",
+            "title": "On the mathematical foundation of theoretical statistics",
+            "type": "article-journal",
+            "volume": "222"
+        },
+        {
+            "author": [
+                {
+                    "family": "Fisher",
+                    "given": "R. A."
+                }
+            ],
+            "id": "Fisher1925",
+            "issued": {
+                "date-parts": [
+                    [
+                        1925
+                    ]
+                ]
+            },
+            "publisher": "Oliver and Boyd",
+            "publisher-place": "Edinburgh, UK",
+            "title": "Statistical methods for research workers",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Fox",
+                    "given": "J."
+                },
+                {
+                    "family": "Weisberg",
+                    "given": "S."
+                }
+            ],
+            "edition": "Second",
+            "id": "Fox2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "publisher": "Sage",
+            "publisher-place": "Los Angeles",
+            "title": "An R companion to applied regression",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Friendly",
+                    "given": "Michael"
+                }
+            ],
+            "genre": "Manual",
+            "id": "Friendly2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "title": "HistData: Data sets from the history of statistics and data visualization",
+            "title-short": "HistData",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1198/000313006X152649",
+            "author": [
+                {
+                    "family": "Gelman",
+                    "given": "A."
+                },
+                {
+                    "family": "Stern",
+                    "given": "H."
+                }
+            ],
+            "container-title": "The American Statistician",
+            "id": "Gelman2006",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "page": "328-331",
+            "title": "The difference between “significant” and “not significant” is not itself statistically significant",
+            "type": "article-journal",
+            "volume": "60"
+        },
+        {
+            "author": [
+                {
+                    "family": "Gunel",
+                    "given": "Erdogan"
+                },
+                {
+                    "family": "Dickey",
+                    "given": "James"
+                }
+            ],
+            "container-title": "Biometrika",
+            "id": "Gunel1974",
+            "issued": {
+                "date-parts": [
+                    [
+                        1974
+                    ]
+                ]
+            },
+            "keyword": "❓ Multiple DOI",
+            "page": "545-557",
+            "title": "Bayes factors for independence in contingency tables",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hastie",
+                    "given": "Trevor"
+                },
+                {
+                    "family": "Tibshirani",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Friedman",
+                    "given": "Jerome"
+                }
+            ],
+            "id": "Hastie2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "publisher": "Springer",
+            "title": "The elements of statistical learning: Data mining, inference and prediction (2nd ed)",
+            "title-short": "The elements of statistical learning",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hays",
+                    "given": "W. L."
+                }
+            ],
+            "edition": "Fifth",
+            "id": "Hays1994",
+            "issued": {
+                "date-parts": [
+                    [
+                        1994
+                    ]
+                ]
+            },
+            "publisher": "Harcourt Brace",
+            "publisher-place": "Fort Worth, TX",
+            "title": "Statistics",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hedges",
+                    "given": "L. V."
+                }
+            ],
+            "container-title": "Journal of Educational Statistics",
+            "id": "Hedges1981",
+            "issued": {
+                "date-parts": [
+                    [
+                        1981
+                    ]
+                ]
+            },
+            "keyword": "❓ Multiple DOI",
+            "page": "107-128",
+            "title": "Distribution theory for Glass’s estimator of effect size and related estimators",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hedges",
+                    "given": "L. V."
+                },
+                {
+                    "family": "Olkin",
+                    "given": "I."
+                }
+            ],
+            "id": "Hedges1985",
+            "issued": {
+                "date-parts": [
+                    [
+                        1985
+                    ]
+                ]
+            },
+            "publisher": "Academic Press",
+            "publisher-place": "New York",
+            "title": "Statistical methods for meta-analysis",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hocking",
+                    "given": "R. R."
+                }
+            ],
+            "id": "Hocking1996",
+            "issued": {
+                "date-parts": [
+                    [
+                        1996
+                    ]
+                ]
+            },
+            "publisher": "Wiley",
+            "publisher-place": "New York, NY",
+            "title": "Methods and applications of linear models: Regression and the analysis of variance",
+            "title-short": "Methods and applications of linear models",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hogg",
+                    "given": "R. V."
+                },
+                {
+                    "family": "McKean",
+                    "given": "J. V."
+                },
+                {
+                    "family": "Craig",
+                    "given": "A. T."
+                }
+            ],
+            "edition": "Sixth",
+            "id": "Hogg2005",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "publisher": "Pearson",
+            "publisher-place": "Upper Saddle River, NJ",
+            "title": "Introduction to mathematical statistics",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Holm",
+                    "given": "S."
+                }
+            ],
+            "container-title": "Scandinavian Journal of Statistics",
+            "id": "Holm1979",
+            "issued": {
+                "date-parts": [
+                    [
+                        1979
+                    ]
+                ]
+            },
+            "keyword": "⛔ No DOI found",
+            "page": "65-70",
+            "title": "A simple sequentially rejective multiple test procedure",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hothersall",
+                    "given": "D."
+                }
+            ],
+            "id": "Hothersall2004",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004
+                    ]
+                ]
+            },
+            "publisher": "McGraw-Hill",
+            "title": "History of psychology",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hsu",
+                    "given": "J. C."
+                }
+            ],
+            "id": "Hsu1996",
+            "issued": {
+                "date-parts": [
+                    [
+                        1996
+                    ]
+                ]
+            },
+            "publisher": "Chapman and Hall",
+            "publisher-place": "London, UK",
+            "title": "Multiple comparisons: Theory and methods",
+            "title-short": "Multiple comparisons",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1371/journal.pmed.0020124",
+            "author": [
+                {
+                    "family": "Ioannidis",
+                    "given": "John P. A."
+                }
+            ],
+            "container-title": "PLoS medicine",
+            "id": "Ioannidis2005",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "page": "697-701",
+            "publisher": "Public Library of Science",
+            "title": "Why most published research findings are false",
+            "type": "article-journal",
+            "volume": "2"
+        },
+        {
+            "DOI": "10.1177/0956797615583071",
+            "author": [
+                {
+                    "family": "James",
+                    "given": "Ella L"
+                },
+                {
+                    "family": "Bonsall",
+                    "given": "Michael B"
+                },
+                {
+                    "family": "Hoppitt",
+                    "given": "Laura"
+                },
+                {
+                    "family": "Tunbridge",
+                    "given": "Elizabeth M"
+                },
+                {
+                    "family": "Geddes",
+                    "given": "John R"
+                },
+                {
+                    "family": "Milton",
+                    "given": "Amy L"
+                },
+                {
+                    "family": "Holmes",
+                    "given": "Emily A"
+                }
+            ],
+            "container-title": "Psychological science",
+            "id": "james2015computer",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "1201-1215",
+            "publisher": "Sage Publications Sage CA: Los Angeles, CA",
+            "title": "Computer game play reduces intrusive memories of experimental trauma via reconsolidation-update mechanisms",
+            "type": "article-journal",
+            "volume": "26"
+        },
+        {
+            "author": [
+                {
+                    "family": "Jaynes",
+                    "given": "E. T."
+                }
+            ],
+            "id": "Jaynes2003",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003
+                    ]
+                ]
+            },
+            "publisher": "Cambridge University Press",
+            "title": "Probability theory: The logic of science",
+            "title-short": "Probability theory",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Jeffreys",
+                    "given": "Harold"
+                }
+            ],
+            "edition": "3rd",
+            "id": "Jeffreys1961",
+            "issued": {
+                "date-parts": [
+                    [
+                        1961
+                    ]
+                ]
+            },
+            "publisher": "Oxford",
+            "title": "The theory of probability",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1073/pnas.1313476110",
+            "author": [
+                {
+                    "family": "Johnson",
+                    "given": "Valen E"
+                }
+            ],
+            "container-title": "Proceedings of the National Academy of Sciences",
+            "id": "Johnson2013",
+            "issue": "48",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "page": "19313-19317",
+            "title": "Revised standards for statistical evidence",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1037/h0034747",
+            "author": [
+                {
+                    "family": "Kahneman",
+                    "given": "D."
+                },
+                {
+                    "family": "Tversky",
+                    "given": "A."
+                }
+            ],
+            "container-title": "Psychological Review",
+            "id": "Kahneman1973",
+            "issued": {
+                "date-parts": [
+                    [
+                        1973
+                    ]
+                ]
+            },
+            "page": "237-251",
+            "title": "On the psychology of prediction",
+            "type": "article-journal",
+            "volume": "80"
+        },
+        {
+            "DOI": "10.1080/01621459.1995.10476572",
+            "author": [
+                {
+                    "family": "Kass",
+                    "given": "Robert E."
+                },
+                {
+                    "family": "Raftery",
+                    "given": "Adrian E."
+                }
+            ],
+            "container-title": "Journal of the American Statistical Association",
+            "id": "Kass1995",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995
+                    ]
+                ]
+            },
+            "page": "773-795",
+            "title": "Bayes factors",
+            "type": "article-journal",
+            "volume": "90"
+        },
+        {
+            "author": [
+                {
+                    "family": "Keynes",
+                    "given": "John Maynard"
+                }
+            ],
+            "id": "Keynes1923",
+            "issued": {
+                "date-parts": [
+                    [
+                        1923
+                    ]
+                ]
+            },
+            "publisher": "Macmillan and Company",
+            "publisher-place": "London",
+            "title": "A tract on monetary reform",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Kruschke",
+                    "given": "J. K."
+                }
+            ],
+            "id": "Kruschke2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "publisher": "Academic Press",
+            "publisher-place": "Burlington, MA",
+            "title": "Doing Bayesian data analysis: A tutorial with R and BUGS",
+            "title-short": "Doing Bayesian data analysis",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1080/01621459.1952.10483441",
+            "author": [
+                {
+                    "family": "Kruskal",
+                    "given": "W. H."
+                },
+                {
+                    "family": "Wallis",
+                    "given": "W. A."
+                }
+            ],
+            "container-title": "Journal of the American Statistical Association",
+            "id": "KruskalWallis1952",
+            "issued": {
+                "date-parts": [
+                    [
+                        1952
+                    ]
+                ]
+            },
+            "page": "583-621",
+            "title": "Use of ranks in one-criterion variance analysis",
+            "type": "article-journal",
+            "volume": "47"
+        },
+        {
+            "author": [
+                {
+                    "family": "Kühberger",
+                    "given": "A"
+                },
+                {
+                    "family": "Fritz",
+                    "given": "A"
+                },
+                {
+                    "family": "Scherndl",
+                    "given": "T."
+                }
+            ],
+            "container-title": "Public Library of Science One",
+            "id": "Kuhberger2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "keyword": "⛔ No DOI found",
+            "page": "1-8",
+            "title": "Publication bias in psychology: A diagnosis based on the correlation between effect size and sample size",
+            "title-short": "Publication bias in psychology",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "DOI": "10.1080/01621459.1978.10481567",
+            "author": [
+                {
+                    "family": "Larntz",
+                    "given": "K."
+                }
+            ],
+            "container-title": "Journal of the American Statistical Association",
+            "id": "Larntz1978",
+            "issued": {
+                "date-parts": [
+                    [
+                        1978
+                    ]
+                ]
+            },
+            "page": "253-263",
+            "title": "Small-sample comparisons of exact levels for chi-squared goodness-of-fit statistics",
+            "type": "article-journal",
+            "volume": "73"
+        },
+        {
+            "author": [
+                {
+                    "family": "Lee",
+                    "given": "Michael D"
+                },
+                {
+                    "family": "Wagenmakers",
+                    "given": "Eric-Jan"
+                }
+            ],
+            "id": "Lee2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "publisher": "Cambridge University Press",
+            "title": "Bayesian cognitive modeling: A practical course",
+            "title-short": "Bayesian cognitive modeling",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Lehmann",
+                    "given": "Erich L."
+                }
+            ],
+            "id": "Lehmann2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "publisher": "Springer",
+            "title": "Fisher, Neyman, and the creation of classical statistics",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Levene",
+                    "given": "H"
+                }
+            ],
+            "container-title": "Contributions to probability and statistics: Essays in honor of harold hotelling",
+            "editor": [
+                {
+                    "dropping-particle": "et",
+                    "family": "al",
+                    "given": "I. Olkin"
+                }
+            ],
+            "id": "Levene1960",
+            "issued": {
+                "date-parts": [
+                    [
+                        1960
+                    ]
+                ]
+            },
+            "page": "278-292",
+            "publisher": "Stanford University Press",
+            "publisher-place": "Palo Alto, CA",
+            "title": "Robust tests for equality of variances",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Long",
+                    "given": "J. S."
+                },
+                {
+                    "family": "Ervin",
+                    "given": "L. H."
+                }
+            ],
+            "container-title": "The American Statistician",
+            "id": "Long2000",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "keyword": "❓ Multiple DOI",
+            "page": "217-224",
+            "title": "Using heteroscedasticity consistent standard errors in thee linear regression model",
+            "type": "article-journal",
+            "volume": "54"
+        },
+        {
+            "DOI": "10.1145/3025453.3025912",
+            "author": [
+                {
+                    "family": "Matejka",
+                    "given": "Justin"
+                },
+                {
+                    "family": "Fitzmaurice",
+                    "given": "George"
+                }
+            ],
+            "container-title": "Proceedings of the 2017 CHI conference on human factors in computing systems",
+            "id": "matejka2017same",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "1290-1294",
+            "publisher": "ACM",
+            "title": "Same stats, different graphs: Generating datasets with varied appearance and identical statistics through simulated annealing",
+            "title-short": "Same stats, different graphs",
+            "type": "paper-conference"
+        },
+        {
+            "author": [
+                {
+                    "family": "Matloff",
+                    "given": "Norman"
+                },
+                {
+                    "family": "Matloff",
+                    "given": "Norman S"
+                }
+            ],
+            "id": "Matloff2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "publisher": "No Starch Press",
+            "title": "The art of R programming: A tour of statistical software design",
+            "title-short": "The art of R programming",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1080/15366367.2017.1348108",
+            "ISSN": "1536-6367",
+            "abstract": "It is commonly believed that self-report, survey-based instruments can be used to measure a wide range of psychological attributes, such as self-control, growth mindsets, and grit. Increasingly, such instruments are being used not only for basic research but also for supporting decisions regarding educational policy and accountability. The validity of such instruments is typically investigated using a classic set of methods, including the examination of reliability coefficients, factor or principal components analyses, and correlations between scores on the instrument and other variables. However, these techniques may fall short of providing the kinds of rigorous, potentially falsifying tests of relevant hypotheses commonly expected in scientific research. This point is illustrated via a series of studies in which respondents were presented with survey items deliberately constructed to be uninterpretable, but the application of the aforementioned validation procedures nonetheless returned favorable-appearing results. In part, this disconnect may be traceable to the way in which operationalist modes of thinking in the social sciences have reinforced the perception that attributes do not need to be defined independently of particular sets of testing operations. It is argued that affairs might be improved via greater attention to the manner in which definitions of psychological attributes are articulated and greater openness to treating beliefs about the existence and measurability of psychological attributes as hypotheses rather than assumptionsin other words, as beliefs potentially subject to revision.",
+            "author": [
+                {
+                    "family": "Maul",
+                    "given": "Andrew"
+                }
+            ],
+            "container-title": "Measurement: Interdisciplinary Research and Perspectives",
+            "id": "maul_rethinking_2017",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        4
+                    ]
+                ]
+            },
+            "keyword": "noncognitive measurement,philosophy of measurement,survey research,validation,validity",
+            "page": "51-69",
+            "title": "Rethinking Traditional Methods of Survey Validation",
+            "type": "article-journal",
+            "volume": "15"
+        },
+        {
+            "DOI": "10.1037/1082-989X.11.4.386",
+            "author": [
+                {
+                    "family": "McGrath",
+                    "given": "R. E."
+                },
+                {
+                    "family": "Meyer",
+                    "given": "G. J."
+                }
+            ],
+            "container-title": "Psychological Methods",
+            "id": "McGrath2006",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "page": "386-401",
+            "title": "When effect sizes disagree: The case of r and d",
+            "title-short": "When effect sizes disagree",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "DOI": "10.1007/BF02295996",
+            "author": [
+                {
+                    "family": "McNemar",
+                    "given": "Q."
+                }
+            ],
+            "container-title": "Psychometrika",
+            "id": "McNemar1947",
+            "issued": {
+                "date-parts": [
+                    [
+                        1947
+                    ]
+                ]
+            },
+            "page": "153-157",
+            "title": "Note on the sampling error of the difference between correlated proportions or percentages",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "DOI": "10.1086/288135",
+            "author": [
+                {
+                    "family": "Meehl",
+                    "given": "P. H."
+                }
+            ],
+            "container-title": "Philosophy of Science",
+            "id": "Meehl1967",
+            "issued": {
+                "date-parts": [
+                    [
+                        1967
+                    ]
+                ]
+            },
+            "page": "103-115",
+            "title": "Theory testing in psychology and physics: A methodological paradox",
+            "title-short": "Theory testing in psychology and physics",
+            "type": "article-journal",
+            "volume": "34"
+        },
+        {
+            "DOI": "10.1177/0956797615626691",
+            "author": [
+                {
+                    "family": "Mehr",
+                    "given": "Samuel A"
+                },
+                {
+                    "family": "Song",
+                    "given": "Lee Ann"
+                },
+                {
+                    "family": "Spelke",
+                    "given": "Elizabeth S"
+                }
+            ],
+            "container-title": "Psychological Science",
+            "id": "mehr20165",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "486-501",
+            "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+            "title": "For 5-month-old infants, melodies are social",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "author": [
+                {
+                    "family": "Morey",
+                    "given": "Richard D."
+                },
+                {
+                    "family": "Rouder",
+                    "given": "Jeffrey N."
+                }
+            ],
+            "genre": "Manual",
+            "id": "Morey2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "title": "BayesFactor: Computation of bayes factors for common designs",
+            "title-short": "BayesFactor",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Pearson",
+                    "given": "K."
+                }
+            ],
+            "container-title": "Philosophical Magazine",
+            "id": "Pearson1900",
+            "issued": {
+                "date-parts": [
+                    [
+                        1900
+                    ]
+                ]
+            },
+            "keyword": "⛔ No DOI found",
+            "page": "157-175",
+            "title": "On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling",
+            "type": "article-journal",
+            "volume": "50"
+        },
+        {
+            "author": [
+                {
+                    "family": "Pfungst",
+                    "given": "O."
+                }
+            ],
+            "id": "Pfungst1911",
+            "issued": {
+                "date-parts": [
+                    [
+                        1911
+                    ]
+                ]
+            },
+            "publisher": "Henry Holt",
+            "publisher-place": "New York",
+            "title": "Clever Hans (The horse of Mr. Von Osten): A contribution to experimental animal and human psychology",
+            "title-short": "Clever Hans (The horse of Mr. Von Osten)",
+            "translator": [
+                {
+                    "family": "Rahn",
+                    "given": "C. L."
+                }
+            ],
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "literal": "R Development Core Team"
+                }
+            ],
+            "genre": "Manual",
+            "id": "R2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "publisher": "R Foundation for Statistical Computing",
+            "publisher-place": "Vienna, Austria",
+            "title": "R: A language and environment for statistical computing",
+            "title-short": "R",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "literal": "R Core Team"
+                }
+            ],
+            "genre": "Manual",
+            "id": "R2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "publisher": "R Foundation for Statistical Computing",
+            "publisher-place": "Vienna, Austria",
+            "title": "R: A language and environment for statistical computing",
+            "title-short": "R",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1177/0956797617721270",
+            "author": [
+                {
+                    "family": "Rosenbaum",
+                    "given": "David"
+                },
+                {
+                    "family": "Mama",
+                    "given": "Yaniv"
+                },
+                {
+                    "family": "Algom",
+                    "given": "Daniel"
+                }
+            ],
+            "container-title": "Psychological science",
+            "id": "rosenbaum2017stand",
+            "issue": "12",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "1864-1867",
+            "publisher": "SAGE Publications Sage CA: Los Angeles, CA",
+            "title": "Stand by your stroop: Standing up enhances selective attention and cognitive control",
+            "title-short": "Stand by your stroop",
+            "type": "article-journal",
+            "volume": "28"
+        },
+        {
+            "author": [
+                {
+                    "family": "Rosenthal",
+                    "given": "R"
+                }
+            ],
+            "id": "Rosenthal1966",
+            "issued": {
+                "date-parts": [
+                    [
+                        1966
+                    ]
+                ]
+            },
+            "publisher": "Appleton",
+            "publisher-place": "New York",
+            "title": "Experimenter effects in behavioral research",
+            "type": "book"
+        },
+        {
+            "DOI": "10.3758/PBR.16.2.225",
+            "author": [
+                {
+                    "family": "Rouder",
+                    "given": "J. N."
+                },
+                {
+                    "family": "Speckman",
+                    "given": "P. L."
+                },
+                {
+                    "family": "Sun",
+                    "given": "D."
+                },
+                {
+                    "family": "Morey",
+                    "given": "R. D."
+                },
+                {
+                    "family": "Iverson",
+                    "given": "G."
+                }
+            ],
+            "container-title": "Psychonomic Bulletin & Review",
+            "id": "Rouder2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "page": "225-237",
+            "title": "Bayesian t-tests for accepting and rejecting the null hypothesis",
+            "type": "article-journal",
+            "volume": "16"
+        },
+        {
+            "author": [
+                {
+                    "family": "Sahai",
+                    "given": "H."
+                },
+                {
+                    "family": "Ageel",
+                    "given": "M. I."
+                }
+            ],
+            "id": "Sahai2000",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "publisher": "Birkhauser",
+            "publisher-place": "Boston",
+            "title": "The analysis of variance: Fixed, random and mixed models",
+            "title-short": "The analysis of variance",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Salsburg",
+                    "given": "David"
+                }
+            ],
+            "id": "salsburg2001lady",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "publisher": "Macmillan",
+            "title": "The lady tasting tea: How statistics revolutionized science in the twentieth century",
+            "title-short": "The lady tasting tea",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Searle",
+                    "given": "S. R."
+                }
+            ],
+            "id": "Searle1987",
+            "issued": {
+                "date-parts": [
+                    [
+                        1987
+                    ]
+                ]
+            },
+            "publisher": "Wiley",
+            "publisher-place": "New York, NY",
+            "title": "Linear models for unbalanced data",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1146/annurev.ps.46.020195.003021",
+            "author": [
+                {
+                    "family": "Shaffer",
+                    "given": "J. P."
+                }
+            ],
+            "container-title": "Annual Review of Psychology",
+            "id": "Shaffer1995",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995
+                    ]
+                ]
+            },
+            "page": "561-584",
+            "title": "Multiple hypothesis testing",
+            "type": "article-journal",
+            "volume": "46"
+        },
+        {
+            "author": [
+                {
+                    "family": "Shapiro",
+                    "given": "S. S."
+                },
+                {
+                    "family": "Wilk",
+                    "given": "M. B."
+                }
+            ],
+            "container-title": "Biometrika",
+            "id": "Shapiro1965",
+            "issued": {
+                "date-parts": [
+                    [
+                        1965
+                    ]
+                ]
+            },
+            "keyword": "❓ Multiple DOI",
+            "page": "591-611",
+            "title": "An analysis of variance test for normality (complete samples)",
+            "type": "article-journal",
+            "volume": "52"
+        },
+        {
+            "author": [
+                {
+                    "family": "Sokal",
+                    "given": "R. R."
+                },
+                {
+                    "family": "Rohlf",
+                    "given": "F. J."
+                }
+            ],
+            "edition": "3rd",
+            "id": "Sokal1994",
+            "issued": {
+                "date-parts": [
+                    [
+                        1994
+                    ]
+                ]
+            },
+            "publisher": "Freeman",
+            "publisher-place": "New York",
+            "title": "Biometry: The principles and practice of statistics in biological research",
+            "title-short": "Biometry",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Spector",
+                    "given": "P."
+                }
+            ],
+            "id": "Spector2008",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "publisher": "Springer",
+            "publisher-place": "New York, NY",
+            "title": "Data manipulation with R",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1126/science.103.2684.677",
+            "author": [
+                {
+                    "family": "Stevens",
+                    "given": "S. S."
+                }
+            ],
+            "container-title": "Science (New York, N.Y.)",
+            "id": "Stevens1946",
+            "issued": {
+                "date-parts": [
+                    [
+                        1946
+                    ]
+                ]
+            },
+            "page": "677-680",
+            "title": "On the theory of scales of measurement",
+            "type": "article-journal",
+            "volume": "103"
+        },
+        {
+            "author": [
+                {
+                    "family": "Stigler",
+                    "given": "S. M."
+                }
+            ],
+            "id": "Stigler1986",
+            "issued": {
+                "date-parts": [
+                    [
+                        1986
+                    ]
+                ]
+            },
+            "publisher": "Harvard University Press",
+            "publisher-place": "Cambridge, MA",
+            "title": "The history of statistics",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Student",
+                    "given": "A."
+                }
+            ],
+            "container-title": "Biometrika",
+            "id": "Student1908",
+            "issued": {
+                "date-parts": [
+                    [
+                        1908
+                    ]
+                ]
+            },
+            "keyword": "❓ Multiple DOI",
+            "page": "1-2",
+            "title": "The probable error of a mean",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "author": [
+                {
+                    "family": "Teetor",
+                    "given": "P."
+                }
+            ],
+            "id": "Teetor2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "publisher": "O’Reilly",
+            "publisher-place": "Sebastopol, CA",
+            "title": "R cookbook",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Theil",
+                    "given": "H."
+                }
+            ],
+            "id": "Theil1972",
+            "issued": {
+                "date-parts": [
+                    [
+                        1972
+                    ]
+                ]
+            },
+            "publisher": "North Holland",
+            "publisher-place": "Amsterdam",
+            "title": "Statistical decomposition analysis",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Welch",
+                    "given": "B. L."
+                }
+            ],
+            "container-title": "Biometrika",
+            "id": "Welch1947",
+            "issued": {
+                "date-parts": [
+                    [
+                        1947
+                    ]
+                ]
+            },
+            "keyword": "❓ Multiple DOI",
+            "page": "28-35",
+            "title": "The generalization of “Student’s” problem when several different population variances are involved",
+            "type": "article-journal",
+            "volume": "34"
+        },
+        {
+            "author": [
+                {
+                    "family": "Welch",
+                    "given": "B. L."
+                }
+            ],
+            "container-title": "Biometrika",
+            "id": "Welch1951",
+            "issued": {
+                "date-parts": [
+                    [
+                        1951
+                    ]
+                ]
+            },
+            "keyword": "❓ Multiple DOI",
+            "page": "330-336",
+            "title": "On the comparison of several mean values: An alternative approach",
+            "title-short": "On the comparison of several mean values",
+            "type": "article-journal",
+            "volume": "38"
+        },
+        {
+            "DOI": "10.2307/1912934",
+            "author": [
+                {
+                    "family": "White",
+                    "given": "H."
+                }
+            ],
+            "container-title": "Econometrika",
+            "id": "White1980",
+            "issued": {
+                "date-parts": [
+                    [
+                        1980
+                    ]
+                ]
+            },
+            "page": "817-838",
+            "title": "A heteroskedasticity-consistent covariance matrix estimator and a direct test for heteroskedasticity",
+            "type": "article-journal",
+            "volume": "48"
+        },
+        {
+            "DOI": "10.18637/jss.v021.i12",
+            "author": [
+                {
+                    "family": "Wickham",
+                    "given": "H."
+                }
+            ],
+            "container-title": "Journal of Statistical Software",
+            "id": "Wickham2007",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "title": "Reshaping data with the reshape package",
+            "type": "article-journal",
+            "volume": "21"
+        },
+        {
+            "author": [
+                {
+                    "family": "Wilkinson",
+                    "given": "Leland"
+                },
+                {
+                    "family": "Wills",
+                    "given": "D"
+                },
+                {
+                    "family": "Rope",
+                    "given": "D"
+                },
+                {
+                    "family": "Norton",
+                    "given": "A"
+                },
+                {
+                    "family": "Dubbs",
+                    "given": "R"
+                }
+            ],
+            "id": "Wilkinson2006",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "publisher": "Springer",
+            "title": "The grammar of graphics",
+            "type": "book"
+        },
+        {
+            "DOI": "10.2307/2983604",
+            "author": [
+                {
+                    "family": "Yates",
+                    "given": "F."
+                }
+            ],
+            "container-title": "Supplement to the Journal of the Royal Statistical Society",
+            "id": "Yates1934",
+            "issued": {
+                "date-parts": [
+                    [
+                        1934
+                    ]
+                ]
+            },
+            "page": "217-235",
+            "title": "Contingency tables involving small numbers and the \\chi^{2} test",
+            "type": "article-journal",
+            "volume": "1"
+        },
+        {
+            "DOI": "10.1093/brain/awq060",
+            "URL": "https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awq060",
+            "author": [
+                {
+                    "family": "Bird",
+                    "given": "Geoffrey"
+                },
+                {
+                    "family": "Silani",
+                    "given": "Giorgia"
+                },
+                {
+                    "family": "Brindley",
+                    "given": "Rachel"
+                },
+                {
+                    "family": "White",
+                    "given": "Sarah"
+                },
+                {
+                    "family": "Frith",
+                    "given": "Uta"
+                },
+                {
+                    "family": "Singer",
+                    "given": "Tania"
+                }
+            ],
+            "container-title": "Brain",
+            "id": "bird2010",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010,
+                        5
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1515-1525",
+            "title": "Empathic brain responses in insula are modulated by levels of alexithymia but not autism",
+            "type": "article-journal",
+            "volume": "133"
+        },
+        {
+            "DOI": "10.1037/0096-1523.33.5.1158",
+            "URL": "http://doi.apa.org/getdoi.cfm?doi=10.1037/0096-1523.33.5.1158",
+            "author": [
+                {
+                    "family": "Bird",
+                    "given": "Geoffrey"
+                },
+                {
+                    "family": "Brindley",
+                    "given": "Rachel"
+                },
+                {
+                    "family": "Leighton",
+                    "given": "Jane"
+                },
+                {
+                    "family": "Heyes",
+                    "given": "Cecilia"
+                }
+            ],
+            "container-title": "Journal of Experimental Psychology: Human Perception and Performance J Exp Psychology Hum Percept Perform",
+            "id": "bird2007a",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1158-1169",
+            "title": "General processes, rather than \"goals,\" explain imitation errors.",
+            "type": "article-journal",
+            "volume": "33"
+        },
+        {
+            "DOI": "10.1080/17475759.2015.1137079",
+            "ISSN": "1747-5759, 1747-5767",
+            "abstract": "Abstract Based on truth-default theory, this research examined accounts of recalled deception to develop a list of deception motives that are general across cultures. Participants from Egypt (N = 29), Guatemala (N = 118), Pakistan (N = 51), Saudi Arabia (N = 169), and the United States (N = 81) were asked, open-ended, to describe an instance of deception or lying either from the perspective of the liar or the target. These descriptions were used to refine and cross-validate a set of deception motives that are applicable across a range of cultures. People lie for a reason, and those reasons include covering a transgression, seeking selfish advantage, avoiding others, seeking to protect others, social politeness, making positive impressions, being malicious, and being funny.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        2
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Levine",
+                    "given": "Timothy R."
+                },
+                {
+                    "family": "Ali",
+                    "given": "Mohamed Vaqas"
+                },
+                {
+                    "family": "Dean",
+                    "given": "Marleah"
+                },
+                {
+                    "family": "Abdulla",
+                    "given": "Rasha A."
+                },
+                {
+                    "family": "Garcia-Ruano",
+                    "given": "Karina"
+                }
+            ],
+            "container-title": "Journal of Intercultural Communication Research",
+            "id": "levine2016",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        1
+                    ]
+                ]
+            },
+            "keyword": "/unread,🃏,notion,Zotero",
+            "language": "en-US",
+            "page": "1-12",
+            "publisher": "Informa UK Limited",
+            "title": "Toward a Pan-cultural Typology of Deception Motives",
+            "type": "article-journal",
+            "volume": "45"
+        },
+        {
+            "DOI": "10.1080/10410236.2012.751084",
+            "URL": "http://www.tandfonline.com/doi/abs/10.1080/10410236.2012.751084",
+            "author": [
+                {
+                    "family": "Wright",
+                    "given": "Kevin B."
+                },
+                {
+                    "family": "Rains",
+                    "given": "Stephen A."
+                }
+            ],
+            "container-title": "Health Communication",
+            "id": "wright2014",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014,
+                        3,
+                        16
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "281-287",
+            "title": "Weak tie support preference and preferred coping styles as predictors of perceived credibility within health-related computer-mediated support groups.",
+            "type": "article-journal",
+            "volume": "29"
+        },
+        {
+            "ISBN": "978-0-313-36216-3",
+            "author": [
+                {
+                    "family": "Greenspan",
+                    "given": "Stephen"
+                }
+            ],
+            "id": "greenspan2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "publisher": "Praeger Publishers",
+            "title": "Annals of gullibility: Why we get duped and how to avoid it",
+            "title-short": "Annals of gullibility",
+            "type": "book"
+        },
+        {
+            "DOI": "10.3389/fnhum.2012.00087",
+            "URL": "https://pubmed.ncbi.nlm.nih.gov/22529790 “You can’t kid a kidder”: association between production and detection of deception in an interactive deception task.0Wright, GR",
+            "author": [
+                {
+                    "family": "Wright",
+                    "given": "Gordon R. T."
+                },
+                {
+                    "family": "Berry",
+                    "given": "Christopher J."
+                },
+                {
+                    "family": "Bird",
+                    "given": "Geoffrey"
+                }
+            ],
+            "container-title": "Frontiers in Human Neuroscience",
+            "id": "wright2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "87",
+            "title": "“You can’t kid a kidder”: association between production and detection of deception in an interactive deception task. u1 - wright2012",
+            "title-short": "“You can’t kid a kidder”",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "DOI": "10.1080/09687590120035807",
+            "ISSN": "0968-7599",
+            "abstract": "In this article I set out to trace the influence of two major sets of ideas: normalisation/srv, and the social model of disability on inclusive research in learning disability. The argument is that normalisation set the agenda for learning disability research for two or more decades. Inclusive researchers continue to apply normalisation thinking to work with people with learning difficulties, particularly in assuming the role of advocate - offering people the opportunity to take on valued social roles and assuming responsibility for promoting positive images. Latterly, a number of researchers have tried to rise to the challenges posed by emancipatory research, particularly in attempting to find ways to put people with learning difficulties in control. This illustrates the influence of thinking emanating from disability studies. However, the paper shows that whilst some ideas from emancipatory research have been applied in learning disability, there are debates in the disability literature that have not been addressed in learning disability research to date. The result is that inclusive research in learning disability is in danger of being marginalised, both in the context of disability studies and in the context of the broad sweep of learning disability research.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        10,
+                        21
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Walmsley",
+                    "given": "Jan"
+                }
+            ],
+            "container-title": "Disability & Society",
+            "id": "walmsley2001",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001,
+                        3
+                    ]
+                ]
+            },
+            "keyword": "/unread",
+            "page": "187-205",
+            "publisher": "Routledge",
+            "title": "Normalisation, Emancipatory Research and Inclusive Research in Learning Disability",
+            "type": "article-journal",
+            "volume": "16"
+        },
+        {
+            "DOI": "10.1126/science.aac4716",
+            "URL": "https://www.science.org/doi/10.1126/science.aac4716",
+            "author": [
+                {
+                    "family": "Open Science Collaboration"
+                }
+            ],
+            "container-title": "Science",
+            "id": "opensciencecollaboration2015",
+            "issue": "6251",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        8,
+                        28
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "aac4716",
+            "title": "Estimating the reproducibility of psychological science",
+            "type": "article-journal",
+            "volume": "349"
+        }
+    ],
+    "project_biblios": [
+        "references.bib",
+        "textbook.bib"
+    ]
+}

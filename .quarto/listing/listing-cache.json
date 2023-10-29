@@ -1,0 +1,7 @@
+{
+  "listingMap": {
+    "schedule.qmd": [
+      "weeks/Week*.qmd"
+    ]
+  }
+}

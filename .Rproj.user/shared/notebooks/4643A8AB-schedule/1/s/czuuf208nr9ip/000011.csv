@@ -1,0 +1,7 @@
+"0","library(googlesheets4)"
+"0","library(gt)"
+"0","library(tidyverse)"
+"0","library(lubridate)"
+"0","library(dplyr)"
+"0","gs4_deauth()"
+"0","d <- read_sheet(""https://docs.google.com/spreadsheets/d/1C03QNEp_foGSRXncI68DKEpIC1NqLDhv1TffH3hQCA8/edit?usp=sharing"", sheet = ""draft1"")"
