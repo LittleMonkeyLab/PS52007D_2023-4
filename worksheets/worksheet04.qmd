@@ -1,0 +1,81 @@
+---
+title: "Worksheet 04: MeSearch and Open Science"
+subtitle: "Walking the walk (1 of 2)"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/24/2023"
+date-format: long
+license: "CC BY-NC-SA"
+citations-hover: true
+categories: 
+  - "Worksheet"
+  - "Week 4"
+params:
+  class: "worksheet04"
+format: 
+  pdf: default
+  # pptx: default
+  html: default
+
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+## A VERY simple worksheet this week
+
+Have a look at the Open Science Foundation website
+
+If you have a topic in mind, have a peek for any repositories relevant
+to that topic.
+
+Have a look for `Open Materials` and `Open Data`
+
+[OSF \| When Research is Mesearch: How Researchers\' Motivation to
+Pursue a Topic Affects Laypeople\'s Trust in
+Science](https://osf.io/phfq3/)
+[https://osf.io/phfq3/](http://127.0.0.1:26677/#0 "https://osf.io/phfq3/")
+
+## Keep working on your Critical Proposals
+
+If you have checked your target paper with your Lab Tutor.. Great.
+
+If not, do so. Use the Materials in the Coursework Information section
+of the VLE to scaffold your reading and re-reading of the paper. Apply
+some careful thought. Discuss!
+
+## Next week we will discuss Open Science
+
+In your mini-dissertation submissions, you are required to submit both
+`Open Materials` and `Open Data`
+
+Some of you will not bother, or not remember. You cannot get a first if
+you omit these elements.
+
+## Find the mainstream, for now...
+
+It is perfectly normal if you are trying to find solid ground with
+regards to how your topic is researched. Finding the 'mainstream' is the
+right point to be at.
+
+Think about any names that keep cropping up. Look at whether techniques
+are consistent. Use tools from the Library or ResearchRabbit.ai to
+identify network effects or citation patterns.
+
+Very shortly, once you've seen the mainstream, the humdrum, the middle
+of the road, you may start to see the rebels, the disruptors, the
+innovators, the people that Steve Jobs called 'The Crazy Ones, the
+MisFits' - the ones you can't ignore
+<https://youtu.be/-z4NS2zdrZc?si=DYq92lRNRBir9IMg>
+
+## Are you going to be a troublemaker? 
+
+I'll be disappointed if you're not!
+
+## Have a great week and keep cracking on.
+
+![](images/Prodigy.png){fig-align="center" width="350"}

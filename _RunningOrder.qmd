@@ -1,0 +1,685 @@
+---
+title: "20 weeks"
+date: today
+categories: "Planning"
+---
+
+# Week01
+
+## Prepare01
+
+content
+
+## Lecture01
+
+content
+
+## Lab01
+
+content
+
+## Reading01
+
+content
+
+## MiniDiss01
+
+content
+
+## Extras01
+
+content
+
+## Resources01
+
+content
+
+## Skills01
+
+content
+
+# Week02
+
+## Prepare02
+
+content
+
+## Lecture02
+
+content
+
+## Lab02
+
+content
+
+## Reading02
+
+content
+
+## MiniDiss02
+
+content
+
+## Extras02
+
+content
+
+## Resources02
+
+content
+
+## Skills02
+
+content
+
+# Week03
+
+## Prepare03
+
+content
+
+## Lecture03
+
+content
+
+## Lab03
+
+content
+
+## Reading03
+
+content
+
+## MiniDiss03
+
+content
+
+## Extras03
+
+content
+
+## Resources03
+
+content
+
+## Skills03
+
+content
+
+# Week04
+
+## Prepare04
+
+content
+
+## Lecture04
+
+content
+
+## Lab04
+
+content
+
+## Reading04
+
+content
+
+## MiniDiss04
+
+content
+
+## Extras04
+
+content
+
+## Resources04
+
+content
+
+## Skills04
+
+content
+
+# Week05
+
+## Prepare05
+
+content
+
+## Lecture05
+
+content
+
+## Lab05
+
+content
+
+## Reading05
+
+content
+
+## MiniDiss05
+
+content
+
+## Extras05
+
+content
+
+## Resources05
+
+content
+
+## Skills05
+
+content
+
+# Week06
+
+## Prepare06
+
+content
+
+## Lecture06
+
+content
+
+## Lab06
+
+content
+
+## Reading06
+
+content
+
+## MiniDiss06
+
+content
+
+## Extras06
+
+content
+
+## Resources06
+
+content
+
+## Skills06
+
+content
+
+# Week07
+
+## Prepare07
+
+content
+
+## Lecture07
+
+content
+
+## Lab07
+
+content
+
+## Reading07
+
+content
+
+## MiniDiss07
+
+content
+
+## Extras07
+
+content
+
+## Resources07
+
+content
+
+## Skills07
+
+content
+
+# Week08
+
+## Prepare08
+
+content
+
+## Lecture08
+
+content
+
+## Lab08
+
+content
+
+## Reading08
+
+content
+
+## MiniDiss08
+
+content
+
+## Extras08
+
+content
+
+## Resources08
+
+content
+
+## Skills08
+
+content
+
+# Week09
+
+## Prepare09
+
+content
+
+## Lecture09
+
+content
+
+## Lab09
+
+content
+
+## Reading09
+
+content
+
+## MiniDiss09
+
+content
+
+## Extras09
+
+content
+
+## Resources09
+
+content
+
+## Skills09
+
+content
+
+# Week10
+
+## Prepare10
+
+content
+
+## Lecture10
+
+content
+
+## Lab10
+
+content
+
+## Reading10
+
+content
+
+## MiniDiss10
+
+content
+
+## Extras10
+
+content
+
+## Resources10
+
+content
+
+## Skills10
+
+content
+
+# Week11
+
+## Prepare11
+
+content
+
+## Lecture11
+
+content
+
+## Lab11
+
+content
+
+## Reading11
+
+content
+
+## MiniDiss11
+
+content
+
+## Extras11
+
+content
+
+## Resources11
+
+content
+
+## Skills11
+
+content
+
+# Week12
+
+## Prepare12
+
+content
+
+## Lecture12
+
+content
+
+## Lab12
+
+content
+
+## Reading12
+
+content
+
+## MiniDiss12
+
+content
+
+## Extras12
+
+content
+
+## Resources12
+
+content
+
+## Skills12
+
+content
+
+# Week13
+
+## Prepare13
+
+content
+
+## Lecture13
+
+content
+
+## Lab13
+
+content
+
+## Reading13
+
+content
+
+## MiniDiss13
+
+content
+
+## Extras13
+
+content
+
+## Resources13
+
+content
+
+## Skills13
+
+content
+
+# Week14
+
+## Prepare14
+
+content
+
+## Lecture14
+
+content
+
+## Lab14
+
+content
+
+## Reading14
+
+content
+
+## MiniDiss14
+
+content
+
+## Extras14
+
+content
+
+## Resources14
+
+content
+
+## Skills14
+
+content
+
+# Week15
+
+## Prepare15
+
+content
+
+## Lecture15
+
+content
+
+## Lab15
+
+content
+
+## Reading15
+
+content
+
+## MiniDiss15
+
+content
+
+## Extras15
+
+content
+
+## Resources15
+
+content
+
+## Skills15
+
+content
+
+# Week16
+
+## Prepare16
+
+content
+
+## Lecture16
+
+content
+
+## Lab16
+
+content
+
+## Reading16
+
+content
+
+## MiniDiss16
+
+content
+
+## Extras16
+
+content
+
+## Resources16
+
+content
+
+## Skills16
+
+content
+
+# Week17
+
+## Prepare17
+
+content
+
+## Lecture17
+
+content
+
+## Lab17
+
+content
+
+## Reading17
+
+content
+
+## MiniDiss17
+
+content
+
+## Extras17
+
+content
+
+## Resources17
+
+content
+
+## Skills17
+
+content
+
+# Week18
+
+## Prepare18
+
+content
+
+## Lecture18
+
+content
+
+## Lab18
+
+content
+
+## Reading18
+
+content
+
+## MiniDiss18
+
+content
+
+## Extras18
+
+content
+
+## Resources18
+
+content
+
+## Skills18
+
+content
+
+# Week19
+
+## Prepare19
+
+content
+
+## Lecture19
+
+content
+
+## Lab19
+
+content
+
+## Reading19
+
+content
+
+## MiniDiss19
+
+content
+
+## Extras19
+
+content
+
+## Resources19
+
+content
+
+## Skills19
+
+content
+
+# Week20
+
+## Prepare20
+
+content
+
+## Lecture20
+
+content
+
+## Lab20
+
+content
+
+## Reading20
+
+content
+
+## MiniDiss20
+
+content
+
+## Extras20
+
+content
+
+## Resources20
+
+content
+
+## Skills20
+
+content
