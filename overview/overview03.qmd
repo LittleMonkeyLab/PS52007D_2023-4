@@ -1,0 +1,102 @@
+---
+title: "Week 03 Overview"
+subtitle: "03"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/09/2023"
+date-format: long
+license: "CC BY-NC-SA"
+citations-hover: true
+categories: 
+  - "Prep"
+  - "Week 3"
+params:
+  class: "prep03"
+
+format: 
+  # pdf: default
+  # pptx: default
+  html: default
+
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+# Week 03
+
+```{=html}
+
+<iframe src="https://ps52007d.littlemonkeylab.com/slides/week03/lecture.slides.html" title="Week 03 Lecture" width="960" height="500" data-external="1"></iframe>
+```
+## Introduction & Lecture Preview
+
+::: {.callout .primary}
+**Key Focus:** Critical Proposal - Due end of Week 5 Please make sure to
+read the detailed Coursework Briefing and Rubric.
+:::
+
+-   **Important Points:**
+    1.  Choosing a good paper is part of the assessment
+
+    2.  If in doubt, the focus should be on Methods and Materials
+
+    3.  You are REQUIRED to include an effect size, and this needs to be
+        included in the Design Schematic which can be downloaded in the
+        Coursework Information section of the VLE and edited at
+        www.draw.io
+
+        ![DesignSchematic](images/Thisismydesign.drawio.png)
+-   **Preparatory Reading or Thinking:**
+    -   Please refer to any general textbooks, or the resources by
+        Barber in the Reading List
+
+## Lab Sessions
+
+```{=html}
+
+<iframe src="https://ps52007d.littlemonkeylab.com/slides/week03/lab.slides.html" title="Week 03 lab overview" width="960" height="500" data-external="1"></iframe>
+```
+## Primary Thought
+
+-   Get your 'Target Paper' on screen and see what your Lab Tutor
+    thinks. Get them to verify that it is an empirical paper from a
+    relevant journal and has a Methods section that will allow you to
+    meet the brief.
+
+### Main Lab Activities
+
+-   **Make sure to complete your name in the Miro Board (in your group
+    if possible).**
+-   Follow the worksheet guidance on identifying relevant critique for
+    your Target Paper
+
+### Module Milestones (by end of this week)
+
+-   Have identified a candidate Target Paper and started jotting down
+    potential critique and ideas for how to build upon it.
+-   Show the paper to your Lab Tutor and get a confidence-boosting
+    thumbs-up.
+
+### Reflection and Meta-Cognitive Practice
+
+-   You will be performing this exact exercise (potentially a few times)
+    for your Final Year Dissertation. Please attend to how confident you
+    feel going from the 'page to the stage'. The jump from a written
+    methods section, to running a task yourself is somewhat daunting,
+    but you need to be able to anticipate any complexities up front.
+    Simply put, if you don't understand it, how are you going to do it?
+    By identifying elements you don't fully understand, you can enlist
+    the help of your Supervisor.
+
+-   If you are not wise enough to show your Target Paper to your Lab
+    Tutor, you are missing an opportunity for individual support.
+
+-   You are NOT expected to know everything or be able to fully identify
+    all problems, but you CAN identify what you don't know how to do,
+    and anything about the process that is unclear. You are required to
+    manage your Supervisor to help you learn and grow.
