@@ -2309,6 +2309,69 @@
             "volume": "6"
         },
         {
+            "DOI": "10.1080/09687590120035807",
+            "ISSN": "0968-7599",
+            "abstract": "In this article I set out to trace the influence of two major sets of ideas: normalisation/srv, and the social model of disability on inclusive research in learning disability. The argument is that normalisation set the agenda for learning disability research for two or more decades. Inclusive researchers continue to apply normalisation thinking to work with people with learning difficulties, particularly in assuming the role of advocate - offering people the opportunity to take on valued social roles and assuming responsibility for promoting positive images. Latterly, a number of researchers have tried to rise to the challenges posed by emancipatory research, particularly in attempting to find ways to put people with learning difficulties in control. This illustrates the influence of thinking emanating from disability studies. However, the paper shows that whilst some ideas from emancipatory research have been applied in learning disability, there are debates in the disability literature that have not been addressed in learning disability research to date. The result is that inclusive research in learning disability is in danger of being marginalised, both in the context of disability studies and in the context of the broad sweep of learning disability research.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        10,
+                        21
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Walmsley",
+                    "given": "Jan"
+                }
+            ],
+            "container-title": "Disability & Society",
+            "id": "walmsley2001",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001,
+                        3
+                    ]
+                ]
+            },
+            "keyword": "/unread",
+            "page": "187-205",
+            "publisher": "Routledge",
+            "title": "Normalisation, Emancipatory Research and Inclusive Research in Learning Disability",
+            "type": "article-journal",
+            "volume": "16"
+        },
+        {
+            "DOI": "10.1126/science.aac4716",
+            "URL": "https://www.science.org/doi/10.1126/science.aac4716",
+            "author": [
+                {
+                    "family": "Open Science Collaboration"
+                }
+            ],
+            "container-title": "Science",
+            "id": "opensciencecollaboration2015",
+            "issue": "6251",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        8,
+                        28
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "aac4716",
+            "title": "Estimating the reproducibility of psychological science",
+            "type": "article-journal",
+            "volume": "349"
+        },
+        {
             "author": [
                 {
                     "family": "Mehl",
