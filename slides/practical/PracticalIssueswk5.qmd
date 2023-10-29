@@ -87,10 +87,8 @@ psychological research - and introduce some of the real challenges
 
 . . .
 
-[***\
-[PS51010C - Extended Essay]{.incremental}***]{.underline}
+## PS51010C - Extended Essay\]
 
-::: incremental
 -   [3000 words MAX]{.takeaway}
 
 -   [4 x Target Articles (Empirical from the last 3 years)]{.takeaway}
@@ -99,31 +97,18 @@ psychological research - and introduce some of the real challenges
 
 -   Make sure to really delve into the **Methods** employed! Really
     scrutinise the tasks!
-:::
 
 ## More opportunities next year
-
-. . .
 
 Once you've started your Research Journey\
 Summer Bursary Competition - a number of weeks of paid research
 experience
 
-. . .
-
 ## Final Year Dissertation
 
-. . .
-
 \
-45 Credit Module - Independent Research Project
-
-. . .
-
-\
+45 Credit Module - Independent Research Project\
 1:1 with a member of staff
-
-. . .
 
 \
 Whatever topic you can agree on (excluding children/clinical/forensic
@@ -131,26 +116,18 @@ samples)
 
 ## For the aspiring researcher
 
-. . .
-
 \
 In December of your final year you can apply for a 1+3 funded MSc & PhD
 position
 
 ## Research opportunities available all the time. . .
 
-. . .
-
 You are able to ask to join a lab or work with a member of staff at any
 time
-
-. . .
 
 \
 Some labs have regular meetings and are open to volunteers, some are
 more informal or even work on a 1:1 basis
-
-. . .
 
 \
 If you like the research somebody is doing, go and knock on their door!
@@ -189,9 +166,7 @@ Get to grips with the Library
 
 Make Google Scholar your own
 
-![](images/paste-E9441F3F.png)
-
-![](images/paste-932C9782.png)
+![](images/image00034.png)
 :::
 
 ------------------------------------------------------------------------
@@ -439,13 +414,9 @@ hedonic value of being cruel.
 
 ------------------------------------------------------------------------
 
-![](images/paste-119912CF.png)
-
 ## The Target Paper @gunderson2022
 
 <https://hyp.is/L4vR9m9QEe2hne9nNT_AIg/link.springer.com/article/10.1007/s42761-022-00126-5>
-
-![](images/paste-12B4ABA9.png)
 
 ------------------------------------------------------------------------
 
@@ -457,25 +428,5 @@ Log in.
 
 Then access the paper here:
 <https://hyp.is/hvUM3m-KEe26bBOBEKqwUQ/link.springer.com/article/10.1007/s42761-022-00126-5>
-
-![Hypothes.is](images/Hypothesis@2x.png)
-
-![](images/Hypothesis@2x.png){width="150" height="12"}
-
-## So let's briefly think about the study
-
-They 'operationalised' deception in the following way:
-
-![](images/Gunderson.png)
-
-## They measured 'duping delight'...
-
-![](images/PANAS@2x.png)
-
-## Does that satisfy you?
-
-Is that a good way to measure an emotional reaction?
-
-![](images/Polygraph@2x.png)
 
 ## References
