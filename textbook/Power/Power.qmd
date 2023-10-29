@@ -1,5 +1,5 @@
 ---
-title: "Effect Sizes: Primer"
+title: "Power!"
 subtitle: "Wow! That had a huge effect!"
 # image: "lecture.png"
 author: 
@@ -12,7 +12,6 @@ license: "CC BY-NC-SA"
 
 
 # author: "Dr. Gordon Wright & Professor Matthew J. C. Crump"
-# aliases: [thinking-about-answering-questions-with-data.html]
 ---
 
 ```{r}
@@ -535,3 +534,10 @@ ggarrange(a,b,c,d,
           ncol = 2, nrow = 2)
 
 ```
+
+## Acknowledgements
+
+Many thanks to Professor Matthew J. C. Crump for the original draft of
+this content, remixed under CC BY-SA 4.0 by Dr. Gordon Wright. Original
+content available here
+https://www.crumplab.com/statistics/12-Thinking.html#power

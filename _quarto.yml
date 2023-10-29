@@ -83,6 +83,9 @@ website:
           - overview/index.qmd
           - overview/overview01.qmd
           - overview/overview02.qmd
+          - overview/overview03.qmd
+          - overview/overview04.qmd
+          - overview/overview05.qmd
           # - basics-jupyter.qmd
       - section: "Slides"
         contents:
@@ -92,13 +95,22 @@ website:
           - slides/week01/lab.qmd
           - slides/week02/lecture.qmd
           - slides/week02/lab.qmd
+          - slides/week03/lecture.qmd
+          - slides/week03/lab.qmd
+          - slides/week04/lecture.qmd
+          - slides/week04/lab.qmd
+          - slides/week05/lecture.qmd
+          - slides/week05/lab.qmd
       - section: "Worksheets"
         contents:
           - worksheets/worksheet01.qmd
           - worksheets/worksheet02.qmd
-      - section: "Extras"
-        contents:
-          - extras/index.qmd
+          - worksheets/worksheet03.qmd
+          - worksheets/worksheet04.qmd
+          - worksheets/worksheet05.qmd
+      # - section: "Extras"
+      #   contents:
+      #     - extras/index.qmd
     # - section: Overview
     #   contents: overview/*
     # - section: Slides
