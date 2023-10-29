@@ -1,0 +1,230 @@
+---
+title: "Worksheet 02: Literature search and management"
+subtitle: "Quality not quantity"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/10/2023"
+date-format: long
+license: "CC BY-NC-SA"
+citations-hover: true
+categories: 
+  - "Worksheet"
+  - "Week 2"
+params:
+  class: "worksheet02"
+format: 
+  pdf: default
+  # pptx: default
+  html: default
+  # docx: default
+  # revealjs: 
+  #   header-logo: "/images/rmlogo.png"
+  #   header: "Research Methods Lab 01 - Short Title" # Replace it
+  #   hide-from-titleSlide: "text"
+# filters:
+#   - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+## A question for you.
+
+How many journal articles are you able/willing to read for your
+Personality Essay?
+
+Is it realistic to assume that the first X papers you find are perfect
+and assemble delightfully into a brilliant essay?
+
+no? So what will be your `Search Strategy`?
+
+Some key considerations are:
+
+Where you search and what tools you use
+
+What you search for (your search terms)
+
+What types of papers you are going to look for
+
+How you handle the intial results
+
+How you refine those results and decide that the search is over
+
+How you read and ingest those results
+
+How you take notes and focus on all the areas you need to to answer the
+question
+
+## Here is something you may find useful
+
+I'm presenting this early, as I think it is a powerful
+'thought-provoker'. Last year, a student gave me a box of chocolates for
+sharing this. I kid you not. When we talk about being strategic and
+organised in your research, this is the sort of thing we are thinking
+about.
+
+This is a 'Reading Tracker' [Excel Reading
+Tracker](https://goldsmithscollege-my.sharepoint.com/:x:/g/personal/gwrig002_campus_goldsmiths_ac_uk/ETkOn8pGKKVIpsk-4cf3XOYBya07TmUCkl_88ZANGpgxNQ?e=sfn4lx)
+and is also available for download on the VLE.
+
+It may not be entirely to your taste, but feel free to develop your own
+version. Consider how a few minutes of organisation may allow you to
+make more of the same preparation, or to help you identify gaps you need
+to explore, or areas you've done enough work on trying to document. You
+are welcome.
+
+## The Library.
+
+This is what they do. Use their expertise.
+
+Library resources which you may or may not be familiar with
+
+<https://libguides.gold.ac.uk/psychology/databases>
+
+But the following video is excellent and outlines most of the major
+resources and steps you'll need to be very successful.
+
+<https://youtu.be/g_Eq-pDQ7c8>
+
+## Google and Google Scholar
+
+You don\'t KNOW that you have access to the papers Google or Google
+Scholar points to, and you don\'t know what the algorithm is doing to
+point you there. Do you think it knows how to find the best science?
+
+Use this FAQ to set up the Findit\@Gold tool in Google Scholar, which
+takes you DIRECTLY to a resource in the Goldsmiths Library, to which you
+usually have access!
+
+<https://libanswers.gold.ac.uk/faq/53426>
+
+![GoogleTip](images/FinditatGold.png)
+
+## Advanced search techniques 
+
+You will also notice that there are lots of useful tools available
+beyond the keyword searches and Boolean operators (not sure? See the
+library guide).
+
+<https://libguides.gold.ac.uk/aso/library/advancedsearch#s-lg-box-wrapper-17019261>
+
+\
+Perform a search in the library and try some of the MANY filters and
+tools.
+
+Try the Advanced Search options such as Boolean Search. This is
+increasingly a life-skill. Many search functions, whether academic or
+websites or document stores (e.g. Corporate Knowledge-bases) use boolean
+search.
+
+![](images/boolean.png)
+
+![](images/Refinements.png){width="700"}
+
+# Browzine
+
+Browsing by journal title can be very useful. It's great on your phone.
+
+Give it a shot and look at Annual Reviews of Psychology.
+
+![](images/Annual Review.png)
+
+I always recommend Annual Reviews of Psychology for Review articles on
+the major topic areas you probably have in mind at the moment.
+
+Use the link below or access the journal via the library.
+
+<https://browzine.com/libraries/1374/subjects/67/bookcases/169/bookshelves/1230?sort=title>
+
+## And if we don't have access via the Library
+
+<https://openaccessbutton.org/>
+
+<https://unpaywall.org/>
+
+And I have already mentioned [Senate House
+Library](https://catalogue.libraries.london.ac.uk/search~S1/) - it has
+an incredible catalogue and is free to you to use. Could be handy in a
+pinch!
+
+You could also consider an `Inter-Library Loan`. It\'s free, but can
+take a few days. Be prepared and this essentially gives you access to
+pretty much anything you might need or want. Find the [request form
+here](https://librarysearch2.gold.ac.uk/client/en_GB/goldsmiths/requests?&)
+and fill in as much information as you can.
+
+# Web of Science
+
+My preferred database is Web of Science. It is comprehensive, but
+sometimes gives too many results and can be overwhelming. Always try to
+use some of the advanced tools to limit your options.
+
+<https://libguides.gold.ac.uk/az.php?a=w>
+
+I particularly like the Forward search and Backward searches. You can
+look for papers that cite the article you found (Forward search) or find
+the papers that it references (Backward search). Why might that be
+useful?
+
+25 References should be clear - the paper includes 25 references in the
+reference list.
+
+14 Citations means that 14 other papers or books are referenced this
+paper. What a cool way to find a strand of research where potentially
+similar methods are used, OR where results/methods are criticised or
+discussed!
+
+![](images/Web of Science@2x.png)
+
+## These are just tools. They are not going to be the full answer
+
+The most important thing is to **BE ORGANISED AND STRATEGIC** with your
+searching and reading. Having 20 papers downloaded but unread is not as
+good as reading 1 [*really well*]{.underline} and somehow keeping track
+of the important information gleaned from it. **How are you going to do
+that?**
+
+Some of you might ask \"How many papers should I read or reference in my
+Mini-Dissertation?\" How could we answer that questions?
+
+The point is that you will read a number, and part of the success of the
+process is keeping that number manageable, and using the information
+well. Some of you might make the mistake of reading too few, many of you
+will read too many. Reflect on this part of the process this year.
+
+## Zotero
+
+You will almost certainly read more for Final Year Dissertation than for
+any other piece of coursework. This can lead to challenges. But you
+might actually really enjoy it! But the same rule applies. **BE
+ORGANISED AND STRATEGIC.**
+
+A number of students have extolled the virtues of Zotero, which is a
+reference management app that is free from the library
+<https://www.gold.ac.uk/it/apps/zotero/>
+
+It\'s not important to get too complicated right now, but being good at
+tracking what you read is a useful skill for next year. Maybe give
+Zotero a shot. See whether it would help you next year, it\'s just a
+fancy version of the excel workbook I made. The library has videos that
+can help prepare you for next year. But you could try it now and be one
+step ahead. That\'s what the Mini-Dissertation is here for, to give you
+a safe environment to try out all aspects of the research process.  
+
+![](images/Zotero@2x.png)
+
+## An Artificial Intelligence Research Assistant??
+
+I suggest exploring what AI might offer to this process. I have tried
+lots of these resources, but by far and away the best I have found is
+<https://www.researchrabbit.ai>- and it's free.
+
+You can link it to your Zotero account and find the whole network of
+associated papers, authors, topics laid out in front of you. If you
+prefer visual information, this is for you!
+
+![](images/ResearchRabbit.png)

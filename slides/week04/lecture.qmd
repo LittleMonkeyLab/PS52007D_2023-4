@@ -137,7 +137,7 @@ Its characteristics are that it:\
 
 Research situated within the wider rights movement.
 
-#### "Nothing about us without us" (Aspis, 2000). 
+#### "Nothing about us without us" (Aspis, 2000).
 
 a slogan of the disabled people's movement, has been applied to research
 as well as other areas.
@@ -149,9 +149,8 @@ aspects of psychological science" (Ledgerwood et al., 2022, p.2).
 
 ## OSF (Open Science Foundation)
 
-[OSF \| When Research is Mesearch: How Researchers\' Motivation to
-Pursue a Topic Affects Laypeople\'s Trust in
-Science](https://osf.io/phfq3/)
+[OSF \| When Research is Mesearch: How Researchers' Motivation to Pursue
+a Topic Affects Laypeople's Trust in Science](https://osf.io/phfq3/)
 [https://osf.io/phfq3/](http://127.0.0.1:26677/#0 "https://osf.io/phfq3/")
 
 ![](images/paste-B91D98B6.png)

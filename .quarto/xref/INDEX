@@ -321,5 +321,40 @@
   },
   "overview/overview05.qmd": {
     "overview05.html": "2075ace7"
+  },
+  "textbook/EffectSizes/EffectSizes 2.qmd": {
+    "EffectSizes-2.tex": "5f84dd3b"
+  },
+  "README 2.md": {
+    "README 2.html": "1c24f4af",
+    "README-2.tex": "7b923602"
+  },
+  "worksheets/worksheet02 2.qmd": {
+    "worksheet02-2.tex": "605d7721",
+    "worksheet02 2.html": "87fbf0dc"
+  },
+  "worksheets/worksheet04 2.qmd": {
+    "worksheet04-2.tex": "ed52446a",
+    "worksheet04 2.html": "9905b41b"
+  },
+  "worksheets/worksheet01 2.qmd": {
+    "worksheet01-2.tex": "e0a83793",
+    "worksheet01 2.html": "50d521c8"
+  },
+  "worksheets/worksheet03 2.qmd": {
+    "worksheet03-2.tex": "f6b532c6",
+    "worksheet03 2.html": "be903198"
+  },
+  "worksheets/index 2.qmd": {
+    "index 2.html": "188bd577",
+    "index-2.tex": "647357c2"
+  },
+  "schedule 2.qmd": {
+    "schedule 2.html": "47e712f7"
+  },
+  "slides/practical/PracticalIssueswk5.qmd": {
+    "PracticalIssueswk5.slides.html": "c86ee7ea",
+    "PracticalIssueswk5.pptx": "a249e0be",
+    "PracticalIssueswk5.html": "cb0e8f3f"
   }
 }
