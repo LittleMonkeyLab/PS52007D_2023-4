@@ -1,0 +1,118 @@
+---
+Title: [Title of Your Psychology Study]
+---
+
+Title: \[Title of Your Psychology Study\]
+
+I. Introduction
+
+A. Background
+
+ 1. Briefly describe the context and importance of the study.
+
+2. Discuss any relevant previous research in the field.
+
+B. Research Objectives
+
+ 1. State the primary aim of the study.
+
+2. List the three hypotheses to be tested.
+
+a. Hypothesis 1: \[Hypothesis 1 statement\]
+
+b. Hypothesis 2: \[Hypothesis 2 statement\]
+
+c. Hypothesis 3: \[Hypothesis 3 statement\]
+
+II\. Method
+
+A. Participants
+
+ 1. Describe the target population.
+
+2. Explain the inclusion and exclusion criteria.
+
+3. Detail the recruitment process.
+
+4. Discuss the estimated sample size and any power analysis.
+
+B. Materials
+
+ 1. List and describe the materials used in the study (e.g.,
+questionnaires, experimental tasks, etc.).
+
+2. Provide any necessary citations for pre-existing materials.
+
+C. Procedure
+
+ 1. Outline the step-by-step process for data collection.
+
+2. Describe any conditions, treatments, or interventions.
+
+3. Explain any randomization or counterbalancing techniques.
+
+D. Ethical Considerations
+
+ 1. Discuss how informed consent will be obtained.
+
+2. Describe measures to protect participants' confidentiality and
+anonymity.
+
+3. Mention any potential risks and benefits to participants.
+
+III\. Data Analysis
+
+A. Data Preparation
+
+ 1. Describe the process for data cleaning and coding.
+
+2. Discuss any transformations or aggregations to be performed.
+
+B. Analytical Approach
+
+ 1. Identify the statistical methods to be used for each hypothesis.
+
+a. Hypothesis 1: \[Statistical method(s) for Hypothesis 1\]
+
+b. Hypothesis 2: \[Statistical method(s) for Hypothesis 2\]
+
+c. Hypothesis 3: \[Statistical method(s) for Hypothesis 3\]
+
+2. Explain the rationale for each chosen method.
+
+3. Specify any planned covariates, moderating or mediating variables.
+
+C. Assumptions and Limitations
+
+ 1. Describe any assumptions made by the chosen analytical methods.
+
+2. Discuss potential limitations of the analysis plan and how they will
+be addressed.
+
+IV\. Expected Results and Implications
+
+A. Expected Findings
+
+ 1. Describe the anticipated results for each hypothesis.
+
+B. Implications
+
+ 1. Discuss the potential contributions of the study to the field.
+
+2. Suggest any practical applications or implications of the findings.
+
+C. Future Research
+
+ 1. Propose possible extensions or follow-up studies based on the
+anticipated results.
+
+V. Conclusion
+
+A. Summarize the study's importance and potential contributions.
+
+B. Reiterate the hypotheses and their potential impact on the field.
+
+VI\. References
+
+A. List all cited sources in APA, MLA, or another agreed-upon citation
+style.

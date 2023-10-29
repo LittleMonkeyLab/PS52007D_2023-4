@@ -1,0 +1,76 @@
+---
+title: "Week 05 Overview"
+subtitle: "Open Science & Power Calcs"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/30/2023"
+date-format: long
+license: "CC BY-NC-SA"
+citations-hover: true
+categories: 
+  - "Prep"
+  - "Week 05"
+params:
+  class: "prep05"
+
+format: 
+  # pdf: default
+  # pptx: default
+  html: default
+
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+# Week 05
+
+```{=html}
+
+<iframe src="https://ps52007d.littlemonkeylab.com/slides/week05/lecture.slides.html" title="Week XX Lecture" width="960" height="500" data-external="1"></iframe>
+```
+## Introduction & Lecture Preview
+
+::: {.callout .primary}
+**Key Focus:** Understanding the errors of the past
+:::
+
+-   **Important Points:**
+    1.  The quality of prior research can be estimated by re-testing the
+        hypotheses
+    2.  It's not a pretty picture
+-   **Preparatory Reading or Thinking:**
+    -   Power Textbook chapter available on the VLE
+
+## Lab Sessions
+
+```{=html}
+
+<iframe src="https://ps52007d.littlemonkeylab.com/slides/week05/lab.slides.html" title="Week XX lab overview" width="960" height="500" data-external="1"></iframe>
+```
+## Primary Thought
+
+-   You will be required to use your Critical Proposal Effect Size (and
+    maybe others) to calculate a Required Sample Size via a Power
+    Calculation. The software G\*Power will be used to do this. Step by
+    Step guidance is offered to assist you with this.
+
+### Main Lab Activities
+
+-   Identify your ANOVA flavour and familiarise yourself with the
+    elements included in the calculation
+
+### Module Milestones (by end of this week)
+
+-   Your Critical Proposal is due on Friday. You should have finalised
+    your choice of Target Paper.
+
+### Reflection and Meta-Cognitive Practice
+
+You have had a very successful start to the term. When we re-assemble
+after Reading Week, we will begin the process of bringing your studies
+to life. It will be fun, but come back ready to get after it.
