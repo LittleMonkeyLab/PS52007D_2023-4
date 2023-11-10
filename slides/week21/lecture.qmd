@@ -237,12 +237,12 @@ The link to our study for today is available on the VLE. It's called the
 # LittleMonkeyLab
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-----------------------------------------------------------------------|
 | \## Some easy research!                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | `{=html} <iframe width="1280" height="720" src="https://learningonscreen.ac.uk/ondemand/embed/prog/11ED256E?bcast=127465838" title="Horizon: The Honesty Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>` \## [BBC Horizon: The Honesty Experiment](https://learningonscreen.ac.uk/ondemand/embed/prog/11ED256E?bcast=127465838) |
 | ![](images/image00028.png)                                                                                                                                                                                                                                                                                                                                                                                                              |
 
-![](images/image00005.png)
+![](images/image00005.png){width="900"}
 
 ## So why do people lie? @levine2010d
 

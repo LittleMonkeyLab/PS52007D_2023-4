@@ -1,8 +1,8 @@
 project:
   type: website
   output-dir: _site
-  post-render: 
-    - "scripts/post_render.R"
+  # post-render: 
+  #   - "scripts/post_render.R"
     
   # preview:
   #   port: 4200

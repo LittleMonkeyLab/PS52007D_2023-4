@@ -1,0 +1,54 @@
+---
+title: "Lecture 01: <br> Let's start at the beginning!"
+subtitle: "This is the way!"
+image: "lecture.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/02/2023"
+date-format: long
+license: "CC BY-NC-SA"
+# footer: 
+citations-hover: true
+categories: 
+  - "Lecture"
+  - "Week 1"
+params:
+  class: "lec01"
+format: 
+  pdf: default
+  # pptx: default
+  html: default
+  # docx: default
+  revealjs: 
+    title-slide-attributes: 
+      data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
+    header-logo: "/images/rmmonkey.png"
+    header: "Research Methods Lecture 01 - Module Overview & coursework" # Replace it
+    hide-from-titleSlide: "text"
+    slide-number: c/t
+filters:
+  - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+# Section
+
+## Slide1
+
+content
+
+## Slide 2
+
+content
+
+## Slide 3
+
+content
+
+## References
