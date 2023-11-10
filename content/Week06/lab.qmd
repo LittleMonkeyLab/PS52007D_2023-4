@@ -1,0 +1,341 @@
+---
+title: "Lab 06: <br> Online or Face-to-face?"
+subtitle: "Let's get building"
+image: "lab.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "11/14/2023"
+date-format: long
+license: "CC BY-NC-SA"
+citations-hover: true
+categories: 
+  - "Lab"
+  - "Week 6"
+
+format: 
+  # pdf: default
+  # pptx: default
+  # html: default
+  # docx: default
+  revealjs: 
+    title-slide-attributes: 
+      data-background-color: "#6667ab" # Very Peri 2022 Color of the year
+    header-logo: "/images/rmmonkey.png"
+    header: "Research Methods Lab 06 - Let's get building" # Replace it
+    hide-from-titleSlide: "text"
+    slide-number: c/t
+filters:
+  - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+# Overview of today's lab activities
+
+1.  Review the Ethics Page on the VLE
+
+2.  Sign up for a Qualtrics account here
+    <https://goldpsych.eu.qualtrics.com/login>
+
+3.  Review the Template Qualtrics file for an example Information sheet,
+    consent and debrief
+
+## Exciting progress so far!
+
+You've identified an exciting area of research and critically evaluated
+a relevant paper.
+
+Time to put all that hard work and careful thought into practice.
+
+Between now and the end of term, you will build and obtain ethical
+approval for your studies.
+
+We are all in the process of marking Critical Proposals, and we are
+seeing some wonderful application of the topics and concepts raised in
+the module so far.
+
+Some of you are making impressive claims about what you are going to do.
+Fantastic!
+
+## Don't push too hard, yet! 
+
+Please remember, this is supposed to be a modest size project, with
+focus on following the steps from initial idea, critique, development,
+Ethics, data collection and preparation, analysis and write-up.
+
+We don't want any single step to be too daunting or labour-intensive. We
+want you to enjoy the process as much as possible, and think carefully
+about each step.
+
+## The Mini-Dissertation 'rules'
+
+Your ultimate individually written up Mini-Dissertation project MUST
+conform to the following definitive rules:
+
+-   	2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a
+    single continuous DV
+-   	You must obtain ethical approval and prove individual involvement in
+    the process of application
+-   	You must make a sample size estimation / Power calculation
+-   	You must collect data online and individually contribute to group
+    data collection efforts
+-   	Your Mini-Dissertation final submission must comprise:
+
+## Submission Requirements
+
+-   a 2500 word APA7 empirical paper with a critical reflection and
+    complete reference list
+
+-   Open Data - a single, cleaned, clearly-labelled data set in Excel
+    format
+
+-   Open Materials - a complete, replication-ready materials document
+    detailing materials relevant to your submission
+
+# Running Experiments online or face to face
+
+## Comparing Experiment Modalities
+
+-   Online Surveys and Experiments
+    -   Qualtrics - For surveys, stimulus presentation that don't
+        require accurate timing
+    -   Gorilla.sc - For 'experimental' tasks with complex stimulus \>
+        presentation or that require response time measures or
+        push-button \> responses etc.
+-   Face-to-Face Experiments
+
+------------------------------------------------------------------------
+
+## Online Surveys and Experiments with Qualtrics
+
+### Overview
+
+-   A powerful tool for creating and distributing online surveys
+-   Widely used in psychological research
+-   We have an institutional licence and so it is FREE
+-   No specialist support - has excellent online support
+
+------------------------------------------------------------------------
+
+## Pros of Qualtrics
+
+### Accessibility
+
+-   Reach a wide, diverse audience (if necessary)
+-   Accessible by anyone with a phone or laptop etc
+
+### Cost-Effective
+
+-   Low 'cost' compared to face-to-face
+
+### Data Management
+
+-   Automated data collection, scoring and storage
+-   Relatively easy to analyze and export data - but not always simple
+
+### Customization
+
+-   Highly customizable surveys and experiments (video, photos, audio,
+    vignettes)
+-   Supports various question types and logic
+
+------------------------------------------------------------------------
+
+## Cons of Qualtrics
+
+### Limited Human Interaction
+
+-   Lack of personal interaction can affect responses
+-   You put a huge amount of trust in the participant
+-   Not always easy to manage ethical challenges properly
+
+### Technical Issues
+
+-   Dependence on internet connectivity and user tech skills
+-   An error in the build and you are in trouble \####
+
+### Response Authenticity
+
+-   Higher risk of dishonest or inattentive responses (maybe?) \####
+    Sampling Bias
+-   Potential for non-representative samples
+
+------------------------------------------------------------------------
+
+## Introduction to experiments using Gorilla.sc
+
+### Gorilla.sc: highly controlled online Psychological Research
+
+-   A comprehensive online tool for behavioral research
+-   Facilitates creation, deployment, and analysis of experiments
+
+------------------------------------------------------------------------
+
+## Core Features of Gorilla.sc
+
+### User-Friendly Interface
+
+-   Intuitive design for researchers of all levels
+-   Drag-and-drop experiment builder
+
+### Requires 'tokens' to run
+
+-   You will need to apply for 'tokens' to apply for ethics, and to run
+    the study.
+-   There is usually a limited supply as there is a cost associated with
+    this.
+
+### Versatile Experiment Design
+
+-   Supports a wide range of experimental paradigms
+-   Customizable to suit various research needs
+
+------------------------------------------------------------------------
+
+## Experiment Creation with Gorilla.sc
+
+### Building Blocks
+
+-   Use 'widgets' and 'tasks' to construct experiments
+-   Easily integrate surveys, quizzes, and cognitive tasks
+
+### Advanced Customization
+
+-   Incorporate complex experimental logic
+-   Customize with CSS and JavaScript for unique requirements
+
+------------------------------------------------------------------------
+
+## Data Collection and Analysis
+
+### Real-Time Data Collection
+
+-   Gather data securely and efficiently
+-   Access participant responses in real-time
+
+### Analytical Tools
+
+-   Built-in tools for basic data analysis
+-   Export data for advanced analysis in other software e.g. SPSS
+
+------------------------------------------------------------------------
+
+## Collaboration and Sharing
+
+### Team Collaboration
+
+-   Share experiments and data with team members
+-   Collaborate on experiment design and analysis
+
+### Participant Recruitment
+
+-   Still needs to be managed via sources outside of Gorilla
+
+------------------------------------------------------------------------
+
+## Gorilla.sc in Psychological Research
+
+### Broad Application
+
+-   Suitable for cognitive, social, and clinical psychology
+-   Ideal for remote and large-scale studies
+
+### Impact on Mini-Dissertations
+
+-   Increases the reach of psychological studies requiring complex
+    stimulus or timing
+-   Not easy to get up and running with this tool
+-   No specialist support - has excellent templates and online support
+
+------------------------------------------------------------------------
+
+## Face-to-Face Experiments
+
+### Overview
+
+-   Traditional method of conducting experiments
+-   Involves direct interaction with participants
+
+------------------------------------------------------------------------
+
+## Pros of Face-to-Face Experiments
+
+### Enhanced Interaction
+
+-   Direct human interaction enriches data quality
+
+### Controlled Environment
+
+-   Better control over experimental conditions
+
+### Immediate Feedback
+
+-   Opportunity for immediate clarification and feedback
+
+### Participant Authenticity
+
+-   Lower risk of false responses (maybe?)
+
+------------------------------------------------------------------------
+
+## Cons of Face-to-Face Experiments
+
+### Higher Costs
+
+-   Greater resource and time investment (maybe?)
+
+### Limited Reach
+
+-   Restricted to participants' geographical location
+
+### Time-Consuming
+
+-   Scheduling and conducting sessions takes time
+
+### Potential Biases
+
+-   Risk of experimenter or social desirability biases
+
+------------------------------------------------------------------------
+
+## Conclusion
+
+### Choosing the Right Method
+
+-   Depends on research goals, resources, and target population
+-   Both methods offer unique advantages and challenges
+
+### Tailoring to Research Needs
+
+-   Consider the nature of your study and participant accessibility
+-   Balance between quality, 'cost', and reach
+
+------------------------------------------------------------------------
+
+# Questions?
+
+## Lab activities
+
+Qualtrics (Many of you will use this!)
+
+-   Log in to an account with your Goldsmiths ID!!
+
+### Find the login on the VLE
+
+<https://goldpsych.eu.qualtrics.com/login>
+
+![](images/Qualtrics.png)
+
+-   10% of you will apply for the wrong type of account and be stuck for
+    2 weeks
+
+Familiarise yourself with the Ethics Application process
+
+Consider the steps required to bring your study to life! (the rest)
+
+## References
