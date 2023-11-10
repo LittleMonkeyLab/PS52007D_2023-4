@@ -5,7 +5,7 @@ if (!requireNamespace("renderthis", quietly = TRUE)) {
 library(renderthis)
 
 # List all '.slides.html' files in the '_site/slides/' directory
-slide_files <- list.files(path = "_site/slides", pattern = "\\.slides\\.html$", recursive = TRUE, full.names = TRUE)
+slide_files <- list.files(path = "~/Library/Mobile Documents/com~apple~CloudDocs/LittleMonkeyiCloudHub/A-Teaching/PS52007D_2023-4/_site/content/Week06", pattern = "\\.slides\\.html$", recursive = TRUE, full.names = TRUE)
 
 # Exclude 'index.slides.html'
 slide_files <- slide_files[!grepl("index\\.slides\\.html$", slide_files)]
