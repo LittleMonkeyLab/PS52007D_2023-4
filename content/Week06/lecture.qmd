@@ -26,8 +26,27 @@ format:
     header: "Research Methods Lecture 06 - Online and face-to-face testing" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
-filters:
-  - reveal-header
+    # theme: "content/_resources/templates/lectures"
+    mainfont: Atkinson Hyperlegible
+    menu: true
+    controls: true
+    navigation-mode: linear
+    controls-layout: edges
+    show-slide-number: all
+    filters:
+      - reveal-header
+      - fontawesome
+    preview-links: true
+
+    embed-resources: true
+    margin: 0.2
+    smaller: false
+    pdf-page-height-offset: -2
+    max-width: 90%
+    max-scale: 2.0
+    pdf-max-pages-per-slide: 1
+    output-ext: slides.html
+
 execute:
  echo: false
  freeze: auto
@@ -296,10 +315,14 @@ You should think carefully about:
 -   Dependence on internet connectivity and user tech skills
 -   An error in the build and you are in trouble \####
 
+## Cons of Qualtrics (continued)
+
 ### Response Authenticity
 
--   Higher risk of dishonest or inattentive responses (maybe?) \####
-    Sampling Bias
+-   Higher risk of dishonest or inattentive responses (maybe?)\
+
+#### Sampling Bias
+
 -   Potential for non-representative samples
 
 ------------------------------------------------------------------------
