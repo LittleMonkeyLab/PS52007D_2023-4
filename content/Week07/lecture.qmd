@@ -57,8 +57,9 @@ embed-resources: true
 ## This week
 
 -   Social Psychology submission due
--   2 parts to the lab \> Ethics II - the Goldsmiths Portal \>
-    Reliability and Validity recap materials
+-   2 parts to the lab
+    -   Ethics II - the Goldsmiths Portal
+    -   Reliability and Validity recap materials
 
 # Any Questions?
 
