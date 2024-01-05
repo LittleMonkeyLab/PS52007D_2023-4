@@ -1,6 +1,6 @@
 ---
-title: "Lecture 11: <br> Introduction to Qualitative Research Methods"
-subtitle: "A new set of tools"
+title: "Lecture 11: <br> Kickoff Term 2"
+subtitle: "Filling the toolbox"
 image: "lecture.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -23,7 +23,7 @@ format:
     title-slide-attributes: 
       data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
     header-logo: "/images/rmmonkey.png"
-    header: "Research Methods Lecture 11 - Qual Research Methods - 1" # Replace it
+    header: "Research Methods Lecture 11 - Kicking off Term 2!" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
     mainfont: Atkinson Hyperlegible
@@ -63,30 +63,37 @@ year.
 
 ## Week 11, Let's go! {#sec-week-11-lets-go .incremental}
 
--   Cognitive Psychology Essay submission this week
+-   An overview of the CHIP Learning Log coursework
 
-    -   Have you done your reading and prepared?
+-   Lab activity this term - Data collection, data preparation, analysis
+    and writing up.
 
--   Final coursework - CHIP Learning Log
+# CHIP Learning Log
 
 ## CHIP Learning Log
 
 ::: incremental
-Designed to introduce you to:
+Designed to allow you to reflect on:
 
 -   Conceptual and Historical & Integrative issues in Psychology
 -   Big picture stuff! Controversies and debates!
+-   Now that you are Psychological Researchers
 :::
 
 ## CHIP topics
 
 ::: incremental
-Traditional topics are:
+I shall be uploading materials from popular topics from previous years
+(recordings or articles/blogs) that you can access at your leisure, such
+as:
 
--   A history of Paradigms in Psychological Research
--   Psychology as a Science
--   Evolution
--   Consciousness
+-   Is Psychology a Science?
+-   Evolutionary Psychology & Cultural Evolutionary Psychology
+-   Statistical (Re)Thinking
+-   Eugenics: A very dark history
+-   Mental Illness: Nature or Nurture?
+
+and more
 :::
 
 ## Surprise\* hit last year
@@ -95,7 +102,7 @@ Inclusivity -- 2 lectures from Dr Tegan Penton[^1]
 
 [^1]: Not really a surprise! ;-)
 
-<!-- ![](images/paste-C9437570.png) -->
+![](images/TeagyPenty Inclusivity.png)
 
 ## CHIP Assignment(s)
 
@@ -213,19 +220,11 @@ course.
     issues on the course you found interesting.
 :::
 
-## Essay 1
-
-<!-- ![](images/paste-C91F8E8B.png) -->
-
-## Essay 2
-
-<!-- ![](images/paste-25589467.png) -->
-
 # Any questions?
 
 ## This term
 
-Next term is essentially split into two halves:
+The coming term is essentially split into two halves:
 
 Each week, we will focus on a key skill or procedure, supplying useful
 resources and guidance, but leaving the rest of the lab session for
@@ -233,8 +232,8 @@ independent work, advice and support from your Lab Tutor, or anything
 else you think would be helpful!
 
 ::: incremental
--   Weeks 10 -- 15 are geared towards data collection and data
-    preparation
+-   Weeks 10 -- 15 are geared towards data collection, data preparation
+    and desk research
 
 -   Weeks 16 -- 20 are geared towards analysis, writing up, and
     preparing your submission 
@@ -243,13 +242,15 @@ else you think would be helpful!
 ## Weeks 10 -- 15 (alongside lectures & data collection)
 
 ::: incremental
--   In week 10 - Enrol everyone on the Study Swap system and mobilise
-    for data collection
--   In week 11 - We begin the process of focusing on Writing & Analysis
+-   In week 10 - Email Gordon for Study Swap and recruit/participate in
+    studies!
+-   In week 11 - We begin the process of focusing on Writing &
+    Analysis - Literature & Introduction
 -   In week 12 - We will be focusing on 'Writing up your Method section'
 -   In week 13 - We will be talking about 'Planning your analysis'
--   In week 14 -- A workshop on 'Data Screening & Cleaning'
--   In week 15 -- We will be showcasing your work to the 1^st^ Years!
+-   In week 14 -- A workshop on 'Data Screening & Cleaning' & Open Data
+-   In week 15 -- We will be showcasing your work to the 1^st^ Years! (I
+    think)
 :::
 
 ## Remember.. Available on the VLE...
@@ -334,29 +335,6 @@ Points to attend to:
 -   But it's just a lab report. You've done 3 of those already.
 :::
 
-## Holding
-
-::: footer
-This is a footer with lots of content and needs to drop in size
-
-Kückelhaus, B. P., & Blickle, G. (2023). Trait Machiavellianism and
-Agentic Career Success: A Multi-Measure, Multi-Criteria, Multi-Source
-Analysis. *Journal of Personality Assessment*.
-<https://doi.org/10.1080/00223891.2023.2169927>
-
-and needs to drop in size
-:::
-
 # Any Questions?
 
 ## References
-
-Kückelhaus, B. P., & Blickle, G. (2023). Trait Machiavellianism and
-Agentic Career Success: A Multi-Measure, Multi-Criteria, Multi-Source
-Analysis. Journal of Personality Assessment.
-https://doi.org/10.1080/00223891.2023.2169927
-
-Kückelhaus, B. P., & Blickle, G. (2023). Trait Machiavellianism and
-Agentic Career Success: A Multi-Measure, Multi-Criteria, Multi-Source
-Analysis. *Journal of Personality Assessment*.
-<https://doi.org/10.1080/00223891.2023.2169927>

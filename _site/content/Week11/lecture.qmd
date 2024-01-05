@@ -1,0 +1,340 @@
+---
+title: "Lecture 11: <br> Kickoff Term 2"
+subtitle: "Filling the toolbox"
+image: "lecture.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "01/08/2024"
+date-format: long
+license: "CC BY-NC-SA"
+# footer: 
+citations-hover: true
+categories: 
+  - "Lecture"
+  - "Week 11"
+format: 
+  pdf: default
+  # pptx: default
+  html: default
+  # docx: default
+  revealjs: 
+    title-slide-attributes: 
+      data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
+    header-logo: "/images/rmmonkey.png"
+    header: "Research Methods Lecture 11 - Kicking off Term 2!" # Replace it
+    hide-from-titleSlide: "text"
+    slide-number: c/t
+    mainfont: Atkinson Hyperlegible
+    menu: true
+    controls: true
+    incremental: true
+    navigation-mode: linear
+    controls-layout: edges
+    show-slide-number: all
+    filters:
+      - reveal-header
+      - fontawesome
+    preview-links: true
+
+    embed-resources: true
+    margin: 0.2
+    smaller: false
+    pdf-page-height-offset: -2
+    max-width: 90%
+    max-scale: 2.0
+    pdf-max-pages-per-slide: 1
+    output-ext: slides.html
+    
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+## Apologies for my absence
+
+I apologise for my unexpected absence at the end of last term.
+
+It was unavoidable, but I shall endeavour to repay your patience this
+year.
+
+## Week 11, Let's go! {#sec-week-11-lets-go .incremental}
+
+-   An overview of the CHIP Learning Log coursework
+
+-   Lab activity this term - Data collection, data preparation, analysis
+    and writing up.
+
+# CHIP Learning Log
+
+## CHIP Learning Log
+
+::: incremental
+Designed to allow you to reflect on:
+
+-   Conceptual and Historical & Integrative issues in Psychology
+-   Big picture stuff! Controversies and debates!
+-   Now that you are Psychological Researchers
+:::
+
+## CHIP topics
+
+::: incremental
+I shall be uploading materials from popular topics from previous years
+(recordings or articles/blogs) that you can access at your leisure, such
+as:
+
+-   Is Psychology a Science?
+-   Evolutionary Psychology & Cultural Evolutionary Psychology
+-   Statistical (Re)Thinking
+-   Eugenics: A very dark history
+-   Mental Illness: Nature or Nurture?
+
+and more
+:::
+
+## Surprise\* hit last year
+
+Inclusivity -- 2 lectures from Dr Tegan Penton[^1]
+
+[^1]: Not really a surprise! ;-)
+
+![](images/TeagyPenty Inclusivity.png)
+
+## CHIP Assignment(s)
+
+::: incremental
+-   Coursework piece designed to allow you to engage reflexively with
+    the 'big picture' of your degree
+
+-   Think about how these issues link into psychology as a discipline,
+    and how they relate to your own thoughts about what psychology is or
+    should be
+
+-   Two 'reflective accounts' of max 600 words each (Not including
+    obligatory reference list)
+
+-   [**Marks are awarded for reflection**]{.underline}, evidence of
+    learning and bring topics together. Please see marking criteria for
+    both accounts.
+
+-   Not looking for a restatement of the facts in the lectures etc.
+
+-   [**They are designed to be personal and reflective -- embrace this
+    aspect!**]{.underline}
+:::
+
+## Reflective Account 1
+
+Essay 1 is based on the content of ONE of the topics and should adopt at
+least two of the following 6 'perspectives'.
+
+::: incremental
+-   As a **STUDENT** of psychology
+
+-   As a **TRAINEE** psychologist
+
+-   In relation to a **RESEARCH** application in your future
+
+-   As an **HISTORIAN** of psychology
+
+-   Reporting on the culture or **PRACTICE** of psychology as it
+    currently exists here or across cultures
+
+-   As a critic or supporter of psychology's status as a **SCIENCE**
+:::
+
+## Reflective Account 1 tips
+
+::: incremental
+-   Ask a specific question -- and answer it.
+-   Intro, body, conclusion structure.
+-   Reflect on the topic and give your own opinion as to the answer!
+-   Present a journey in your learning or appreciation of the topic
+-   Ensure your answer is argued using examples
+-   Use evidence in your argument from a range of sources, ideally do
+    some strategic wider reading
+-   Present and reference it well
+:::
+
+## Reflective Account 2
+
+Essay 2 should focus on at least one of the OTHER topics covered in the
+course.
+
+::: incremental
+-   This answer should focus on a primary reading and then any further
+    reading you have done (strongly encouraged).
+-   You must identify that primary reading explicitly in the essay
+    itself.
+-   You should not simply restate what the authors thought or found, but
+    rather briefly summarise and build
+-   Think about your perspective on the issues.
+-   What do you think about this debate or issue? We want to know!
+-   And what do you think are interesting directions for psychologists
+    to take this debate or issue in the future?
+:::
+
+## Reflective Account 2 tips
+
+::: incremental
+-   Explicitly identify a single initial reading and build upon that.
+-   Discuss a debate or issue that you think is interesting or important
+-   Give your own opinion and how this has developed or changed as a
+    result of the lecture, the course more widely, and/or the reading.
+-   Argue your opinion explicitly, own it and back it up with examples
+-   Use evidence in your argument from a range of sources, ideally do
+    some strategic wider reading
+-   Present and reference it well
+:::
+
+## Overlapping content
+
+::: incremental
+-   You can combine across different topics in Essay 2 (e.g., you could
+    talk about Evolution and Consciousness, or Inclusivity and Science),
+    and thinking about links between topics is strongly encouraged.
+-   However, the material covered in Essay 2 must be different from
+    Essay 1. Students will be penalised for covering identical topics.
+:::
+
+## Details
+
+::: incremental
+-   Due: Friday, 12 April 2024, 12:00 Noon - about 3 weeks after the end
+    of term
+
+-   n.b. Mini-Dissertation Due: Friday, 22 March 2024, 12:00 Noon
+
+-   Both answers should be written in essay-style prose (e.g., with APA
+    references where you refer to sources) put in a single document and
+    submitted to the coursework submission page.
+
+-   Max 600 words per answer (references not included in word count)
+
+-   Remember that this only accounts for a smaller portion of the module
+    grade (15%). Should hopefully be an enjoyable way to reflect on
+    issues on the course you found interesting.
+:::
+
+# Any questions?
+
+## This term
+
+The coming term is essentially split into two halves:
+
+Each week, we will focus on a key skill or procedure, supplying useful
+resources and guidance, but leaving the rest of the lab session for
+independent work, advice and support from your Lab Tutor, or anything
+else you think would be helpful!
+
+::: incremental
+-   Weeks 10 -- 15 are geared towards data collection, data preparation
+    and desk research
+
+-   Weeks 16 -- 20 are geared towards analysis, writing up, and
+    preparing your submission 
+:::
+
+## Weeks 10 -- 15 (alongside lectures & data collection)
+
+::: incremental
+-   In week 10 - Email Gordon for Study Swap and recruit/participate in
+    studies!
+-   In week 11 - We begin the process of focusing on Writing &
+    Analysis - Literature & Introduction
+-   In week 12 - We will be focusing on 'Writing up your Method section'
+-   In week 13 - We will be talking about 'Planning your analysis'
+-   In week 14 -- A workshop on 'Data Screening & Cleaning' & Open Data
+-   In week 15 -- We will be showcasing your work to the 1^st^ Years! (I
+    think)
+:::
+
+## Remember.. Available on the VLE...
+
+**You can find these all on the VLE in the**
+
+**'Mini-Dissertation resources' section of the VLE**
+
+::: incremental
+-   An APA 7^th^ Edition Mini-Dissertation template word document
+-   An APA 7^th^ Edition Reference Cheat Sheet
+-   Extended Mini-Dissertation Marking Criteria
+-   2 x Example Mini-Dissertations
+:::
+
+## APA 7 Mini-Dissertation Template
+
+Your Mini-Dissertations must conform to the correct format. Easy marks.
+
+**We use APA 7^th^ Edition and in the style of a professional journal
+article manuscript submission.**
+
+::: incremental
+-   The word document template features all the major stylistic
+    formatting you will need, with some helpful pointers throughout.
+-   When you write your Mini-Dissertation, you just need to delete all
+    the tips and put in your wonderfully crafted prose and results!
+-   A common mistake is to deviate from the APA formatting. Please try
+    not to do this! It counts.
+:::
+
+## **APA style will be the focus of Week 16.**
+
+APA 7 Reference Cheat Sheet
+
+::: incremental
+-   A key part of APA 7^th^ Edition is reference format. **We will also
+    cover this briefly in week 16**. 
+-   We have already a number of other electronic resources that might
+    help you ensure you follow the correct format, but in the first
+    instance, this Cheat Sheet will be very handy.
+:::
+
+## Mini-Dissertation Extended Marking Criteria
+
+Another resource we've given you today is an **extended
+Mini-Dissertation Marking Criteria**.
+
+::: incremental
+-   These are the criteria used by the markers and moderators to
+    calibrate marks and ensure accuracy and consistency.
+-   An abbreviated version will be attached to the feedback that you
+    receive.
+-   You will see that there are numerous categories, but each requires
+    some consideration. Have a look over this when you get some time.
+-   A screencast will be provided discussing this in more detail,
+    overviewing submission requirements, and highlighting common
+    pitfalls, and tips for the top!
+:::
+
+## Example Mini-Dissertations
+
+Points to attend to:
+
+::: incremental
+-   2,500 words is NOT as long as you think
+-   5 paragraphs (key points) in Intro and Discussion
+-   Methods section wins marks!
+-   [Both examples achieved firsts, but marks were 'left on the
+    table']{.border}
+:::
+
+## Closing points on the Mini-Dissertation
+
+::: incremental
+-   The reflective account is a required part of the Mini-Dissertation
+-   We may be asking for a 'contribution statement'
+-   Your involvement in data collection AND participation is monitored
+    next term
+-   Open Materials and Open Data are key parts of the submission and are
+    featured in the marking
+-   But it's just a lab report. You've done 3 of those already.
+:::
+
+# Any Questions?
+
+## References
