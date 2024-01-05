@@ -1,0 +1,276 @@
+---
+title: "Lecture 04: Finding your Psychology"
+subtitle: "MeSearch or Research?"
+image: "lecture.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/09/2023"
+date-format: long
+license: "CC BY-NC-SA"
+# footer: 
+citations-hover: true
+categories: 
+  - "Lecture"
+  - "Week 04"
+params:
+  class: "lec04"
+format: 
+  pdf: default
+  pptx: default
+  html: default
+  docx: default
+  revealjs: 
+    title-slide-attributes: 
+      data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
+    header-logo: "/images/rmmonkey.png"
+    header: "Research Methods Lecture 04 - MeSearch or Research" # Replace it
+    hide-from-titleSlide: "text"
+    slide-number: c/t
+filters:
+  - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+## Key topics today
+
+The week ahead (week 4)
+
+-   Personal Tutor Meeting about Mini-Dissertations - ooops
+-   Critical Proposal due next week (week 5)
+-   Design & Analysis Quiz due next week (week 5)
+-   Research as a human enterprise
+-   Lab preview - Keep pressing on with Critical Proposal (due week 5)
+    -   Try to nail down your variables and your design ON THE PAGE!
+
+## Personal Tutor Meeting Week 4
+
+This week (week 4) your PT session is all about your Mini-Dissertation
+
+::: callout-tip
+Please familiarise yourself with well-being services available in
+college
+
+<https://www.gold.ac.uk/students/wellbeing/wellbeing-service/>
+:::
+
+# Any Questions?
+
+# Let your freak flag fly! {.background "red"}
+
+## Whaaa?
+
+You can have a sepremely individual 'take' on Psychology?
+
+The Psychology you need or want for the future?
+
+A career path with hundreds of different routes?
+
+[or is it more personal than that?]{.shout}
+
+## Do you need a 'passion' in Psychology?
+
+We (staff) talk about this sometimes.
+
+Is it critical that you find a topic of interest to you?
+
+Does it help? Does it hinder?
+
+Is it possible to be a Psychologist without a personal stake?
+
+# It's not all about what you do. <br>I want you to think about HOW you do it.
+
+## Around us a crisis is unfolding
+
+![](images/paste-91273085.png)
+
+## Psychology is grossly misunderstood
+
+![](images/paste-20A00E59.png)
+
+## Next week
+
+The Replication Crisis and our ongoing response - Open Science
+
+The practice of Psychology we encourage in you!
+
+## Research & me-search
+
+![](images/paste-099457BD.png)
+
+[@altenmuller2021]
+
+## Reflexivity
+
+Reflexivity and the psychologist
+
+Reflexivity generally refers to the examination of one's own beliefs,
+judgments and practices during the research process and how these may
+have influenced the research.
+
+An integral part of the Qualitative 'tradition'
+
+[@morawski2005]
+
+## Inclusive Research
+
+Inclusive research is a term that was coined in the early twenty-first
+century to embrace participatory and emancipatory approaches to research
+with people with learning/intellectual disabilities [@walmsley2001]
+
+Inclusive research embraces [participatory]{.underline} and
+[emancipatory]{.underline} approaches to research.
+
+Its characteristics are that it:\
+· Is owned (not necessarily initiated) by lay people\
+· Furthers the interests of lay people, researchers are on their side\
+· Is collaborative\
+· Enables lay people to exercise control over process and outcomes\
+· Produces outputs that are accessible.\
+
+## context
+
+Research situated within the wider rights movement.
+
+#### "Nothing about us without us" (Aspis, 2000).
+
+a slogan of the disabled people's movement, has been applied to research
+as well as other areas.
+
+"exclusivity not only touches but also contorts and diminishes all
+aspects of psychological science" (Ledgerwood et al., 2022, p.2).
+
+@ledgerwood2022
+
+## OSF (Open Science Foundation)
+
+[OSF \| When Research is Mesearch: How Researchers' Motivation to Pursue
+a Topic Affects Laypeople's Trust in Science](https://osf.io/phfq3/)
+[https://osf.io/phfq3/](http://127.0.0.1:26677/#0 "https://osf.io/phfq3/")
+
+![](images/paste-B91D98B6.png)
+
+## Open Data and Open Materials
+
+![](images/paste-CD2465BA.png)
+
+## Open Data
+
+![](images/paste-4D9E8FC8.png)
+
+## Open Materials
+
+![](images/paste-037992D4.png)
+
+## Psyarxiv
+
+@conry-murray2022
+
+![](images/paste-1C2D781F.png)
+
+# Questions?
+
+## Lab activities
+
+Keep working!
+
+Formalise your individual design
+
+![](images/paste-B1D55680.png)
+
+## More specific
+
+![](images/paste-96A3FF92.png)
+
+## This is my design
+
+![](images/Thisismydesign.drawio.png){fig-align="center" width="800"}
+
+## Notation
+
+We use a notation system to refer to these designs:
+
+[[2x2 = Two-way ANOVA]{.underline}. There are two IVS, the first IV has
+two levels, the second IV has 2 levels. There are a total of 4
+conditions, 2x2 = 4.]{.smaller}
+
+[[2x3 = Two-way ANOVA.]{.underline} There are two IVs, the first IV has
+two levels, the second IV has three levels. There are a total of 6
+conditions, 2x3 = 6]{.smaller}
+
+[[4x4 = Two-way ANOVA.]{.underline} There are two IVs, the first IV has
+4 levels, the second IV has 4 levels. There are a total of 16
+conditions, 4x4=16]{.smaller}
+
+[[**2x3x2 = Three-way ANOVA**]{.underline}.There are a total of three
+IVs. The first IV has 2 levels. The second IV has 3 levels. The third IV
+has 2 levels. There are a total of 12 conditions. 2x3x2 = 12.]{.smaller}
+
+## Review
+
+[Crump, M. J. C., Navarro, D. J., & Suzuki, J. (2019, June 5). Answering
+Questions with Data (Textbook): Introductory Statistics for Psychology
+Students.
+https://doi.org/10.17605/OSF.IO/JZE52](https://crumplab.github.io/statistics/)
+
+CC BY SA 4.0
+
+<https://crumplab.com/statistics/07-ANOVA.html>
+
+<https://crumplab.com/statistics/10-MixedANOVA.html#x2-designs>
+
+## 3 'flavours' of 2x2 ANOVA
+
+**2bx2b** - Between-subjects/Factorial ANOVA
+
+**2wx2w** - Within-subject/Repeated Measures ANOVA
+
+**2bx2w** or **2wx2b** - Mixed ANOVA
+
+You will be using one of these (all supported by SPSS Exercises 1 & 2)
+
+JAMOVI is a reasonable alternative to SPSS (R is even better - much more
+value as a skill)
+
+## The 3 effects possible in a 2x2 ANOVA
+
+Main effect of IV1
+
+Main effect of IV2
+
+Interaction of IV1\*IV2
+
+## therefore 8 possible 'outcomes' of a 2x2 ANOVA
+
+-   no IV1 main effect, no IV2 main effect, no interaction
+-   IV1 main effect, no IV2 main effect, no interaction
+-   IV1 main effect, no IV2 main effect, interaction
+-   IV1 main effect, IV2 main effect, no interaction
+-   IV1 main effect, IV2 main effect, interaction
+-   no IV1 main effect, IV2 main effect, no interaction
+-   no IV1 main effect, IV2 main effect, interaction
+-   no IV1 main effect, no IV2 main effect, interaction
+
+## graph key
+
+-   1 = there was a main effect for IV1.
+-   \~1 = there was **not** a main effect for IV1
+-   2 = there was a main effect for IV2
+-   \~2 = there was **not** a main effect of IV2
+-   1x2 = there was an interaction
+-   \~1x2 = there was **not** an interaction
+
+## Bar charts
+
+![](images/paste-F1923E23.png)
+
+## Line plots
+
+![](images/paste-CEDD217D.png)
+
+## References

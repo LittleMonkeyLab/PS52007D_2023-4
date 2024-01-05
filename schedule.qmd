@@ -4,21 +4,21 @@ format: html
 sidebar: false
 toc: false
 page-layout: full
-listing:
-  - id: schedule
-    contents:
-      - weeks/Week*.qmd
-    type: table
-    fields: [title, description, subtitle]
-    field-display-names:
-      title: "Week"
-      description: "Dates"
-      subtitle: "Topic"
-    date-format: "MMMM DD, YYYY"
-    sort: [filename]
-    sort-ui: true
-    filter-ui: true
- #tbl-colwidths: [5,20,50]
+# listing:
+#   - id: schedule
+#     contents:
+#       # - weeks/Week*.qmd
+#     type: table
+#     fields: [title, description, subtitle]
+#     field-display-names:
+#       title: "Week"
+#       description: "Dates"
+#       subtitle: "Topic"
+#     date-format: "MMMM DD, YYYY"
+#     sort: [filename]
+#     sort-ui: true
+#     filter-ui: true
+#  #tbl-colwidths: [5,20,50]
 editor: visual
 ---
 

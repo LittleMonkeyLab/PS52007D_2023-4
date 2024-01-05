@@ -2034,19 +2034,7 @@
       ],
       "Hash": "5f5a7629f956619d519205ec475fe647"
     },
-    "stringi": {
-      "Package": "stringi",
-      "Version": "1.7.12",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "stats",
-        "tools",
-        "utils"
-      ],
-      "Hash": "ca8bd84263c77310739d2cf64d84d7c9"
-    },
+
     "stringr": {
       "Package": "stringr",
       "Version": "1.5.0",

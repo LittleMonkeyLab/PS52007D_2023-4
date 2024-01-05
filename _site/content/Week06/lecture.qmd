@@ -1,0 +1,495 @@
+---
+title: "Lecture 06: <br> Online and face-to-face testing"
+subtitle: "Running good studies"
+image: "lecture.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "11/13/2023"
+date-format: long
+license: "CC BY-NC-SA"
+# footer: 
+citations-hover: true
+categories: 
+  - "Lecture"
+  - "Week 6"
+format: 
+  pdf: default
+  # pptx: default
+  html: default
+  # docx: default
+  revealjs: 
+    title-slide-attributes: 
+      data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
+    header-logo: "/images/rmmonkey.png"
+    header: "Research Methods Lecture 06 - Online and face-to-face testing" # Replace it
+    hide-from-titleSlide: "text"
+    slide-number: c/t
+    # theme: "content/_resources/templates/lectures"
+    mainfont: Atkinson Hyperlegible
+    menu: true
+    controls: true
+    navigation-mode: linear
+    controls-layout: edges
+    show-slide-number: all
+    filters:
+      - reveal-header
+      - fontawesome
+    preview-links: true
+
+    embed-resources: true
+    margin: 0.2
+    smaller: false
+    pdf-page-height-offset: -2
+    max-width: 90%
+    max-scale: 2.0
+    pdf-max-pages-per-slide: 1
+    output-ext: slides.html
+
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+## Week 6, Let's go!
+
+-   Social Psychology Essay Tutorial this week
+-   Have you done your reading and prepared?
+-   A word on attendance and independent study
+
+# Any Questions?
+
+## The Weeks ahead
+
+Every group needs to apply for (and receive) ethical approval prior to
+the Winter Break. - Review the Ethics Page on the VLE - The same process
+you will use next year - 1 application per group - pre-approved by Lab
+Tutors - Planning is required and turnaround is 1 week - We deep dive
+ethics next week (week 7) - but review the materials in advance
+
+# It's time to get practical
+
+## 'Operationalisation' of variables
+
+Operationalisation of variables requires a consideration of the
+reliability and validity of the method of operationalisation.
+
+Operationalisation of variables also requires specification of the scale
+of measurement: nominal, ordinal, interval, or ratio.
+
+Finally, operationalisation of variables can also specify details of the
+measurement procedure.
+
+See Howitt and Cramer Chapter 3.3 (Box Research Example - Condon & Crano
+1988)
+
+## Attitude similarity and interpersonal attraction
+
+![](images/paste-01E3BCC9.png)
+
+## Their DV (consider pros and cons)
+
+This person would like (dislike) me
+
+This person would like (dislike) working with me in an experiment
+
+## The Student Room (question)
+
+![](images/paste-3C1317D6.png)
+
+## The Student Room (answer 1)
+
+![](images/paste-1F4878EE.png)
+
+## The Student Room (answer 2)
+
+![](images/paste-776290A0.png)
+
+## Of great importance that you reflect on this for your MD too
+
+How have you [defined]{.underline} your variables of interest?
+
+-   IVs and DVs
+
+How have you [measured or categorised]{.underline} your variables of
+interest?
+
+-   e.g. Social Media use
+
+-   Gender
+
+-   Frequency or low/high extraversion
+
+## **The research process**
+
+::: {.callout-note icon="false"}
+-   Develop research aims 
+-   Specify research questions/hypotheses related to these aims
+-   Identify relevant constructs and concepts 
+-   Translate constructs and concepts into variables (i.e., a logical
+    set of characteristics/features)
+-   Translate variables into measurements (i.e., the quantification of
+    characteristics/features)
+:::
+
+## Quantitative Research
+
+A systematic examination of relationships between variables
+
+. . .
+
+'Variables' are 'translated' from concepts, constructs or phenomena
+
+. . .
+
+Could be critiqued as 'reductionist'
+
+## Types of Variable
+
+Independent Variable
+
+-   Experimental - The variable [I]{.shout} manipulate
+
+-   Non-Experimental / Quasi-Experimental - Comparison between
+    pre-existing groups
+
+Dependent Variable
+
+-   The variable you measure, that you propose to be influenced by a
+    manpulation of the IVs
+-   The \[D\]ata{.shout}
+
+## Types of Measurement
+
+Nominal/Categorical
+
+-   Male/Female/...
+
+-   Vegan / Vegetarian
+
+-   Smoker/Non-Smoker
+
+## Types of Measurement
+
+Ordinal
+
+Numbers representing a rank position in a group
+
+Not representative of an actual definite number/score/value - without
+information about the 'gap' between numbers
+
+-   First, second, third
+
+-   Tallest/Shortest
+
+## Types of Measurement
+
+Interval
+
+Numbers represent equal units giving information about the 'gap' between
+numbers
+
+-   Temperature
+
+-   Psychological Scales
+
+## Types of Measurement
+
+Ratio
+
+Interval measurements with an absolute zero, of equal units,
+
+-   Weight
+
+-   Length
+
+-   Time/Reaction time\*
+
+## Median Splits
+
+'Cutting' a distribution in half at the mid-point - with 50% on each
+side of the cut
+
+## Median Splits can be considered problematic
+
+::: callout-warning
+## Beware!
+
+We often suggest a median split to dichotomise a continuous variable,
+e.g. for the purposes of creating a 2 level IV.
+
+It's a useful exercise in calculating a 'computed variable' in SPSS or
+Jamovi
+
+It is NOT best-practice usually. Why not?
+:::
+
+It is a key learning outcome that you are able to perform a standardised
+analysis, specifically, the 2x2 ANOVA with any necessary assumption
+checks and post-hocs + plots
+
+## Think about this
+
+![](images/paste-EAC3C58C.png)
+
+## Operationalisation, measurement and definitions impact...
+
+![](images/paste-E903404B.png){width="200"}
+
+## Summary of part 1
+
+You should think carefully about:
+
+-   How you define your variables - this is probably a part of the
+    introduction that students DON'T think about enough
+
+-   How you measure or categorise your variables (IVs and DVs) - this is
+    probably the single thing I look at first when peer-reviewing
+    research!
+
+-   How well your manipulation does what it claims to. Does you
+    manipulation bring the thing it proposed to to life well?
+
+# Running Experiments online or face to face
+
+## Comparing Experiment Modalities
+
+-   Online Surveys and Experiments
+    -   Qualtrics - For surveys, stimulus presentation that don't
+        require accurate timing
+    -   Gorilla.sc - For 'experimental' tasks with complex stimulus \>
+        presentation or that require response time measures or
+        push-button \> responses etc.
+-   Face-to-Face Experiments
+
+------------------------------------------------------------------------
+
+## Online Surveys and Experiments with Qualtrics
+
+### Overview
+
+-   A powerful tool for creating and distributing online surveys
+-   Widely used in psychological research
+-   We have an institutional licence and so it is FREE
+-   No specialist support - has excellent online support
+
+------------------------------------------------------------------------
+
+## Pros of Qualtrics
+
+### Accessibility
+
+-   Reach a wide, diverse audience (if necessary)
+-   Accessible by anyone with a phone or laptop etc
+
+### Cost-Effective
+
+-   Low 'cost' compared to face-to-face
+
+### Data Management
+
+-   Automated data collection, scoring and storage
+-   Relatively easy to analyze and export data - but not always simple
+
+### Customization
+
+-   Highly customizable surveys and experiments (video, photos, audio,
+    vignettes)
+-   Supports various question types and logic
+
+------------------------------------------------------------------------
+
+## Cons of Qualtrics
+
+### Limited Human Interaction
+
+-   Lack of personal interaction can affect responses
+-   You put a huge amount of trust in the participant
+-   Not always easy to manage ethical challenges properly
+
+### Technical Issues
+
+-   Dependence on internet connectivity and user tech skills
+-   An error in the build and you are in trouble \####
+
+## Cons of Qualtrics (continued)
+
+### Response Authenticity
+
+-   Higher risk of dishonest or inattentive responses (maybe?)\
+
+#### Sampling Bias
+
+-   Potential for non-representative samples
+
+------------------------------------------------------------------------
+
+## Introduction to experiments using Gorilla.sc
+
+### Gorilla.sc: highly controlled online Psychological Research
+
+-   A comprehensive online tool for behavioral research
+-   Facilitates creation, deployment, and analysis of experiments
+
+------------------------------------------------------------------------
+
+## Core Features of Gorilla.sc
+
+### User-Friendly Interface
+
+-   Intuitive design for researchers of all levels
+-   Drag-and-drop experiment builder
+
+### Requires 'tokens' to run
+
+-   You will need to apply for 'tokens' to apply for ethics, and to run
+    the study.
+-   There is usually a limited supply as there is a cost associated with
+    this.
+
+### Versatile Experiment Design
+
+-   Supports a wide range of experimental paradigms
+-   Customizable to suit various research needs
+
+------------------------------------------------------------------------
+
+## Experiment Creation with Gorilla.sc
+
+### Building Blocks
+
+-   Use 'widgets' and 'tasks' to construct experiments
+-   Easily integrate surveys, quizzes, and cognitive tasks
+
+### Advanced Customization
+
+-   Incorporate complex experimental logic
+-   Customize with CSS and JavaScript for unique requirements
+
+------------------------------------------------------------------------
+
+## Data Collection and Analysis
+
+### Real-Time Data Collection
+
+-   Gather data securely and efficiently
+-   Access participant responses in real-time
+
+### Analytical Tools
+
+-   Built-in tools for basic data analysis
+-   Export data for advanced analysis in other software e.g. SPSS
+
+------------------------------------------------------------------------
+
+## Collaboration and Sharing
+
+### Team Collaboration
+
+-   Share experiments and data with team members
+-   Collaborate on experiment design and analysis
+
+### Participant Recruitment
+
+-   Still needs to be managed via sources outside of Gorilla
+
+------------------------------------------------------------------------
+
+## Gorilla.sc in Psychological Research
+
+### Broad Application
+
+-   Suitable for cognitive, social, and clinical psychology
+-   Ideal for remote and large-scale studies
+
+### Impact on Mini-Dissertations
+
+-   Increases the reach of psychological studies requiring complex
+    stimulus or timing
+-   Not easy to get up and running with this tool
+-   No specialist support - has excellent templates and online support
+
+------------------------------------------------------------------------
+
+## Face-to-Face Experiments
+
+### Overview
+
+-   Traditional method of conducting experiments
+-   Involves direct interaction with participants
+
+------------------------------------------------------------------------
+
+## Pros of Face-to-Face Experiments
+
+### Enhanced Interaction
+
+-   Direct human interaction enriches data quality
+
+### Controlled Environment
+
+-   Better control over experimental conditions
+
+### Immediate Feedback
+
+-   Opportunity for immediate clarification and feedback
+
+### Participant Authenticity
+
+-   Lower risk of false responses (maybe?)
+
+------------------------------------------------------------------------
+
+## Cons of Face-to-Face Experiments
+
+### Higher Costs
+
+-   Greater resource and time investment (maybe?)
+
+### Limited Reach
+
+-   Restricted to participants' geographical location
+
+### Time-Consuming
+
+-   Scheduling and conducting sessions takes time
+
+### Potential Biases
+
+-   Risk of experimenter or social desirability biases
+
+------------------------------------------------------------------------
+
+## Conclusion
+
+### Choosing the Right Method
+
+-   Depends on research goals, resources, and target population
+-   Both methods offer unique advantages and challenges
+
+### Tailoring to Research Needs
+
+-   Consider the nature of your study and participant accessibility
+-   Balance between quality, 'cost', and reach
+
+------------------------------------------------------------------------
+
+# Questions?
+
+## Lab activities
+
+Qualtrics (Many of you will use this!)
+
+-   Log in to an account with your Goldsmiths ID!!
+
+-   10% of you will apply for the wrong type of account and be stuck for
+    2 weeks
+
+Familiarise yourself with the Ethics Application process
+
+Consider the steps required to bring your study to life!
+
+## References

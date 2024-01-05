@@ -1,0 +1,264 @@
+---
+title: "Lecture 02: <br> Asking good questions and gathering evidence"
+subtitle: "Being Scientific"
+image: "lecture.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/09/2023"
+date-format: long
+license: "CC BY-NC-SA"
+# footer: 
+citations-hover: true
+categories: 
+  - "Lecture"
+  - "Week 2"
+params:
+  class: "lec02"
+format: 
+  pdf: default
+  pptx: default
+  html: default
+  docx: default
+  revealjs: 
+    title-slide-attributes: 
+      data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
+    header-logo: "/images/rmmonkey.png"
+    header: "Research Methods Lecture 02 - Being Scientific" # Replace it
+    hide-from-titleSlide: "text"
+    slide-number: c/t
+filters:
+  - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+```{r, echo=FALSE}
+path_slides <- file.path(params$class, "index.html")
+path_pdf <- file.path(params$class, paste0(params$class, ".pdf"))
+path_notes <- file.path(params$class, paste0(params$class, ".pptx"))
+```
+
+# Attendance QR Code HERE
+
+## Key topics today
+
+-   The week ahead
+-   The research process you are beginning
+-   Effect sizes
+-   Lab preview - Literature, and making it your friend
+
+## The week ahead
+
+This week (week 2) you have your Personality Essay Tutorial
+
+"Insert info"
+
+> [title]{.takeaway}
+>
+> Deadline 10am Friday x
+>
+> Feedback on/by x
+
+## Perennial CHIP topics
+
+I want to briefly draw your attention to the third (final) piece of
+coursework for this module, the so-called 'CHIP Learning Log'
+
+The earlier we flag topics and introduce little glimmers of content, the
+easier that will be.
+
+# 1 - What is Science? 
+
+## An amazing opportunity to consider this critical question [while]{.underline} you do your Mini-Dissertation
+
+Here is a thought-provoking initial overview - [**Open Educational
+Resource**]{.underline}
+
+Diener, E. (2022). Why science?. In R. Biswas-Diener & E. Diener (Eds),
+*Noba textbook series: Psychology.* Champaign, IL: DEF publishers.
+<http://noba.to/qu4abpzy>
+
+# 2 - Artificial Intelligence - Promise or Peril?
+
+## Last year, this was a fairly philosophical question
+
+This year, you are probably using AI on a daily or weekly basis. I don't
+need to give you 1980's movie references to show you how we thought
+computers were going to take over the world and enslave the human race,
+we can just look out the window!
+
+## CHIP topic approval process
+
+Lectures identified with `CHIP` in the title e.g. weeks 16-20 \[They
+change yearly!\]
+
+I am open to other topics, but they must fit the following brief, and be
+agreed in the Forum.
+
+::: incremental
+-   A concept or debate within Psychology
+-   A historical issue or controversy
+-   A methodology or approach and its promises or limitations
+-   A distinctive or divisive topic
+-   A modern innovation or applied challenge
+:::
+
+<https://www2.open.ac.uk/openlearn/CHIPs/>
+
+# I can't make bricks without clay!
+
+## A psychologist? A scientist?
+
+![](images/paste-DE336E79.png)
+
+In this instance, Sherlock is talking about the need for data prior to
+solving a case. You can't do science without data.
+
+## Scientists base their 'claims' on EVIDENCE
+
+![](images/paste-F158EEA8.png)
+
+## Evidence quality = claim quality!
+
+![](images/paste-BD7BCD67.png)
+
+## It starts with a hypothesis
+
+![](images/paste-D3D307F4.png)
+
+## recap on hypotheses
+
+![](images/paste-0E0430B8.png)
+
+## The research process
+
+![](images/paste-B4426E76.png)
+
+## The simplicity of an experiment
+
+![](images/paste-3D25B713.png)
+
+## Operationalisation
+
+![](images/paste-A9D3934A.png)
+
+## The challenge of operationalisation
+
+![](images/paste-C6316887.png)
+
+## A toy example
+
+![](images/paste-D76E2D76.png)
+
+## Extraneous variables
+
+![](images/paste-4B088F3A.png)
+
+## Usually...
+
+![](images/paste-5770750E.png)
+
+## but occasionally...
+
+you hear of 'confounds' or ['confounding variables']{.shout}
+
+A confounding variable is an extraneous variable that [systematically
+varies]{.underline} with one of your independent variables. These are
+rare, but nothing can save the experiment.
+
+![](images/paste-B5DC6F1B.png)
+
+## An impossible interpretation
+
+![](images/paste-755BCA67.png)
+
+## Manipulations almost always introduce potential confounds
+
+![](images/paste-EF9EB1AF.png)
+
+## Experimental skill + careful thought + piloting + randomness!
+
+![](images/paste-1931EC21.png)
+
+## The importance of operationalising your variables well
+
+![](images/paste-9B52240F.png)
+
+## Reading along
+
+I highly recommend reading along with the general topics we cover in the
+first few weeks.
+
+Research Methods in Psychology by Dennis Howitt and Duncan Cramer is
+excellent. Chapter 2 in that book (right at the top of the module
+reading list and
+[here](https://www.vlebooks.com/Product/Index/896220?page=0)) deals with
+Hypotheses and aims of research, essentially what we cover this week,
+and Chapter 1 deals with the basics and golden rules of research design
+and designing good experiments.
+
+# Another interpretation of "I can't make bricks without clay!"
+
+## Garbage in, Garbage out
+
+Last year someone selected a 'target paper' for their Critical Proposal
+\[next week's lecture topic\] from a Sociology Journal - it presented a
+'thought experiment'.
+
+No data, no methodology, no participants, no actual experiment.
+
+How do you think they did?
+
+## The literature you read will drive the quality of your output
+
+-   This applies to the study you design for your Mini-Dissertation
+-   This applies to your Module Essays
+-   This applies to your Critical Proposal
+-   It is NOT a question of QUANTITY
+-   It is very much a question of QUALITY
+-   It is a function of QUALITY and QUANTITY
+
+# Lab 2 is about Literature Search and Management
+
+# Effect Sizes
+
+## A measure of the Effect (MOTE)
+
+Effect sizes represent the magnitude of a relationship between
+variables, for example between a Manipulation and the Dependent
+Variable.
+
+It's like the 'strength' of your pill, or intervention, or manipulation.
+
+Do not run an experiment that is designed to fail - you must believe a
+manipulation will have an 'Effect'
+
+If the manipulation works, then there will be an Effect
+
+The Effect Size is just how big that visible effect was.
+
+## Let's imagine the simplest example possible
+
+An independent t-test. Working Memory Capacity.
+
+I have a magic pill to increase working memory capacity.
+
+7 ± 2 is the Miller Law. Let's read this as normal mean working memory
+capacity for a group of humans is mean 7 units with a standard deviation
+of 2 units.
+
+Let's say my pill was tried on a group of humans, and when we measured
+their mean working memory capacity it was 11 units with a standard
+deviation of 2 units. Wowsers!
+
+That's an effect size of d=2. Simply put, Cohen's d is always presented
+in units equivalent to 1 standard deviation. So 11 is 2 SDs higher than
+7.
+
+[Calculating Effect Sizes
+(shinyapps.io)](https://katherinemwood.shinyapps.io/lakens_effect_sizes/)
