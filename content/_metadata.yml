@@ -7,7 +7,6 @@ format:
     mainfont: Atkinson Hyperlegible
     # logo: "images/rmmonkey.png"
     slide-number: c/t
-    
     menu: true
     controls: true
     navigation-mode: linear

@@ -5,7 +5,7 @@
 @import 'https://fonts.googleapis.com/css2?family=Fira+Code&display=swap';
 @import url(https://use.fontawesome.com/releases/v6.1.1/css/all.css);
 
-// Custom colours and variables
+// Custom colours and variables 
 
 $link-color: #4f7c8d;
 $jet: #131516;
@@ -28,7 +28,7 @@ $background-color: #bfe4eb !default;
 
 
 
-// general
+// general 
 $body-bg: #fff;
 $title-color: #fff;
 $body-color: #000000;
@@ -488,4 +488,9 @@ iframe.reveal-demo {
   background-color: #0056b3;
   border-color: #0056b3;
 }
+
+.reveal .slide ul li ul li {
+        font-size: 0.75em;
+}
+
 

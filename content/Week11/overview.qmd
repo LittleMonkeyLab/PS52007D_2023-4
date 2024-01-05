@@ -1,0 +1,20 @@
+---
+title: "Overview"
+format:
+  html: default
+---
+
+## Lecture
+
+Overview of Operationalisation! The key to a good experiment
+
+## Lab
+
+Review Ethics Page
+
+Try to plan your next steps - What tools will you need?
+
+-   Qualtrics?
+-   Gorilla?
+-   Testing materials?
+-   Room Bookings?
