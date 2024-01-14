@@ -210,7 +210,7 @@ study.
 
 ![](images/QLC7@2x.png)
 
-## Data Collection @robinson2013a
+## Data collection @robinson2013a
 
 ![](images/QLCMethod@2x.png)
 
