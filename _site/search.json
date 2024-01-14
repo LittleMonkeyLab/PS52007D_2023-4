@@ -5610,14 +5610,14 @@
     "href": "content/Week12/lecture.slides.html#introduction",
     "title": "Lecture 12:  The wider research toolbox",
     "section": "Introduction",
-    "text": "Introduction\n\nThis week I am going to discuss some of my own work.\nAs usual, I want to focus on the methods primarily, and since any topic will do…\n\nKey objective: Show how different methods can bring different insights."
+    "text": "Introduction\n\n\nI want to briefly talk about some methods we haven’t covered yet.\nAnd to a certain extent, the topic doesn’t matter, soooo..\nI’m going to tell you about a few of my own studies for a change.\nKey objective: Show how different methods can bring different insights.\nAND: To give you some ideas for next year"
   },
   {
     "objectID": "content/Week12/lecture.slides.html#overview-of-research-methods",
     "href": "content/Week12/lecture.slides.html#overview-of-research-methods",
     "title": "Lecture 12:  The wider research toolbox",
     "section": "Overview of Research Methods",
-    "text": "Overview of Research Methods\nQuantitative Research\nI started with the hope of identifying how Mirror Neurons helped deceptive ability\nWhat a dork.\nIn an autism lab! fMRI —\nQualitative Research"
+    "text": "Overview of Research Methods\nQuantitative Research\nI started with the hope of identifying how Mirror Neurons helped deceptive ability\nWhat a dork.\nIn an autism lab! fMRI —"
   },
   {
     "objectID": "content/Week12/lecture.slides.html#ipa-with-jonathan-smith-and-oliver-robinson---quarterlife-crisis",
@@ -5666,7 +5666,7 @@
     "href": "content/Week12/lecture.slides.html#references",
     "title": "Lecture 12:  The wider research toolbox",
     "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 12 - The broader toolbox"
+    "text": "References\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 12 - The broader toolbox\n\n\n \n\n\n\n\nAtkinson, P., Coffey, A., Delamont, S., Lofland, J., & Lofland, L. (Eds.). (2014). Handbook of ethnography (Reprinted). SAGE.\n\n\nLevine, T. R. (2010). A Few Transparent Liars Explaining 54. Annals of the International Communication Association, 34(1), 41–61. https://doi.org/10.1080/23808985.2010.11679095\n\n\nRobinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife. International Journal of Behavioral Development, 37(5), 407–416. https://doi.org/10.1177/0165025413492464\n\n\nRobinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis u1 - robinson2013a. Journal of Adult Development, 20(1), 27–37. https://doi.org/10.1007/s10804-013-9153-y\n\n\nSilvia, P. J., & Cotter, K. N. (2021). Researching daily life: A guide to experience sampling and daily diary methods. American Psychological Association."
   },
   {
     "objectID": "content/Week12/lecture.html",
@@ -8108,5 +8108,236 @@
     "title": "DangerZone Week 01:  Revvin’ up your engines!",
     "section": "Hidden solutions and hints",
     "text": "Hidden solutions and hints\nYou can fence off a solution area that will be hidden behind a button using hide() before the solution and unhide() after, each as inline R code. Pass the text you want to appear on the button to the hide() function.\nIf the solution is a code chunk, instead of using hide() and unhide(), simply set the webex.hide chunk option to TRUE, or set it to the string you wish to display on the button.\nRecreate the scatterplot below, using the built-in cars dataset.\n\n\n\n\n\n\n\n\n\n\n\nI need a hint\n\nSee the documentation for plot() (?plot)\n\n\n\n\n\nClick here to see the solution\n\n\nCode\nplot(cars$speed, cars$dist)"
+  },
+  {
+    "objectID": "content/Week12/lab.slides.html#study-swap-is-live",
+    "href": "content/Week12/lab.slides.html#study-swap-is-live",
+    "title": "Lab 12:  Data Collection 2",
+    "section": "1. Study Swap is Live!",
+    "text": "1. Study Swap is Live!\n\nPurpose: Engage in peer-to-peer learning by evaluating the work of your colleagues.\nProcess:\n\nVisit the Study Swap on the VLE.\nTake part in one or all.\nIf your study is listed, ask lab-mates for feedback and answer any questions.\n\nGoal: Gain insights into the merits of study designs or choice of tools.\n\n\n\nSTUDY SWAP"
+  },
+  {
+    "objectID": "content/Week12/lab.slides.html#ethics-applications-urgent",
+    "href": "content/Week12/lab.slides.html#ethics-applications-urgent",
+    "title": "Lab 12:  Data Collection 2",
+    "section": "2. Ethics Applications URGENT",
+    "text": "2. Ethics Applications URGENT\n\nImportance: Ethical approval is crucial to allow for data collection/submission of the Mini-Dissertation.\nSteps:\n\nIf approval is pending, please submit TODAY.\nIf you face obstacles, please engage your Lab Tutor/Gordon IMMEDIATELY.\nWe have been asked to close applications.\n\nReminder: Not submitting ethics can potentially mean you need to repeat the year."
+  },
+  {
+    "objectID": "content/Week12/lab.slides.html#begin-writing-method-section",
+    "href": "content/Week12/lab.slides.html#begin-writing-method-section",
+    "title": "Lab 12:  Data Collection 2",
+    "section": "3. Begin Writing Method Section",
+    "text": "3. Begin Writing Method Section\n\nImportance:\n\nIf you have Ethical Approval, your method is fixed.\nYou can win a great deal of marks with the method section, and so give it time!\n\nTips:\n\nBe precise and detailed to allow for replication.\nUse the extensive suite of resources on the VLE and the internet!\n\nObjective: Alongside your Open Materials - a one stop toolkit to replicate your study in perfect detail."
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#some-easy-research",
+    "href": "content/Week12/lecture.slides.html#some-easy-research",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Some easy research!",
+    "text": "Some easy research!\n`"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#bbc-horizon-the-honesty-experiment",
+    "href": "content/Week12/lecture.slides.html#bbc-horizon-the-honesty-experiment",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "BBC Horizon: The Honesty Experiment",
+    "text": "BBC Horizon: The Honesty Experiment"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#so-why-do-people-lie-levine2010d",
+    "href": "content/Week12/lecture.slides.html#so-why-do-people-lie-levine2010d",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "So why do people lie? (levine2010d?)",
+    "text": "So why do people lie? (levine2010d?)"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#it-aint-that-bad-really",
+    "href": "content/Week12/lecture.slides.html#it-aint-that-bad-really",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "It ain’t that bad really!",
+    "text": "It ain’t that bad really!\nDeception frequency is significantly correlated to neocortical volume across species (byrne2004a?).\n\nEvolution selects for more and more effective strategies of achieving social success (including deception, manipulation, alliance formation, exploitation of the expertise of others, etc.)\n\n\nAnd for the ability to learn and use such strategies.\n\n\nSocial success translates into reproductive success!\nQualitative Research"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#mixing-methods",
+    "href": "content/Week12/lecture.slides.html#mixing-methods",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Mixing Methods",
+    "text": "Mixing Methods\nQuantitative Research has been our primary focus until this term\nYou’ve started hearing about Qualitative Methods with Hilary\nQualitative Questions"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#qualitative-data-collection",
+    "href": "content/Week12/lecture.slides.html#qualitative-data-collection",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Qualitative Data Collection",
+    "text": "Qualitative Data Collection"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#qualitative-analysis",
+    "href": "content/Week12/lecture.slides.html#qualitative-analysis",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Qualitative Analysis",
+    "text": "Qualitative Analysis"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#so-how-do-you-explore-such-a-broad-range-of-contextsmotives",
+    "href": "content/Week12/lecture.slides.html#so-how-do-you-explore-such-a-broad-range-of-contextsmotives",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "So how do you explore such a broad range of contexts/motives?",
+    "text": "So how do you explore such a broad range of contexts/motives?\nOne simple answer is to blend methods based on the requirements of the study."
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#a-rare-opportunity-to-combine-methods-thanks-bbc",
+    "href": "content/Week12/lecture.slides.html#a-rare-opportunity-to-combine-methods-thanks-bbc",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "A rare opportunity to combine methods! Thanks BBC!",
+    "text": "A rare opportunity to combine methods! Thanks BBC!"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#interpretative-phenomenological-analysis-ipa",
+    "href": "content/Week12/lecture.slides.html#interpretative-phenomenological-analysis-ipa",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Interpretative Phenomenological Analysis (IPA)",
+    "text": "Interpretative Phenomenological Analysis (IPA)\n\nDefinition: IPA is a qualitative research approach that focuses on exploring how individuals make sense of events. Focused on understanding individuals’ subjective experiences and perspectives regarding specific situations.\n\nThe core of this approach lies in comprehending how people perceive and make sense of events, rather than examining the external events themselves. It demands ‘double hermeneutics’\n\nMethodology:\n\nInvolves detailed, reflective examinations of participants’ lived experiences.\nTypically uses small, purposively selected samples to provide in-depth insights.\nData is usually collected through semi-structured interviews or personal diaries."
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#interpretative-phenomenological-analysis-ipa-2",
+    "href": "content/Week12/lecture.slides.html#interpretative-phenomenological-analysis-ipa-2",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Interpretative Phenomenological Analysis (IPA) 2",
+    "text": "Interpretative Phenomenological Analysis (IPA) 2\n\nAnalysis:\n\nEmphasizes the interpretative role of the researcher (hermeneutics) in making sense of participants’ experiences (double hermeneutics).\nInvolves a cyclical process of reading and re-reading data, coding, and theme development.\nSeeks to uncover the meaning and significance of experiences from the participant’s perspective.\n\nApplication:\n\nParticularly useful in psychology for understanding complex, emotionally laden, and deeply personal experiences.\nAims to provide a detailed, nuanced\n\nCase Study - Quarterlife Crisis."
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#quarterlife-crisis-study",
+    "href": "content/Week12/lecture.slides.html#quarterlife-crisis-study",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Quarterlife Crisis Study",
+    "text": "Quarterlife Crisis Study\n\nSee VLE for the paper in question.\nAlso provided\n\nInterview Schedule\nVisual Aid used in Interview"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#ethnography---the-study-of-groups-1",
+    "href": "content/Week12/lecture.slides.html#ethnography---the-study-of-groups-1",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Ethnography - The study of Groups 1",
+    "text": "Ethnography - The study of Groups 1\n\nDefinition: Ethnography is the in-depth study of a group and its culture over an extended period. Derived from Greek ‘ethnos’ (nation or group) and ‘graph’ (writing), it’s a key method in cultural anthropology and other social sciences.\nFocus:\n\nEveryday behaviors, interactions, language, and rituals of a group.\nCultural norms, beliefs, practices, social structures, and patterns.\nBoth explicit (observable) and implicit (subconscious) cultural elements.\n\nApplications:\n\nOriginally used in anthropology, now applied in education, social sciences, marketing + Psych.\nStudies diverse cultures, from traditional societies to modern online communities."
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#ethnography---the-study-of-groups-2",
+    "href": "content/Week12/lecture.slides.html#ethnography---the-study-of-groups-2",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Ethnography - The study of Groups 2",
+    "text": "Ethnography - The study of Groups 2\n\nFieldwork Essentials:\n\nProlonged engagement in the group’s natural setting for authentic observation.\nGaining access through gatekeepers, establishing rapport, and ensuring informed consent.\nBalancing roles from an outside observer to an immersed participant, maintaining objectivity.\n\nData Collection:\n\nParticipant observation, interviews, extensive field notes, and collection of artifacts.\nCritical ethnographies focus on marginalized groups, seeking transformative insights."
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#ethnography---the-study-of-groups-3",
+    "href": "content/Week12/lecture.slides.html#ethnography---the-study-of-groups-3",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Ethnography - The study of Groups 3",
+    "text": "Ethnography - The study of Groups 3\n\nNote:\n\nEthnography requires a balance between involvement and objectivity.\nIdeal for researchers interested in the complexities of sociocultural dynamics.\n\nCan be adapted:\n\ne.g. Video-Reflective Ethnography\n\nReference: (parker2004?) http://ndl.ethernet.edu.et/bitstream/123456789/14598/1/1428.pdf\nand Atkinson et al. (2014)"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#diary-studies-in-qualitative-research-1",
+    "href": "content/Week12/lecture.slides.html#diary-studies-in-qualitative-research-1",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Diary Studies in Qualitative Research 1",
+    "text": "Diary Studies in Qualitative Research 1\n\nOverview:\n\nDiary studies involve participants keeping regular records of their daily lives, experiences, thoughts, and feelings.\nThese records provide real-time, first-person accounts, offering rich, contextual insights.\n\nMethodology:\n\nParticipants are asked to record entries over a set period, which can range from days to months.\nDiaries can be structured with specific prompts or unstructured, allowing free expression.\n\nApplications in Psychology:\n\nUseful for studying patterns in behavior, mood, social interactions, and psychological states.\nProvides a longitudinal perspective, capturing changes and developments over time."
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#diary-studies-in-qualitative-research-2",
+    "href": "content/Week12/lecture.slides.html#diary-studies-in-qualitative-research-2",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Diary Studies in Qualitative Research 2",
+    "text": "Diary Studies in Qualitative Research 2\n\nAdvantages:\n\nCaptures data in participants’ natural environments, leading to high ecological validity.\nOffers a deeper understanding of subjective experiences and daily life contexts.\nEnables the study of phenomena as they occur, reducing recall bias.\n\nChallenges:\n\nRelies on participant commitment and honesty in regular entries.\nData can be voluminous and varied, requiring careful and sensitive analysis.\nPotential issues with privacy and ensuring confidentiality of personal records.\n\nTips:\n\nEngage the participant with the study’s purpose and diary guidelines to participants.\nAttrition is HUGE.\nBe prepared for a detailed and nuanced analysis of the diary entries (qual AND quant).\nConsider alternatives such as Experience Sampling, or Day Reconstruction Silvia & Cotter (2021)"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#any-questions",
+    "href": "content/Week12/lecture.slides.html#any-questions",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Any Questions?",
+    "text": "Any Questions?"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#in-case-i-missed-any-methods-here-is-the-full-list",
+    "href": "content/Week12/lecture.slides.html#in-case-i-missed-any-methods-here-is-the-full-list",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "In case I missed any methods, here is the full list",
+    "text": "In case I missed any methods, here is the full list\n\nBehavioural Indices (akin to polygraph - GSR/EDA, Heart Rate, Blood Pressure, Accelerometry)\nLanguage - Linguistic Inquiry & Word Count - Language Style Matching\nParaverbal behaviour - non-speech utterances, turn-taking, chronometrics\nNon-Verbal Behaviour - Posture, Facial Expressions, Eye behaviour, self-touching etc\nFull body motion Capture (XSens - 17 accelerometers across the body)"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#so-why-do-people-lie",
+    "href": "content/Week12/lecture.slides.html#so-why-do-people-lie",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "So why do people lie?",
+    "text": "So why do people lie?\n\n\nLevine (2010)"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#section",
+    "href": "content/Week12/lecture.slides.html#section",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "",
+    "text": "`"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#continued",
+    "href": "content/Week12/lecture.slides.html#continued",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "continued…",
+    "text": "continued…\n\nDaily Diary and Reflective Prompts\nSelf/Other Triangulation\nInterviews/Video-Reflection\nCase Studies\nAND viewer feedback!"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#quarterlife-crisis",
+    "href": "content/Week12/lecture.slides.html#quarterlife-crisis",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Quarterlife Crisis?",
+    "text": "Quarterlife Crisis?\nRobinson & Wright (2013) Robinson et al. (2013)"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#is-it-serious",
+    "href": "content/Week12/lecture.slides.html#is-it-serious",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Is it serious?",
+    "text": "Is it serious?"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#but-it-cant-be-all-bad-surely",
+    "href": "content/Week12/lecture.slides.html#but-it-cant-be-all-bad-surely",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "But it can’t be all bad, surely?",
+    "text": "But it can’t be all bad, surely?"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#types-of-crisis-episode",
+    "href": "content/Week12/lecture.slides.html#types-of-crisis-episode",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Types of Crisis Episode",
+    "text": "Types of Crisis Episode"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#phase-model",
+    "href": "content/Week12/lecture.slides.html#phase-model",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Phase Model",
+    "text": "Phase Model"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#themes-descriptors",
+    "href": "content/Week12/lecture.slides.html#themes-descriptors",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Themes / Descriptors",
+    "text": "Themes / Descriptors"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#data-collection-robinson2013a",
+    "href": "content/Week12/lecture.slides.html#data-collection-robinson2013a",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Data Collection Robinson et al. (2013)",
+    "text": "Data Collection Robinson et al. (2013)"
+  },
+  {
+    "objectID": "content/Week12/lecture.slides.html#coding-robinson2103a",
+    "href": "content/Week12/lecture.slides.html#coding-robinson2103a",
+    "title": "Lecture 12:  The wider research toolbox",
+    "section": "Coding (Robinson2103a?)",
+    "text": "Coding (Robinson2103a?)"
   }
 ]
