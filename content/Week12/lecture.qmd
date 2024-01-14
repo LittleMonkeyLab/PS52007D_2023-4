@@ -1,0 +1,123 @@
+---
+title: "Lecture 12: <br> The wider research toolbox"
+subtitle: "The right tool for the job"
+image: "lecture.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "01/08/2024"
+date-format: long
+license: "CC BY-NC-SA"
+# footer: 
+citations-hover: true
+categories: 
+  - "Lecture"
+  - "Week 11"
+format: 
+  pdf: default
+  # pptx: default
+  html: default
+  # docx: default
+  revealjs: 
+    title-slide-attributes: 
+      data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
+    header-logo: "/images/rmmonkey.png"
+    header: "Research Methods Lecture 12 - The broader toolbox" # Replace it
+    hide-from-titleSlide: "text"
+    slide-number: c/t
+    mainfont: Atkinson Hyperlegible
+    menu: true
+    controls: true
+    incremental: true
+    navigation-mode: linear
+    controls-layout: edges
+    show-slide-number: all
+    filters:
+      - reveal-header
+      - fontawesome
+    preview-links: true
+
+    embed-resources: true
+    margin: 0.2
+    smaller: false
+    pdf-page-height-offset: -2
+    max-width: 90%
+    max-scale: 2.0
+    pdf-max-pages-per-slide: 1
+    output-ext: slides.html
+    
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+# The Wider Research Toolbox/Toybox
+
+## Introduction
+
+-   This week I am going to discuss some of my own work.
+-   As usual, I want to focus on the methods primarily, and since any
+    topic will do...
+-   
+-   Key objective: Show how different methods can bring different
+    insights.
+
+## Overview of Research Methods
+
+### Quantitative Research
+
+I started with the hope of identifying how Mirror Neurons helped
+deceptive ability
+
+What a dork.
+
+In an autism lab! fMRI ---
+
+### Qualitative Research
+
+## IPA with Jonathan Smith and Oliver Robinson - Quarterlife Crisis
+
+### Mixed Methods
+
+------------------------------------------------------------------------
+
+## Data Collection Techniques
+
+### Surveys and Questionnaires
+
+------------------------------------------------------------------------
+
+### Interviews and Focus Groups
+
+------------------------------------------------------------------------
+
+### Observational Studies
+
+------------------------------------------------------------------------
+
+## Data Analysis
+
+### Statistical Analysis
+
+------------------------------------------------------------------------
+
+### Thematic Analysis
+
+------------------------------------------------------------------------
+
+## Ethical Considerations in Research
+
+------------------------------------------------------------------------
+
+## Conclusion
+
+------------------------------------------------------------------------
+
+## Q&A Session
+
+# Any Questions?
+
+## References
