@@ -1,0 +1,46 @@
+---
+title: "Lab Template: <br> Template Title"
+subtitle: "Template Subtitle"
+# image: "lab.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "01/09/2023"
+date-format: long
+license: "CC BY-NC-SA"
+citations-hover: true
+categories: 
+  - "Lab"
+  - "Week Template"
+
+format: 
+  # pdf: default
+  # pptx: default
+  # html: default
+  # docx: default
+  revealjs: 
+    title-slide-attributes: 
+      data-background-color: "#6667ab" # Very Peri 2022 Color of the year
+    header-logo: "/images/rmmonkey.png"
+    header: "Research Methods Lab Template - Template" # Replace it
+    hide-from-titleSlide: "text"
+    slide-number: c/t
+filters:
+  - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+# Overview of today's lab activities
+
+1.  Template
+
+2.  Template
+
+3.  Template
+
+## Stuff
