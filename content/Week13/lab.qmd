@@ -1,0 +1,64 @@
+---
+title: "Lab 13: <br> Open Materials"
+subtitle: "Goal: 100% Replicability"
+# image: "lab.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "01/09/2023"
+date-format: long
+license: "CC BY-NC-SA"
+citations-hover: true
+categories: 
+  - "Lab"
+  - "Week Template"
+
+format: 
+  # pdf: default
+  # pptx: default
+  # html: default
+  # docx: default
+  revealjs: 
+    title-slide-attributes: 
+      data-background-color: "#6667ab" # Very Peri 2022 Color of the year
+    header-logo: "/images/rmmonkey.png"
+    header: "Research Methods Lab 13 - Open Materials" # Replace it
+    hide-from-titleSlide: "text"
+    slide-number: c/t
+filters:
+  - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+# Overview of today's lab activities
+
+1.  Keep on collecting data
+
+2.  Understand the Submission Requirements for your Mini-Dissertation
+
+3.  Start considering what goes in to your Mini-Dissertation
+
+## Data Collection
+
+Please take part in the Study Swap and email Gordon with any new studies
+coming online
+
+## See what a Mini-Dissertation submission looks like
+
+1 - The Mini-Diss itself
+
+2 - Open Data (e.g. Excel)
+
+3 - Open Materials (e.g. pdf)
+
+![](/content/MiniDissWriting/images/O6.png)
+
+## Review the Mini-Dissertation Writing Guide ch03 - Open Materials
+
+You are able to start assembling the Open Materials (as well as writing
+your Method section) as soon as you have ethical approval!

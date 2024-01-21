@@ -1,0 +1,167 @@
+project:
+  type: website
+  output-dir: _site
+  # post-render: 
+  #   - "scripts/post_render.R"
+    
+  # preview:
+  #   port: 4200
+  resources:
+  - /downloads
+  - /datasets
+  - /readings
+modulecode: PS52007D
+bibliography:
+- references.bib
+- textbook.bib
+csl: apa7.csl
+citeproc: true
+date-format: "dddd, DD MMMM, YYYY"
+
+    
+website:
+  title: Research Methods <br> in Psychology 23/24
+  image: rmmonkey.png
+  google-analytics: G-KS294259KL
+  site-url: https://quarto.org
+  repo-url: https://github.com/LittleMonkeyLab/PS52007D_23-24
+  issue-url: https://github.com/LittleMonkeyLab/PS52007D_23-24/issues/new/choose
+  repo-actions:
+  - edit
+  - issue
+  comments: 
+    hypothesis:
+      theme: clean
+      openSidebar: false
+  page-footer:
+    left: |
+      Content {{< fa brands creative-commons >}} 2023 by Dr. Gordon Wright <br>
+      All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
+      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+    right: |
+      Made with ❤️, {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      [View the source at {{< fa brands github >}} GitHub](https://github.com/LittleMonkeyLab/PS52007D_23-24)
+    background: '#BE3455'
+  navbar:
+    background: '#BE3455'
+    logo: images/rmmonkey.png
+    search: false
+    left:
+    - text: Module Information
+      file: index.qmd
+    - text: Weekly Schedule
+      file: schedule.qmd
+    right:
+    - text: "Week Overviews"
+      file: overview/index.qmd
+    - text: "Slides"
+      file: slides/index.qmd
+    # - text: "Lectures"
+    #   file: slides/week**/lectures/index.qmd
+    # - text: "Labs"
+    #   file: labs/index.qmd
+    - text: "Worksheets"
+      file: worksheets/index.qmd
+    - text: "Extras"
+      file: extras/index.qmd
+  sidebar:
+    background: '#BE3455'
+    collapse-level: 1
+    logo: images/rmmonkey.png
+    style: docked
+    tools:
+    - icon: github
+      href: https://github.com/LittleMonkeyLab/PS52007D_23-24
+      text: GitHub
+    - icon: cloud-fill
+      href: https://learn.gold.ac.uk/course/view.php?id=24607
+      text: ModuleVLE
+    contents:
+      - section: "Overview"
+        contents:
+          - overview/index.qmd
+          - overview/overview01.qmd
+          - overview/overview02.qmd
+          - overview/overview03.qmd
+          - overview/overview04.qmd
+          - overview/overview05.qmd
+          # - basics-jupyter.qmd
+      - section: "Slides"
+        contents:
+          - slides/week00/lecture.qmd
+          - slides/week00/lab.qmd
+          - slides/week01/lecture.qmd
+          - slides/week01/lab.qmd
+          - slides/week02/lecture.qmd
+          - slides/week02/lab.qmd
+          - slides/week03/lecture.qmd
+          - slides/week03/lab.qmd
+          - slides/week04/lecture.qmd
+          - slides/week04/lab.qmd
+          - slides/week05/lecture.qmd
+          - slides/week05/lab.qmd
+      - section: "Worksheets"
+        contents:
+          - worksheets/worksheet01.qmd
+          - worksheets/worksheet02.qmd
+          - worksheets/worksheet03.qmd
+          - worksheets/worksheet04.qmd
+          - worksheets/worksheet05.qmd
+      # - section: "Extras"
+      #   contents:
+      #     - extras/index.qmd
+    # - section: Overview
+    #   contents: overview/*
+    # - section: Slides
+    #   contents: slides/week**/*
+    # - section: Worksheets
+    #   contents: worksheets/*
+    # - section: Extras
+    #   contents: extras/*
+    # - section: MiniDiss
+    #   contents: minidiss/*
+format:
+  html:
+    theme: simplex
+    mainfont: Atkinson Hyperlegible
+    monofont: Fira Code
+    toc: true
+    code-fold: true
+    linkcolor: "#BE3455"
+    code-overflow: wrap
+    embed-resources: true
+
+    css:
+    - include/webex.css
+    - styles.css
+    include-after-body: include/webex.js
+    # df-print: kable
+    filters: 
+      - fontawesome
+      - reveal-header
+  
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 300px
+  pdf:
+    mainfont: Atkinson Hyperlegible
+    sansfont: Atkinson Hyperlegible
+    monofont: Fira Code
+    toc: false
+    # template-partials:
+    # - partials/before-body.tex
+    # - partials/title.tex
+    include-in-header:
+      text: |
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyfoot[C]{\thepage}
+        \renewcommand{\headrulewidth}{0.4pt}
+        \renewcommand{\footrulewidth}{0.4pt}
+    include-before-body: 
+      text: |
+        \raggedright
+execute:
+  freeze: false

@@ -1,0 +1,16 @@
+{
+  "hash": "0943ca4bff98464aa7b30e245387f872",
+  "result": {
+    "markdown": "---\ntitle: \"Lab 02: <br> Literature Masterclass\"\nsubtitle: \"Can't make bricks without clay\"\nimage: \"lab.png\"\nauthor: \n  - name: \"Dr. Gordon Wright\"\n    orcid: 0000-0001-9424-5743\n    email: g.wright@gold.ac.uk\ndate: \"10/10/2023\"\ndate-format: long\nlicense: \"CC BY-NC-SA\"\ncitations-hover: true\ncategories: \n  - \"Lab\"\n  - \"Week 2\"\nparams:\n  class: \"lab02\"\nformat: \n  # pdf: default\n  pptx: default\n  html: default\n  docx: default\n  revealjs: \n    title-slide-attributes: \n      data-background-color: \"#6667ab\" # Very Peri 2022 Color of the year\n    header-logo: \"/images/rmmonkey.png\"\n    header: \"Research Methods Lab 02 - Literature Masterclass\" # Replace it\n    hide-from-titleSlide: \"text\"\n    slide-number: c/t\nfilters:\n  - reveal-header\nexecute:\n echo: false\n freeze: auto\nembed-resources: true\n  # Title page populated by content above\n---\n\n::: {.cell}\n\n:::\n\n\n\n# Overview of Lab 02\n\n## Please sit in your Personal Tutor Groups and in your Lab Groups.\n\n-   Students who missed last week or are ungrouped - identify yourself\n    and stay nearby.\n-   If you are 'grouped' - please open the Miro Board and complete a\n    group form Members - Full names - Topic - Methods - Working style\n\n## Main Lab Activities\n\n-   Follow the Worksheet for Literature Searching Tips, resources and\n    exercises - this can be productive work towards BOTH your\n    Personality Essay AND your Critical Proposal/Mini-Dissertation.\n    Don't waste the time.\n-   (Re-)Familiarise yourself with the idea of Effect Sizes and see if\n    you can find one relevant to either `academic success` or your\n    research topic\n-   The Lab Tutor will be circulating and looking at work `on screen` to\n    see how you are doing. Ask for any help you need.\n\n## Module Milestones (by end of this week)\n\n-   I'm in my group and we have a plan\n-   I've got a rough idea of the Topic of my Mini-Dissertation\n-   If after today, I sit down and read, or jot down ideas, whether for\n    Essay or MD - it's useful productive work\n",
+    "supporting": [
+      "lab_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

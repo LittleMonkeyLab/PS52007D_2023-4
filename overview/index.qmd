@@ -1,0 +1,65 @@
+---
+title: "Week 00: General Overview"
+subtitle: "Start as you mean to go on!"
+description: "Welcome Week"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "09/29/2023"
+date-format: long
+categories: "Overview"
+format: 
+  html: default
+---
+
+# How to prepare for each week in Research Methods
+
+Many hundreds of years ago, I was a Boy Scout, before that, I was a
+Brownie too, but that's a story for another day. 'Be Prepared' is a
+valuable piece of advice.
+
+And that's what I'm trying to help with here. You aren't going to get
+the most out of the timetabled sessions, or your extensive independent
+study, if you don't have a fair idea of what you need to do, by when,
+and what each activity entails.
+
+Your teaching team goes to a great deal of effort to answer any and all
+questions you might have, and we engineer the lectures and labs to
+preview any expected questions and also allow space for questions of the
+unexpected variety. But you have to ask them. To do this, you need to
+have a look ahead and identify anything that needs clarification.
+
+Each week, the Lab Tutors assemble a list of the FAQs from each lab and
+check to see if any themes are emerging and Gordon will then communicate
+any relevant answers via the module forum.
+
+Remember, a lack of preparation on your part is not an emergency on our
+part. And if you aren't clear on what you need to do, it's down to you
+to review all the VLE page content for information (it will be there),
+or ask the question via the forum or discuss it with your Lab Tutor in
+the lab.
+
+Lectures are pretty straightforward. The content will be released on the
+Wednesday prior to the timetabled session, and will comprise both a
+`prepare` summary like this, but also the lecture slides and signposts
+to key readings. I release these on a Wednesday, as it allows me to
+incorporate any changes arising from the labs or the previous lecture.
+
+Review the lecture slides, have a poke around in the readings and try to
+familiarise yourself with any concepts that may be new to you. But the
+major point of the lectures is that you come along, pin back your ears,
+and engage with the content. More on that in the Module Overview.
+
+You have a 2 hour lab each week, and although there will be some guided
+activities and skills shared, these sessions are 'working sessions' -
+designed to allow you to work productively on your Mini-Dissertations
+individually, or more usually, in your groups. It is expected that you
+coordinate with your group between classes, it's not a great use of the
+session to use that to catch everyone up on things and have a bit of
+bants. 2 hours of industry will keep you moving through the stages of
+the module well, reducing the amount of time you might need to work
+independently, or more realistically, freeing that up for other things
+you need to prioritise, whether it's work, life, or love.
+
+Or walkies with the faithful hound! ta ta G

@@ -1,0 +1,429 @@
+---
+title: "Mini-Dissertation Write-up Guide"
+subtitle: "Part 02 - Method Section"
+
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "01/15/2024"
+date-format: long
+license: "CC BY-NC-SA"
+---
+
+# Method Section
+
+::: {.callout-important icon="false"}
+## Learning Objectives
+
+1.  Review the key features of a complete Method section in APA reports
+2.  Identify key information required for each sub-section in the
+    Mini-Dissertation method section
+3.  Offset common errors and ensure good pre-submission checking
+:::
+
+## Talking Methods
+
+In this chapter, you will learn how to craft a comprehensive and clear
+Methods section for your mini-dissertation. The Method section is not
+just a procedural description but a showcase of your meticulous planning
+and execution of research, adhering to the principles of Open Science by
+also attaching an Open Materials submission (to be covered later in
+detail).
+
+## Method {.unnumbered}
+
+The method section is where you describe how you conducted your study.
+An important principle for writing a method section is that it should be
+clear and detailed enough that other researchers could replicate the
+study by following your "recipe." This means that it must describe all
+the important elements of the study---basic demographic characteristics
+of the participants, how they were recruited, whether they were randomly
+assigned, how the variables were manipulated or measured, how
+counterbalancing was accomplished, and so on. At the same time, it
+should avoid irrelevant details such as the fact that the study was
+conducted in Classroom 37B of the Industrial Technology Building or that
+the questionnaire was double-sided and completed using mechanical
+pencils.
+
+The method section begins immediately after the introduction ends with
+the heading "Method" (not "Methods" - I'm always making that mistake!)
+centered on the page. Immediately after this is the subheading
+"Participants," left justified and in italics. The participants
+subsection indicates how many participants there were, the number of
+male, female and other/prefer not to say (or any response options you
+offered), some indication of their age, other demographics that may be
+relevant to the study, and how they were recruited, including any
+incentives given for participation.
+
+::: {.callout-note icon="false"}
+## APA Style and the Values of Psychology
+
+Robert Madigan and his colleagues have argued that APA style has a
+purpose that often goes unrecognized [@madigan1995language].
+Specifically, it promotes psychologists' scientific values and
+assumptions. From this perspective, many features of APA style that at
+first seem arbitrary actually make good sense. Following are several
+features of APA-style writing and the scientific values or assumptions
+they reflect.
+
+```{r values, echo = FALSE, }
+feature <- c("There are very few direct quotations of other researchers.",
+             "",
+             "Criticisms are directed at other researchers’ work but not at them personally.",
+             "",
+             "There are many references and reference citations.","","Empirical research reports are organized with specific sections in a fixed order.",
+             "",
+             "Researchers tend to “hedge” their conclusions, e.g., “The results suggest that…”")
+value <- c("The phenomena and theories of psychology are objective and do not depend on the specific words a particular researcher used to describe them.",
+           "",
+           "The focus of scientific research is on drawing general conclusions about the world, not on the personalities of particular researchers.",
+           "",
+           "Scientific research is a large-scale collaboration among many researchers.",
+           "",
+           "There is an ideal approach to conducting empirical research in psychology (even if this ideal is not always achieved in actual research).",
+           "",
+           "Scientific knowledge is tentative and always subject to revision based on new empirical results.")
+values <- data.frame(feature,value)
+
+knitr::kable(values,
+  col.name=c("APA style feature","Scientific value or assumption"))
+```
+:::
+
+### Purpose of the Method Section
+
+-   The Method section is crucial for allowing others to replicate your
+    study, ensuring the reliability and validity of your research
+    findings.
+-   A well-documented Method section demonstrates your thorough
+    understanding of research methodologies, earning you credibility and
+    potentially higher marks.
+
+### Overview of APA 7 Formatting
+
+-   APA7 emphasizes clarity, precision, and a bias-free language in
+    research writing. The simple way of understanding if a Method
+    section is complete and effective is to ask yourself, "Could Gordon
+    take my Method section (and Open Materials) and replicate my study
+    perfectly?". Don't include obvious information, such as the colour
+    of ink in pens or stuff I could figure out. Just the important
+    information!
+-   Consistency in formatting, such as headings, font, and citation
+    style (APA7), is key. If you are unclear on the appropriate format,
+    either use the template Gordon has provided, or refer to
+    apastyle.org for numerous examples.
+-   Use past tense to describe the methods used: "Participants were
+    asked...", "The study used...". You have completed the study after
+    all.
+
+A previous edition of the *Publication Manual* strongly discouraged the
+use of the term *subjects* (except for nonhumans) and strongly
+encouraged the use of *participants* instead. But it also encourages the
+use of more specific terms when possible: *college students*,
+*children*, *respondents*, and so on. If in doubt, refer to
+PARTICIPANTS!
+
+Table 2 (below) contains some of the most common types of APA style
+errors based on an analysis of manuscripts submitted to one professional
+journal over a 6-year period \[@onwuegbuzie2010evidence\]. These errors
+were committed by professional researchers but are probably similar to
+those that students commit the most too. See also Note "[O]" in this
+section and, of course, the *Publication Manual* itself.
+
+```{r errors, echo = FALSE, }
+error <- c("1. Use of numbers","2. Hyphenation","3. Use of et al.","4. Headings","5. Use of since","6. Tables and figures","7. Use of commas","8. Use of abbreviations","9. Spacing","10. Use of & in references")
+example <- c("Failing to use numerals for 10 and above","Failing to hyphenate compound adjectives that precede a noun (e.g., “role playing technique” should be “role-playing technique”)","Failing to use it in a reference","Not capitalizing headings correctly","Using since to mean because","Not formatting them in APA style; repeating information that is already given in the text","Failing to use a comma before and or or in a series of three or more elements","Failing to spell out a term completely before introducing an abbreviation for it","Not consistently double-spacing between lines","Using & in the text or *and* in parentheses")
+errors <- data.frame(error,example)
+
+knitr::kable(errors,
+  col.name=c("Error type","Example"), caption = 'Top 10 APA-Style Errors.')
+```
+
+::: callout-tip
+## Online APA Style Resources again 🤓 
+
+The best source of information on APA style is the *Publication Manual*
+itself. However, there are also many good websites on APA style, which
+do an excellent job of presenting the basics for beginning researchers.
+Here are two of them.
+
+APA Style: <http://www.apastyle.apa.org>
+
+Purdue Online Writing Lab:
+<https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html>
+:::
+
+## Participants
+
+In this section, describe who participated in your study, how they were
+selected or recruited, and any demographic information relevant to your
+research question. If you used a nice poster, that would look great in
+your Open Materials submission.
+
+Begin by reporting sample characteristics, sampling procedures, and
+sample size. Include demographic characteristics and be precise to aid
+estimation of generalizability. Use bias-free language and specify any
+incentives for participation.
+
+Please be clear if you took advantage of any research participation
+schemes or synthetic or fabricated data provided by Gordon.
+
+### Sample Description
+
+-   Provide details like age, gender, ethnicity, or other relevant
+    characteristics.
+-   Example: "The study comprised 100 undergraduate students (50%
+    female, 50% male), aged 18-25, from a South London University."
+-   You may also wish to include how many participants were excluded for
+    missing data (if any).
+
+### Ethical Considerations
+
+-   Explain how participants gave informed consent and how you protected
+    their privacy. You will be able to demonstrate anonymisation of the
+    data in the Open Data (to be covered later!)
+-   Mention the ethical approval received from the Goldsmiths Ethics
+    Committee. Don't break anonymity by including an unredacted copy in
+    any supplementary materials!
+
+## Materials
+
+This section covers the tools, questionnaires, or any equipment used in
+your research. The goal is to describe the tools and techniques used for
+measuring ALL relevant variables. Include questionnaire or survey
+measures, and detail any instruments or task used, like hardware,
+software, or tests. Don't repeat information, so if you Procedure
+section includes the correct step by step information on. say, a task,
+refer to it by name here maybe, and detail it in the procedure. Or if
+you think there is value in detailing it here, just refer to it by name
+in the procedure section.
+
+### Instruments and Reliability
+
+-   Describe each tool used and its purpose in your research.
+-   Discuss the reliability and validity of these tools. It might be
+    worth looking back to your introduction to see if it is worth
+    including any findings associated with the tests you have used. Most
+    people don't cover the merits of the choice of measurement tools
+    when reviewing previous research.
+-   Example: "The Big Five Personality Test (reference in APA format),
+    with a Cronbach's alpha of .82, was used to assess \[x, y\]
+    personality traits"
+
+### Open Materials
+
+-   Briefly note that detailed discussion on Open Materials is covered
+    in a different section, but highlight their importance in enhancing
+    replicability and transparency of research.
+-   Example: "Details on the questionnaires used, including their full
+    text, are provided in the Open Materials section."
+
+## Procedure
+
+Detail every step taken in your research, especially how you implemented
+the 2x2 ANOVA, to allow for replication.
+
+### Detailed Description
+
+-   Start from the initial setup and move through to the data collection
+    phase.
+-   For a 2x2 ANOVA, specify the factors (independent variables) and
+    their levels.
+-   Example: "Participants were randomly assigned to one of four groups
+    (2x2 design: Factor A \[Level one, Level two\], Factor B \[Level
+    one, Level two\]). The response time was measured following the
+    presentation of stimuli."
+
+### Pilot Studies
+
+-   If applicable, describe any pilot study and its influence on the
+    main study.
+-   Example: "A pilot study with four classmates was conducted to test
+    the feasibility of the experimental design. Based on the pilot
+    results, minor adjustments were made to ensure the clarity of
+    instructions given to participants (see Open Materials for
+    instruction sheet)."
+
+## Design
+
+Explain the research design and clarify the variables involved in your
+study.
+
+You have 2 IVs and a single continuous DV. It is important to present
+how your IVs were categorised, so if you used a median split to turn a
+continuous measure into a categorical IV - make that clear here.
+
+### Research Design
+
+-   Emphasize that your study is quantitative and primarily uses a 2x2
+    ANOVA design.
+-   You will have used a between-groups design, a repeated-measures
+    design or a mixed design, make this clear, and if mixed, which IV is
+    which!
+-   It can be a good idea to explain why this design was chosen for your
+    research question.
+
+### Variables
+
+-   Define your independent variables (the two factors in your ANOVA -
+    each with 2 levels) and your dependent variable (what you measured).
+-   Example: "The independent variables were age group (young, old using
+    a median split on Age \[median 25 yrs\]) and treatment type
+    (treatment, control). The dependent variable was memory recall
+    accuracy (percentage correct)."
+
+## Keeping design and procedure separate!
+
+What is the difference between design and procedure?
+
+-   The design of a study is its overall structure.
+-   What were the independent and dependent variables?
+-   Was the independent variable manipulated, and if so, was it
+    manipulated between or within subjects?
+-   How were the variables operationally defined?
+
+The procedure is how the study was carried out.
+
+-   It often works well to describe the procedure in terms of what the
+    participants did rather than what the researchers did.
+-   For example, the participants gave their informed consent, read a
+    set of instructions, completed a block of four practice trials,
+    completed a block of 12 test trials[^1], completed two
+    questionnaires, and were debriefed and excused.
+
+[^1]: Note four and 12 above. See APA Style - One to nine are spelled
+    out, 10 + can be written as digits!
+
+## Data Preparation (optional section if merited)
+
+If you had any complex preprocessing steps, of which you were proud,
+such as 'coding' of responses, or calculating Implicit measures or
+Stroop results, discuss how you processed that. .
+
+### Statistical Analysis will be covered in the Results section
+
+-   This will comprise Descriptive Stats, Inferential stats (including
+    Assumptions tests and post-hoc tests), as well as tables and
+    figures. You do not need to include any of these things in the
+    method section.
+
+### Open Materials and Open Data (to be covered later)
+
+-   Mention that Open Materials and Open Data will be included and so
+    can be referred to. Let the reader know that they are available,
+    like appendices.
+-   Example: "The anonymised dataset generated from this study, along
+    with the Materials necessary to replicate the study, are available
+    in the Open Data & Open Materials supplements, ensuring transparency
+    and reproducibility of the findings."
+
+### Ethical Compliance
+
+-   Describe the process of obtaining ethical clearance and how you
+    adhered to ethical guidelines throughout the study.
+-   Example: "Ethical clearance was obtained from the XYZ University
+    Ethics Committee, and all research activities were conducted in
+    accordance with appropriate Ethics committee and BPS guidance."
+
+## Writing Style and Formatting
+
+Guidelines for effectively communicating your methods in line with APA 7
+standards.
+
+::: callout-tip
+## Tips for Writing
+
+-   **Use simple, understandable language** and explain specific terms.
+-   **Write in Active Voice.**
+-   Titles of subsections can be *italicized* and centered.
+-   Additional subsections, like "Equipment," can be added if necessary.
+-   Ensure **information sources are credible**.
+-   Include only relevant information and omit details that don't affect
+    the experiment's replication.
+-   **Write in Past Tense.**
+-   Carefully **edit and proofread** to avoid errors.
+:::
+
+::: callout-warning
+## Common Mistakes to Avoid
+
+-   Overloading with unnecessary details that do not contribute to
+    replicability.
+
+-   Failing to use **bias-free language**.
+
+-   Not being precise in the description of materials and procedures,
+    including references or sources.
+
+-   Incorrect use of **APA formatting and style**, especially in
+    headings and subheadings.
+:::
+
+{{< pagebreak >}}
+
+### Method Section Awesomeness Checklist
+
+#### 1. Formatting and Structure
+
+-   [ ] Main heading ("Method") is centered, bold, and capitalized.
+-   [ ] Subheadings (e.g., "Participants," "Materials," "Procedure") are
+    left-aligned, bold, and in title case.
+
+#### 2. Participants
+
+-   [ ] Detailed description of participant characteristics (age,
+    gender, ethnicity, etc.).
+-   [ ] Explanation of sampling procedures and selection criteria.
+-   [ ] Reporting of sample size and explanation of how it was
+    determined.
+-   [ ] Mention of any compensation or incentives for participation.
+-   [ ] Use of bias-free language.
+
+#### 3. Materials
+
+-   [ ] Comprehensive list of materials, tools, and equipment used.
+-   [ ] Detailed description of measures and instruments (including
+    versions of software, etc.).
+-   [ ] Explanation of the reliability and validity of measurement
+    tools.
+
+#### 4. Procedure
+
+-   [ ] Step-by-step description of the experimental procedure.
+-   [ ] Explanation of data collection methods.
+-   [ ] Details on research design and methodologies used.
+-   [ ] Description of data analysis procedures and statistical tests
+    applied.
+
+#### 5. Clarity and Precision
+
+-   [ ] All terms and concepts are clearly defined.
+-   [ ] The section is written in active voice and past tense.
+-   [ ] Content is relevant and directly related to the study's
+    replication.
+
+#### 6. APA Compliance
+
+-   [ ] Adherence to APA style in headings, citations, and overall
+    formatting.
+-   [ ] Correct use of APA format for figures, tables, and appendices
+    (if any).
+
+#### 7. Editing and Proofreading
+
+-   [ ] The section is thoroughly proofread for grammar, spelling, and
+    punctuation errors.
+-   [ ] All information is accurate and up-to-date.
+-   [ ] The writing is concise and free of unnecessary details.
+
+#### 8. Ethical Considerations
+
+-   [ ] Mention of ethical approval (if applicable).
+-   [ ] Assurances of participant confidentiality and data handling.
+
+## This is a visual for the headings according to APA7
+
+![](images/Methods%20snapshot@2x.png)
+
+## References
