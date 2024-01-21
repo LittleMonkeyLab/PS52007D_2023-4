@@ -1,6 +1,6 @@
 ---
-title: "Lecture Template: <br> Template"
-subtitle: "Template"
+title: "Lecture 13: <br> Philosophy of Science"
+subtitle: "An initial overview"
 image: "lecture.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -23,7 +23,7 @@ format:
     title-slide-attributes: 
       data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
     header-logo: "/images/rmmonkey.png"
-    header: "Research Methods Lecture Template - Template!" # Replace it
+    header: "Research Methods Lecture 13 - Philosophy of Science" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
     mainfont: Atkinson Hyperlegible
@@ -54,31 +54,143 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-## Template
+# Is Psychology a Science?
 
-I apologise for my unexpected absence at the end of last term.
+## The Ongoing Debate
 
-It was unavoidable, but I shall endeavour to repay your patience this
-year.
+-   **Positivism in Psychology**: Traditional view supporting
+    quantitative methods, treating human behavior as stable, measurable
+    facts.
+-   **Qualitative Shift**: A focus on dynamic, ever-changing aspects of
+    human behavior, challenging the idea of fixed patterns, and possibly
+    facts!
+-   Source: @parker2011
 
-## Template
+## The Role of Qualitative Research
 
--   An overview of the CHIP Learning Log coursework
+-   **Qualitative vs. Quantitative**: The debate isn't about the
+    validity of quantification but the quality of its application in
+    psychology.
+-   Where is Psychology's non-stick frying pan? [@banyard2015]
+-   **Advancing Scientific Debate**: Qualitative research is at the
+    forefront of discussions about the nature of scientific inquiry in
+    psychology.
+-   Source: [@parker2004]
 
--   Lab activity this term - Data collection, data preparation, analysis
-    and writing up.
+# The Structure of Scientific Revolutions
 
-# Template Section
+![](images/Kuhn.png){width="500"}
 
-## Template
+[Kuhn -
+Structure](https://folk.ntnu.no/krill/bioko-references/Kuhn%201962.pdf)
 
-::: incremental
-Template
+## Paradigm Shifts
 
--   Template
--   Template
--   Template
-:::
+-   **Thomas Kuhn's Theory**: Science progresses through paradigm shifts
+    rather than linear accumulation of knowledge.
+
+-   **Application in Psychology**: Shifts from behaviorism to cognitive
+    psychology, and then to more integrated approaches.
+
+    [![The Kuhn Cycle - Thomas Kuhn\'s Brilliant Model of How Scientific
+    Fields
+    Progress](https://www.thwink.org/sustain/glossary/images/KuhnCycle/KuhnCycle_BasicCycle.png){alt="The Kuhn Cycle - Thomas Kuhn's Brilliant Model of How Scientific Fields  Progress"}](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thwink.org%2Fsustain%2Fglossary%2FKuhnCycle.htm&psig=AOvVaw04LfmMxZhmmD5XrcPyK7NP&ust=1705950281293000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiqlZaW74MDFQAAAAAdAAAAABAG)
+
+## Implications for Psychological Research
+
+-   **Changing Research Methods**: Embracing diverse methodologies
+    reflecting evolving paradigms in psychology.
+-   **Interdisciplinary Influence**: Incorporating insights from
+    philosophy, sociology, and neuroscience into psychological research.
+
+## Psychology as a 'Soft Science'
+
+-   Psychology compared to pre-scientific stages of sciences
+-   The debate over applying 'the scientific method' in psychology
+-   The importance of being phenomenon-centered and problem-centered
+-   Misalignment of methods with research questions
+
+@uher2021
+
+# Conclusion?
+
+## Psychology and Science
+
+-   **Dynamic and Evolving**: Psychology, like other sciences, undergoes
+    paradigm shifts and methodological evolution.
+-   **Beyond Traditional Boundaries**: The discipline is increasingly
+    recognizing the value of qualitative, subjective, and diverse
+    approaches to understanding the human mind and behavior.
+
+------------------------------------------------------------------------
+
+# Karl Popper and Falsification
+
+## The Principle of Falsification
+
+-   **Karl Popper's Contribution**: Emphasized the importance of
+    falsifiability in scientific theories.
+-   **Falsification vs. Verification**: Popper argued that scientific
+    theories can never be completely verified, but they can be
+    falsified.
+-   **Impact on Psychology**: Encourages rigorous testing of hypotheses
+    and openness to disconfirming evidence in psychological research.
+
+## Critiques and Legacy
+
+-   **Practical Challenges**: Difficulties in applying falsification
+    principle in complex fields like psychology.
+-   **Enduring Influence**: Popper's ideas continue to influence
+    scientific methodology and philosophical discussions in psychology.
+
+# Epistemology
+
+## Epistemology
+
+-   **Definition**: The study of knowledge -- its nature, origin, and
+    limits.
+-   **Relevance to Psychology**: Helps in understanding how we acquire
+    knowledge about human behavior and mental processes.
+-   How do we know what we know, or get to know something new?
+
+# Understanding the **Ideographic/Nomothetic** Divide
+
+[![](images/Qual@2x.png)](https://www.bps.org.uk/psychologist/looking-back-war-words)
+
+## Ideographic Approach
+
+-   **Focus**: Emphasizes the unique aspects of individual cases or
+    phenomena.
+-   **Methodology**: Often uses qualitative methods, such as case
+    studies, to explore complex, subjective experiences.
+-   **Goal**: To understand the depth and complexity of individual
+    experiences.
+
+## Nomothetic Approach
+
+-   **Focus**: Seeks to identify general laws and patterns that apply
+    across multiple cases.
+-   **Methodology**: Employs quantitative methods, like experiments and
+    surveys, to gather data on larger populations.
+-   **Goal**: To formulate generalizations and broad theories applicable
+    to many.
+
+# Implications in Psychological Research
+
+## Balancing Perspectives
+
+-   **Integrating Approaches**: Both ideographic and nomothetic methods
+    offer valuable insights; combining them can lead to a more holistic
+    understanding of psychological phenomena.
+-   **Challenges in Quantitative Research**: The need to acknowledge and
+    address the reflexive capacity of human beings and the meaningful
+    nature of data from aggregated descriptions of behavior.
+-   **Innovative Research Possibilities**: Opportunities for innovative
+    research that addresses these challenges, respecting the
+    particularities of individual cases within broader patterns.
+-   [@robinson2012a]
+
+# Why should we care about this question?
 
 ## The Esteem of Science
 
@@ -88,65 +200,8 @@ Template
     transferability
 
 ::: footer
-[*Chalmers, 2014*](source)
+[*Chalmers, 2014*](source) What is this thing called Science?
 :::
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## Perception and Scientific Observation
-
--   The common belief: facts about the world are directly given through
-    sight
--   The reality: subjective experiences influence what we observe
--   Example: Different perceptions of the same object or scene
-
-[*Chalmers, 2014*](source)
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## Examples Illustrating Subjective Perception
-
--   Children's puzzles: perception changes with experience
--   In science: learning to see through a microscope, interpreting
-    X-rays
--   The role of knowledge and expectations in what we observe
-
-[*Chalmers, 2014*](source)
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## The Nature of Facts in Science
-
--   Facts in science: not just physical realities but also statements
-    describing them
--   Example: Moon's surface knowledge is derived from statements, not
-    direct observation
--   The necessity of a conceptual framework for understanding facts
-
-[*Chalmers, 2014*](source)
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## The Relationship Between Facts and Theory
-
--   The flawed assumption that facts must precede theory
--   The importance of prior knowledge and conceptual frameworks in
-    observing facts
--   Example: A botanist's ability to observe more than a layperson
-
-[*Chalmers, 2014*](source)
 
 ::: notes
 :::
@@ -160,157 +215,6 @@ Template
     frameworks
 -   The challenge of applying a rigid scientific method to human
     behavior and experiences
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## Is Psychology a Science?
-
--   Traditional views of Psychology
--   Emerging qualitative research perspectives
--   Methodological innovations challenging the norm
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## Psychology's Methodological Battleground
-
--   Psychology's focus on pathology and 'normal' behavior
--   The role of cultural representations in defining 'normalcy'
--   The impact of methodology on understanding psychology
--   Subversion and transformation in qualitative research
-
-[*Parker, 2011*](source)
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## Psychology: Subjects or Objects?
-
--   The paradox of 'subjects' in psychological research
--   The shift from objectifying to understanding subjects
--   The importance of treating research subjects as active agents
--   Avoiding the pitfalls of individualization, essentialization, and
-    psychologization
-
-[*Parker, 2011*](source)
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## Alternative Theoretical Perspectives
-
-1.  Feminism's critique of patriarchal structures in psychology
-2.  Foucault's analysis of psychology as a surveillance tool
-3.  Psychoanalysis as an overly-rationalist discipline
-4.  Marxism's view of psychology serving capitalism
-
-[*Parker, 2011*](source)
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## The Complexity of the Psy-Complex
-
--   The challenge of navigating psychology's broad influence
--   The interplay of discipline and confession in psychology
--   The need for a different approach in qualitative research
-
-[*Parker, 2011*](source)
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## Psychology Across Cultures
-
--   Variations of psychology in different cultural contexts
--   Liberation psychology, English empiricism, Black psychology,
-    Activity theory
--   The importance of contextual understanding in psychological research
-
-[*Parker, 2011*](source)
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## Radical Research and Scientific Inquiry
-
--   Treating subjects as experts of their own lives
--   Challenging established scientific assumptions
--   Embracing subjectivity and the relationship between experts and the
-    world
-
-[*Parker, 2011*](source)
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## Quantitative vs. Qualitative Approaches
-
--   The critique of mainstream quantitative methods
--   The role of statistical knowledge and representation
--   Embracing methodological questions in qualitative research
-
-[*Parker, 2011*](source)
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## Evaluating Research in a Contested Network
-
--   The importance of argument and polemical positions in research
--   The criteria for evaluating qualitative research
--   Making research accountable to a diverse audience
-
-[*Parker, 2011*](source)
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## Methodological Routes to Radical Research
-
-1.  Ethnography
-2.  Interviewing
-3.  Narrative
-4.  Discourse
-5.  Psychoanalysis
-
--   Challenging methodology to foster innovation
--   Considering political stakes in research projects
-
-[*Parker, 2011*](source)
-
-::: notes
-:::
-
-------------------------------------------------------------------------
-
-## Conclusion
-
--   Rethinking the scientific foundation of Psychology
--   Embracing diverse methodologies and perspectives
--   Fostering a broader and more inclusive understanding of
-    psychological research
 
 ::: notes
 :::

@@ -140,7 +140,7 @@ codebook might be useful. But we'll cover that next week.
 
 ![](images/OMdebrief@2x.png)
 
-### Redacted Ethics and Approval 
+### Redacted Ethics and Approval
 
 ![](images/RedactEthicsApproval@2x.png)
 

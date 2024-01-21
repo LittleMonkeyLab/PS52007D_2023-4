@@ -8423,5 +8423,327 @@
     "title": "DangerZone Week 01:  Revvin’ up your engines!",
     "section": "Hidden solutions and hints",
     "text": "Hidden solutions and hints\nYou can fence off a solution area that will be hidden behind a button using hide() before the solution and unhide() after, each as inline R code. Pass the text you want to appear on the button to the hide() function.\nIf the solution is a code chunk, instead of using hide() and unhide(), simply set the webex.hide chunk option to TRUE, or set it to the string you wish to display on the button.\nRecreate the scatterplot below, using the built-in cars dataset.\n\n\n\n\n\n\n\n\n\n\n\nI need a hint\n\nSee the documentation for plot() (?plot)\n\n\n\n\n\nClick here to see the solution\n\n\nCode\nplot(cars$speed, cars$dist)"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#the-ongoing-debate",
+    "href": "content/Week13/lecture.slides.html#the-ongoing-debate",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "The Ongoing Debate",
+    "text": "The Ongoing Debate\n\nPositivism in Psychology: Traditional view supporting quantitative methods, treating human behavior as stable, measurable facts.\nQualitative Shift: A focus on dynamic, ever-changing aspects of human behavior, challenging the idea of fixed patterns, and possibly facts!\nSource: (parker2011?)"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#the-role-of-qualitative-research",
+    "href": "content/Week13/lecture.slides.html#the-role-of-qualitative-research",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "The Role of Qualitative Research",
+    "text": "The Role of Qualitative Research\n\nQualitative vs. Quantitative: The debate isn’t about the validity of quantification but the quality of its application in psychology.\nWhere is Psychology’s non-stick frying pan? (Banyard, 2015)\nAdvancing Scientific Debate: Qualitative research is at the forefront of discussions about the nature of scientific inquiry in psychology.\nSource: (Parker, 2004)"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#paradigm-shifts",
+    "href": "content/Week13/lecture.slides.html#paradigm-shifts",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Paradigm Shifts",
+    "text": "Paradigm Shifts\n\nThomas Kuhn’s Theory: Science progresses through paradigm shifts rather than linear accumulation of knowledge.\nApplication in Psychology: Shifts from behaviorism to cognitive psychology, and then to more integrated approaches.\n\n\n\nThe Kuhn Cycle - Thomas Kuhn's Brilliant Model of How Scientific Fields Progress"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#implications-for-psychological-research",
+    "href": "content/Week13/lecture.slides.html#implications-for-psychological-research",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Implications for Psychological Research",
+    "text": "Implications for Psychological Research\n\nChanging Research Methods: Embracing diverse methodologies reflecting evolving paradigms in psychology.\nInterdisciplinary Influence: Incorporating insights from philosophy, sociology, and neuroscience into psychological research."
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#psychology-and-science",
+    "href": "content/Week13/lecture.slides.html#psychology-and-science",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Psychology and Science",
+    "text": "Psychology and Science\n\nDynamic and Evolving: Psychology, like other sciences, undergoes paradigm shifts and methodological evolution.\nBeyond Traditional Boundaries: The discipline is increasingly recognizing the value of qualitative, subjective, and diverse approaches to understanding the human mind and behavior."
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#template",
+    "href": "content/Week13/lecture.slides.html#template",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Template",
+    "text": "Template\nI apologise for my unexpected absence at the end of last term.\nIt was unavoidable, but I shall endeavour to repay your patience this year."
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#template-1",
+    "href": "content/Week13/lecture.slides.html#template-1",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Template",
+    "text": "Template\n\nAn overview of the CHIP Learning Log coursework\nLab activity this term - Data collection, data preparation, analysis and writing up."
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#template-2",
+    "href": "content/Week13/lecture.slides.html#template-2",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Template",
+    "text": "Template\n\nTemplate\n\nTemplate\nTemplate\nTemplate"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#the-esteem-of-science",
+    "href": "content/Week13/lecture.slides.html#the-esteem-of-science",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "The Esteem of Science",
+    "text": "The Esteem of Science\n\nScience’s high regard in society and academia\nThe assumption that the scientific method leads to reliable results\nThe challenge in defining ‘scientific method’ and its transferability\n\n\nChalmers, 2014"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#perception-and-scientific-observation",
+    "href": "content/Week13/lecture.slides.html#perception-and-scientific-observation",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Perception and Scientific Observation",
+    "text": "Perception and Scientific Observation\n\nThe common belief: facts about the world are directly given through sight\nThe reality: subjective experiences influence what we observe\nExample: Different perceptions of the same object or scene\n\nChalmers, 2014"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#examples-illustrating-subjective-perception",
+    "href": "content/Week13/lecture.slides.html#examples-illustrating-subjective-perception",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Examples Illustrating Subjective Perception",
+    "text": "Examples Illustrating Subjective Perception\n\nChildren’s puzzles: perception changes with experience\nIn science: learning to see through a microscope, interpreting X-rays\nThe role of knowledge and expectations in what we observe\n\nChalmers, 2014"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#the-nature-of-facts-in-science",
+    "href": "content/Week13/lecture.slides.html#the-nature-of-facts-in-science",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "The Nature of Facts in Science",
+    "text": "The Nature of Facts in Science\n\nFacts in science: not just physical realities but also statements describing them\nExample: Moon’s surface knowledge is derived from statements, not direct observation\nThe necessity of a conceptual framework for understanding facts\n\nChalmers, 2014"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#the-relationship-between-facts-and-theory",
+    "href": "content/Week13/lecture.slides.html#the-relationship-between-facts-and-theory",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "The Relationship Between Facts and Theory",
+    "text": "The Relationship Between Facts and Theory\n\nThe flawed assumption that facts must precede theory\nThe importance of prior knowledge and conceptual frameworks in observing facts\nExample: A botanist’s ability to observe more than a layperson\n\nChalmers, 2014"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#conclusion-rethinking-scientific-method-in-psychology",
+    "href": "content/Week13/lecture.slides.html#conclusion-rethinking-scientific-method-in-psychology",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Conclusion: Rethinking Scientific Method in Psychology",
+    "text": "Conclusion: Rethinking Scientific Method in Psychology\n\nRecognizing the influence of subjective experiences on observation\nUnderstanding the interplay between facts, theory, and conceptual frameworks\nThe challenge of applying a rigid scientific method to human behavior and experiences"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#is-psychology-a-science-1",
+    "href": "content/Week13/lecture.slides.html#is-psychology-a-science-1",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Is Psychology a Science?",
+    "text": "Is Psychology a Science?\n\nTraditional views of Psychology\nEmerging qualitative research perspectives\nMethodological innovations challenging the norm"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#psychologys-methodological-battleground",
+    "href": "content/Week13/lecture.slides.html#psychologys-methodological-battleground",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Psychology’s Methodological Battleground",
+    "text": "Psychology’s Methodological Battleground\n\nPsychology’s focus on pathology and ‘normal’ behavior\nThe role of cultural representations in defining ‘normalcy’\nThe impact of methodology on understanding psychology\nSubversion and transformation in qualitative research\n\nParker, 2011"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#psychology-subjects-or-objects",
+    "href": "content/Week13/lecture.slides.html#psychology-subjects-or-objects",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Psychology: Subjects or Objects?",
+    "text": "Psychology: Subjects or Objects?\n\nThe paradox of ‘subjects’ in psychological research\nThe shift from objectifying to understanding subjects\nThe importance of treating research subjects as active agents\nAvoiding the pitfalls of individualization, essentialization, and psychologization\n\nParker, 2011"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#alternative-theoretical-perspectives",
+    "href": "content/Week13/lecture.slides.html#alternative-theoretical-perspectives",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Alternative Theoretical Perspectives",
+    "text": "Alternative Theoretical Perspectives\n\nFeminism’s critique of patriarchal structures in psychology\nFoucault’s analysis of psychology as a surveillance tool\nPsychoanalysis as an overly-rationalist discipline\nMarxism’s view of psychology serving capitalism\n\nParker, 2011"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#the-complexity-of-the-psy-complex",
+    "href": "content/Week13/lecture.slides.html#the-complexity-of-the-psy-complex",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "The Complexity of the Psy-Complex",
+    "text": "The Complexity of the Psy-Complex\n\nThe challenge of navigating psychology’s broad influence\nThe interplay of discipline and confession in psychology\nThe need for a different approach in qualitative research\n\nParker, 2011"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#psychology-across-cultures",
+    "href": "content/Week13/lecture.slides.html#psychology-across-cultures",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Psychology Across Cultures",
+    "text": "Psychology Across Cultures\n\nVariations of psychology in different cultural contexts\nLiberation psychology, English empiricism, Black psychology, Activity theory\nThe importance of contextual understanding in psychological research\n\nParker, 2011"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#radical-research-and-scientific-inquiry",
+    "href": "content/Week13/lecture.slides.html#radical-research-and-scientific-inquiry",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Radical Research and Scientific Inquiry",
+    "text": "Radical Research and Scientific Inquiry\n\nTreating subjects as experts of their own lives\nChallenging established scientific assumptions\nEmbracing subjectivity and the relationship between experts and the world\n\nParker, 2011"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#quantitative-vs.-qualitative-approaches",
+    "href": "content/Week13/lecture.slides.html#quantitative-vs.-qualitative-approaches",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Quantitative vs. Qualitative Approaches",
+    "text": "Quantitative vs. Qualitative Approaches\n\nThe critique of mainstream quantitative methods\nThe role of statistical knowledge and representation\nEmbracing methodological questions in qualitative research\n\nParker, 2011"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#evaluating-research-in-a-contested-network",
+    "href": "content/Week13/lecture.slides.html#evaluating-research-in-a-contested-network",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Evaluating Research in a Contested Network",
+    "text": "Evaluating Research in a Contested Network\n\nThe importance of argument and polemical positions in research\nThe criteria for evaluating qualitative research\nMaking research accountable to a diverse audience\n\nParker, 2011"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#methodological-routes-to-radical-research",
+    "href": "content/Week13/lecture.slides.html#methodological-routes-to-radical-research",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Methodological Routes to Radical Research",
+    "text": "Methodological Routes to Radical Research\n\nEthnography\nInterviewing\nNarrative\nDiscourse\nPsychoanalysis\n\n\nChallenging methodology to foster innovation\nConsidering political stakes in research projects\n\nParker, 2011"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#conclusion-1",
+    "href": "content/Week13/lecture.slides.html#conclusion-1",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nRethinking the scientific foundation of Psychology\nEmbracing diverse methodologies and perspectives\nFostering a broader and more inclusive understanding of psychological research"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#abstract",
+    "href": "content/Week13/lecture.slides.html#abstract",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Abstract",
+    "text": "Abstract\n\nPsychology’s struggle with foundational concepts: mind and behavior\nLack of unified theoretical framework\nClassification as a ‘soft science’\nNeed for diverse methodologies and systematic integration\nGaltonian nomothetic methodology’s limitations\n\n[Uher, 2020]"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#lack-of-proper-terms-and-definitions",
+    "href": "content/Week13/lecture.slides.html#lack-of-proper-terms-and-definitions",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Lack of Proper Terms and Definitions",
+    "text": "Lack of Proper Terms and Definitions\n\nDiscordant and ambiguous definitions in psychology\nOverlap between psychology, neuroscience, and philosophy\nProliferation of terms and constructs\nDeeply fragmented theoretical landscape\n\n[Uher, 2020]"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#lack-of-conceptual-integration",
+    "href": "content/Week13/lecture.slides.html#lack-of-conceptual-integration",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Lack of Conceptual Integration",
+    "text": "Lack of Conceptual Integration\n\nDiversity of epistemologies, paradigms, and methodologies\nAbsence of a unified theory in psychology\nChallenges with evolutionary psychology as an integrative framework\nSpeculative nature of evolutionary explorations in psychology\n\n[Uher, 2020]"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#psychology-as-a-soft-science",
+    "href": "content/Week13/lecture.slides.html#psychology-as-a-soft-science",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Psychology as a ‘Soft Science’",
+    "text": "Psychology as a ‘Soft Science’\n\nPsychology compared to pre-scientific stages of sciences\nThe debate over applying ‘the scientific method’ in psychology\nThe importance of being phenomenon-centered and problem-centered\nMisalignment of methods with research questions\n\n[Uher, 2020]"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#experience-in-psychology",
+    "href": "content/Week13/lecture.slides.html#experience-in-psychology",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Experience in Psychology",
+    "text": "Experience in Psychology\n\nThe dual aspects of experience: objective content and subjective apprehension\nContrast between natural sciences and psychological approaches\nPsychology’s focus on immediate subjective experience\nThe role of agency, volition, value orientation, and teleology\n\n[Uher, 2020]"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#constructs-in-science-and-everyday-psychology",
+    "href": "content/Week13/lecture.slides.html#constructs-in-science-and-everyday-psychology",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Constructs in Science and Everyday Psychology",
+    "text": "Constructs in Science and Everyday Psychology\n\nChallenges posed by the transient nature of experience\nThe interplay of constructs with everyday knowledge and language\nThe entification of constructs and overlooking their constructed nature\nDifferentiation between psychical and psychological phenomena\n\n[Uher, 2020]"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#psychologys-exceptional-position",
+    "href": "content/Week13/lecture.slides.html#psychologys-exceptional-position",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Psychology’s Exceptional Position",
+    "text": "Psychology’s Exceptional Position\n\nPsychology at the intersection of sciences and philosophy\nExploration of diverse phenomena across human life\nRequirement for a plurality of methodologies and epistemologies\nPsychology as a non-unitary science due to its wide-ranging study phenomena\n\n[Uher, 2020]"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#idiographic-and-nomothetic-strategies",
+    "href": "content/Week13/lecture.slides.html#idiographic-and-nomothetic-strategies",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Idiographic and Nomothetic Strategies",
+    "text": "Idiographic and Nomothetic Strategies\n\nThe uniqueness of immediate experience\nThe use of idiographic strategies for exploring individual cases\nLimitations of Galtonian nomothetic methodology\nThe impact of natural-science principles on psychological research\n\n[Uher, 2020]"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#moving-beyond-conceptual-deadlock",
+    "href": "content/Week13/lecture.slides.html#moving-beyond-conceptual-deadlock",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Moving Beyond Conceptual Deadlock",
+    "text": "Moving Beyond Conceptual Deadlock\n\nIntroduction of the Transdisciplinary Philosophy-of-Science Paradigm (TPS-Paradigm)\nAiming for critical reflection and development of new theories\nIntegration of concepts from various disciplines\nFocus on the individual as the central unit of analysis\n\n[Uher, 2020]"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#philosophical-framework-of-the-tps-paradigm",
+    "href": "content/Week13/lecture.slides.html#philosophical-framework-of-the-tps-paradigm",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Philosophical Framework of the TPS-Paradigm",
+    "text": "Philosophical Framework of the TPS-Paradigm\n\nThree sets of presuppositions about research on individuals\nHuman limitations in perception and conceptualization\nConcept of individuals as complex, open, and nested systems\nApplication of complementarity in methodology\n\n[Uher, 2020]"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#metatheoretical-framework",
+    "href": "content/Week13/lecture.slides.html#metatheoretical-framework",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Metatheoretical Framework",
+    "text": "Metatheoretical Framework\n\nFormalization of phenomena’s accessibility to human perception\nDifferentiation of various kinds of phenomena related to individuals\nIntegration and development of concepts across fields\nExploration of psychical phenomena and their connections\n\n[Uher, 2020]"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#methodological-framework",
+    "href": "content/Week13/lecture.slides.html#methodological-framework",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Methodological Framework",
+    "text": "Methodological Framework\n\nConcepts for matching methodology with phenomena\nDevelopment of methods for comparing individuals\nAnalysis of data generation and measurement practices\nApplication of metrological principles in psychological research\n\n[Uher, 2020]"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#references",
+    "href": "content/Week13/lecture.slides.html#references",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 13 - Philosophy of Science\n\n\n \n\n\n\n\nBanyard, P. (2015). Where is psychology’s non-stick frying pan? In BPS. https://www.bps.org.uk/psychologist/where-psychologys-non-stick-frying-pan\n\n\nParker, I. (2004). Qualitative psychology: Introducing radical research. McGraw-Hill Education (UK).\n\n\nRobinson, O. C. (2012). Looking back: A war of words. In BPS. https://www.bps.org.uk/psychologist/looking-back-war-words"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#the-principle-of-falsification",
+    "href": "content/Week13/lecture.slides.html#the-principle-of-falsification",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "The Principle of Falsification",
+    "text": "The Principle of Falsification\n\nKarl Popper’s Contribution: Emphasized the importance of falsifiability in scientific theories.\nFalsification vs. Verification: Popper argued that scientific theories can never be completely verified, but they can be falsified.\nImpact on Psychology: Encourages rigorous testing of hypotheses and openness to disconfirming evidence in psychological research."
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#critiques-and-legacy",
+    "href": "content/Week13/lecture.slides.html#critiques-and-legacy",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Critiques and Legacy",
+    "text": "Critiques and Legacy\n\nPractical Challenges: Difficulties in applying falsification principle in complex fields like psychology.\nEnduring Influence: Popper’s ideas continue to influence scientific methodology and philosophical discussions in psychology."
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#epistemology",
+    "href": "content/Week13/lecture.slides.html#epistemology",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Epistemology",
+    "text": "Epistemology\n\nDefinition: The study of knowledge – its nature, origin, and limits.\nRelevance to Psychology: Helps in understanding how we acquire knowledge about human behavior and mental processes."
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#ontology",
+    "href": "content/Week13/lecture.slides.html#ontology",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Ontology",
+    "text": "Ontology\n\nDefinition: The study of being or existence, including the nature of reality.\nRelevance to Psychology: Guides psychologists in understanding the nature of mental states and consciousness."
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#other-key-terms",
+    "href": "content/Week13/lecture.slides.html#other-key-terms",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Other Key Terms",
+    "text": "Other Key Terms\n\nPhenomenology: The study of structures of consciousness as experienced from a first-person perspective, relevant in understanding subjective experiences in psychology.\nIdeographic/Nomothetic Divide: Touched upon briefly last week, but worth pursuing!"
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#ideographic-approach",
+    "href": "content/Week13/lecture.slides.html#ideographic-approach",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Ideographic Approach",
+    "text": "Ideographic Approach\n\nFocus: Emphasizes the unique aspects of individual cases or phenomena.\nMethodology: Often uses qualitative methods, such as case studies, to explore complex, subjective experiences.\nGoal: To understand the depth and complexity of individual experiences."
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#nomothetic-approach",
+    "href": "content/Week13/lecture.slides.html#nomothetic-approach",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Nomothetic Approach",
+    "text": "Nomothetic Approach\n\nFocus: Seeks to identify general laws and patterns that apply across multiple cases.\nMethodology: Employs quantitative methods, like experiments and surveys, to gather data on larger populations.\nGoal: To formulate generalizations and broad theories applicable to many."
+  },
+  {
+    "objectID": "content/Week13/lecture.slides.html#balancing-perspectives",
+    "href": "content/Week13/lecture.slides.html#balancing-perspectives",
+    "title": "Lecture 13:  Philosophy of Science",
+    "section": "Balancing Perspectives",
+    "text": "Balancing Perspectives\n\nIntegrating Approaches: Both ideographic and nomothetic methods offer valuable insights; combining them can lead to a more holistic understanding of psychological phenomena.\nChallenges in Quantitative Research: The need to acknowledge and address the reflexive capacity of human beings and the meaningful nature of data from aggregated descriptions of behavior.\nInnovative Research Possibilities: Opportunities for innovative research that addresses these challenges, respecting the particularities of individual cases within broader patterns.\n(Robinson, 2012)"
   }
 ]

@@ -1,6 +1,6 @@
 ---
-title: "Lab Template: <br> Template Title"
-subtitle: "Template Subtitle"
+title: "Lab 13: <br> Open Materials"
+subtitle: "Goal: 100% Replicability"
 # image: "lab.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -23,7 +23,7 @@ format:
     title-slide-attributes: 
       data-background-color: "#6667ab" # Very Peri 2022 Color of the year
     header-logo: "/images/rmmonkey.png"
-    header: "Research Methods Lab Template - Template" # Replace it
+    header: "Research Methods Lab 13 - Open Materials" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
 filters:
@@ -37,10 +37,28 @@ embed-resources: true
 
 # Overview of today's lab activities
 
-1.  Template
+1.  Keep on collecting data
 
-2.  Template
+2.  Understand the Submission Requirements for your Mini-Dissertation
 
-3.  Template
+3.  Start considering what goes in to your Mini-Dissertation
 
-## Stuff
+## Data Collection
+
+Please take part in the Study Swap and email Gordon with any new studies
+coming online
+
+## See what a Mini-Dissertation submission looks like
+
+1 - The Mini-Diss itself
+
+2 - Open Data (e.g. Excel)
+
+3 - Open Materials (e.g. pdf)
+
+![](/content/MiniDissWriting/images/O6.png)
+
+## Review the Mini-Dissertation Writing Guide ch03 - Open Materials
+
+You are able to start assembling the Open Materials (as well as writing
+your Method section) as soon as you have ethical approval!
