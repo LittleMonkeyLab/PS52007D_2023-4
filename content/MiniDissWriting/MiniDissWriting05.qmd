@@ -1,6 +1,6 @@
 ---
 title: "Mini-Dissertation Write-up Guide"
-subtitle: "Part 04 - Data Pre-Processing"
+subtitle: "Part 05 - Data Pre-Processing"
 
 author: 
   - name: "Dr. Gordon Wright"
@@ -34,3 +34,5 @@ By taking the time to produce a clear Open Data submission, you will
 enhance the overall quality of your submission, and this will be
 reflected in your mark.
 :::
+
+![](images/Lecture15_1.png)
