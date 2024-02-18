@@ -1,0 +1,16 @@
+---
+title: "Overview"
+format:
+  html: default
+---
+
+## Lecture
+
+A second part to our journey into Ethics, with specific information on
+the Goldsmiths Ethics Portal, as well as an introduction to key concepts
+in Psychometrics - with practical examples
+
+## Lab
+
+Familiarise yourself with the Goldsmiths Ethics Portal Assessing
+Reliability and Validity of Questionnaires and Psychometric tools
