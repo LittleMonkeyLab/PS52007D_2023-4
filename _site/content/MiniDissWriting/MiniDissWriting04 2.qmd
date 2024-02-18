@@ -1,0 +1,675 @@
+---
+title: "Mini-Dissertation Write-up Guide"
+subtitle: "Part 04 - Open Data"
+mainfont: "Atkinson Hyperlegible"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "01/30/2024"
+date-format: long
+license: "CC BY-NC-SA"
+---
+
+# Open Data
+
+## Open Data requirements
+
+Open Data is the concept of making research data accessible to everyone,
+promoting transparency, reproducibility, and collaboration in research -
+all critical features of an Open Science. In the field of psychology,
+sharing data is crucial for advancing scientific knowledge. This guide
+will provide step-by-step instructions for creating an Open Data
+submission for a psychology research project such as the
+Mini-Dissertation (and your Final Year Dissertations for that matter!).
+
+::: callout-important
+## Important
+
+It is a compulsory that you submit your data. If you do not submit
+something, then your submission is not complete and the mark awarded
+will be impacted.
+
+By taking the time to produce a clear Open Data submission, you will
+enhance the overall quality of your submission, and this will be
+reflected in your mark.
+:::
+
+1.  Prepare your data: Before submitting your data, ensure that it is
+    well-organized, accurate, and complete. You might be fixated on
+    doing the analysis, but in many ways, the way you treat and
+    pre-process your data (prepare it for the analysis) is [even
+    more]{.underline} critical to reliable results.
+
+2.  This includes:
+
+    a\. Cleaning and validating the data: Remove any errors,
+    inconsistencies, or missing values. This may be down to participant
+    error or a result of anything you might have done in this, your
+    first data collection exercise (mistakes are to be EXPECTED! Don't
+    hide them!). Make sure the data is properly formatted (an example
+    here might be consistent decimal places, or labelling in your
+    variable headers.
+
+    b\. Anonymizing the data: To protect participants' privacy, remove
+    any personally identifiable information (PII), such as names,
+    addresses, or user generated codes. Replace these with unique
+    identifiers, if necessary. This can be as simple as a number from
+    1 - n (where n is your total sample size).
+
+3.  Create a data dictionary or codebook: A data dictionary is a simple
+    document that describes the variables in your dataset, their
+    definitions, units of measurement, and any coding schemes used, such
+    as values for any categorised data e.g. gender (1 = female, 2 =
+    male, 3 = prefer not to say).
+
+    This will help others understand and use your data more effectively.
+    Consider including the following information for each variable:
+
+    a.  Variable name as it exists in your dataset
+    b.  Variable description - what is the variable? Score on what
+        measure of your Open Materials?
+    c.  Data type (e.g., categorical, continuous, binary)
+    d.  Units of measurement (if applicable, milliseconds, hours per
+        day)
+    e.  Consider count information, or summary information (mean, range
+        etc)
+    f.  Coding scheme (if applicable, 1 = strongly disagree, 2 =
+        disagree etc.)
+
+4.  Information on any pre-processing you performed:
+
+    What were your decision rules on missing data or participant
+    exclusion? Your data set can be the original data set which includes
+    data you later do not analyse, or the data set that had undergone
+    pre-processing and had had all the missing values removed... in
+    either case, I want to know the process involved, so that I will be
+    able to do it if I try to replicate your analysis!
+
+5.  Choose a suitable format (or formats) for submission: In real
+    research, you could host this on OSF.io or a similar data
+    repository, but you are going to submit it as a supplementary file.
+    Choose a format (or formats) that are usable. Ideally, I would like
+    to be able to import your data directly, so it should be in a .csv,
+    .xlsx, or .sav file, but Jamovi, R or equivalent is fine too.
+
+    Any descriptive content (such as 3 or 4) could be in a pdf and
+    submitted alongside the Mini-Dissertation (you can submit up to 5
+    files)
+
+By following these guidelines, you will contribute to a more transparent
+and collaborative research environment in the field of psychology,
+ultimately promoting the advancement of scientific knowledge.
+
+\raggedright
+
+## Week 14 - Getting set up to run your analysis
+
+Goals and outcomes of this week:
+
+-   A quick review of the SPSS Data editor window and some useful menu
+    options
+-   Inputting data into SPSS for your specific ANOVA design
+    -   [2x2 Independent (between-groups) ANOVA](#sec-2x2ind)
+    -   [2x2 Repeated measures ANOVA](#sec-2x2RM)
+    -   [2x2 Mixed ANOVA](#sec-2x2Mixed)
+-   Some useful calculations in SPSS
+    -   [Performing a Median Split in
+        SPSS](#sec-performing-a-median-split-in-spss)
+    -   [Calculating a mean score
+        variable](#sec-calculating-a-mean-score-variable)
+
+## Analysing your data starts here... with good set up! {#sec-analysing-your-data-starts-here...}
+
+I know that you have used SPSS plenty already, but it is normally the
+case that you've only worked on downloaded pre-existing data sets, or
+followed step-by-step guides as a class. This time, these are YOUR data,
+of which you should be proud! Nobody has ever seen these data before.
+
+[Examples of the 3 flavours of dataset can be found on the
+VLE.](https://learn.gold.ac.uk/mod/folder/view.php?id=1448200)
+
+For your Mini-Dissertations you are going through all the stages of a
+research project, from idea origination, through to the final
+presentation of the report. One of the parts that often (unnecessarily)
+causes anxiety is the analysis. Don't let it! You'll get lots of help in
+the labs after Reading Week!
+
+It is important that you go about the process of data preparation and
+analysis methodically and with care. You've worked hard to generate
+these data, give them the attention they deserve. And at the end of the
+process... you get to see what happened in your experiment.
+
+This worksheet will offer you tools to start off well. I don't doubt
+that you will have an occasional mishap, but that is how we learn and
+improve. And I still google things sometimes!
+
+Remember, the mini-dissertation is carefully constrained to a 2x2
+design, but by using this as a case-study, we can equip you with all the
+skills necessary for something more exotic next year.
+
+When you open SPSS, you'll see the familiar Data Editor screen. Let me
+point a few things out.
+
+![](images/image-416753022.png){width="300"}
+
+![](images/image-1643419274.png) Open data document. This is where you
+can navigate to open your data set. Obvious, I know.
+
+![](images/image-1272547429.png) This button saves your data set. Use
+this regularly. And save your data set in the cloud. You do not want to
+have to redo data preparation. And use version control. If you spend
+time on a data set and reach the end of a session, save it with the date
+and start the next session with a copy. I dearly hope you listen to
+this, and don't learn the hard way.
+
+![](images/image-1667930257.png) Recently used dialogues. Allows you to
+pick from a dropdown menu of operations you have performed previously.
+Most people don't get to know this button exists and spend hours
+clicking through the menus. Using this button is the easiest way to do
+what you did last time, but make a slight modification (e.g. you forgot
+to select something).
+
+![](images/image-241978957.png) Most things that you do in the data
+editor window can be undone and redone. Anything that can't be undone
+will give you a warning window. If you are going to try stuff out, use a
+copy of your dataset and keep a safe copy of the last one you were
+working on -- see Save button above.
+
+![](images/image-480798691.png) Flip between Value labels. You'll see
+how this can be helpful later on. Just pointing it out for now.
+
+![](images/image-1370272646.png){width="150"} Sometimes you want to look
+at your data (the numbers) and sometimes you want to look at what the
+data are (labels and types of variables). `Data View` lets you look at
+the numbers. Variable View lets you look at the labels and types of
+variables in your data. Let's look at Variable View now.
+
+Now that you are reminded of those, let's get things ready for when your
+data are ready.
+
+## Data input {#sec-data-input}
+
+It may seem supremely dull, but properly formatting and labelling your
+data is important. Remember that you will be uploading a dataset as part
+of your submission under Open Data. It is important that an outsider can
+understand your dataset and use it to reproduce your analysis, should
+they wish.
+
+![](images/image-128904341.png){width="150" height="20"} We use the
+**`Variable View`** in SPSS to add and define the variables used in our
+study. Each row represents one of your variables. Here, we can give them
+sensible names and specify the type of data we are entering for each
+one.
+
+So start by thinking about **`Name`.** A variable name should be easy to
+understand and informative. You can't use spaces or symbols, so you
+should think about using underscores or hyphens
+to-make-things_easier_to_understand.
+
+**`Type`** specifies the type of data that is contained in that
+variable.
+
+When inputting your data, you will likely mostly use **`Numeric`,**
+which simply means it mostly numbers. It could be scores on a test, or
+categories which might be relevant for gender or group membership
+(`1=Female, 2= Male, 3= Prefer not to say`, etc)
+
+![](images/image-1770594430.png)
+
+**`Width`** refers to the maximum number of characters in a given
+variable. I don't think I've ever changed this from 8.
+
+**`Decimals`** allows you to specify if a value shows decimal places or
+not. I've used 0 in some screengrabs below, so that decimal places are
+not shown, and 2 decimal places in others. I would suggest sticking with
+the default of 2, unless you are using very precise measurements.
+
+**`Label`** is VERY handy. It doesn't have the restrictions of `Name`,
+and so you can give a variable a really clear informative label. And it
+shows up in the output, meaning that the output is more easily
+understood. Do take the time to use this field, as once you step away
+from a dataset for even a couple of hours, it's possible to forget what
+a variable is or represents.
+
+![](images/image-1725533457.png)
+
+`Value` is particularly useful for categorical variables (or nominal,
+named variables as SPSS prefers). Assign every group a name and SPSS
+will attach that name to the output too. It's easier to compare output
+with the labels 'Females' and 'Males' than '1' and '2'.
+
+![](images/image-533925408.png)
+
+Enter the numeric value for your group, enter the label and click 'add'
+and your label will be stored.
+
+**`Measure`** allows you to specify the measurement type for a variable,
+and sometimes this allows SPSS to deal with the data more accurately, so
+it is important.
+
+![](images/image-238199022.png){width="100"}
+
+Use **`Scale`** if you are entering interval or ration data (i.e. where
+the difference between scores on the scale is meaningful and
+standardised; and intervals across the scale are equal) such as response
+times or accuracy rates.
+
+**`Ordinal`** if you have a categorical variable where the order of the
+categories matter, such as Lickert Scales,
+
+and **`Nominal`** if you have a categorical variable where the order of
+categories does not matter.
+
+You can also further classify your data according to **`Role`** , but
+this is not crucial.
+
+![](images/image-1428006537.png){width="100"}
+
+**`Input`.** The variable will be used as an input (e.g., predictor,
+independent variable).
+
+**`Target`.** The variable will be used as an output or target (e.g.,
+dependent variable).
+
+**`Both`.** The variable will be used as both input and output. This is
+the case with some aspects of the 2x2 design, but don't get caught up
+with this.
+
+**`None`.** The variable has no role assignment.
+
+**`Partition`.** The variable will be used to partition the data into
+separate samples for training, testing, and validation. Or if you will
+exclude some participants based on the value.
+
+**`Split`.** Is used for advanced functions I won't go into here.
+
+## Inputting your data for the various 2x2 designs. {#sec-inputting-your-data-for-the-various-2x2-designs.}
+
+In this series of toy examples, I'm running an experiment examining the
+effect of Puzzle Difficulty (IV1 with 2 levels - Easy, Hard) and
+Background Music (IV2 with 2 levels - Slow, Fast) on Solving Time (DV in
+Seconds).
+
+You will see that I couldn't quite make up my mind on what the optimal
+2x2 design was for this study, and so we can try it in all 3 'flavours'
+of 2x2 or two-way ANOVA
+
+-   Independent (or between-groups) ANOVA
+
+-   Repeated Measures (paired samples or within-participant) ANOVA
+
+-   Mixed ANOVA
+
+For each design, I'll include a participant ID number (which is good
+practice) and I shall show the **Data View** with **numeric values** on
+the left and with the **variable labels** on the right.
+
+![](images/image-514939274.png) This button toggles between the two and
+allows you to quickly see what you are working with.
+
+I'll then show you the **`Variable View`** , so that you can see how
+they are set up.
+
+If you know what your specific design is, you can jump to that section
+below, but I recommend you take the time to think about how data are
+organised for all of the 3 'flavours', as this will be useful next year.
+
+::: callout-tip
+## Tip: Syntax
+
+Even though your dataset may not yet be complete, you can dry-run the
+analysis, and then re-run it using 'Syntax'. Simply put, syntax is the
+code that runs the SPSS analysis behind the scenes.
+
+This is something you could ask about in the labs if you are interested.
+It's not something we usually teach.
+:::
+
+## 2x2 Independent (between-groups) ANOVA {#sec-2x2ind}
+
+> In an independent ANOVA, each participant belongs in only one
+> condition or cell in your 2x2 design grid, meaning that they are
+> allocated to only one condition for each of your IVs out of the
+> possible 4.
+
+So in the example of my experiment examining the effect of Puzzle
+Difficulty (IV1 with 2 levels - Easy, Hard) and Background Music (IV2
+with 2 levels - Slow, Fast) on Solving Time (DV in Seconds), I would
+randomly allocate people to solve one puzzle ONLY after informed
+consent. So there are four conditions and a participant in my study will
+only do one of them.
+
+An easy puzzle with slow background music, an easy puzzle with fast
+background music, a difficult puzzle with slow background music or a
+difficult puzzle with fast background music.
+
+You need to label the condition each participant was in for each of your
+IVs separately so that SPSS knows what puzzle condition they got and
+what music condition they got.
+
+As always, each row corresponds to a single participant.
+
+In this example, I've called Puzzle Difficulty **`IV1Difficulty`** so
+that you can replace this in your mind with your first IV. I've used the
+**`Label`** and **`Values`** to identify Easy puzzle group with 1 and
+the difficult puzzle group with 2. **`IV2MusicSpeed`** uses 1 to signify
+the Slow music condition and 2 to signify the Fast music condition
+
+The first panel shows this in data view with **`numeric values`** , the
+right panel with **`value labels`**. The **`Variable View`** shows how I
+set this up.
+
+The DV in my study is `DVSolveTime` and is how many seconds it took to
+solve the puzzle.
+
+[Download the 2x2 Independent ANOVA dataset
+here](https://learn.gold.ac.uk/mod/folder/view.php?id=1448200)
+
+Data view numeric values
+
+![](images/image-939390968.png)
+
+Data view with variable labels
+
+![](images/image-531484013.png)
+
+Variable view
+
+![](images/image-1065206573.png)
+
+## 2x2 Repeated Measures ANOVA {#sec-2x2RM}
+
+> In a repeated measures ANOVA, each participant does all four
+> conditions or cells in your 2x2 design grid. They would have been
+> given all four conditions from a possible four.
+
+So, in the example of my experiment examining the effect of Puzzle
+Difficulty (IV1 with 2 levels - Easy, Hard) and Background Music (IV2
+with 2 levels - Slow, Fast) on Solving Time (DV in Seconds), I would
+randomly sequence the puzzles and music, but a participant in my study
+would solve four puzzles making up all the possible combinations of
+difficulty and music. In short, both levels of both of my IVs.
+
+Every participant would have solved an easy puzzle with slow background
+music, an easy puzzle with fast background music, a difficult puzzle
+with slow background music and a difficult puzzle with fast background
+music. Busy day!
+
+In the previous example, we had one DV measure and needed to tell SPSS
+which condition the participant was in. In this example, we have 4
+measures of the DV (how long it took to solve each puzzle) so we need to
+let SPSS see which response time corresponds to each condition.
+
+As always, each row corresponds to a single participant.
+
+In a repeated measures ANOVA setup, we don't need to use numbered groups
+or labels, instead we rely on using **`Name`** in **`Variable View`** to
+identify each of the 4 conditions the participant experienced. So this
+is one of the simplest data sets.
+
+[Download the 2x2 Repeated Measures ANOVA dataset
+here](https://learn.gold.ac.uk/mod/folder/view.php?id=1448200)
+
+Data view numeric values
+
+![](images/image-430396786.png)
+
+Variable View
+
+![](images/image-2026587323.png)
+
+## 2x2 Mixed ANOVA {#sec-2x2Mixed}
+
+As you know, a repeated-measures ANOVA contains only
+**within-participant** variables (where participants take part in *all*
+conditions).
+
+An independent ANOVA uses only **between-group** variables (where
+participants only take part in one condition),
+
+> A mixed ANOVA contains **BOTH** variable types. In this case, one of
+> each. You will necessarily have one within-participant IV and one
+> between-group IV.
+
+In this last toy example using the puzzle music experiment, I decided
+that participants were allocated to **either** the Easy or the Difficult
+Puzzle condition (puzzle difficulty is the between-group IV with 2
+levels)
+
+Each participant then did two puzzles with both of the levels of the
+Background Music condition, one puzzle with Slow background music, and
+one puzzle with Fast background music (music is the within-participant
+IV with 2 levels).
+
+As always, each row corresponds to a single participant.
+
+In this case, each participant solved 2 puzzles and so needs two
+measures, but we need to identify the condition of the between-group IV
+that they were in Easy Puzzles or Difficult Puzzles.
+
+[Download the 2x2 Mixed ANOVA dataset
+here](https://learn.gold.ac.uk/mod/folder/view.php?id=1448200)
+
+Data view numeric values
+
+![](images/image-716864151.png)
+
+Data view with variable labels
+
+![](images/image-2145723482.png)
+
+Variable view
+
+![](images/image-1872373620.png)
+
+## Some useful calculations in SPSS {#sec-some-useful-calculations-in-spss}
+
+Sometimes your data is not yet entirely ready for analysis and you need
+to calculate a value to make your data make sense or to permit further
+analysis. I shall present two useful calculations here.
+
+It might be that you need to sum all the questions in a questionnaire to
+get a grand total. Or you need to find the average score on a group of
+questions or trials in an experiment.
+
+I shall use that last example, **calculating a mean score** on a set of
+trials, to illustrate this functionality, but you can do lots of useful
+things the same way, simply by inserting variables in the SPSS dataset
+into a calculation.
+
+Another thing that many of you may need to do is to perform a **median
+split** , where you take a continuous variable such as a score on a
+personality measure and 'cut it in half' so that 50% of your sample is
+considered low, and 50% is considered high.
+
+So here's an experiment that needs me to do both of these things.
+
+It's a 2x2 Mixed design experiment I ran recently, with 16 individuals
+in my dataset.
+
+I have allocated each participant a unique ID number, and I have age and
+gender as demographic characteristics.
+
+I have a variable to confirm their having given Informed Consent, and at
+this point I have already removed any identifying information, and so
+this is anonymous.
+
+Participants completed a Psychopathy Questionnaire (The Triarchic
+Psychopathy Measure -- TriPM) giving me a possible score of between 0
+and 174 for each participant. I shall return to this measure when
+talking about SPSS Scoring Syntax and Syntax more generally.
+
+They then took part in a decision-making task, where they responded to
+choices in 2 different scenarios. In one scenario they would be rewarded
+as part of a team, in another they would be rewarded individually. They
+each responded to two trials in each of the two conditions
+(within-subject IV with 2 levels - manipulation of reward type: team
+reward or individual reward).
+
+Reaction Time was recorded for each trial to indicate how quickly the
+participant made the decision.
+
+Below is a snapshot of the Variable View and Data View. You'll see that
+I need to complete the Median Split variable, and the two mean scores
+variables at the right hand side.
+
+Variable View.
+
+![](images/image-530148639.png)
+
+Data View with numeric values (e.g. gender 1,2,3)
+
+![](images/image-452186581.png)
+
+Data View with value labels (using the value labels button above) (see
+gender)
+
+![](images/image-1264672667.png)
+
+## Performing a Median Split in SPSS {#sec-performing-a-median-split-in-spss}
+
+Performing a median split allows you to categorise participants into
+discreet groups based on a continuous variable. You turn a continuous
+variable into a dichotomous variable (low & high, for example). The
+median is used because it is the number at which point 50% of values lie
+above, and 50% lie below. This means that usually, you get a nice equal
+sample size in both groups.
+
+The median split procedure is sometimes better than using a cut off
+score or threshold, as a median split uses the data that you have in
+hand, and doesn't assume anything about the sample of scores that you
+have.
+
+I want to categorise my 16 participants into 'LowPsychopathy' and
+'HighPsychopathy' groups of equal size (hopefully) using a **median
+split** procedure (essentially turning this into a quasi-experimental
+between-group IV with 2 levels).
+
+I could just work out the median with descriptive statistics, and then
+by hand label each person as lower than the median or higher than the
+median. With 16 participants, it might be quicker to do it that way, but
+with more it would be very dull indeed and I'd probably still get mixed
+up and make a mistake. So, I want to find a way to do it automatically
+and accurately.
+
+Here is the step-by-step procedure.
+
+Go to the **`Transform`** menu and select **`Visual Binning`**
+
+![](images/image-13544354.png){width="200"}
+
+Simply put, this allows you to put participants into 'bins' based on a
+set of rules you make.
+
+Select the variable you are going to use to divide people up. In this
+case, I choose the total score for my TriPM Psychopathy measure
+(`TotalScoreTriPm`), move it into the **`Variables to Bin`** field and
+click **`continue`**.
+
+![](images/image-1092678164.png)
+
+I'm then presented with this view of the distribution of the data.
+
+![](images/image-886603242.png)
+
+So we want to find the median, or the point at which we cut the data in
+half. We click the **`Make Cutpoints`** button.
+
+In the section marked **`Equal percentiles based on scanned`**`cases`
+**we input 1 in the** `number of cutpoints` **box and it automagically
+fills** 50% **in the** width **box. Click** `Apply`
+
+![](images/image-1289870961.png)
+
+Think about that. We asked SPSS to cut our variable into equal groups
+based on observed data with a single chop! It could only ever be at the
+Median! It's a funny set of commands, but makes sense, right?
+
+If we asked for 2 cutpoints, it would give Low, Medium and High groups
+cut at 33.33% and 66.66%. Two cuts with equal numbers on each side = 3
+groups -- a tertile split or trichotomized variable. But I digress.
+
+Now just label your new variable in the **`Binned Variable`** box and
+label the values.
+
+You'll notice that for the data I used, the value is up to and including
+54 as low and anything over 54 is considered high. Bearing in mind the
+scale goes up to 174, and cutoff are usually much higher than 54, the
+median split is better for my data than that cutoff. There wouldn't be
+ANYBODY in the high group.
+
+![](images/image-1118506612.png)
+
+When you click on `OK`, it pops a new variable at the end of the data
+set with the information you need (highlighted in blue below). From
+here, I would move that variable to it's rightful place in my dataset,
+or copy and paste the values into the relevant column if I had already
+set it up. Alternatively, I could have given it exactly the same name in
+the **`Binned Variable`** label setting and it would have replaced the
+empty cells. But I wanted you to see that new variables usually pop to
+the far end of the data set.
+
+![](images/image-1710620886.png)
+
+## Calculating a mean score variable {#sec-calculating-a-mean-score-variable}
+
+Now to calculate the mean score across a series of variables. In this
+instance, I want to calculate the mean response time for decisions in
+the two individual reward trials, so that for each participant I have a
+mean response time across all trials of that type.
+
+![](images/image-379338339.png)
+
+From the **`Transform`** menu, you want to select **`Compute Variable`**
+and the following window will open up.
+
+Firstly, in **`Target Variabl`e** type in the name of the variable you
+want to calculate. I've chosen '`Mean_IndividualReward`'.
+
+Then double click **`All`** in the **`Function group`:** dropdown to see
+all the calculations you could use. Scroll down to **`Mean`** in the
+**`Functions and Special Variables`** dropdown. Have a look at some of
+the other options. You can see **`Sum`** and **`Sqrt`** for example,
+which is a calculated sum total and square root, respectively.
+
+![](images/image-1431336267.png)
+
+Using the **little blue arrow** pointing upwards, put **`Mean`** into
+the **`Numeric Expression`** box. This is where you put in a simple
+formula to tell SPSS how to calculate the new variable. You can use this
+just like a calculator, and insert a variable then + then another
+variable using the calculator keyboard. It's super easy.
+
+![](images/image-1958330990.png)
+
+It should look like the window above, and quite simply, you replace the
+'`?`' with the variables you want to use from the left hand column. So,
+you can double click on the variables in the left hand column to send
+them up to the **`Numeric Expression`** box and separate them with
+commas.
+
+![](images/image-1943639971.png){width="400"}
+
+![](images/image-1786701273.png){width="400"}
+
+You see I have calculated the mean of 2 trials, but you can do this for
+any number of variables. This is a useful tool and works like excel
+formulae. It will then just pop a new column at the end of your dataset
+with the relevant output of the calculation.
+
+![](images/image-431115263.png){width="50"}
+
+Do remember that if you want to perform other calculations, you can find
+excellent help on the internet. Don't be afraid of trying things out and
+exploring the features of SPSS. It is confusing at times, but once you
+understand what it is trying to do, you'll find that it is very clever
+and can save you time.
+
+::: callout-warning
+**NOW SAVE YOUR DATA! AND STORE IT IN THE CLOUD!**
+
+You do NOT want to have to redo things because your computer crashes!
+:::
+
+Well done and stay awesome!!

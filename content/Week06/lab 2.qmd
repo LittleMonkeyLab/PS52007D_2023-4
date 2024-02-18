@@ -1,0 +1,102 @@
+---
+title: "Lab 06: <br> Online or Face-to-face?"
+subtitle: "Let's get building"
+image: "lab.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "11/14/2023"
+date-format: long
+license: "CC BY-NC-SA"
+citations-hover: true
+categories: 
+  - "Lab"
+  - "Week 6"
+
+format: 
+  # pdf: default
+  # pptx: default
+  # html: default
+  # docx: default
+  revealjs: 
+    title-slide-attributes: 
+      data-background-color: "#6667ab" # Very Peri 2022 Color of the year
+    header-logo: "/images/rmmonkey.png"
+    header: "Research Methods Lab 06 - Let's get building" # Replace it
+    hide-from-titleSlide: "text"
+    slide-number: c/t
+filters:
+  - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+# Overview of today's lab activities
+
+1.  Review the Ethics Page on the VLE
+
+2.  Sign up for a Qualtrics account here
+    <https://goldpsych.eu.qualtrics.com/login>
+
+3.  Review the Template Qualtrics file for an example Information sheet,
+    consent and debrief
+
+## Exciting progress so far!
+
+You've identified an exciting area of research and critically evaluated
+a relevant paper.
+
+Time to put all that hard work and careful thought into practice.
+
+Between now and the end of term, you will build and obtain ethical
+approval for your studies.
+
+We are all in the process of marking Critical Proposals, and we are
+seeing some wonderful application of the topics and concepts raised in
+the module so far.
+
+Some of you are making impressive claims about what you are going to do.
+Fantastic!
+
+## Don't push too hard, yet! 
+
+Please remember, this is supposed to be a modest size project, with
+focus on following the steps from initial idea, critique, development,
+Ethics, data collection and preparation, analysis and write-up.
+
+We don't want any single step to be too daunting or labour-intensive. We
+want you to enjoy the process as much as possible, and think carefully
+about each step.
+
+## The Mini-Dissertation 'rules'
+
+-   Your ultimate individually written up Mini-Dissertation project MUST
+    conform to the following definitive rules:
+-   2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a
+    single continuous DV
+-   You must obtain ethical approval and prove individual involvement in
+    the process of application
+-   You must make a sample size estimation / Power calculation
+-   You must collect data online and individually contribute to group
+    data collection efforts
+
+## Your Mini-Dissertation final submission must comprise:
+
+### Submission Requirements
+
+-   a 2500 word APA7 empirical paper with a critical reflection and
+    complete reference list
+
+-   Open Data - a single, cleaned, clearly-labelled data set in Excel
+    format
+
+-   Open Materials - a complete, replication-ready materials document
+    detailing materials relevant to your submission
+
+# Running Experiments online or face to face
+
+## See today's worksheet on the VLE

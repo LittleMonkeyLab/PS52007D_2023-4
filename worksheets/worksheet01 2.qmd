@@ -1,0 +1,65 @@
+---
+title: "Worksheet 01: <br> Topics and Methods"
+subtitle: "You mustn't be afraid to dream a little bigger, darling"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/03/2023"
+date-format: long
+license: "CC BY-NC-SA"
+citations-hover: true
+categories: 
+  - "Worksheet"
+  - "Week 1"
+params:
+  class: "worksheet01"
+format: 
+  pdf: default
+  # pptx: default
+  html: default
+  # docx: default
+  # revealjs: 
+  #   header-logo: "/images/rmlogo.png"
+  #   header: "Research Methods Lab 01 - Short Title" # Replace it
+  #   hide-from-titleSlide: "text"
+# filters:
+#   - reveal-header
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+## Let's get going.
+
+-   Lab Challenge! \[15 mins\]
+-   Research Skill Audit
+-   Topic Speed Dating
+-   Methods Matching
+-   Goal Alignment and Group Ethos
+
+# Lab Challenge! \[15 mins\]
+
+A quick overview from your Lab Tutor. Pay attention.
+
+## Research Skill Audit
+
+Complete the survey and save the data to your lab notebook. A useful
+'reflection'!
+
+## Topic Speed Dating
+
+See the Miro board entitled 'Topic Brainstorming' - Please add, comment,
+list your potential topics!
+
+## Methods Matching
+
+Use the Miro board entitled 'MethodsMania' and see if anything tickles
+your experimental fancy!
+
+## Group Behaviour & Group Ethos
+
+Now is the time to formalise how you plan to work. Use the Miro board
+entitled 'TeamTools & Ethos'

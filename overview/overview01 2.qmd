@@ -1,0 +1,191 @@
+---
+title: "Preparing for Week 01: <br> Nice and easy"
+subtitle: "Group formation, teamwork & topic brainstorm"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/02/2023"
+date-format: long
+license: "CC BY-NC-SA"
+citations-hover: true
+categories: 
+  - "Prep"
+  - "Week 1"
+params:
+  class: "prep01"
+
+format: 
+  # pdf: default
+  # pptx: default
+  html: default
+
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+# Week 01
+
+```{=html}
+
+<iframe src="https://ps52007d.littlemonkeylab.com/slides/week01/lecture.slides.html" title="Week01 Lecture" width="960" height="500" data-external="1"></iframe>
+```
+## Introduction & Lecture Preview
+
+::: {.callout .primary}
+**Key Focus:** Module Overview and getting started in the labs
+:::
+
+-   **Important Points:**
+    1.  Read Learning Outcomes. I want you to know what you are going to
+        have achieved by the end of the year.
+    2.  Read Coursework Information on the VLE and scan available
+        resources (Marking Rubrics, Critical Proposal Brief,
+        Mini-Dissertation Templates/examples). More resources will be
+        added gradually as the term progresses, but if you think there
+        is anything you'd like but can't yet see.. Post on the forum.
+-   **Preparatory Reading or Thinking:**
+    -   \[Prep 1\] Think about potential topics and/or methods that
+        excite you for your Mini-Dissertation
+    -   \[Prep 2\] Consider how you are going to work, and with whom.
+        You will be keeping detailed notes and communicating regularly.
+        How will you want to manage that?
+    -   \[Prep 3\] Think about your timetable and deadlines. When are
+        you going to do your regular independent study. Where will you
+        do it? With whom?
+
+------------------------------------------------------------------------
+
+## Lab Sessions
+
+```{=html}
+
+<iframe src="https://ps52007d.littlemonkeylab.com/slides/week01/lab.slides.html" title="Induction Week Lecture" width="960" height="500" data-external="1"></iframe>
+```
+## Before the Lab, please set up an email signature for your College email
+
+If you email anyone and they have to look you up on they system to find
+out your Personal Tutor, or your Student Number, or your Lab Group.. it
+will slow down responses.
+
+Please follow the instructions here [Common email functions \|
+Goldsmiths, University of
+London](https://www.gold.ac.uk/it/email/common-email-functions/).
+
+1 - Log in to your email <https://www.gold.ac.uk/it/email/>
+
+2 - Go to Outlook Settings and include the following information in your
+signature.
+
+::: {.callout-note appearance="minimal" icon="false"}
+Name, pronouns or preferred name
+
+Student Number (8 digits, NOT INCLUDING CARD ISSUE NUMBER e.g. 01)
+
+Year and Programme (Year 2 - Psychology with Cognitive Neuroscience)
+
+Lab Tutor
+
+Personal Tutor
+
+Any other information that might be useful.
+:::
+
+### Main Lab Activities
+
+-   Lab Challenge!
+-   Research Skill Audit
+-   Topic Speed Dating
+-   Methods Matching
+-   Goal Alignment and Group Ethos
+
+### Module Milestones
+
+-   Slow down, my dude. It's only Welcome Week. Give me a chance.
+
+-   In weeks to come, this will give you an idea of what you
+    could/should have done by now, and things you may wish to
+    prioritise.
+
+### Reflection and Meta-Cognitive Practice
+
+::: callout-tip
+**Suggested Reflection:** Think about Team Work you have done before.
+What did you enjoy? What were the problems you faced? How will you
+address them this time?
+
+**Imagine describing how you operated as a team this year to a future
+supervisor/employer. What would you want to say?**
+
+Here are some thoughts:
+
+#### Communication is Key
+
+-   Maintain open, honest, and respectful communication with your team
+    members. Good communication leads to seamless collaboration. Make it
+    as frictionless as possible. Maybe try something like Slack or Jira,
+    specifically for the project, so that you don't use it for anything
+    but the Mini-Diss. Slack and Jira are almost ubiquitous in modern
+    business, and by having a passing knowledge of them, or being able
+    to name drop them in an interview... boom.
+
+#### Define Roles and Responsibilities
+
+-   Clearly define what each team member is responsible for. This
+    eliminates confusion and ensures that everyone is accountable. If
+    you aren't going to deliver, communicate that fact to your team.
+
+#### Set Deadlines
+
+-   Establish realistic deadlines and stick to them. This fosters a
+    sense of urgency and helps you keep the project on track. The Weekly
+    Standup meeting is an ideal way to do this in a short, and slightly
+    longer term.
+
+#### Embrace Diversity
+
+-   Utilize the diverse skills, experiences, and perspectives within
+    your team to enrich your project. Diversity fosters creativity and
+    problem-solving. Some aspects of the project may be things that you
+    KNOW will be important for you next year... Take responsibility for
+    that and try it on for size.
+
+#### Conflict Resolution
+
+-   Conflicts are inevitable in any team setting. Address issues
+    directly but diplomatically, aiming for a resolution that benefits
+    the team as a whole. And if a team-member disappears... What are you
+    going to do?
+
+#### Reflect and Adapt
+
+-   After each major milestone, take some time to reflect on what worked
+    well and what didn't. Adapt your strategies accordingly for future
+    tasks. This might not be until next year, when it really counts, so
+    having these ideas to build on will be amazing.
+
+#### Document Everything (e.g. Lab Notebook)
+
+-   Keep records of conversations with your Lab Tutor, decisions you
+    made as a group and individually, and any changes you make along the
+    way. This will not only help you stay organized but will also be
+    useful for future reference, think of it as a love letter to future
+    you.
+
+By following these guidelines, you'll not only deliver an exceptional
+Mini-Dissertation but also gather compelling stories and examples to
+share with future employers or a supervisor next year. When asked, "How
+would you work as part of a team" you'll have a well-rounded, articulate
+answer that demonstrates your team skills, problem-solving abilities,
+and commitment to achieving goals.
+:::
+
+If you've made it this far, please help me assemble a furry research
+cheer-leading crew and email me a picture of your cat/dog/hamster or
+anything cute/amusing. And make sure you have your Signature in place.
+Let's have a great year!
+
+{{< fa thumbs-up >}}

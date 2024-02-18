@@ -1,0 +1,205 @@
+---
+title: "Impactful Title"
+subtitle: "Interesting sub-title"
+
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/09/2023"
+date-format: long
+license: "CC BY-NC-SA"
+---
+
+::: overview
+Chapter Overview:
+
+Learning Objective 1
+
+Learning Objective 2
+
+Learning Objective 3
+:::
+
+## Section Heading
+
+Body content
+
+### Sub-Section Heading 1
+
+More body content
+
+### Sub-Section Heading 2
+
+Even more body content
+
+## New Section including blockquote
+
+Text with Blockquote and lineblock
+
+> Blockquote content
+>
+> More blockquote continues
+
+More body content
+
+| Line Block
+|   Spaces and newlines
+|   are preserved
+
+## New Section including Callout - Note
+
+Body content
+
+::: callout-note
+## Note Callout
+
+Note callout body
+:::
+
+Body content
+
+## New Section including Callout - Tip
+
+Body content
+
+::: callout-tip
+## Tip Callout
+
+Tip callout body
+:::
+
+Body content
+
+## New Section including Callout - Warning
+
+Body content
+
+::: callout-warning
+## Warning Callout
+
+Warning callout body
+:::
+
+Body content
+
+## New Section including Callout - Caution
+
+Body content
+
+::: callout-caution
+## Caution Callout
+
+Caution callout body
+:::
+
+Body content
+
+## New Section including Callout - Important
+
+Body content
+
+::: callout-important
+## Important Callout
+
+Important callout body
+:::
+
+Body content
+
+{{< pagebreak >}}
+
+## Content with links
+
+<https://quarto.org> That's a naked link
+
+[Quarto](https://quarto.org) That's a pretty link
+
+## Content with lists
+
+-   unordered list
+    -   sub-item 1
+    -   sub-item 2
+        -   sub-sub-item 1
+
+1.  ordered list
+2.  item 2
+    i)  sub-item 1
+        A.  sub-sub-item 1
+
+<!-- -->
+
+(1) A list whose numbering
+
+continues after
+
+(2) an interruption
+
+<div>
+
+1.  A list
+
+</div>
+
+<div>
+
+1.  Followed by another list
+
+</div>
+
+## Content with a table
+
+Body content
+
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|    12 | 12   | 12      |   12   |
+|   123 | 123  | 123     |  123   |
+|     1 | 1    | 1       |   1    |
+
+## New Section with Checklist
+
+Body content
+
+-   [ ] Checklist item 1
+
+-   [ ] Checklist item 2
+
+## Content with highlights
+
+Here is body content [Mark]{.mark}
+
+## Content with footnotes and inline notes
+
+Here is a footnote reference,[^1]
+
+[^1]: Here is the footnote.
+
+This paragraph won't be part of the note, because it isn't indented.
+
+Here is an inline note.[^2]
+
+[^2]: Inline notes are easier to write, since you don't have to pick an
+    identifier and move down to type the note.
+
+```         
+Here is an inline note.^[Inline notes are easier to write, since
+you don't have to pick an identifier and move down to type the
+note.]
+```
+
+## Activity
+
+Body content
+
+::: shout
+Here is an activity Do this!
+:::
+
+## Glossary
+
+term
+
+:   definition of the term (good for Glossaries)
+
+## References

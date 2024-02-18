@@ -1,0 +1,340 @@
+---
+title: "Mini-Dissertation Write-up Guide"
+subtitle: "Part 06 - Doing your analysis"
+mainfont: "Atkinson Hyperlegible"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "02/05/2024"
+date-format: long
+license: "CC BY-NC-SA"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+# Doing your 2x2 ANOVA and post-hoc tests
+
+![](images/image-1621521779.png)
+
+## Remember, don't use raw SPSS output in your Mini-Dissertations
+
+We will be giving you guidance on the proper way to produce table and figures using SPSS, so don't use screenshots like the above!
+Stay tuned.
+
+## **Assumptions when using ANOVA**
+
+ANOVA is a **'parametric'** test, meaning that it assumes the data you are analysing conforms to a series of underlying parameters, or features. 
+
+ANOVA doesn't usually collapse when these assumptions are not met, it's what we call 'robust', but you'd normally consider possible corrections, or alternative approaches to inferential test, such as non-parametric tests.
+But you know all this from Design & Analysis!
+
+::: callout-important
+## Analysis required for the Mini-Dissertation
+
+Regardless of the assumptions being met or not, you are REQUIRED to perform an ANOVA and any necessary post-hoc tests for the Mini-Dissertation.
+
+This is so that we can ensure you all achieve competency in this key learning outcome.
+
+ 
+:::
+
+### **Missing data**
+
+Firstly, and this isn't really an assumption strictly speaking, but you need to make sure you don't have any missing data.
+If you have cells in your SPSS data set that are empty, SPSS will exclude that participant from any analyses that rely on the data.
+It's just a fact that people drop out of studies, or miss questions.
+So a certain number of participants, who haven't completed large parts of your study will have to be removed.
+
+If you have received fabricated or synthesised data (i.e. simulated data in part or in whole) an **MCAR** filter has been applied, meaning that values have been removed randomly - i.e. there are some datapoints **M**issing **C**ompletely **A**t **R**andom
+
+By running **`Descriptive Statistics`** you will be shown the **`N`** for each variable included.
+Obviously, you may have one dependent variable, or you may have two or four.
+They should all be equal (in an ideal world), but the **`Valid N (listwise)`** refers to the number of participants for whom you have complete data, and so would be the number used in an ANOVA.
+If you have a few missing values in your data, you can do what's called a **mean imputation**, which is just a fancy way of replacing the missing values with the mean of all the other values of the same variable from the rest of your data set.
+
+You can **`Transform`** the variable and **`Replace Missing Values`** using **`Series Mean`.** Or calculate the mean yourself and copy it into each missing cell of a particular value.
+If you choose to do this, please make sure to document what you did for inclusion in your Mini-Dissertation submission - it needs to be reproducible!
+
+If you think that you have more than just a few cases, please talk to your Lab Tutor and we can help resolve the issue and offer specific guidance. 
+
+### **Assumptions (based on design and measurement)**
+
+When you choose to analyse your data using a two-way ANOVA, a critical part of the procedure is checking that the data you want to analyse can actually be analysed using this test.
+In fact, the two-way ANOVA has five (or six) assumptions (depending on the flavour of ANOVA) that you have to consider, three of which you can test for using SPSS.
+
+I shall show you how to assess these three assumptions in SPSS and briefly explain how to interpret the results.
+But before that, let's remind ourselves of the first three checks you should perform.
+
+::: {.callout-note icon="false"}
+## Assumption 1
+
+1)  You need to have a continuous dependent variable. This should be something you have been aiming for all along, so we can move ahead.
+:::
+
+::: {.callout-note icon="false"}
+## Assumption 2
+
+2)  You have two categorical independent variables with two groups or levels in each. ANOVA works for more complex designs, with more than two levels of an IV, but again, you should have a **2x2 ANOVA** design.
+:::
+
+::: {.callout-note icon="false"}
+## Assumption 3
+
+3)  Your observations are independent, if you are running an independent or between-groups ANOVA. Independent means exactly what it sounds like, and should originate from separate trials of an individual participant, and not in any way related to another participant's data. This is obviously not the case if you are running a Mixed, or Repeated Measures ANOVA, as the within-participant measures are not independent, they come from the same individual.
+:::
+
+### **Parametric Assumptions (tested via SPSS)**
+
+It is relatively common that your data may violate (i.e., fail) one or more of these three assumptions.
+In each case, there are steps you can take to proceed, and these range from correcting your data in some way, choosing an alternative test, or just carrying on.
+
+In your Mini-Dissertation, you are required to proceed with the ANOVA in the normal fashion and make it clear which of the assumptions were violated.
+We wish to be able to assess you on following the procedure for the ANOVA you have learned this year.
+
+::: callout-tip
+If in doubt about what to do, please talk to your Lab Tutor.
+:::
+
+The following assumptions refer to each cell of your design, and to the residuals, or error, from the ANOVA model, not the actual observed data.
+This is worth remembering if you choose to do more advanced statistics, but, in essence, you can think about the assumptions being applied to the observed data (i.e. the data you have in your SPSS dataset).
+
+::: {.callout-note icon="false"}
+## Assumption 4
+
+4\) No significant outliers
+:::
+
+Testing this assumption can be done by producing a **`Boxplot`**.
+These are pretty cool figures and offer a 'five number summary' of a variable; the median, the first and third quartiles, as well as the minimum and maximum values.
+
+But what's really groovy, is that if a figure exceeds the interquartile range by 1.5x it's classed an 'outlier' and excluded.
+Exceed the interquartile range by 3x and it's termed an 'extreme value' and excluded.
+Outliers get a little circle and Extreme Values get a star to denote them.
+
+See below. 
+ 
+
+::: {layout-ncol="3"}
+![](images/image-150064313.png){width="200"}
+
+![](images/image-956005521.png){width="200"}
+
+![](images/image-2031782177.png){width="200"}
+:::
+
+In the first panel, you can see what all the lines in a boxplot refer to.
+
+The gap between the First quartile and the median is the lower Inter Quartile Range (sometimes abbreviated to IQR) and if a value falls below the first quartile line by more than 1.5 times this value = outlier.
+
+The same applies to values above the median, but the higher IQR is used.
+
+In the second panel, I messed about with one of my variables which originally had a maximum value of 964 and had no outliers.
+I popped in a value of 1200, but this wasn't big enough to trigger the outlier warning, as the higher IQR is actually quite big.
+
+So I had another go and made the new data value 1500.
+You'll see that in the third panel.
+It's the little circle with the number 7 beside it, identifying the row in my data that is an outlier.
+
+You see the maximum value bar has dropped back to 964.
+Sweet.
+
+Row 7 is an outlier and you can either exclude that participant, or proceed.
+
+In either case, you should VERY CAREFULLY describe your choice.
+Even if you found no outliers, you should report that you conducted an examination of a boxplot.
+
+> E.g. "No outliers were observed for the Dependent Variable, as determined by inspection of a boxplot".
+
+To run a boxplot.
+Go to **`Analyse,Descriptive Statistics`**, and then **`Explore`**, put your DV in the top box, and your (between-group) IVs together in the **`Factor List`** box.
+
+For a between-groups design, or fully independent design, you will have two **`Factors (or IVs)`** and a single dependent variable.
+
+If you have a Repeated Measures design, you will have four dependent variables and no **`Factors`**, for a mixed design, two dependent variables and one **`Factor`,** but the same process ensues. 
+
+![](images/image-1886211170.png)
+
+Click on **`Plots`** and for the purposes of this, deselect **`Stem-and-leaf`** and click (and pay attention to) **`Normality plots with tests`.** You will need that later.Press **`continue`** and your plots will be produced.You will have plots for both levels of both of your IVs and you should consider them all in the same way as the single example I showed above.
+
+![](images/image-2135608430.png)
+
+::: {.callout-note icon="false"}
+## Assumption 5
+
+**Normality of distribution**
+:::
+
+The two-way ANOVA assumes that the data are normally distributed in each cell of your ANOVA design.
+This can be checked with a visual inspection of a Histogram, but I'm not confident doing that by eye, or you could look at the skewness and kurtosis values (look them up).
+But the easiest way is the way you have already done. 
+
+Yes.
+You clicked for the **`Normality plots with tests`** earlier under **`Explore`**, and this has produced some tests and a couple of plots above your boxplots. 
+
+You will see that a **`Shapiro-Wilk`** test has been run for each of the two levels of the independent variable.
+In my toy example from last week, I had gender with 3 levels, and Psychopathy with a computed median split resulting in High Psychopathy and Low Psychopathy groups.
+The green highlight shows how to identify the independent variable that is being tested for normality of the dependent variable (Individual Reward Trials in Milliseconds).
+If you look at the **`Sig`.** column located under the **`Shapiro-Wilk`** column, you will find the significance value for this test for each group of the independent variable. 
+
+![](images/image-1841930181.png)
+
+For the purposes of this test, anything OVER *p* = .05 is good, correctly noted as (*p* \> .05).
+This just means that no alarms have gone off; the test is non-significant.
+
+So in the toy example above, and in APA format: 
+
+> Reaction times were normally distributed for both High Psychopathy group and Low Psychopathy groups, as assessed by Shapiro-Wilk's test (High Psychopathy W(9)= .926, *p* = .447, Low Psychopathy W(6)= .944,  *p* = .692) however reaction times were normally distributed for females but not males (Females W(8)= .942, *p* = .628, Males W(5)= .740,  *p* = .024).
+
+::: {.callout-note icon="false"}
+## Assumption 6
+
+**Homogeneity (or Equality) of Variances**
+:::
+
+The final assumption we need to assess is the idea that the dependent variable is of roughly equal variance or spread in each cell of the design. 
+
+The assumption of homogeneity of variances is tested using **`Levene's test of equality of variances`**, which is found in the **`Levene's Test of Equality of Error Variances table`**, as shown below. 
+
+As you can see, this just came in ABOVE our threshold at *p* = .052, meaning the assumption is met (just).
+
+![](images/image-1202599337.png)
+
+This test can be performed as part of the ANOVA itself, and **`Homogeneity tests`** is what you need to select to have it included in your ANOVA output.
+
+::: {layout-ncol="2"}
+![](images/image-1870994826.png)
+
+![](images/image-1429576185.png)
+:::
+
+Remember, the same rules apply for Levene's test as the Shapiro-Wilk test, we do **not** want to find a significant result (p \< .05).
+
+## FOR MIXED DESIGNS
+
+A further assumption of the mixed ANOVA is that there are similar covariance matrices (don't worry about it until you start your MSc).
+
+You can test for this with **`Box's test of equality of covariance matrices`**, which is presented in the **`Box's test of equality of covariance matrices table`,** as shown below:
+
+![](images/image-763650606.png){width="88"}
+
+But it is obtained by selecting for **`Homogeneity tests`** as with the previous examples, but you need to be on the look out for it to report it!
+
+And you [won't]{.underline} find the Levene test, so it's easy to get confused in the case of a mixed design.
+
+# ANOVA Analysis
+
+Please refer to PS51008 Design & Analysis workbooks in Y1 for general overview of the ANOVA principles,
+
+::: callout
+Workbook 5 - Unrelated (independent) ANOVA and post-hocs
+
+[Link to workbook 5 on VLE](https://learn.gold.ac.uk/pluginfile.php/2254170/mod_folder/content/0/SPSS%20Workbook%205.pdf?forcedownload=1)
+
+Workbook 6 - Related (Repeated Measures) ANOVA and post-hocs
+
+[Link to workbook 6 on VLE](https://learn.gold.ac.uk/pluginfile.php/2254170/mod_folder/content/0/SPSS%20Workbook%206.pdf?forcedownload=1)
+:::
+
+In PS52005 Design & Analysis in Y2, weeks 4-10 all deal with ANOVA in some way, so if anything is unclear, please pop over there and refresh yourself.
+
+<https://learn.gold.ac.uk/course/view.php?id=27556>
+
+The first 2 SPSS Exercises dealt with analysis and write-up of ANOVAs of a similar type to the one you are facing now.
+Here's a VERY useful video <https://learn.gold.ac.uk/mod/book/view.php?id=1373589&chapterid=105274>
+
+## Make sure you are clear on your design!
+
+![Thanks for the slide \@TeganPenton!](images/image-668233951.png){width="600"}
+
+## Once you've got your design in mind...
+
+refer to Lab 15 Worksheet in PS52007 for information on setting up your data and some preliminary pre-processing steps that may be relevant to you, such as Median Splits and computing mean scores across trials.
+
+![](images/image-1497306463.png)
+
+::: callout-caution
+## Median Splits are NOT terribly good practice!
+
+Remember, Median Splits reduce the amount of information in our data and can have nasty consequences on the results, such as inflating false positive error rates.
+
+We ask you to use this process to dichotomise your continuous IVs to help you more quickly get up and running at the start of the year.
+
+If you find yourself thinking about using this technique next year, please either reconsider your design, or use an analysis technique that is appropriate, such as a regression model or perhaps an ANCOVA - always consult your Supervisor!
+:::
+
+## It's time to do the analysis
+
+Well you are in safe hands.
+
+The PS52005 Design & Analysis Lab 1 guide <https://learn.gold.ac.uk/mod/folder/view.php?id=1373590> has detailed guidance on each of the 3 flavours of ANOVA (see figure below).
+Boom.
+
+![](images/image-1012195800.png)
+
+## Writing f-statements
+
+No.
+Not naughty language... Important information for your results section.
+Refer to the first lab guide in PS52005 Design & Analysis - it's full of goodies <https://learn.gold.ac.uk/mod/folder/view.php?id=1373594>
+
+\newpage
+
+## Results section
+
+This is the write-up of the worksheet 2 assignment.
+
+::: callout-tip
+Your Mini-Dissertation inferential statistics results should about this long.
+
+Make sure to include descriptives, tables and figures as appropriate.
+SPSS now produces APA format tables, so that is a real boon!
+:::
+
+::: {.smaller .callout}
+A 2 (Treatment: Opioid vs Cannabinoid) x 2 (Dosage: Single Dose vs Double Dose) ANOVA was conducted on the perceived pain scores.
+The main effect of Treatment was significant, *F*(1,4) = 21.36, *p* = .01.
+Overall perceived pain scores were higher in the Opioid conditions (*M* = 59.9, *SD* = 4.05) compared to the Cannabinoid conditions (*M* = 54.6, *SD* = 3.42).
+The main effect of Dosage was also significant, *F*(1,4) = 29.51, *p* = .006.
+Overall perceived pain scores were higher in single dose (*M* = 58.7, *SD* = 4.1) compared to double dose (*M* = 55.8, *SD* = 2.95).
+Finally, there was a significant interaction between Treatment and Dosage, *F*(1,4) = 15.23, *p* = .018.
+
+To examine the cause of the significant interaction and to protect against inflation of likelihood of Type-I error, Bonferroni-corrected simple effects analyses were conducted.
+First, two t-tests (adjusted *α* = .025) examined the simple effects of Treatment within each Dosage condition.
+In the single dose condition, perceived pain scores were significantly higher in the Opioid condition (*M* = 63.0, *SD* = 4.69) compared with the Cannabinoid condition (*M* = 54.4, *SD* = 3.65), *t*(4) = 10.59, *p* \< .001.
+In the double dose condition, perceived pain scores were not significantly different in the Opioid condition (*M* = 56.8, *SD* = 3.77) and the Cannabinoid condition (*M* = 54.8, *SD* = 3.42), *t*(4) = 1.09, *p* = .34.
+
+Next, two t-tests (adjusted *α* = .025) examined the simple effects of Dosage within each Treatment condition.
+For Opioids, perceived pain scores were significantly higher in the single dose condition (*M* = 63.0, *SD* = 4.69) compared to double dose (*M* = 56.8, *SD* = 3.77), *t(*4) = 5.36, *p* = .006.
+For Cannabinoids, perceived pain scores were not significantly different in the single dose condition (*M* = 54.4, *SD* = 3.65) compared to double dose (*M* = 54.8, *SD* = 3.42), *t*(4) = .49, *p* = .65).
+:::
+
+## So you have all the resources available to you that you could possibly need.
+
+But do remember that you can use the lab sessions in the coming weeks to get confirmation that you are doing the right thing and making proper progress.
+
+There is NO REASON why your lab tutor would not give you clear feedback or help you identify any issues.
+
+::: callout-important
+## Please remember\...
+
+Everyone gets anxious about running the analysis.
+It's just not worth it.
+The analysis is a very small part of the Mini-Dissertation, and actually requires no creativity in the least.
+
+Do it once, do it right, and move onto the more interesting part of interpreting the results.
+
+You just need to patiently follow the guides mentioned above.
+If you get onto it ASAP, you can use the lab sessions to check your work.
+
+**Be advised that the lab sessions may get busier towards the end of the term, so prioritise this if you think it is potentially something you would want to do.**
+:::
+
+As usual, please find lots of helpful resources in the Assessments section of the PS52007D VLE page
+
+-   Rubrics and advice
+
+-   Templates and writing resources
+
+-   SPSS and analysis resources ported from PS52005 Design & Analysis to specifically help you with ANOVA!

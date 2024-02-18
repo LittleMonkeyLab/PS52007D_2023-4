@@ -1,0 +1,136 @@
+---
+title: "Week 02 Overview"
+subtitle: "The Core of Science and Literature Mastery"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "10/09/2023"
+date-format: long
+license: "CC BY-NC-SA"
+citations-hover: true
+categories: 
+  - "Prep"
+  - "Week 2"
+params:
+  class: "prep02"
+
+format: 
+  # pdf: default
+  # pptx: default
+  html: default
+
+execute:
+ echo: false
+ freeze: auto
+embed-resources: true
+  # Title page populated by content above
+---
+
+# Week 02
+
+```{=html}
+
+<iframe src="https://ps52007d.littlemonkeylab.com/slides/week02/lecture.slides.html" title="Week02 Lecture" width="960" height="500" data-external="1"></iframe>
+```
+## Introduction & Lecture Preview
+
+::: {.callout .primary}
+**Key Focus:** The core of Science, Effect Sizes and Literature Search
+and management
+:::
+
+-   **Important Points:**
+    1.  The first thing that will happen in the labs this week is we
+        will try to help people who missed last week, or who didn't
+        manage to find a group, to get settled into a group. If this
+        applies to you, turn up on time (or a bit early) and announce
+        yourself to the Lab Tutor.
+    2.  If you are in a proto-group, you will be asked to complete a
+        form (one per group) that has a group name, the group members
+        (at this time) and anything that you think might be agreed or
+        semi-agreed (general topic, methods you are interested in,
+        working style etc). You will not be instructed to do this, you
+        will be expected to just do this when you arrive.
+    3.  We are going to be keen to help you in concrete ways this year.
+        We are going to be wanting to see things `on screen` this week;
+        Search Terms, Search Results, Lists of Key Authors etc. Be
+        prepared to let us look over your shoulder, so that we can give
+        feedback, to give you confidence to move forwards. If we don't
+        see notes or documents, we reserve the right to move on to
+        another student/group and we will come back to you later.
+-   **Preparatory Reading or Thinking:**
+    -   The core of good scientific practice is asking clear questions
+        and collecting data to answer that question. It sounds easy, but
+        is VERY hard in practice. In the lecture, we shall be touching
+        on `experimental hypotheses`
+        `extraneous and confounding variables` and
+        `operationalising variables` as well as other little gems that
+        are crucial to your success this year.
+
+    -   I have produced a brief introduction to Effect Sizes, and it can
+        be found here or on the VLE. Please have a read and try to think
+        about what it all means. You will need to be confident with this
+        idea in order to meet the requirements for the Personality Essay
+        and The Critical Proposal. You can discuss this with your Essay
+        Tutor in the tutorial this week too!
+
+    -   You are encouraged to read along with the key topics we cover in
+        these first weeks, as it may be that either you don't
+        immediately connect this with what you have already learned, or
+        that you don't see why this is important now. If this is the
+        case, I am obviously sorry I didn't manage to make it clear, as
+        would always be my intention, but the reading list includes
+        Howitt and Cramer Research Methods in Psychology and so Chapters
+        1 & 2 are worth a skim if this sounds like you.
+
+    -   
+
+        ## As usual, reflection and meta-cognition is crucial. We are going to be working on finding literature to help you write your Essays and Coursework. Most people assume that they are good at finding literature, but this is rarely the case. I am of the opinion that your ability to find, read, and synthesise information before putting pen to page is the number 1 determinant of grade, so if you want to increase your grade, or optimise the time it takes you to write an essay (or both). This is the week for you! So think about how you prepared for the Essays last year, the literature you used to write your lab reports. Do you think you were perfectly prepared? What might you wish to improve?
+
+## Lab Sessions
+
+```{=html}
+
+<iframe src="https://ps52007d.littlemonkeylab.com/slides/week02/lab.slides.html" title="Week 02 lab overview" width="960" height="500" data-external="1"></iframe>
+```
+## The lab will be almost entirely given over to Literature Search and Management & Effect Sizes.
+
+IF YOU ARE STILL UNGROUPED - You will need to make this clear to your
+Lab Tutor immediately at the start of the session. All students will be
+asked to detail the members of their groups, and to specify any
+agreements (Topic, possible methods, ethos, working style) at the start.
+If you don't do this it positively hampers our ability to help you.
+Please take the 10 minutes to do this as fully as possible.
+
+### Main Lab Activities
+
+-   Students just arriving must approach the Lab Tutor immediately
+-   Group data capture - Please start on this immediately - as much
+    information as possible
+-   Follow the Worksheet for Literature Searching Tips and exercises
+-   (Re-)Familiarise yourself with the idea of Effect Sizes and see if
+    you can find one relevant to either `academic success` or your
+    research topic
+-   The Lab Tutor will be circulating and looking at work `on screen` to
+    see how you are doing. Ask for any help you need.
+
+### Module Milestones (by end of this week)
+
+-   I'm in my group and we have a plan
+-   I've got a rough idea of the Topic of my Mini-Dissertation
+-   If after today, I sit down and read, or jot down ideas, whether for
+    Essay or MD - it's useful productive work
+
+### Reflection and Meta-Cognitive Practice
+
+Only you can be the judge of what is `enough`, or how much reading you
+are going to do. There is no single process for getting to the point
+where you feel comfortable answering an essay question or evaluating a
+journal article for your mini-dissertation.
+
+This is where your understanding of your learning, your cognitive needs,
+your optimal operating window comes into play. If you don't find this,
+we can't give it to you.
+
+{{< fa thumbs-up >}}
