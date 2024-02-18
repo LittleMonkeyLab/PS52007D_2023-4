@@ -1,0 +1,123 @@
+---
+title: "Schedule"
+format: html
+sidebar: false
+toc: false
+page-layout: full
+# listing:
+#   - id: schedule
+#     contents:
+#       # - weeks/Week*.qmd
+#     type: table
+#     fields: [title, description, subtitle]
+#     field-display-names:
+#       title: "Week"
+#       description: "Dates"
+#       subtitle: "Topic"
+#     date-format: "MMMM DD, YYYY"
+#     sort: [filename]
+#     sort-ui: true
+#     filter-ui: true
+#  #tbl-colwidths: [5,20,50]
+editor: visual
+---
+
+```{r packages-data, include=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(fontawesome)
+
+
+```
+
+## Weekly schedule
+
+```{r iinstall, echo=FALSE, message=FALSE, warning=FALSE}
+library(googlesheets4)
+library(gt)
+library(tidyverse)
+library(lubridate)
+library(dplyr)
+gs4_deauth()
+d <- read_sheet("https://docs.google.com/spreadsheets/d/1C03QNEp_foGSRXncI68DKEpIC1NqLDhv1TffH3hQCA8/edit?usp=sharing", sheet = "draft1")
+```
+
+```{r transformations, echo=FALSE}
+# Function for conditional text transformation
+conditional_transform_fn <- function(icon_name) {
+  function(x) {
+    ifelse(is.na(x) | x == "", "",
+           ifelse(grepl("FUTURE", x), fontawesome::fa(icon_name, fill_opacity = 0.25),
+                  glue::glue("<a href = {'http://ps52007d.littlemonkeylab.com'}{x}{'.html'}>{fontawesome::fa(icon_name)}</a>")
+           )
+    )
+  }
+}
+
+# Main Code
+d |>
+  mutate(
+    week = ifelse(is.na(week), "", week),
+    date = ifelse(
+      is.na(date) | date == "", 
+      "", 
+      {
+        temp_date <- as.Date(date, format="%m/%d/%Y")
+        paste0(wday(temp_date, label = TRUE, abbr = FALSE), ", ", format(temp_date, "%d %B"))
+      }
+    )
+  ) |>
+  gt() |>
+  text_transform(cells_body(columns = c(overview)), fn = conditional_transform_fn("binoculars")) |>
+  text_transform(cells_body(columns = c(lecture)), fn = conditional_transform_fn("tv")) |>
+  text_transform(cells_body(columns = c(lab)), fn = conditional_transform_fn("users")) |>
+  text_transform(cells_body(columns = c(worksheets)), fn = conditional_transform_fn("pencil-ruler")) |>
+  text_transform(cells_body(columns = c(DangerZone)), fn = conditional_transform_fn("book")) |>
+  sub_missing(columns = c(date, topic, notes), missing_text = "") |>
+  cols_align(align = "center", columns = c(week, date, overview, lecture, lab, worksheets, DangerZone)) |>
+  cols_align(align = "left", columns = c(topic, notes)) |>
+  tab_style(
+    style = cell_borders(
+      sides = "right",
+      color = "#D3D3D3",
+      style = "solid"
+    ),
+    locations = cells_body(
+      columns = c(week, date, topic, overview, lecture, lab, worksheets, DangerZone)
+    )
+  ) |>
+  # Setting text size for 'notes' column
+  
+  tab_style(
+    style = htmltools::css(font_size = "0.9em"),
+    locations = cells_body(
+      columns = c(notes)
+    )
+  ) |>
+  
+  # Setting column widths for specified columns
+  tab_style(
+    style = htmltools::css(width = "5%"),
+    locations = cells_body(
+      columns = c(overview, lecture, lab, worksheets, DangerZone)
+    )
+  ) |>
+  
+  # Setting column widths for specified columns
+  tab_style(
+    style = htmltools::css(width = "10%"),
+    locations = cells_body(
+      columns = c(week, date)
+    )
+  ) |>
+  
+  tab_style(
+    style = htmltools::css(font_size = "0.75em"),
+    locations = cells_body(
+      columns = everything()
+    )
+  ) |>
+  fmt_markdown(columns = topic)
+
+```

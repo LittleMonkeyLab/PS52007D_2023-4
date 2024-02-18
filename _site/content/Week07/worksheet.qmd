@@ -1,0 +1,498 @@
+---
+title: "**Lab 07 Worksheet**"
+subtitle: "Ethics II and Psychometric Properties"
+format:
+  pdf: default
+---
+
+# Ethics II & Reliability and Validity
+
+This week has two major areas of focus - a deeper dive on the Ethics
+Application Portal, including information that will be required, and to
+recap Psychometric Reliability and Validity.
+
+## By the end of the session, you will have:
+
+This week is focussed on the following overarching learning objectives
+
+::: callout
+-   Be fully prepared to submit a successful Ethics Application
+-   Understand and be able to critically assess the strengths and
+    limitations of psychological measures in terms of their reliability
+    and validity.
+:::
+
+## Two main parts of the lab this week
+
+::: {.callout-important icon="false"}
+## Activities for this week
+
+-   [ ] Ethics Portal information deep dive
+-   [ ] Psychometric Reliability and Validity
+:::
+
+## Ethics II
+
+Familiarise yourself with the important Ethics resources available on
+the VLE. These include general Research guidelines, but some specific to
+online research too (should you plan to work online only).
+
+Successfully logging in to the Research Ethics portal and reviewing all
+the information you will be required to submit in support of your ethics
+application. By being aware of this, you can offset any problems.
+
+::: callout-warning
+## Please pay close attention to detail
+
+Any errors will result in an application being returned and a
+resubmission will be required.
+:::
+
+The Ethics Committee VLE page.
+<https://learn.gold.ac.uk/course/view.php?id=17220>
+
+Resources on the Research Methods VLE page
+<https://learn.gold.ac.uk/mod/page/view.php?id=1410090>
+
+[British Psychological Society Code of Human Research
+Ethics](https://www.bps.org.uk/guideline/bps-code-human-research-ethics) 
+
+This document outlines the general principles of ethical research with
+human participants.
+
+[British Psychological Society Ethics guidelines for internet mediated
+research (Online
+Research)](https://www.bps.org.uk/guideline/ethics-guidelines-internet-mediated-research)
+
+This document details requirements for online testing
+
+[General Data Protection Regulation - GDPR - What is 'personal
+data'](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/key-definitions/what-is-personal-data/)
+
+GDPR is legislation which protects participant data and must be adhered
+to at all times. If you propose to collect 'personal data' (see link for
+definition) it brings with it the responsibility to treat it with the
+utmost integrity and security.
+
+## Applying for Ethical Approval via the Goldsmiths Ethics Committee
+
+All Undergraduate and Postgraduate student projects (e.g., Y2 UG
+Mini-Dissertation, Y3 project, MSc project, PhD research) are submitted
+via the online ethics system.
+
+For the Mini-Dissertation, you need to complete an ethical application
+for each individual study advertised to participants. If a single study
+is the combined efforts of multiple students, and collects data for a
+number of Mini-Dissertations, it only need ethical approval once, but
+you must list **ALL students** involved. All students should be familiar
+with the ethical considerations of their study and have been involved in
+the process of making the application.  
+
+**Every individual student must have applied for ethics, or have been
+named on an ethics application, in order to pass the module.**
+
+## ACCESSING THE SYSTEM
+
+The ethics system can be accessed through the departmental student
+dashboard: https://psy770.gold.ac.uk/student There are two steps to log
+in.
+
+::: callout
+When you click on the link a pop-up box will appear, you need to enter
+the following:
+
+Username: student
+
+Password: goldpsy
+
+You will then be asked to use your normal username and password to
+access your personal ethics portal:
+:::
+
+![](images/login.png)
+
+![](images/login2.png)
+
+![](images/myethics.png)
+
+![](images/type.png)
+
+Select the appropriate project type, choose the current year, and give
+the application a meaningful name (unlike Best Mini-Dissertation EVER!).
+Consider something along the lines of 'The effect of personality and
+chronotype on Imposter Syndrome in higher education'. Informative and
+clear.
+
+::: callout
+Your 'Supervisor' will be your Lab Tutor.
+:::
+
+![](images/name.png)
+
+Once you have done this, your application will be available to edit,
+view, upload supporting documents, view comments, view messages from the
+committee or your supervisor, or delete (if necessary).
+
+![](images/edits.png)
+
+Click edit to start completing the form. The first item you will see is
+'co-applicants'. It is normal that a single student may take the lead on
+drafting the ethics application, but all students who will obtain data
+from the task must be listed. Please make sure that this is complete. In
+order to pass the module, all students must be listed in a successful
+ethics application.
+
+I have added Ian Hannent (our Department Systems Engineer) as my
+co-applicant. Do this for all the students for whom the proposed study
+will provide data, and only those students. You can find a list of
+current students in the dropdown box.
+
+Please contact your lab tutor if your name does not appear on the list!
+
+![](images/ian.png)
+
+![](images/warning.png)
+
+You are then presented with 15 questions to which you must respond Yes,
+No or Not Applicable (N/A). Please read these carefully and respond
+correctly.
+
+By responding **Yes** to any questions beyond question 11 will usually
+require you to complete a '**Box B'** application, meaning that extra
+information will be required to ensure full compliance and safety. **YOU
+SHOULD NOT MAKE A CATEGORY B APPLICATION. If you feel that you need to
+answer YES to any question after 11... Reconsider.**
+
+![](images/questions.png)
+
+It is common that you may conceal a little about the study in the
+information sheet in order to avoid contaminating results. This is
+misleading a participant, in that it is NOT fully informed consent. This
+can however be offset by giving a very clear debrief and telling the
+participant what you did and why in that debrief. I believe this is one
+of the more common queries. In second place is a query as to what
+constitutes distress or discomfort.
+
+If the topic of your research raises a topic or concept that may in any
+way be upsetting or worrying to a participant, address this very clearly
+in the debrief. I do work on deception and psychopathy, and either of
+those topics could be upsetting to an individual who has been victim to
+deceit, or who hears about psychopaths for the first time. I would
+always give a very clear source of further information AND support that
+participants can follow up if they need. I believe this is just good
+practice.
+
+ When the Online Data Collection box is selected, you will see the
+following questions.
+
+As noted in the lab slides, you have to submit a link to a COMPLETE,
+published version of your task for review if you plan to collect data
+solely online.
+
+For questions 1 -- 9 you must give a short answer as to how these
+objectives will be achieved.
+
+![](images/online.png)
+
+Select A if you consider your application without any ethical concerns -
+For the purposes of your Mini-Dissertation, you are required to submit a
+category A application. As noted above. If you feel you are entering
+Category B territory - think again.
+
+![](images/catAB.png)
+
+Provide short, but detailed responses to the questions below. These are
+not 'marked' but failure to give complete information will result in a
+request for resubmission.
+
+What you are trying to find out and the justification for asking the
+question. An ethical research project has a worthwhile and meaningful
+objective.  
+
+![](images/rationale.png)
+
+Give an overview of the various parts of your study, perhaps in order to
+help the reviewer, with details of the measures involved. If you are
+using a standardised questionnaire, say so WITH REFERENCE. If you have
+created questions yourself, say so.
+
+![](images/measures.png)
+
+Insert a short summary of your power calculation and estimated sample
+size. Give specific details of how you propose to advertise the study
+and where and any pre-requisites around demographics or
+exclusion/inclusion criteria. Please be specific. If you wish to
+advertise your study on social media please specify the types of
+channels or audiences being targeted in case it may be problematic. For
+example, recruiting participants of a particular characteristic by
+entering an online community uninvited may be upsetting to its members.
+Consider any potentially damaging effects for would-be participants,
+even from just an invitation to participate in research.
+
+![](images/recruitment.png)
+
+Please reiterate here the process of informed consent, debriefing and
+any use of identifying information (such as email addresses or
+identifiers).
+
+![](images/IC.png)
+
+Include the dates as relevant and upload copies of the Information
+Sheet, Informed Consent questions, GDPR and debrief. This should be
+IDENTICAL to the information in your online task (if you use one), so
+copy it from there into separate word documents. This will be stored on
+file.
+
+![](images/dates.png)
+
+![](images/docs.png)
+
+![](images/docs2.png)
+
+You can save the form at any time and come back to it. Once you have
+completed all the questions and uploaded the documents, you will be able
+to submit the form using the Submit button at the bottom of the form.
+
+## WHAT HAPPENS NEXT
+
+Once submitted the form goes to your supervisor (lab Tutor) to review,
+and the status changes to 'With Supervisor'.
+
+You will not be able to edit the form at this stage. Your supervisor
+will then review the form, and will send you a message through this
+system if any changes are needed. It is important that all messages
+about this form are sent through the system, to avoid confusion.
+
+If the supervisor has requested changes they will send the form back to
+you, the status changes to 'With Student' and you will be able to edit
+and then submit again.
+
+Once the supervisor has approved the form, the status will change to
+'Being Processed by Ethics Committee'.
+
+Any amendments will be requested by the Committee through this system,
+and the form will be returned to you for amendment.
+
+Once approval has been granted an automatic email will be sent to you.
+There is nothing we can do to hurry applications. Turnaround is
+anticipated to be 1 week, but obviously, if everyone submits on the same
+day, this is impossible. If you have been waiting for more than 2 weeks,
+please alert your lab tutor.
+
+![](images/comments.png)
+
+{{< pagebreak >}}
+
+## A recap on Reliability and Validity
+
+::: callout
+## This is some wider reading - not an activity per se
+
+Any Research Methods textbook will cover these 4 validites and 4
+reliabilities (and more) in excruciating detail, but below are some
+general thoughts to help you think about this important topic
+
+Remember - your mini-dissertation doesn't need to incorporate all of
+these, but you should be thinking carefully about ensuring quality along
+these dimensions in your Final Year Dissertation.
+:::
+
+## More targetted critical evaluation
+
+Assessment tools can exhibit various types of validity, each vital in
+distinct research contexts - try to establish which is important in your
+particular research domain. Below are four terms commonly used in
+quantitative research which, in my opinion, are also highly applicable
+to numerous qualitative research methodologies (although likely not
+referred to using the same terms):
+
+# Types of Validity in Research Assessment
+
+## Face Validity
+
+Face validity refers to the degree to which an assessment method appears
+to be effective in measuring a specific characteristic at first glance.
+This form of validity is useful for gaining participant cooperation in
+research. However, it relies solely on subjective judgment and is not a
+reliable standalone indicator of an assessment's accuracy in measuring
+the intended characteristic.
+
+## Content Validity
+
+Content validity measures how well an assessment tool or procedure
+captures the entire scope and depth of the characteristic being
+evaluated. It is particularly relevant when assessing achievements,
+usually through a set of specific questions or practical tasks. An
+assessment has high content validity if it adequately represents various
+aspects of the content area and necessitates behaviors and skills
+essential to that area.
+
+## Criterion Validity
+
+Criterion validity assesses how well the outcomes of a strategy
+correlate with another related characteristic (the criterion). For
+instance, a personality test for measuring shyness or extroversion
+demonstrates criterion validity if it aligns with other measures of
+sociability. Similarly, a method for gauging a salesperson's
+effectiveness should correlate with actual sales made. When the
+criterion is evaluated later in time, this form of validity is also
+known as predictive validity.
+
+## Construct Validity
+
+Construct validity pertains to the extent to which an assessment
+strategy provides reliable results for a characteristic that is not
+directly observable but inferred from behavior or output patterns (known
+as a construct). Constructs like motivation, creativity, racial
+prejudice, and happiness cannot be directly observed. Hence, researchers
+must gather evidence that their methods accurately assess these
+constructs through behavior observation, questioning, task presentation,
+or evaluation of created products.
+
+# Strategies for Establishing and Enhancing the Validity of Assessment Tools
+
+In research, it's essential to persuade fellow scholars of the validity
+of your assessment strategies for your specific objectives.
+Occasionally, this validation might already be established by prior
+studies, allowing you to reference their work in your literature review
+or methods section. However, there are times when you need to
+independently validate your assessment methods. Below are some methods
+researchers commonly employ to substantiate the effectiveness of their
+chosen assessment strategies:
+
+1.  **Ensuring Comprehensive Representation**: When developing
+    structured assessments, whether paper-and-pencil, computer-based, or
+    performance-based, it's crucial to ensure that they encompass the
+    entire range and depth of the characteristic under study. This is
+    particularly important when content validity is the main focus. The
+    assessment tool should mirror the entire spectrum and complexity of
+    the domain or characteristic in question. For instance, educational
+    researchers aiming to develop an effective achievement test for a
+    specific content area might start by creating a table of
+    specifications. This table might list the specific topics and
+    behaviors (like factual knowledge, problem-solving skills, critical
+    thinking) indicative of achievement in that area. Each cell in the
+    grid denotes the importance of each topic-behavior combination,
+    guiding the development of questions or tasks in appropriate
+    proportions to each item on the list or catalogue.
+
+2.  **Adopting a Multitrait--Multimethod Approach**: This might be
+    beyond the scope of the mini-dissertation, but if you propose to
+    examine a concept in depth for your final year dissertation, this
+    approach is potentially merited. It involves assessing two or more
+    traits using multiple methods. It's the psychometric equivalent of
+    the old advice to measure twice and cut once (maybe?). Simply put,
+    different assessments of a single trait should correlate strongly,
+    while the same method used for different traits should not. For
+    instance, in studying high school students, a researcher might
+    evaluate constructs like academic and social motivation using both
+    self-report questionnaires and teacher observation checklists.
+    Statistical analyses should show high correlations between the
+    different measures of academic motivation and similarly for social
+    motivation. However, measures assessing different traits (e.g.,
+    academic versus social motivation) through the same method (e.g.,
+    self-report questionnaires) should not demonstrate a high
+    correlation, nor should this be the case with different methods
+    assessing the same trait.
+
+3.  **Alignment with a Conceptual Framework**: A conceptual framework,
+    or nomological network, is a network of interconnected concepts that
+    potentially explain a studied phenomenon. When your assessment
+    strategy, especially one focused on qualitative data that resists
+    complex statistical analysis, aligns with a specific conceptual
+    framework, it can significantly bolster its relevance and
+    effectiveness.
+
+4.  **Pilot Testing**: This is particularly relevant to the
+    mini-dissertation! Before fully implementing an assessment strategy,
+    particularly if it's not a pre-validated instrument, conducting
+    pilot tests with a smaller subset of your target group (people,
+    animals, artifacts, etc.) is crucial. This preliminary testing
+    allows you to identify and rectify any glaring or potential issues
+    in your strategy, enhancing its effectiveness and reliability.
+
+5.  **Expert Panel Review**: Sometimes referred to as the Delphi
+    Method - Involving a panel of experts to review and critique your
+    assessment tool or strategy is a practice even seasoned researchers
+    adopt. These experts, knowledgeable in the relevant field, for
+    example Clinicians in the case of a clinical application or
+    construct, provide valuable insights into the validity of the
+    assessment for measuring a specific characteristic. They can also
+    suggest improvements, such as additional criteria for checklists or
+    alternative questions and phrasings for interviews or
+    questionnaires. This step ensures that your assessment strategy is
+    thoroughly vetted and optimized for accuracy and relevance.
+
+# Forms of Reliability in Assessment Strategies
+
+Reliability in assessment strategies manifests in various forms, each
+relevant to different types of assessments. Here are four commonly used
+forms of Reliability:
+
+1.  **Interrater Reliability**: This is the degree to which multiple
+    evaluators agree in their judgments when assessing the same product
+    or performance.
+
+2.  **Test--Retest Reliability**: This measures the consistency of
+    results from a single assessment tool when applied to the same
+    individuals over a short period.
+
+3.  **Equivalent-Forms Reliability**: This refers to the consistency in
+    results when two different versions of the same assessment tool
+    (like two forms of a test) are used. Some people like to try
+    Split-half reliability, where you simply see if both halves of a
+    measure are equally accurate - or rather, give similar results.
+
+4.  **Internal Consistency Reliability**: This looks at how consistently
+    different items or tasks within a single assessment method yield
+    similar results.
+
+## Important Points About Reliability
+
+-   **Reliability as a Prerequisite for Validity**: An assessment
+    strategy can only be valid if it is also reliable. Accurate
+    assessment depends on consistent measurement, meaning enhancing
+    reliability can potentially increase validity.
+
+-   **Reliability Does Not Guarantee Accuracy**: While necessary,
+    reliability alone doesn't ensure the accuracy of an assessment. For
+    example, consistently measuring head circumference as an indicator
+    of intelligence might be reliable but lacks validity since head size
+    doesn't reflect intelligence.
+
+## Determining Reliability Mathematically
+
+To determine reliability, numerical data is essential. For instance, in
+observational research, the agreement percentage between two assistants
+categorizing data can indicate reliability. A 95% agreement suggests
+high reliability, while a 50% rate is concerning. In certain
+quantitative research, more complex statistical analyses are used,
+involving correlation coefficients to measure the degree of similarity
+in assessment results. You might use this if your mini-dissertation
+involved behavioural coding or observation techniques.
+
+## Enhancing Reliability (and Indirectly Validity)
+
+1.  **Defining Clear Criteria**: Especially in assessments requiring
+    subjective judgment, defining specific criteria for categorizing or
+    rating is crucial. Concrete, illustrative examples can clarify
+    categories, such as different types of aggression in behavioral
+    studies. This might take the form of a code-book.
+
+2.  **Standardization in Structured Instruments**: Consistency in
+    content, format, and evaluation criteria is key. However,
+    adjustments may be needed for participants with disabilities to
+    ensure validity.
+
+3.  **Rater Training for Consistency**: When subjective judgments are
+    involved, training raters to apply criteria uniformly enhances both
+    reliability and validity. Revisions to the strategy for greater
+    rater consistency might also be necessary as part of the piloting
+    programme.
+
+Remember, this is all aiming to deliver the most accurate, and
+high-resolution data possible. I think it is intuitive to see this in
+action - a natural drive for precision, but this applies to online tools
+also. Please pilot. Please verify your data are in a proper format when
+you export it, or prepare to analyse it. Mistakes are not a problem this
+year (within reason), but will be upsetting next year!
