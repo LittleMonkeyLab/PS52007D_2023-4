@@ -1,0 +1,312 @@
+{
+  "content/Week13/lecture.qmd": {
+    "lecture.slides.html": "a524de0a",
+    "lecture.tex": "7f121a21",
+    "lecture.html": "69543a5c",
+    "lecture.pptx": "3266daf3"
+  },
+  "content/Week06/overview.qmd": {
+    "overview.html": "ad41df71",
+    "overview.slides.html": "87f113e3",
+    "overview.pptx": "82de7eb5"
+  },
+  "content/Week06/lecture.qmd": {
+    "lecture.tex": "373b312b",
+    "lecture.html": "871c2c31",
+    "lecture.slides.html": "bb545eed",
+    "lecture.pptx": "86d2594a"
+  },
+  "content/Week06/lab.qmd": {
+    "lab.slides.html": "c70d3e57",
+    "lab.pptx": "e2ad6210",
+    "lab.html": "bbbfad99"
+  },
+  "content/Week06/worksheet.qmd": {
+    "worksheet.tex": "bb538f74",
+    "worksheet.slides.html": "6d974b25",
+    "worksheet.pptx": "bebf87c5",
+    "worksheet.html": "41823a18"
+  },
+  "content/Week07/overview.qmd": {
+    "overview.html": "3c5f83ad",
+    "overview.slides.html": "730ca41d",
+    "overview.pptx": "7b5d042a"
+  },
+  "content/Week07/lecture.qmd": {
+    "lecture.tex": "dbb7acfa",
+    "lecture.html": "e7036a61",
+    "lecture.slides.html": "5b1f6dff",
+    "lecture.pptx": "9ec8f7e6"
+  },
+  "content/Week07/lab.qmd": {
+    "lab.slides.html": "faca4d67",
+    "lab.pptx": "5917df22",
+    "lab.html": "7ae2183f"
+  },
+  "content/Week07/worksheet.qmd": {
+    "worksheet.tex": "41c61b27",
+    "worksheet.slides.html": "fe8c7572",
+    "worksheet.pptx": "30def2c6",
+    "worksheet.html": "14f4b120"
+  },
+  "content/Week13/lab.qmd": {
+    "lab.slides.html": "3391333f",
+    "lab.pptx": "8bd24bc4",
+    "lab.html": "c20b2044"
+  },
+  "content/Week12/lecture.qmd": {
+    "lecture.tex": "7deb2a30",
+    "lecture.html": "904c2970",
+    "lecture.slides.html": "ed3fe62e",
+    "lecture.pptx": "f9e6f8c1"
+  },
+  "content/Week12/lab.qmd": {
+    "lab.slides.html": "4f6f2885",
+    "lab.pptx": "03761ae9",
+    "lab.html": "6c9861a5"
+  },
+  "content/MiniDissWriting/MiniDissWriting01.qmd": {
+    "MiniDissWriting01.slides.html": "c62b883f",
+    "MiniDissWriting01.pptx": "baf66bad",
+    "MiniDissWriting01.html": "68851c3b",
+    "MiniDissWriting01.tex": "9c521983"
+  },
+  "content/MiniDissWriting/MiniDissWriting03.qmd": {
+    "MiniDissWriting03.slides.html": "34d91841",
+    "MiniDissWriting03.pptx": "77995694",
+    "MiniDissWriting03.html": "21cd4109",
+    "MiniDissWriting03.tex": "4080dd32"
+  },
+  "content/MiniDissWriting/MiniDissWriting02.qmd": {
+    "MiniDissWriting02.slides.html": "b2fdffad",
+    "MiniDissWriting02.pptx": "e787ccf6",
+    "MiniDissWriting02.html": "383d8269",
+    "MiniDissWriting02.tex": "06da63de"
+  },
+  "content/Week11/lecture 3.qmd": {
+    "lecture-3.tex": "eb0c096f",
+    "lecture 3.html": "ef806fc2",
+    "lecture 3.slides.html": "9734cd65",
+    "lecture 3.pptx": "72063f5d"
+  },
+  "content/Week11/lecture.qmd": {
+    "lecture.tex": "15a0cc83",
+    "lecture.html": "4edded0c",
+    "lecture.slides.html": "d443a15c",
+    "lecture.pptx": "2ef4ddc5"
+  },
+  "content/Week11/lab.qmd": {
+    "lab.slides.html": "0d2c38e4",
+    "lab.pptx": "d826ab2a",
+    "lab.html": "9a24823a"
+  },
+  "textbook/Power/Power.qmd": {
+    "Power.tex": "d30dd364"
+  },
+  "textbook/EffectSizes/EffectSizes.qmd": {
+    "EffectSizes.tex": "54e6e207"
+  },
+  "worksheets/worksheet03.qmd": {
+    "worksheet03.tex": "6948cbd5",
+    "worksheet03.html": "66fc643a"
+  },
+  "worksheets/worksheet02.qmd": {
+    "worksheet02.tex": "d01d46a6",
+    "worksheet02.html": "4f2afb4e"
+  },
+  "worksheets/worksheet01.qmd": {
+    "worksheet01.tex": "7dffae0e",
+    "worksheet01.html": "8c5420ed"
+  },
+  "worksheets/worksheet05.qmd": {
+    "worksheet05.tex": "734d8e1d",
+    "worksheet05.html": "e139b170"
+  },
+  "worksheets/worksheet04.qmd": {
+    "worksheet04.tex": "cbc39ae2",
+    "worksheet04.html": "45d87be7"
+  },
+  "worksheets/index.qmd": {
+    "index.html": "ddf1d56d",
+    "index.tex": "0bf9b2b4"
+  },
+  "index.qmd": {
+    "index.html": "5ec6537f",
+    "index.tex": "27edafd4"
+  },
+  "slides/week01/lecture.qmd": {
+    "lecture.tex": "6937f0ac",
+    "lecture.pptx": "7000c965",
+    "lecture.html": "3aaa8d1e",
+    "lecture.docx": "57e2fa16",
+    "lecture.slides.html": "1fc9b7aa"
+  },
+  "slides/week01/lab.qmd": {
+    "lab.pptx": "f71918b6",
+    "lab.html": "d6b31863",
+    "lab.docx": "6b17ea14",
+    "lab.slides.html": "ccddcce1",
+    "lab.tex": "ff8a95d3"
+  },
+  "slides/week00/lecture.qmd": {
+    "lecture.tex": "232615d4",
+    "lecture.docx": "d0a35b90",
+    "lecture.slides.html": "300e68ec",
+    "lecture.pptx": "42d2a47a",
+    "lecture.html": "c09614cb"
+  },
+  "slides/week00/lab.qmd": {
+    "lab.tex": "0de5b7d1",
+    "lab.slides.html": "c7c89beb",
+    "lab.pptx": "49429fd3",
+    "lab.html": "9636deb5"
+  },
+  "slides/index.qmd": {
+    "index.html": "24a46931",
+    "index.slides.html": "f1b37ffb",
+    "index.pptx": "2a415d70",
+    "index.tex": "429ee7be"
+  },
+  "slides/week05/lecture.qmd": {
+    "lecture.tex": "76bcbe62",
+    "lecture.pptx": "5242789b",
+    "lecture.html": "0347bacb",
+    "lecture.docx": "48ea2dec",
+    "lecture.slides.html": "429dfac9"
+  },
+  "slides/week05/lab.qmd": {
+    "lab.pptx": "f138b3a5",
+    "lab.html": "94856c85",
+    "lab.docx": "be2acc18",
+    "lab.slides.html": "fbb6a1db",
+    "lab.tex": "bc8859e7"
+  },
+  "slides/week02/lecture.qmd": {
+    "lecture.tex": "7fd654d6",
+    "lecture.pptx": "09c7ce3c",
+    "lecture.html": "c5175366",
+    "lecture.docx": "eedc8774",
+    "lecture.slides.html": "b0c5ab70"
+  },
+  "slides/week02/lab.qmd": {
+    "lab.pptx": "3aaecf7d",
+    "lab.html": "54523b0f",
+    "lab.docx": "f2d902a2",
+    "lab.slides.html": "3b116627",
+    "lab.tex": "76935539"
+  },
+  "slides/week03/lecture.qmd": {
+    "lecture.tex": "137beece",
+    "lecture.pptx": "d3a70a11",
+    "lecture.html": "94d3156f",
+    "lecture.docx": "c8393487",
+    "lecture.slides.html": "d70ce8d0"
+  },
+  "slides/week03/lab.qmd": {
+    "lab.pptx": "8f488862",
+    "lab.html": "5298377f",
+    "lab.docx": "2bdb30b7",
+    "lab.slides.html": "1da24ec2",
+    "lab.tex": "6c0a6b60"
+  },
+  "slides/week04/lecture.qmd": {
+    "lecture.tex": "98b1c022",
+    "lecture.pptx": "8f6b67fb",
+    "lecture.html": "a3557b57",
+    "lecture.docx": "0438aa3a",
+    "lecture.slides.html": "16a1fa01"
+  },
+  "slides/week04/lab.qmd": {
+    "lab.pptx": "baea9de8",
+    "lab.html": "8294b90e",
+    "lab.docx": "0f206fcb",
+    "lab.slides.html": "79887a69",
+    "lab.tex": "9b3d90fd"
+  },
+  "slides/week21/lecture.qmd": {
+    "lecture.tex": "337c3f0d",
+    "lecture.pptx": "08949ff6",
+    "lecture.html": "05b27dd8",
+    "lecture.docx": "d9d65ed0",
+    "lecture.slides.html": "24009b6d"
+  },
+  "TextBookChapterTemplate.qmd": {
+    "TextBookChapterTemplate.html": "acf34485",
+    "TextBookChapterTemplate.tex": "d291c816"
+  },
+  "overview/index.qmd": {
+    "index.html": "68a20ce2"
+  },
+  "overview/overview05.qmd": {
+    "overview05.html": "e8e71cdf"
+  },
+  "overview/overview04.qmd": {
+    "overview04.html": "9df07b4c"
+  },
+  "overview/overview03.qmd": {
+    "overview03.html": "3911ad54"
+  },
+  "overview/overview02.qmd": {
+    "overview02.html": "de01c6b4"
+  },
+  "overview/overview01.qmd": {
+    "overview01.html": "4f22a68a"
+  },
+  "schedule.qmd": {
+    "schedule.html": "4d5f1b1a"
+  },
+  "extras/extras01.qmd": {
+    "extras01.tex": "614402a3",
+    "extras01.html": "23ec91bd"
+  },
+  "extras/index.qmd": {
+    "index.tex": "f548afaa",
+    "index.html": "85f9c793"
+  },
+  "content/Week14/lab.qmd": {
+    "lab.slides.html": "39b14504",
+    "lab.pptx": "9a534d8c",
+    "lab.html": "9addd736"
+  },
+  "content/MiniDissWriting/MiniDissWriting04.qmd": {
+    "MiniDissWriting04.slides.html": "4616b062",
+    "MiniDissWriting04.pptx": "12757e3b",
+    "MiniDissWriting04.html": "c5aafe8a",
+    "MiniDissWriting04.tex": "acaed73c"
+  },
+  "content/Week14/lecture.qmd": {
+    "lecture.tex": "e422d22d",
+    "lecture.slides.html": "0d805f34",
+    "lecture.html": "1892a113",
+    "lecture.pptx": "d567e84a"
+  },
+  "content/Week15/lecture.qmd": {
+    "lecture.tex": "0a86fa39",
+    "lecture.html": "041be3c9",
+    "lecture.slides.html": "ef5563ee",
+    "lecture.pptx": "dca13076"
+  },
+  "content/Week15/lab.qmd": {
+    "lab.slides.html": "039e6c8d",
+    "lab.pptx": "ec193d62",
+    "lab.html": "6608484e"
+  },
+  "content/MiniDissWriting/MiniDissWriting05.qmd": {
+    "MiniDissWriting05.slides.html": "9c91987e",
+    "MiniDissWriting05.pptx": "b95f906a",
+    "MiniDissWriting05.html": "95d3ef6a",
+    "MiniDissWriting05.tex": "9d56c8ff"
+  },
+  "content/MiniDissWriting/MiniDissWriting06.qmd": {
+    "MiniDissWriting06.html": "e324454b",
+    "MiniDissWriting06.tex": "07e15fa1",
+    "MiniDissWriting06.slides.html": "bf9905f5",
+    "MiniDissWriting06.pptx": "05edf1a1"
+  },
+  "content/Week16/lecture.qmd": {
+    "lecture.html": "ce24875d"
+  },
+  "content/Week16/lab.qmd": {
+    "lab.html": "cdc59e27"
+  }
+}
