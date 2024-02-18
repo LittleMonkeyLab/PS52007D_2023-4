@@ -1,19 +1,19 @@
 ---
-title: "Lecture 15: <br> Chip, QA & Recap"
-subtitle: "Reading Week next week"
+title: "Lecture 16: <br> Weeks 16 - 20(22)"
+subtitle: ""
 image: "lecture.png"
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743
     email: g.wright@gold.ac.uk
-date: "02/05/2024"
+date: "02/19/2024"
 date-format: long
 license: "CC BY-NC-SA"
 # footer: 
 citations-hover: true
 categories: 
   - "Lecture"
-  - "Week 15"
+  - "Week 16"
 format: 
   pdf: default
   # pptx: default
@@ -23,7 +23,7 @@ format:
     title-slide-attributes: 
       data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
     header-logo: "/images/rmmonkey.png"
-    header: "Research Methods Lecture 15 - Title!" # Replace it
+    header: "Research Methods Lecture 16 - Last Push!" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
     mainfont: Atkinson Hyperlegible
@@ -54,190 +54,31 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-## A number of topics to cover today
+## Nothing too heavy today
 
-With the goal of clearing the decks before Reading Week
+The last 5 weeks are very reactive to your progress through the MD &
+CHIP log
 
-::: incremental
--   Thank you to everyone who contributed so wonderfully on Thursday
+Plenty of time available to answer questions, especially the Labs each
+week.
 
--   Review existing materials available to you for the Mini-Dissertation
+## Make sure to use the MiniDiss Writing Guide Resources
 
--   Labs tomorrow will be focused on finalising data collection and a
-    data audit
+#6 is Data Analysis
 
--   CHIP topics
-:::
+Remember that all your PS52005C Resources are also available
 
-## Thank you
+![](images/MiniDissWritingGuide.png)
 
-I was really pleased to see you all contribute to Thursday and the First
-Years are all very grateful
+## Psychology Virtual Office for Past Exam Papers
 
-. . .
+![](images/past papers.png)
 
-Some of you might have noticed that there was an extra option available
-to the First Years...
+## FAQ
 
-![](images/Lecture15_2.png)
+At this point in the year, it is common for questions to come up.
 
-## Results will be announced in the last lecture!
+Please consider asking these questions on the Forum, for the benefit of
+others.
 
-![](images/Lecture15-3.png){width="900"}
-
-## I just want to recap the materials available on the VLE
-
-![](images/Lecture15-4-02.png)
-
-## Mini-Dissertation Writing Guides
-
-![](images/Lecture15-5.png)
-
-## Mini-Dissertation Resources
-
-![](images/Lecture15-6.png)
-
-## Data Analysis
-
-**Remember, PS52005C Design & Analysis is where you are taught ANOVA**
-
-![](images/Lecture15-7%202.png)
-
-# Labs tomorrow
-
-## I ask for your help
-
--   I shall be circulating performing a data sudit
-
--   So please turn up if you can
-
--   Be ready to give me a status on your data collection efforts and
-    plans for stopping
-
--   We will decide if I need to fabricate data for you
-
--   Please put a message on Whatsapp
-
-# Now let's quickly discuss CHIP
-
-## CHIP Assignment(s)
-
-::: incremental
--   Coursework piece designed to allow you to engage reflexively with
-    the 'big picture' of your degree
-
--   Think about how these issues link into psychology as a discipline,
-    and how they relate to your own thoughts about what psychology is or
-    should be
-
--   Two 'reflective accounts' of max 600 words each (Not including
-    obligatory reference list)
-
--   [**Marks are awarded for reflection**]{.underline}, evidence of
-    learning and bring topics together. Please see marking criteria for
-    both accounts.
-
--   Not looking for a restatement of the facts in the lectures etc.
-
--   [**They are designed to be personal and reflective -- embrace this
-    aspect!**]{.underline}
-:::
-
-## Reflective Account 1
-
-Essay 1 is based on the content of ONE of the topics and should adopt at
-least two of the following 6 'perspectives'.
-
-::: incremental
--   As a **STUDENT** of psychology
-
--   As a **TRAINEE** psychologist
-
--   In relation to a **RESEARCH** application in your future
-
--   As an **HISTORIAN** of psychology
-
--   Reporting on the culture or **PRACTICE** of psychology as it
-    currently exists here or across cultures
-
--   As a critic or supporter of psychology's status as a **SCIENCE**
-:::
-
-## Reflective Account 1 tips
-
-::: incremental
--   Ask a specific question -- and answer it.
--   Intro, body, conclusion structure.
--   Reflect on the topic and give your own opinion as to the answer!
--   Present a journey in your learning or appreciation of the topic
--   Ensure your answer is argued using examples
--   Use evidence in your argument from a range of sources, ideally do
-    some strategic wider reading
--   Present and reference it well
-:::
-
-## Reflective Account 2
-
-Essay 2 should focus on at least one of the OTHER topics covered in the
-course.
-
-::: incremental
--   This answer should focus on a primary reading and then any further
-    reading you have done (strongly encouraged).
--   You must identify that primary reading explicitly in the essay
-    itself.
--   You should not simply restate what the authors thought or found, but
-    rather briefly summarise and build
--   Think about your perspective on the issues.
--   What do you think about this debate or issue? We want to know!
--   And what do you think are interesting directions for psychologists
-    to take this debate or issue in the future?
-:::
-
-## Reflective Account 2 tips
-
-::: incremental
--   Explicitly identify a single initial reading and build upon that.
--   Discuss a debate or issue that you think is interesting or important
--   Give your own opinion and how this has developed or changed as a
-    result of the lecture, the course more widely, and/or the reading.
--   Argue your opinion explicitly, own it and back it up with examples
--   Use evidence in your argument from a range of sources, ideally do
-    some strategic wider reading
--   Present and reference it well
-:::
-
-## Overlapping content
-
-::: incremental
--   You can combine across different topics in Essay 2 (e.g., you could
-    talk about Evolution and Consciousness, or Inclusivity and Science),
-    and thinking about links between topics is strongly encouraged.
--   However, the material covered in Essay 2 must be different from
-    Essay 1. Students will be penalised for covering identical topics.
-:::
-
-## Details
-
-::: incremental
--   Due: Friday, 12 April 2024, 12:00 Noon - about 3 weeks after the end
-    of term
-
--   n.b. Mini-Dissertation Due: Friday, 22 March 2024, 12:00 Noon
-
--   Both answers should be written in essay-style prose (e.g., with APA
-    references where you refer to sources) put in a single document and
-    submitted to the coursework submission page.
-
--   Max 600 words per answer (references not included in word count)
-
--   Remember that this only accounts for a smaller portion of the module
-    grade (15%). Should hopefully be an enjoyable way to reflect on
-    issues on the course you found interesting.
-:::
-
-## Is this a CHIP-able topic?
-
-![](images/Lecture15-7.png)
-
-# Any Questions?
+# Any questions now? 

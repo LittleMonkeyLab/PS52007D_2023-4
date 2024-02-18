@@ -1,18 +1,18 @@
 ---
-title: "Lab 15: <br> Lab 15"
+title: "Lab 16: <br> Get Analysing... if you can!"
 subtitle: "Data Audit and Stopping plans"
 # image: "lab.png"
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743
     email: g.wright@gold.ac.uk
-date: "02/06/2023"
+date: "02/20/2023"
 date-format: long
 license: "CC BY-NC-SA"
 citations-hover: true
 categories: 
   - "Lab"
-  - "Week 15"
+  - "Week 16"
 
 format: 
   # pdf: default
@@ -23,7 +23,7 @@ format:
     title-slide-attributes: 
       data-background-color: "#6667ab" # Very Peri 2022 Color of the year
     header-logo: "/images/rmmonkey.png"
-    header: "Research Methods Lab 15 - Data Audit" # Replace it
+    header: "Research Methods Lab 16 - Analysis" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
 filters:
@@ -37,8 +37,12 @@ embed-resources: true
 
 # Overview of today's lab activities
 
-1.  Audit Data status for all groups
+1.  Get Analysing!
 
-2.  Identify groups with need for fabricated data
+2.  Ask for any help you need
 
-# Have a great Reading Week!
+## Analysis Resources
+
+![](images/MiniDissWritingGuide-01.png)
+
+## Keep up the good work! 

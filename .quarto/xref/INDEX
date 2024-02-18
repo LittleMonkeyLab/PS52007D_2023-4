@@ -304,9 +304,14 @@
     "MiniDissWriting06.pptx": "05edf1a1"
   },
   "content/Week16/lecture.qmd": {
-    "lecture.html": "ce24875d"
+    "lecture.html": "ce24875d",
+    "lecture.tex": "c91aaf49",
+    "lecture.slides.html": "7e7c4dc2",
+    "lecture.pptx": "5a128880"
   },
   "content/Week16/lab.qmd": {
-    "lab.html": "cdc59e27"
+    "lab.html": "cdc59e27",
+    "lab.slides.html": "5c421650",
+    "lab.pptx": "3c347f57"
   }
 }
