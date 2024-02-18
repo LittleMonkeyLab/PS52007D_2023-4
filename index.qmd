@@ -13,7 +13,7 @@ page-layout: full
 course-logo: images/LMLLOGO.png
 ---
 
-# Course Information.
+# Course Information
 
 ::: {style="width:600px"}
 | Instructor                                                                                                 | Course                                                   |
