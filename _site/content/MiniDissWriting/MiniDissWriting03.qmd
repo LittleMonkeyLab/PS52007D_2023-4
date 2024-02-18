@@ -1,7 +1,7 @@
 ---
 title: "Mini-Dissertation Write-up Guide"
-subtitle: "Part 03 - Open Materials"
-mainfont: "Atkinson Hyperlegible"
+subtitle: "Part 02b - Open Materials"
+
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743

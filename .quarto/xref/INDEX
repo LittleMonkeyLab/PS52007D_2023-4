@@ -313,5 +313,221 @@
     "lab.html": "cdc59e27",
     "lab.slides.html": "5c421650",
     "lab.pptx": "3c347f57"
+  },
+  "slides/week01/lecture 3.qmd": {
+    "lecture-3.tex": "8d4e8baa",
+    "lecture 3.pptx": "f042efd9",
+    "lecture 3.html": "81ce19ff",
+    "lecture 3.docx": "03149850",
+    "lecture 3.slides.html": "dbb55e14"
+  },
+  "slides/week01/lecture 2.qmd": {
+    "lecture-2.tex": "5ba3d203",
+    "lecture 2.pptx": "e2011f94",
+    "lecture 2.html": "909a652f",
+    "lecture 2.docx": "63e64cf6",
+    "lecture 2.slides.html": "84fda39f"
+  },
+  "slides/week01/lab 3.qmd": {
+    "lab 3.pptx": "4a0f3a46",
+    "lab 3.html": "5b8f9aa7",
+    "lab 3.docx": "a528a50d",
+    "lab 3.slides.html": "fa007975",
+    "lab-3.tex": "0e6d8485"
+  },
+  "slides/week01/lab 2.qmd": {
+    "lab 2.pptx": "483e5423",
+    "lab 2.html": "d6ff4262",
+    "lab 2.docx": "f21be68b",
+    "lab 2.slides.html": "31280b5f",
+    "lab-2.tex": "7ef6c3ea"
+  },
+  "slides/week00/lecture 3.qmd": {
+    "lecture-3.tex": "020c5f73",
+    "lecture 3.docx": "5eec673e",
+    "lecture 3.slides.html": "4a4b570f",
+    "lecture 3.pptx": "46bb8182",
+    "lecture 3.html": "4df0128e"
+  },
+  "slides/week00/lecture 2.qmd": {
+    "lecture-2.tex": "9bc5b06f",
+    "lecture 2.docx": "b461a9b6",
+    "lecture 2.slides.html": "83c623cf",
+    "lecture 2.pptx": "ab315a52",
+    "lecture 2.html": "229601c1"
+  },
+  "slides/week00/lab 3.qmd": {
+    "lab-3.tex": "3a2881d4",
+    "lab 3.slides.html": "ee6690cb",
+    "lab 3.pptx": "73305865",
+    "lab 3.html": "25588cd7"
+  },
+  "slides/week00/lab 2.qmd": {
+    "lab-2.tex": "2728767d",
+    "lab 2.slides.html": "48286f15",
+    "lab 2.pptx": "6470bd51",
+    "lab 2.html": "7b408f0a"
+  },
+  "slides/week05/lecture 3.qmd": {
+    "lecture-3.tex": "14db8734",
+    "lecture 3.pptx": "5c223225",
+    "lecture 3.html": "801a86d0",
+    "lecture 3.docx": "51e36fbb",
+    "lecture 3.slides.html": "365f86a1"
+  },
+  "slides/week05/lecture 2.qmd": {
+    "lecture-2.tex": "dffb2039",
+    "lecture 2.pptx": "c6238514",
+    "lecture 2.html": "3be3c81d",
+    "lecture 2.docx": "f04c48be",
+    "lecture 2.slides.html": "4b6b0acc"
+  },
+  "slides/week05/lab 3.qmd": {
+    "lab 3.pptx": "bcfe3ecf",
+    "lab 3.html": "8ed66c7b",
+    "lab 3.docx": "4b713058",
+    "lab 3.slides.html": "f2156c72",
+    "lab-3.tex": "3e4c6532"
+  },
+  "slides/week05/lab 2.qmd": {
+    "lab 2.pptx": "cbdbf4bd",
+    "lab 2.html": "4d8accca",
+    "lab 2.docx": "1d4f8939",
+    "lab 2.slides.html": "f78ac6f8",
+    "lab-2.tex": "a7d40ae3"
+  },
+  "slides/week02/lecture 3.qmd": {
+    "lecture-3.tex": "62a774e2",
+    "lecture 3.pptx": "1656edae",
+    "lecture 3.html": "102f9256",
+    "lecture 3.docx": "c10090b5",
+    "lecture 3.slides.html": "e103eb61"
+  },
+  "slides/week02/lecture 2.qmd": {
+    "lecture-2.tex": "d0c62ecb",
+    "lecture 2.pptx": "3c029acb",
+    "lecture 2.html": "5d552a1c",
+    "lecture 2.docx": "0deb87b2",
+    "lecture 2.slides.html": "5573878c"
+  },
+  "slides/week02/lab 3.qmd": {
+    "lab 3.pptx": "ef2b9e49",
+    "lab 3.html": "09575eed",
+    "lab 3.docx": "93113767",
+    "lab 3.slides.html": "9dd40d9c",
+    "lab-3.tex": "8d8b8930"
+  },
+  "slides/week02/lab 2.qmd": {
+    "lab 2.pptx": "e243051e",
+    "lab 2.html": "5f56e9f1",
+    "lab 2.docx": "7d126071",
+    "lab 2.slides.html": "0c14598c",
+    "lab-2.tex": "bd396bc3"
+  },
+  "slides/week03/lecture 3.qmd": {
+    "lecture-3.tex": "4ab689ce",
+    "lecture 3.pptx": "c08a47a3",
+    "lecture 3.html": "85885583",
+    "lecture 3.docx": "926adc69",
+    "lecture 3.slides.html": "ca9e99c7"
+  },
+  "slides/week03/lecture 2.qmd": {
+    "lecture-2.tex": "b8470c5c",
+    "lecture 2.pptx": "24d8736b",
+    "lecture 2.html": "15d5f140",
+    "lecture 2.docx": "6d6d567d",
+    "lecture 2.slides.html": "7bd0effc"
+  },
+  "slides/week03/lab 3.qmd": {
+    "lab 3.pptx": "28941320",
+    "lab 3.html": "98cefc70",
+    "lab 3.docx": "76f95d1f",
+    "lab 3.slides.html": "64dfd7ed",
+    "lab-3.tex": "3a22b680"
+  },
+  "slides/week03/lab 2.qmd": {
+    "lab 2.pptx": "f8dd2221",
+    "lab 2.html": "27bb6649",
+    "lab 2.docx": "b454d05e",
+    "lab 2.slides.html": "79b61229",
+    "lab-2.tex": "06d59823"
+  },
+  "slides/week04/lecture 3.qmd": {
+    "lecture-3.tex": "701f32f6",
+    "lecture 3.pptx": "2d24e735",
+    "lecture 3.html": "05d2ca2a",
+    "lecture 3.docx": "c1655cc1",
+    "lecture 3.slides.html": "75d0d1ec"
+  },
+  "slides/week04/lecture 2.qmd": {
+    "lecture-2.tex": "e579a660",
+    "lecture 2.pptx": "d0039dab",
+    "lecture 2.html": "b50fa172",
+    "lecture 2.docx": "b595d9a9",
+    "lecture 2.slides.html": "0ef05ef4"
+  },
+  "slides/week04/lab 3.qmd": {
+    "lab 3.pptx": "a3ad92ba",
+    "lab 3.html": "b3f9589b",
+    "lab 3.docx": "28d8209d",
+    "lab 3.slides.html": "2363d436",
+    "lab-3.tex": "b377100c"
+  },
+  "slides/week04/lab 2.qmd": {
+    "lab 2.pptx": "3201ab59",
+    "lab 2.html": "2185fac4",
+    "lab 2.docx": "5372228f",
+    "lab 2.slides.html": "41150f5d",
+    "lab-2.tex": "e11fe5ef"
+  },
+  "slides/week21/lecture 3.qmd": {
+    "lecture-3.tex": "4f7e3dbf",
+    "lecture 3.pptx": "3afd14fe",
+    "lecture 3.html": "cd4387b6",
+    "lecture 3.docx": "482df4f9",
+    "lecture 3.slides.html": "b36b9fea"
+  },
+  "slides/week21/lecture 2.qmd": {
+    "lecture-2.tex": "f46294a1",
+    "lecture 2.pptx": "1b485a7c",
+    "lecture 2.html": "8435be5f",
+    "lecture 2.docx": "6eb268e6",
+    "lecture 2.slides.html": "a1f123af"
+  },
+  "overview/overview04 3.qmd": {
+    "overview04 3.html": "c2b19eed"
+  },
+  "overview/overview04 2.qmd": {
+    "overview04 2.html": "72f8ed25"
+  },
+  "overview/overview02 3.qmd": {
+    "overview02 3.html": "3fcb099c"
+  },
+  "overview/overview02 2.qmd": {
+    "overview02 2.html": "e7c71926"
+  },
+  "overview/overview05 3.qmd": {
+    "overview05 3.html": "ce2ea271"
+  },
+  "overview/overview05 2.qmd": {
+    "overview05 2.html": "6d26a476"
+  },
+  "overview/overview01 2.qmd": {
+    "overview01 2.html": "c47c1527"
+  },
+  "overview/overview01 3.qmd": {
+    "overview01 3.html": "26aaf972"
+  },
+  "overview/overview03 3.qmd": {
+    "overview03 3.html": "48e0ff7d"
+  },
+  "overview/overview03 2.qmd": {
+    "overview03 2.html": "a429432f"
+  },
+  "overview/index 2.qmd": {
+    "index 2.html": "aa9460c6"
+  },
+  "overview/index 3.qmd": {
+    "index 3.html": "de47e7ed"
   }
 }

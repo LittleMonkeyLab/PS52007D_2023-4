@@ -1,7 +1,7 @@
 ---
 title: "Mini-Dissertation Write-up Guide"
 subtitle: "Part 02 - Method Section"
-mainfont: "Atkinson Hyperlegible"
+
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743
@@ -126,9 +126,9 @@ PARTICIPANTS!
 
 Table 2 (below) contains some of the most common types of APA style
 errors based on an analysis of manuscripts submitted to one professional
-journal over a 6-year period [@onwuegbuzie2010evidence]. These errors
+journal over a 6-year period \[@onwuegbuzie2010evidence\]. These errors
 were committed by professional researchers but are probably similar to
-those that students commit the most too. See also Note "\[O\]" in this
+those that students commit the most too. See also Note "[O]" in this
 section and, of course, the *Publication Manual* itself.
 
 ```{r errors, echo = FALSE, }
@@ -141,7 +141,7 @@ knitr::kable(errors,
 ```
 
 ::: callout-tip
-## Online APA Style Resources again 🤓
+## Online APA Style Resources again 🤓 
 
 The best source of information on APA style is the *Publication Manual*
 itself. However, there are also many good websites on APA style, which

@@ -1,7 +1,6 @@
 ---
 title: "Mini-Dissertation Write-up Guide"
 subtitle: "Part 05 - Data Pre-Processing"
-mainfont: "Atkinson Hyperlegible"
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743
