@@ -17,7 +17,7 @@ editor:
 # Submission information for your Mini-Dissertations
 
 ::: {.callout-caution appearance="simple" icon="false"}
-## In this worksheet, we shall cover the following:
+## In this document, we shall cover the following:
 
 [General pointers to review and recap materials]
 

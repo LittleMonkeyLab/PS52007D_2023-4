@@ -20,8 +20,6 @@ editor:
 
     -   Ensure your data is in the proper format. You should have one column for each of the two independent variables (IVs) and one column for the dependent variable (DV). Each row represents a participant's scores.
 
-    ![](images/BetweenData.png)
-
     **Between-Subjects 2x2 ANOVA Dataset:**
 
 | Participant | Group  | Condition  | Score |
@@ -64,13 +62,24 @@ editor:
 
     -   Click `OK` to run the analysis.
 
-9.  **Interpreting the Output**
+    ### Explore Interaction Effects
+
+For significant interactions, post-hoc comparisons are a bit more complex and often involve conducting simple effects analysis:
+
+-   You need to examine the effect of one factor at each level of the other factor separately.
+-   This can be done through planned contrasts or by splitting the file and conducting separate ANOVAs for each level of one of the factors, but SPSS doesn't directly provide a "Post Hoc" option for interactions in the same way it does for main effects.
+
+#### Conducting Simple Effects Analysis:
+
+1.  To analyze simple effects, you may need to use the `Split File` feature or run separate ANOVAs manually for each subgroup defined by one factor, comparing levels of the other factor within these subgroups.
+
+2.  **Interpreting the Output**
 
     -   The SPSS output window will display the results.
     -   Look at the `Tests of Between-Subjects Effects` table for your main effects and interaction effect.
     -   The `Sig.` column indicates the p-value. Typically, a p-value less than .05 indicates a significant effect.
 
-10. **Report the results**
+3.  **Report the results**
 
 -   In your report, include F-statistic, degrees of freedom, p-value, and effect sizes.
 
@@ -96,30 +105,17 @@ Overall, these results suggest that both \[Factor 1 Name\] and \[Factor 2 Name\]
 -   Check for assumptions like normality and homogeneity of variances.
 -   Use `Explore` under `Descriptive Statistics` for normality checks and `Levene's Test for Equality of Error Variances` for homogeneity.
 
-12. **Graphical Representation (Optional)**
+12. **Graphical Representation**
 
 -   For visual representation, you can create interaction plots using `Graphs` \> `Legacy Dialogs` \> `Interaction`.
-
-### Tips
-
--   Double-check your data entry to ensure accuracy.
--   If assumptions are violated, consider transformations or non-parametric alternatives.
--   Always complement quantitative findings with qualitative interpretation.
-
-### Conclusion
-
-This guide should assist you in conducting a 2x2 ANOVA in SPSS.
-Remember, the interpretation of the results is as crucial as the statistical analysis itself.
-For teaching, you can elaborate on each step to help students understand the rationale behind the procedures.
 
 ## Step-by-Step Guide: Mixed 2x2 ANOVA in SPSS
 
 1.  **Data Preparation**
 
     -   Organize your data: one column for the between-subjects factor (independent variable), one column for the within-subjects factor (repeated measures), and columns for each level of the within-subjects factor (dependent variable measurements).
-    -   Each row represents a participant's scores across conditions.
 
-    ![](images/Mixed2x2.png)
+    -   Each row represents a participant's scores across conditions.
 
     **Mixed 2x2 ANOVA Dataset:**
 
@@ -156,19 +152,68 @@ For teaching, you can elaborate on each step to help students understand the rat
     -   Move your dependent variable(s) for each level of the within-subjects factor to the `Within-Subjects Variables` box.
     -   Move your between-subjects factor to the `Between-Subjects Factor(s)` box.
 
-7.  **Model Specifications**
+7.  **Running the Analysis**
 
-    -   Select the type of model (usually Full Factorial) under `Model`.
-    -   In `Contrasts`, you can set contrasts for your within-subjects factor if needed.
+    -   Click `OK` to perform the mixed ANOVA.
 
 8.  **Post Hoc Tests and Options**
 
     -   For post hoc analyses of significant effects, use `Post Hoc` (mainly for between-subjects factor).
     -   In `Options`, select additional statistics like `Descriptive Statistics` and `Estimates of effect size`. Ensure `Display Main Effects and Interactions` is checked.
 
-9.  **Running the Analysis**
+    ### Conducting Post-Hoc Pairwise Comparisons
 
-    -   Click `OK` to perform the mixed ANOVA.
+After running the mixed ANOVA, if you find significant main effects or interactions, you'll want to conduct post-hoc tests to explore these differences further.
+
+#### For the Between-Subjects Factor:
+
+1.  **Access the One-Way ANOVA Dialog**: For post-hoc tests on the between-subjects factor, navigate to `Analyze` \> `Compare Means` \> `One-Way ANOVA`.
+2.  **Set Up Your Analysis**: Place the dependent variable in the `Dependent List` box and the between-subjects factor in the `Factor` box.
+3.  **Specify Post-Hoc Tests**: Click `Post Hoc...` and select an appropriate test for your analysis (e.g., Bonferroni, Tukey) to adjust for multiple comparisons.
+4.  **Run the Test**: Click `OK` to run the post-hoc test. Review the output for pairwise comparisons among levels of the between-subjects factor.
+
+#### For the Within-Subjects Factor and Interaction Effects:
+
+SPSS's main interface does not directly provide post-hoc tests for within-subjects factors or their interactions with between-subjects factors in a mixed design.
+Instead, you can use:
+
+-   **Simple Effects Analysis**: For interactions, you may need to conduct simple effects analyses to explore the effect of one factor at each level of another. This involves running separate ANOVAs for subsets of your data.
+
+### Simple Effects Analysis
+
+The goal here is to break down the interaction by looking at the effect of one factor at each level of the other factor separately.
+
+#### For Factor B (Within-Subjects) at Each Level of Factor A (Between-Subjects):
+
+1.  **Split Your File by Factor A**: This allows you to analyze the effect of Factor B within each level of Factor A separately.
+
+    -   Go to `Data` \> `Split File`.
+    -   Select `Organize output by groups`.
+    -   Move your between-subjects factor (Factor A) into the `Groups Based on` box (e.g., Gender).
+    -   Click `OK`.
+
+2.  **Conduct Separate Repeated Measures ANOVAs**:
+
+    -   Go to `Analyze` \> `General Linear Model` \> `Repeated Measures`.
+    -   Define your within-subjects factor (Factor B) by specifying the number of levels (e.g., 2 for Pretest and Posttest) and measure name.
+    -   Click `Define`. For your dependent variables, select the scores corresponding to the within-subjects factor levels (e.g., Pretest and Posttest scores).
+    -   In the `Subject Variables` field, make sure to include your participant ID or a variable that uniquely identifies each case.
+    -   Run the analysis. SPSS will perform the analysis separately for each level of Factor A due to the file splitting.
+
+3.  **Interpret the Output**: You'll receive separate outputs for each level of Factor A, showing the main effect of Factor B (the within-subjects factor) within each group defined by Factor A. This tells you how the dependent variable changes from Pretest to Posttest within each gender, for example.
+
+#### For Factor A (Between-Subjects) at Each Level of Factor B (Within-Subjects):
+
+Performing this in SPSS directly can be complex because it involves analyzing between-subjects effects at each level of a within-subjects factor, which is not straightforward with the standard menu options.
+Instead, consider:
+
+-   **Exporting Data**: For each level of your within-subjects factor, create a new dataset or use syntax to treat each level as a separate group, then perform a standard independent samples t-test or one-way ANOVA on these groups.
+-   **Use Syntax**: Advanced users can write SPSS syntax to more precisely control the analysis, specifying the model and contrasts for simple effects within the mixed model framework.
+
+### Step 4: Adjust for Multiple Comparisons
+
+When interpreting the results from these separate analyses, remember that conducting multiple tests increases the risk of Type I error.
+Apply a correction for multiple comparisons (e.g., Bonferroni) to the p-values obtained from your simple effects analyses.
 
 10. **Interpreting the Output**
 
@@ -199,30 +244,17 @@ Overall, these findings suggest that both \[Between-Subject Factor Name\] and \[
 -   Verify assumptions such as sphericity (Mauchly's Test) for within-subjects factors.
 -   Address violations with corrections like Greenhouse-Geisser if needed.
 
-13. **Graphical Representation (Optional)**
+13. **Graphical Representation**
 
 -   Use the `Graphs` option to create interaction plots or profile plots for a visual representation of interactions and main effects.
-
-### Tips
-
--   Accuracy in data entry and variable definition is crucial.
--   Interpret results in the context of your research question, considering both statistical significance and effect sizes.
--   Use graphs to aid in the interpretation and presentation of interactions and main effects.
-
-### Conclusion
-
-This guide should help you run a mixed 2x2 ANOVA in SPSS.
-Remember to discuss the implications of your findings and consider any limitations related to your analysis.
-As a psychology professor, you can enhance this guide with practical examples from your field to make it more relatable for your students.
 
 ## Step-by-Step Guide: Repeated Measures 2x2 ANOVA in SPSS
 
 1.  **Data Organization**
 
     -   Arrange your data so that each column represents a different condition combination of your two within-subjects factors, and each row represents a different participant.
-    -   Ensure each participant has measurements under all condition combinations.
 
-    ![](images/RM2x2.png)
+    -   Ensure each participant has measurements under all condition combinations.
 
 **Repeated Measures 2x2 ANOVA Dataset:**
 
@@ -267,6 +299,46 @@ As a psychology professor, you can enhance this guide with practical examples fr
     -   Select `Options` to choose additional statistics, like `Descriptive Statistics` and `Estimates of effect size`.
     -   Post hoc tests are usually not applicable in a fully within-subjects design.
 
+    ### Conducting Post-Hoc Pairwise Comparisons
+
+If your ANOVA results indicate significant effects, you'll conduct post-hoc tests to explore these differences further.
+
+#### For Main Effects:
+
+1.  **Access the Compare Means Analysis**: If the main effect is significant and you're interested in pairwise comparisons for a specific factor, navigate to `Analyze` \> `Compare Means` \> `One-Way ANOVA`.
+
+2.  **Set Up Your Analysis**: Place the dependent variable in the `Dependent List` box and the factor variable in the `Factor` box.
+
+3.  **Specify Post-Hoc Tests**: Click `Post Hoc...` and select an appropriate test for your analysis (e.g., Bonferroni, Tukey).
+    These options adjust for multiple comparisons, controlling the Type I error rate.
+
+4.  **Run the Test**: Click `OK` to run the post-hoc test.
+    The output will include pairwise comparisons for levels of the factor.
+
+#### For Interaction Effects:
+
+SPSS does not directly offer a simple post-hoc test for interactions in repeated measures ANOVA.
+You'll need to explore the interaction by examining simple effects.
+
+1.  **Simple Effects Analysis**: Use the `General Linear Model` \> `Univariate` analysis.
+    Split your file by one factor to analyze the effect of the other factor at each level separately.
+
+    -   To split your file, go to `Data` \> `Split File`. Choose `Organize output by groups` and move the factor by which you want to split the file into the `Groups Based on` box. This way, you can analyze the simple effects of one factor at each level of the other.
+
+2.  **Specify the Model**: In the Univariate dialog, place your dependent variable in the `Dependent Variable` box and the within-subject factor (for which you're examining simple effects) in the `Fixed Factor(s)` box.
+
+3.  **Run the Analysis and Interpret**: You will need to manually interpret the interaction by comparing the main effects of one factor at each level of the other.
+    This is more complex and may require additional steps to adjust for multiple comparisons.
+
+### Additional Notes:
+
+-   **Adjust for Multiple Comparisons**: When conducting any post-hoc tests, always consider how you're controlling for the increased risk of Type I errors due to multiple comparisons.
+    SPSS provides several options for adjustment in the Post Hoc dialog box.
+
+-   **Interpret With Caution**: When interpreting your results, consider the context of your study, the size of the effects, and the confidence intervals around your estimates.
+
+-   **Consult SPSS Help**: For specific syntax and options, the SPSS Help function can provide additional insights and examples tailored to your version of SPSS.
+
 9.  **Running the ANOVA**
 
     -   Click `OK` to perform the analysis.
@@ -302,15 +374,3 @@ In summary, the results suggest significant main effects of both \[Factor 1 Name
 13. **Graphical Representation**
 
 -   Use `Graphs` \> `Legacy Dialogs` \> `Line` to create interaction plots that display the interaction of your factors visually.
-
-### Tips
-
--   Data entry accuracy is crucial; each condition should correspond correctly to its factor level.
--   Be mindful of the assumptions of repeated measures ANOVA, like sphericity and normality.
--   Always provide a thorough interpretation of the results in the context of your research question.
-
-### Conclusion
-
-This guide should assist you in conducting a repeated measures 2x2 ANOVA in SPSS.
-As with any statistical method, it's important to understand not just how to perform the analysis, but also how to interpret and report the findings effectively.
-This can be particularly valuable in a teaching context, where real-life examples and explanations can make these concepts more accessible to students.
