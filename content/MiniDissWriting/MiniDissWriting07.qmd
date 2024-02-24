@@ -1,0 +1,316 @@
+---
+title: "Mini-Dissertation Write-up Guide"
+subtitle: "Part 07 - Detailed ANOVA Step by Step"
+mainfont: "Atkinson Hyperlegible"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "02/27/2024"
+date-format: long
+license: "CC BY-NC-SA"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## Step-by-Step Guide: Between-Subjects 2x2 ANOVA in SPSS
+
+1.  **Prepare Your Data**
+
+    -   Ensure your data is in the proper format. You should have one column for each of the two independent variables (IVs) and one column for the dependent variable (DV). Each row represents a participant's scores.
+
+    ![](images/BetweenData.png)
+
+    **Between-Subjects 2x2 ANOVA Dataset:**
+
+| Participant | Group  | Condition  | Score |
+|-------------|--------|------------|-------|
+| 1           | Group1 | Condition2 | 38.35 |
+| 2           | Group2 | Condition1 | 59.01 |
+| 3           | Group2 | Condition1 | 54.66 |
+| 4           | Group1 | Condition2 | 34.64 |
+| 5           | Group2 | Condition1 | 64.88 |
+| ...         | ...    | ...        | ...   |
+
+2.  **Open SPSS and Load Data**
+
+    -   Open SPSS.
+    -   Enter your data into the Data View or import your dataset.
+
+3.  **Define Your Variables**
+
+    -   In Variable View, label your variables and define their properties (e.g., scale, nominal, ordinal).
+
+4.  **Accessing the ANOVA Function**
+
+    -   Go to `Analyze` \> `General Linear Model` \> `Univariate`.
+
+5.  **Setting Up the ANOVA**
+
+    -   In the Univariate dialog box, move your dependent variable to the `Dependent Variable` box.
+    -   Move your two independent variables to the `Fixed Factor(s)` box.
+
+6.  **Post Hoc Tests (If Needed)**
+
+    -   If you want to conduct post hoc tests for significant effects, click on `Post Hoc`. Select the factor(s) and the post hoc test you want to use (e.g., Tukey).
+
+7.  **Options for Analysis**
+
+    -   Click `Options`. Here, you can select additional statistics like `Descriptive Statistics` and `Estimates of effect size`.
+    -   Ensure `Display Main Effects and Interactions` is checked to view the interaction between the IVs.
+
+8.  **Running the Analysis**
+
+    -   Click `OK` to run the analysis.
+
+9.  **Interpreting the Output**
+
+    -   The SPSS output window will display the results.
+    -   Look at the `Tests of Between-Subjects Effects` table for your main effects and interaction effect.
+    -   The `Sig.` column indicates the p-value. Typically, a p-value less than .05 indicates a significant effect.
+
+10. **Report the results**
+
+-   In your report, include F-statistic, degrees of freedom, p-value, and effect sizes.
+
+### Results
+
+A 2x2 between-subjects ANOVA was conducted to examine the effects of \[Factor 1 Name\] and \[Factor 2 Name\] on \[Dependent Variable Name\].
+The independent variables were \[Factor 1 Description, e.g., gender with two levels: male and female\] and \[Factor 2 Description, e.g., treatment with two levels: control and experimental\].
+The dependent variable was \[Dependent Variable Description, e.g., test scores\].
+
+The main effect of \[Factor 1 Name\] was significant, F(1, N - 1) = \[F-Value\], p \< .05, η² = \[Effect Size\], indicating that \[brief interpretation of the result, e.g., males and females differed significantly in their test scores\].
+Similarly, the main effect of \[Factor 2 Name\] was also significant, F(1, N - 1) = \[F-Value\], p \< .05, η² = \[Effect Size\], showing that \[brief interpretation, e.g., participants in the experimental group scored significantly higher than those in the control group\].
+
+Furthermore, the interaction between \[Factor 1 Name\] and \[Factor 2 Name\] was found to be significant, F(1, N - 1) = \[F-Value\], p \< .05, η² = \[Effect Size\].
+This suggests that the effect of \[Factor 1 Name\] on \[Dependent Variable Name\] depends on the level of \[Factor 2 Name\].
+
+To further explore this interaction, post hoc tests were conducted using \[Name of Post Hoc Test, e.g., Tukey's HSD\].
+The results indicated that \[describe specific findings from the post hoc tests, e.g., the difference between males and females was more pronounced in the experimental group than in the control group\].
+
+Overall, these results suggest that both \[Factor 1 Name\] and \[Factor 2 Name\] significantly influence \[Dependent Variable Name\], and their interaction is also important in understanding the relationship between these variables.
+
+11. **Assumption Checks**
+
+-   Check for assumptions like normality and homogeneity of variances.
+-   Use `Explore` under `Descriptive Statistics` for normality checks and `Levene's Test for Equality of Error Variances` for homogeneity.
+
+12. **Graphical Representation (Optional)**
+
+-   For visual representation, you can create interaction plots using `Graphs` \> `Legacy Dialogs` \> `Interaction`.
+
+### Tips
+
+-   Double-check your data entry to ensure accuracy.
+-   If assumptions are violated, consider transformations or non-parametric alternatives.
+-   Always complement quantitative findings with qualitative interpretation.
+
+### Conclusion
+
+This guide should assist you in conducting a 2x2 ANOVA in SPSS.
+Remember, the interpretation of the results is as crucial as the statistical analysis itself.
+For teaching, you can elaborate on each step to help students understand the rationale behind the procedures.
+
+## Step-by-Step Guide: Mixed 2x2 ANOVA in SPSS
+
+1.  **Data Preparation**
+
+    -   Organize your data: one column for the between-subjects factor (independent variable), one column for the within-subjects factor (repeated measures), and columns for each level of the within-subjects factor (dependent variable measurements).
+    -   Each row represents a participant's scores across conditions.
+
+    ![](images/Mixed2x2.png)
+
+    **Mixed 2x2 ANOVA Dataset:**
+
+| Participant | Between_Subjects_Factor | Within_Subjects_Condition | Score |
+|-------------|-------------------------|---------------------------|-------|
+| 1           | Level1                  | Condition1                | 40.39 |
+| 1           | Level1                  | Condition1                | 53.77 |
+| 1           | Level1                  | Condition2                | 50.33 |
+| 1           | Level1                  | Condition2                | 56.81 |
+| 2           | Level2                  | Condition1                | 34.37 |
+| ...         | ...                     | ...                       | ...   |
+
+2.  **Loading Data into SPSS**
+
+    -   Open SPSS.
+    -   Input or import your data into the SPSS Data View.
+
+3.  **Defining Variables**
+
+    -   In Variable View, label your variables and specify their properties (e.g., scale for DV, nominal for IVs).
+
+4.  **Accessing the ANOVA Function**
+
+    -   Navigate to `Analyze` \> `General Linear Model` \> `Repeated Measures`.
+
+5.  **Setting Up the Within-Subjects Factor**
+
+    -   In the Repeated Measures dialog box, define the within-subjects factor. Give it a name and specify the number of levels (e.g., 2 for a 2x2 design).
+    -   Add the names of the within-subjects conditions and click `Add`.
+    -   Click `Define`.
+
+6.  **Specifying Variables**
+
+    -   Move your dependent variable(s) for each level of the within-subjects factor to the `Within-Subjects Variables` box.
+    -   Move your between-subjects factor to the `Between-Subjects Factor(s)` box.
+
+7.  **Model Specifications**
+
+    -   Select the type of model (usually Full Factorial) under `Model`.
+    -   In `Contrasts`, you can set contrasts for your within-subjects factor if needed.
+
+8.  **Post Hoc Tests and Options**
+
+    -   For post hoc analyses of significant effects, use `Post Hoc` (mainly for between-subjects factor).
+    -   In `Options`, select additional statistics like `Descriptive Statistics` and `Estimates of effect size`. Ensure `Display Main Effects and Interactions` is checked.
+
+9.  **Running the Analysis**
+
+    -   Click `OK` to perform the mixed ANOVA.
+
+10. **Interpreting the Output**
+
+-   Examine the output for main effects and interactions in the `Tests of Between-Subjects Effects` and `Tests of Within-Subjects Effects` tables.
+-   Check the `Sig.` column for p-values to determine significance.
+
+11. **Reporting the results**
+
+### Results
+
+A mixed 2x2 ANOVA was conducted to investigate the effects of \[Between-Subject Factor Name\] (with levels \[Level 1 Name\] and \[Level 2 Name\]), \[Within-Subject Factor Name\] (with levels \[Level 1 Name\] and \[Level 2 Name\]), and their interaction on \[Dependent Variable Name\].
+
+The main effect for the between-subjects factor, \[Between-Subject Factor Name\], was significant, F(1, N - 1) = \[F-Value\], p \< .05, η² = \[Effect Size\], indicating that \[interpret the result, e.g., participants in Level 1 of the between-subjects factor showed different scores in the dependent variable compared to participants in Level 2\].
+
+Similarly, the main effect for the within-subjects factor, \[Within-Subject Factor Name\], was significant, F(1, N - 1) = \[F-Value\], p \< .05, η² = \[Effect Size\].
+This suggests that \[interpretation, e.g., there was a significant difference in the dependent variable across the two levels of the within-subjects factor\].
+
+Moreover, the interaction between \[Between-Subject Factor Name\] and \[Within-Subject Factor Name\] was significant, F(1, N - 1) = \[F-Value\], p \< .05, η² = \[Effect Size\].
+This indicates that the effect of \[Within-Subject Factor Name\] on \[Dependent Variable Name\] varies depending on the level of \[Between-Subject Factor Name\].
+
+To further investigate the nature of this interaction, post hoc tests were performed using \[Name of Post Hoc Test, e.g., simple effects analysis or pairwise comparisons with Bonferroni adjustment\].
+The post hoc analysis revealed that \[describe the specific findings from the post hoc tests, including any significant pairwise comparisons or specific patterns observed in the interaction\].
+
+Overall, these findings suggest that both \[Between-Subject Factor Name\] and \[Within-Subject Factor Name\] significantly affect \[Dependent Variable Name\], and their interaction provides additional insights into how these factors jointly influence the outcome.
+
+12. **Assumption Checks**
+
+-   Verify assumptions such as sphericity (Mauchly's Test) for within-subjects factors.
+-   Address violations with corrections like Greenhouse-Geisser if needed.
+
+13. **Graphical Representation (Optional)**
+
+-   Use the `Graphs` option to create interaction plots or profile plots for a visual representation of interactions and main effects.
+
+### Tips
+
+-   Accuracy in data entry and variable definition is crucial.
+-   Interpret results in the context of your research question, considering both statistical significance and effect sizes.
+-   Use graphs to aid in the interpretation and presentation of interactions and main effects.
+
+### Conclusion
+
+This guide should help you run a mixed 2x2 ANOVA in SPSS.
+Remember to discuss the implications of your findings and consider any limitations related to your analysis.
+As a psychology professor, you can enhance this guide with practical examples from your field to make it more relatable for your students.
+
+## Step-by-Step Guide: Repeated Measures 2x2 ANOVA in SPSS
+
+1.  **Data Organization**
+
+    -   Arrange your data so that each column represents a different condition combination of your two within-subjects factors, and each row represents a different participant.
+    -   Ensure each participant has measurements under all condition combinations.
+
+    ![](images/RM2x2.png)
+
+**Repeated Measures 2x2 ANOVA Dataset:**
+
+| Participant | Condition    | Score |
+|-------------|--------------|-------|
+| 1           | Condition_A1 | 67.64 |
+| 1           | Condition_A1 | 54.00 |
+| 1           | Condition_A2 | 59.79 |
+| 1           | Condition_A2 | 72.41 |
+| 2           | Condition_A1 | 68.68 |
+| ...         | ...          | ...   |
+
+2.  **Opening SPSS and Data Entry**
+
+    -   Start SPSS and input your data in the Data View, or import your dataset.
+
+3.  **Variable Definition**
+
+    -   In Variable View, label your variables and set their properties appropriately.
+
+4.  **Accessing Repeated Measures ANOVA**
+
+    -   Go to `Analyze` \> `General Linear Model` \> `Repeated Measures`.
+
+5.  **Defining Within-Subjects Factors**
+
+    -   In the Repeated Measures Define Factor(s) dialog box, name your first factor (Factor A) and specify the number of levels (e.g., 2 for a 2x2 design).
+    -   Repeat the process for the second factor (Factor B).
+    -   Click `Define` after adding both factors.
+
+6.  **Specifying Dependent Variables**
+
+    -   Move the dependent variables corresponding to each level of your factors into the `Within-Subjects Variables` box.
+
+7.  **Model Specifications**
+
+    -   Choose the type of model (typically Full Factorial) under `Model`.
+    -   In `Contrasts`, set contrasts for your factors if specific comparisons are needed.
+
+8.  **Options and Post Hoc Tests**
+
+    -   Select `Options` to choose additional statistics, like `Descriptive Statistics` and `Estimates of effect size`.
+    -   Post hoc tests are usually not applicable in a fully within-subjects design.
+
+9.  **Running the ANOVA**
+
+    -   Click `OK` to perform the analysis.
+
+10. **Interpreting the Output**
+
+-   Examine the SPSS output for main effects and interaction effects in the `Tests of Within-Subjects Effects` table.
+-   The `Sig.` column will indicate significance levels.
+
+11. **Reporting the results**
+
+### Results
+
+A 2x2 repeated measures ANOVA was conducted to assess the impact of \[Factor 1 Name\] (with levels \[Level 1 Name\] and \[Level 2 Name\]) and \[Factor 2 Name\] (with levels \[Level 1 Name\] and \[Level 2 Name\]) on \[Dependent Variable Name\].
+Both factors were within-subjects variables.
+
+The main effect of \[Factor 1 Name\] was found to be significant, F(1, N - 1) = \[F-Value\], p \< .05, η² = \[Effect Size\], indicating that \[brief interpretation, e.g., there was a significant difference in the dependent variable across the levels of Factor 1\].
+
+Similarly, the main effect of \[Factor 2 Name\] was also significant, F(1, N - 1) = \[F-Value\], p \< .05, η² = \[Effect Size\], suggesting that \[brief interpretation, e.g., the levels of Factor 2 had a significant impact on the dependent variable\].
+
+More importantly, the interaction between \[Factor 1 Name\] and \[Factor 2 Name\] was significant, F(1, N - 1) = \[F-Value\], p \< .05, η² = \[Effect Size\].
+This indicates that the effect of \[Factor 1 Name\] on \[Dependent Variable Name\] depends on the level of \[Factor 2 Name\].
+
+To explore this interaction further, post hoc analyses were conducted using \[Name of Post Hoc Test, e.g., pairwise comparisons with a Bonferroni correction\].
+The post hoc tests revealed that \[describe the specific findings from the post hoc tests, e.g., the difference between levels of Factor 1 was more pronounced at Level 1 of Factor 2 than at Level 2\].
+
+In summary, the results suggest significant main effects of both \[Factor 1 Name\] and \[Factor 2 Name\] on \[Dependent Variable Name\], with a notable interaction between these two factors, as evidenced by the post hoc analysis.
+
+12. **Assumption Checks**
+
+-   Check for sphericity using Mauchly's Test. If assumptions are violated, consider using Greenhouse-Geisser or Huynh-Feldt corrections.
+
+13. **Graphical Representation**
+
+-   Use `Graphs` \> `Legacy Dialogs` \> `Line` to create interaction plots that display the interaction of your factors visually.
+
+### Tips
+
+-   Data entry accuracy is crucial; each condition should correspond correctly to its factor level.
+-   Be mindful of the assumptions of repeated measures ANOVA, like sphericity and normality.
+-   Always provide a thorough interpretation of the results in the context of your research question.
+
+### Conclusion
+
+This guide should assist you in conducting a repeated measures 2x2 ANOVA in SPSS.
+As with any statistical method, it's important to understand not just how to perform the analysis, but also how to interpret and report the findings effectively.
+This can be particularly valuable in a teaching context, where real-life examples and explanations can make these concepts more accessible to students.
