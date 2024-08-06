@@ -1,0 +1,180 @@
+---
+title: "Mini-Dissertation Write-up Guide"
+subtitle: "Part 08 - Intro and Visuals"
+mainfont: "Atkinson Hyperlegible"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+date: "03/05/2024"
+date-format: long
+license: "CC BY-NC-SA"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+# Introduction and Visual Elements
+
+## A refresher on writing an introduction for an APA paper
+
+What follows is the introduction from the following paper, with a few instructive annotations:
+
+Relationship between ethnicity and stage at diagnosis in England: a national analysis of six cancer sites BMJ Open 2023;13:e062079.
+[doi: 10.1136/bmjopen-2022-062079](https://bmjopen.bmj.com/content/13/1/e062079)
+
+`Cancer stage at diagnosis is a strong determinant of viable treatment options and survival.1 Any delays between a first symptom and diagnosis can lead to the disease progressing and a later cancer stage at diagnosis.`
+
+::: callout-note
+Strong opening statements indicate the importance of the issue.
+:::
+
+`Previous research, particularly on breast cancer, suggests there are differences in proportions of patients diagnosed at different stages by ethnic group.2 3 Delays could be due to patients (delaying seeking help), doctors (delaying ordering investigative tests) or system delays, either in primary or secondary care.4 Several studies have reported differences in barriers to presentation with cancer between ethnic and socioeconomic groups, including difficulties organising and attending appointments, other practical and service barriers and emotional barriers.5–9`
+
+::: callout-note
+This paragraph introduces the aspect of the issue the research is concerned with.
+It states what is already known, using the literature.
+
+Note that literature is cited to back up an argument, without describing it in detail.
+:::
+
+`Historically, the completeness of national cancer stage information in English population-based cancer registry data has not been high enough to allow for robust assessment of links between stage at diagnosis and ethnicity. In recent years, the completeness of both stage and ethnicity information has improved substantially, and now allows for investigation of the association between ethnicity and stage at diagnosis for common cancers. Although cancer stage data is improving in completeness, some tumours remain unstaged. This may indicate that the stage was never ascertained, as certain tumour morphologies cannot be staged, it might have been inappropriate to stage the patient (eg, if the patient was too frail for surgery), the patient died prior to staging, or alternatively, data was not transferred to the national registry, either due to incomplete recording or the diagnosis was made outside of the National Health Service (NHS).1 Old age has been found to be associated with missing stage independent of comorbidities and short-term mortality.10`
+
+::: callout-note
+In this paragraph the authors describe what we don't know (and why).
+
+The authors narrow down their use of the literature to a study that is directly relevant.
+Here it is appropriate to cite something specific about the method or the sample that your research might improve on.
+:::
+
+`Previous research on associations between ethnicity and stage at diagnosis in England has been limited geographically and to certain cancer sites. Lyratzopoulos et al assessed multiple cancer sites, however, missing ethnicity data meant ethnic variation in stage at diagnosis was not explored.11`
+
+`This paper contributes to the cancer literature by assessing, for the first time, the associations between ethnicity and stage at diagnosis across England for six cancer sites, adjusting for patient case-mix and using a granular ethnicity definition where possible.`
+
+::: callout-note
+Finally, the authors state how their research will address the gap they have identified.
+
+You should also explicitly state your hypothesis at this point.
+:::
+
+\newpage
+
+## The top of the 'hourglass'
+
+![](images/image-470001626.png){width="400"}
+
+\newpage
+
+## The importance of tables and figures
+
+Tables and figures enhance the presentation of research and their findings by enabling researchers to present a large amount of information efficiently and to make their results more comprehensible.
+
+A table usually shows numerical values (e.g., means and standard deviations) and/or textual information (e.g., lists of stimulus items) arranged in columns and rows.
+
+A figure may be a chart, graph, photograph, drawing, plot, infographic, or any other illustration.
+You may consider figures to illustrate your trial structure, or to present an image of your data collection device.
+
+The APA Style website is (again) your best source of information on how to format your visual elements.
+
+\[[Tables and figures](https://apastyle.apa.org/style-grammar-guidelines/tables-figures)\](<https://apastyle.apa.org/style-grammar-guidelines/tables-figures>)
+
+::: callout-tip
+SPSS APA format tables
+
+In SPSS 27, there is the option to output APA format tables directly.
+Although this saves much time, please make sure that the output you end up with conforms to the guidelines above.
+:::
+
+![](images/image-1672325321.png){width="400"}
+
+## Just in case you want it
+
+Perhaps the most common error in the delivery of Mini-Dissertations is that tables do not fully conform to APA format and figures (especially graphs) are way too 'noisy' or 'busy'.
+
+On the next page is the most informative of graphics from the APA website and should be of great use to you.
+Please notice that there are NO vertical lines on the table and there are no colours.
+
+Of notable importance are the following features and should form a checklist for your tables.
+
+-   Table Number (at the top of the table!)
+-   Title should be clear and informative.
+-   Clear and descriptive headings at all times.
+-   Alignment: Left for the leftmost column and centre for everything else.
+-   Note: Should be used to explain the contents.
+
+There is a very good range of sample tables here <https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-tables>
+
+And I provided you with an APA template specifically for tables in the Mini-Dissertation Resources section of the PS52007D VLE
+
+\newpage
+
+![](images/image-508354703.png)
+
+\newpage
+
+## Figures
+
+Now that you have mastered tables, here is similar information for figures, primarily graphs.
+
+Again, the most common error made is to try to get too creative with colours or shadows.
+Please do not do this.
+The more boring your graph, the better.
+
+Again, your figure requires some key features and they are listed below.
+
+-   Remember to number your figure according to the sequence it appears in your document. The first figure to appear is figure 1.
+-   All figures require a title and this sits at the top, underneath the figure number.
+-   Make sure your figure (and all content within it is readable). By converting your MiniDissertation to pdf, you can make sure that the layout is the same whoever reads it.
+-   The key (or legend) should sit within the graph, not on a different page
+-   Notes. Most figures require a note, whether to slightly explain the content, or to indicate p values (for example)
+
+You can find example figures from the APA Style website here.
+
+<https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-figures>
+
+Please do not get too creative with colours, use them sparingly and consistently.
+Accessibility suggests that gentle patterns are sometimes preferable to subtle colours, but less is more.
+Make sure to use a modest palette.
+
+::: callout-tip
+If you do choose to use colour, then a very professional move would be to ensure that they are accessible to those with colour-blindness.
+:::
+
+\newpage
+
+![](images/image-1135619196.png)
+
+\newpage
+
+## SPSS Output style guides
+
+Go to `Edit > Options` and you have the option to change the format of Pivot Tables and Charts to `APA format`.
+
+This will save you a bundle of time.
+But still be careful to monitor the readability of your output.
+The style guides are not perfect.
+
+And make sure to properly label and number your tables and figures.
+SPSS doesn't do this for you!
+
+![](images/image-831493592.png){width="200"}
+
+![](images/image-220754686.png){width="300"}
+
+![](images/image-773680933.png){width="300"}
+
+## Before
+
+![](images/image-844633890.png){width="300"}
+
+## After
+
+![](images/image-1462580118.png){width="300"}
+
+## Before
+
+![](images/image-1393256556.png){width="300"}
+
+## After
+
+![](images/image-540053575.png){width="300"}
